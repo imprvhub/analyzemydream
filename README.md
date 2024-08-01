@@ -1,6 +1,13 @@
 ## Welcome to Dream-Insights.com Repository:
 
+> [!NOTE]  
+> The project is under **maintenance**!.
+
+> [!NOTE]  
+> The release of **Dream Insights v0.1.0** is now **available**!. Release Date: **01.08.2024** - This release includes several new features, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v0.1.0 Release Notes](https://github.com/imprvhub/dream-insights/releases/tag/v0.1.0). 
+
 A project designed to provide users with in-depth interpretations and insights into their dreams. The website is built using [Astro](https://astro.build) providing a fast and modern experience.
+
 
 ### Table of Contents
 
