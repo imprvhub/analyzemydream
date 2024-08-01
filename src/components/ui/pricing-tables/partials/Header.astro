@@ -1,0 +1,31 @@
+---
+
+type Props = {
+	type?: 'basic' | 'featured'
+	classes?: string
+}
+
+const { classes, type } = Astro.props
+---
+
+<header
+	class:list={[
+		'pricing__header',
+		{ [` pricing__header--${type}`]: type },
+		{ [`${classes}`]: classes }
+	]}
+>
+	<slot />
+</header>
+
+<style>
+	.pricing__header {
+		@apply flex flex-col gap-6 p-6 transition-all duration-300;
+	}
+	.pricing__header--basic {
+		@apply text-slate-400;
+	}
+	.pricing__header--featured {
+		@apply text-primary-200;
+	}
+</style>

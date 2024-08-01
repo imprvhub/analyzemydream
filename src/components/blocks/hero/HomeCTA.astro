@@ -1,0 +1,45 @@
+---
+
+import Section from '../../ui/Section.astro'
+import Row from '../../ui/Row.astro'
+import Col from '../../ui/Col.astro'
+// - UI
+import ChipNotification from '../../ui/ChipNotification.astro'
+import { Image } from 'astro:assets'
+import Button from '../../ui/Button.astro'
+
+
+// Content
+// - Hero Image
+import heroImage from '../../../assets/hero-01.png'
+
+---
+
+<Section id="intro" padding="top" classes="bg-neutral-50 dark:bg-neutral-900">
+	<Row>
+		<Col span="2" />
+		<Col span="8" align="center">
+			<!-- 
+			<ChipNotification radius="rounded-full" classes="mb-6">
+				<strong>30K+</strong> satisfied customers
+				<AvatarGroup avatars={avatars} radius="rounded-full" slot="button" />
+			</ChipNotification>
+			-->
+			<h1>Exploring <strong>dream meanings</strong> and enhancing self-understanding.</h1>
+
+			<p class="pb-0 text-lg"> Delve into dream insights effortlessly with our user-friendly platform.</p>
+			<Button size="lg" link="/blog">Explore All</Button>
+		</Col>
+		<Col span="2" />
+		<Col span="2" />
+		<Col span="8">
+			<Image
+				src={heroImage}
+				alt="Exploring dream meanings and enhancing self-understanding."
+				class="translate-y-8"
+				format="webp"
+			/></Col
+		>
+		<Col span="2" />
+	</Row>
+</Section>

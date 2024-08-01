@@ -16,7 +16,6 @@ package-lock.json
 
 /.vscode/settings.json
 
-
 *.env
 
 .idea

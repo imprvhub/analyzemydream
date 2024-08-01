@@ -1,0 +1,35 @@
+---
+// Blog Index Page
+// ------------
+// Description: The blog index page.
+
+// Components
+// - Layout
+import Layout from '../../layouts/Layout.astro'
+// - UI
+import Hero from '../../components/blocks/hero/PageHeader.astro'
+import BlogPosts from '../../components/blocks/blog/BlogPosts.astro'
+
+// Data
+import { getCollection } from 'astro:content'
+
+// Content
+// - SEO
+const SEO = {
+	title: 'Dream Insights | Latest Dream Insights News and updates',
+	description:
+		"Explore Dream Insights latest news designed to enhance productivity, ensure top-notch security, and integrate seamlessly with your favorite tools. Join thousands of satisfied users and transform your workflow with Dream Insights today!"
+}
+// - Page Header
+const header = {
+	title: 'Explore your <strong>Dream Insights</strong>.',
+	text: 'Unlock the Meaning of Your Dreams. Discover the latest interpretations and understand what your dreams reveal.'
+}
+
+const allPosts = await getCollection('blog')
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+	<Hero title={header.title} text={header.text} />
+	<BlogPosts data={allPosts} />
+</Layout>

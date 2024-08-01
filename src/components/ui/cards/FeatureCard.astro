@@ -1,0 +1,22 @@
+---
+import Card from './BasicCard.astro'
+
+// Props
+type Props = {
+	title?: string
+	subtitle?: string
+	image?: any
+	link?: string
+}
+const { title , subtitle, image, link } = Astro.props
+---
+
+<Card
+	title={title}
+	subtitle={subtitle}
+	titleSize="xl"
+	link={link}
+	image={image}
+	type="image-bottom"
+	classes="!bg-neutral-50 !shadow-none dark:!bg-neutral-900 h-full justify-between border border-neutral-100 dark:border-neutral-800"
+/>

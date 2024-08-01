@@ -1,0 +1,26 @@
+---
+// Components
+// - Layout
+import Layout from '../layouts/Layout.astro'
+// - UI
+import Hero from '../components/blocks/hero/HomeCTA.astro'
+import Features from '../components/blocks/features/FeatureCards.astro'
+import HighlightBlocks from '../components/blocks/highlights/HightlightRows.astro'
+import CTA from '../components/blocks/CTA/BasicDark.astro'
+
+// Content
+// - Testimonial background
+// - SEO
+const SEO = {
+	title: 'Dream Insights | Exploring dream meanings and enhancing self-understanding.',
+	description:
+		'A comprehensive dream interpretations and insights platform.'
+}
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+	<Hero />
+	<Features />
+	<HighlightBlocks />
+	<CTA />
+</Layout>
