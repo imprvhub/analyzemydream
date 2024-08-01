@@ -2,7 +2,6 @@ node_modules/
 dist/
 *.tsbuildinfo
 .DS_Store
-_site/
 scripts/smoke/*-main/
 scripts/memory/project/src/pages/
 benchmark/projects/
@@ -17,8 +16,6 @@ package-lock.json
 /.vscode/settings.json
 
 *.env
-
-.idea
 
 packages/**/test/**/fixtures/**/.astro/
 packages/**/test/**/fixtures/**/env.d.ts
