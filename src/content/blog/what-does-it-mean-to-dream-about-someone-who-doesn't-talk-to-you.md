@@ -1,7 +1,7 @@
 ---
 title: 'What does it mean to dream about someone not talking to you?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Discover the meaning of dreaming about someone you've lost touch with and what your subconscious might be trying to communicate to you.'
+description: 'Discover the meaning of dreaming about someone you have lost touch with and what your subconscious might be trying to communicate to you.'
 author: 'Dream Insights'
 image: '/blog/what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you.jpeg'
 tags: ['People']

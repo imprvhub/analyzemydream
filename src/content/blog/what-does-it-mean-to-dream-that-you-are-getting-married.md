@@ -1,7 +1,7 @@
 ---
 title: 'What does it mean to dream that you are getting married?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Discover the different meanings of dreaming about a wedding, whether it is with your partner, ex-partner, or someone you don't know. Explore how these dreams reflect your unconscious desires and fears.'
+description: 'Discover the different meanings of dreaming about a wedding, whether it is with your partner, ex-partner, or someone you dont know. Explore how these dreams reflect your unconscious desires and fears.'
 author: 'Dream Insights'
 image: '/blog/what-does-it-mean-to-dream-that-you-get-married.jpeg'
 tags: ['wedding']
