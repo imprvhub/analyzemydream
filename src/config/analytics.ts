@@ -4,5 +4,5 @@
 // - Google Tag Manager ID: for Google Tag Manager
 
 export const googleSiteVerification = ''
-export const googleAnalyticsMeasurementID = 'G-6JVV6NQT7N'
-export const googleTagManagerID = ''
+export const googleAnalyticsMeasurementID = 'G-643PFCEFRN'
+export const googleTagManagerID = 'G-643PFCEFRN'
