@@ -38,7 +38,7 @@ export const footerNavigationData: FooterData = {
 		logo: {
 			src: '/logo.png',
 			alt: 'Exploring dream meanings and enhancing self-understanding.',
-			text: 'Dream Insights'
+			text: 'Dream-Insights.com'
 		}
 	},
 	footerColumns: [
