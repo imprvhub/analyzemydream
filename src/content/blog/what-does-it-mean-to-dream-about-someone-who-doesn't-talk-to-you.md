@@ -2,16 +2,16 @@
 title: 'What does it mean to dream about someone not talking to you?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Discover the meaning of dreaming about someone you have lost touch with and what your subconscious might be trying to communicate to you.'
-author: 'Dream Insights'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you.jpeg'
 tags: ['People']
 ---
 
-![dream-insights is here.](/blog/what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you.jpeg)
+![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you.jpeg)
 
 Dream interpretation has captured the fascination of humanity since ancient times. Philosophers, psychologists, and researchers have attempted to decipher what our subconscious communicates to us through dreams. In his book *The Interpretation of Dreams*, Sigmund Freud offers a deep exploration of dream visions from a psychoanalytic perspective.
 
-If you have recently dreamed about a person with whom you no longer have dealings in real life, in this Dream Insights article you will discover what that dream may mean. With the information provided, you will be able to interpret more clearly what your unconscious mind wants to tell you.
+If you have recently dreamed about a person with whom you no longer have dealings in real life, in this AnalyzeMyDream article you will discover what that dream may mean. With the information provided, you will be able to interpret more clearly what your unconscious mind wants to tell you.
 
 ### Index
 
@@ -48,7 +48,7 @@ On the other hand, this dream may also reflect **current concerns** or anxieties
 
 To address these feelings, take some time to reflect on what is causing you anguish or stress. 
 
-This article is merely informative. At Dream Insights we do not have the power to make a diagnosis or recommend a treatment. We invite you to consult a psychologist to discuss your particular case.
+This article is merely informative. At AnalyzeMyDream we do not have the power to make a diagnosis or recommend a treatment. We invite you to consult a psychologist to discuss your particular case.
 
 ### Bibliography
 

@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Welcome to Dream Insights! By using our services, you agree to be bound by these terms and conditions. Please read them carefully.
+Welcome to AnalyzeMyDream! By using our services, you agree to be bound by these terms and conditions. Please read them carefully.
 
 ## Acceptance of Terms
 
-By accessing or using Dream Insights, you agree to comply with and be bound by these Terms of Service and our Privacy Policy. If you do not agree with these terms, you should not use our services.
+By accessing or using AnalyzeMyDream, you agree to comply with and be bound by these Terms of Service and our Privacy Policy. If you do not agree with these terms, you should not use our services.
 
 ## Changes to Terms
 
@@ -14,7 +14,7 @@ We reserve the right to modify these terms at any time. We will notify you of an
 
 ### Registration
 
-To use certain features of Dream Insights, you may need to create an account. You agree to provide accurate and complete information when creating your account and to keep this information up-to-date.
+To use certain features of AnalyzeMyDream, you may need to create an account. You agree to provide accurate and complete information when creating your account and to keep this information up-to-date.
 
 ### Account Security
 
@@ -44,7 +44,7 @@ All content offered on our platform is supported by the corresponding bibliograp
 
 ## Prohibited Activities
 
-You agree not to use Dream Insights for any unlawful or prohibited activities, including but not limited to:
+You agree not to use AnalyzeMyDream for any unlawful or prohibited activities, including but not limited to:
 
 - Avoiding any applicable laws or regulations
 - Uploading or distributing viruses or malicious code
@@ -53,15 +53,15 @@ You agree not to use Dream Insights for any unlawful or prohibited activities, i
 
 ## Disclaimer of Warranties
 
-Dream Insights is provided "as is" and "as available" without warranties of any kind, either express or implied. We do not warrant that the service will be uninterrupted or error-free.
+AnalyzeMyDream is provided "as is" and "as available" without warranties of any kind, either express or implied. We do not warrant that the service will be uninterrupted or error-free.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, Dream Insights shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of the service.
+To the maximum extent permitted by law, AnalyzeMyDream shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of the service.
 
 ## Governing Law
 
-These terms are governed by and construed in accordance with the laws of the jurisdiction in which Dream Insights operates, without regard to its conflict of law principles.
+These terms are governed by and construed in accordance with the laws of the jurisdiction in which AnalyzeMyDream operates, without regard to its conflict of law principles.
 
 ## Contact Information
 
@@ -73,7 +73,7 @@ Email: contact@ivanluna.dev
 
 ### Entire Agreement
 
-These terms constitute the entire agreement between you and Dream Insights regarding the use of the service and supersede any prior agreements.
+These terms constitute the entire agreement between you and AnalyzeMyDream regarding the use of the service and supersede any prior agreements.
 
 ### Severability
 

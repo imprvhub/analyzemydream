@@ -2,18 +2,18 @@
 title: 'What does it mean to dream about the person you like?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Discover the meaning of dreaming about the person you like, whether they are kissing you, being with someone else, not talking to you, or you are making love.'
-author: 'Dream Insights'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg'
 tags: ['People']
 ---
 
-![dream-insights is here.](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
+![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
 
 
 
 One of the most common dreams is the one in which that special person appears and makes us feel butterflies in our stomach. When we are in love or attracted to someone, our thoughts often revolve around that person. His beauty, his way of being or the way he treats us can influence our dreams, since they reflect our deepest thoughts and feelings.
 
-Dreaming about your platonic love is usually positive and often reflects your desires for that person. In this Dream Insights article, we explain what it means to dream about the person you like, considering if they kiss you, they don't talk to you, they are with someone else, or you are making love.
+Dreaming about your platonic love is usually positive and often reflects your desires for that person. In this AnalyzeMyDream article, we explain what it means to dream about the person you like, considering if they kiss you, they don't talk to you, they are with someone else, or you are making love.
 
 
 ### Index
@@ -50,7 +50,7 @@ Dreaming about the person you like making love to you is usually a reflection of
 - **Dreaming that the person you like proposes to you**: Although this dream is not premonitory, it can express your desire to find happiness in love with someone special.
 - **Dreaming that the person you like rejects you**: This dream may be related to a lack of self-esteem and self-confidence. Remember that you deserve love and that you have a lot of value.
 
-This article is purely informative. At Dream Insights we do not have the authority to make a diagnosis or recommend treatment. We invite you to consult with a psychologist to treat your particular case.
+This article is purely informative. At AnalyzeMyDream we do not have the authority to make a diagnosis or recommend treatment. We invite you to consult with a psychologist to treat your particular case.
 
 
 ### Bibliography

@@ -2,12 +2,12 @@
 title: 'What does it mean to dream that a dog bites you?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Discover the various interpretations of dreaming about being bitten by a dog, from betrayal to anxiety and stress.'
-author: 'Dream Insights'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg'
 tags: ['Animals']
 ---
 
-![dream-insights is here.](/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg)
+![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg)
 
 
 

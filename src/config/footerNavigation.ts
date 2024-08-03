@@ -32,13 +32,13 @@ export interface FooterData {
 
 export const footerNavigationData: FooterData = {
 	footerAbout: {
-		title: 'Dream Insights',
+		title: 'AnalyzeMyDream',
 		aboutText:
-			'A plaform for exploring dream meanings and enhancing self-understanding.',
+			'Exploring dream meanings and enhancing self-understanding.',
 		logo: {
 			src: '/logo.png',
 			alt: 'Exploring dream meanings and enhancing self-understanding.',
-			text: 'Dream-Insights.com'
+			text: 'AnalyzeMyDream.com'
 		}
 	},
 	footerColumns: [
@@ -102,6 +102,6 @@ export const footerNavigationData: FooterData = {
 		}
 	],
 	subFooter: {
-		copywriteText: '© Dream Insights 2024.'
+		copywriteText: '© AnalyzeMyDream 2024.'
 	}
 }

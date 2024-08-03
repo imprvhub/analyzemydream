@@ -23,11 +23,11 @@ export interface Config {
 export const configData: Config = {
 	siteTitle: 'Exploring dream meanings and enhancing self-understanding.',
 	siteDescription:
-		'Dream Insights is a comprehensive dream interpretations and insights platform.',
-	ogImage: '/og.jpg',
+		'AnalyzeMyDream is a comprehensive dream interpretations and insights platform.',
+	ogImage: '/logo.png',
 	logo: {
 		src: '/logo.png',
-		alt: 'dream-insights logo'
+		alt: 'AnalyzeMyDream logo'
 	},
 	canonical: true,
 	noindex: false,

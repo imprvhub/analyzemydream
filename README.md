@@ -1,10 +1,10 @@
-## Welcome to Dream-Insights.com Repository:
+## Welcome to AnalyzeMyDream.com Repository:
 
 > [!NOTE]  
 > The project is under **maintenance**!.
 
 > [!NOTE]  
-> The release of **Dream Insights v0.1.0** is now **available**!. Release Date: **01.08.2024** - This release includes several new features, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v0.1.0 Release Notes](https://github.com/imprvhub/dream-insights/releases/tag/v0.1.0). 
+> The release of **AnalyzeMyDream v0.1.0** is now **available**!. Release Date: **01.08.2024** - This release includes several new features, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v0.1.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v0.1.0). 
 
 A project designed to provide users with in-depth interpretations and insights into their dreams. The website is built using [Astro](https://astro.build) providing a fast and modern experience.
 
@@ -19,7 +19,7 @@ A project designed to provide users with in-depth interpretations and insights i
 
 ### Project Overview
 
-Dream-Insights.com is an astro-powered project for comprehensive dream interpretations and insights. Perfect for exploring dream meanings and enhancing self-understanding.
+AnalyzeMyDream.com is an astro-powered project for comprehensive dream interpretations and insights. Perfect for exploring dream meanings and enhancing self-understanding.
 
 ### Features
 
@@ -36,13 +36,13 @@ To get started, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/imprvhub/dream-insights.git
+   git clone https://github.com/imprvhub/AnalyzeMyDream.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd dream-insights
+   cd AnalyzeMyDream
    ```
 
 3. **Install Dependencies**
@@ -68,5 +68,5 @@ To get started, follow these steps:
 
 ### Feedback:
 
-Your feedback is valuable! If you encounter any issues or have suggestions for improvements, please create a new issue in the [GitHub repository](https://github.com/imprvhub/dream-insights/issues/new).
+Your feedback is valuable! If you encounter any issues or have suggestions for improvements, please create a new issue in the [GitHub repository](https://github.com/imprvhub/AnalyzeMyDream/issues/new).
 

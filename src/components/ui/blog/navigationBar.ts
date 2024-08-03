@@ -35,7 +35,7 @@ export const navigationBarData: NavData = {
 	logo: {
 		src: '/logo.png',
 		alt: 'Exploring dream meanings and enhancing self-understanding.',
-		text: 'Dream Insights'
+		text: 'AnalyzeMyDream'
 	},
 	navItems: [
 		{ name: 'Home', link: '/' },

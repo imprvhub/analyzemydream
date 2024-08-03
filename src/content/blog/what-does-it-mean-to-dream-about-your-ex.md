@@ -2,12 +2,12 @@
 title: 'What does it mean to dream about your ex?'
 pubDate: '2024-06-05T05:00:00Z'
 description: 'Discover the psychological and symbolic interpretations of dreaming about your ex, including dreams about relationships, jealousy, and reconciliation.'
-author: 'Dream Insights'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-your-ex.jpeg'
 tags: ['People', 'Feelings']
 ---
 
-![dream-insights is here.](/blog/what-does-it-mean-to-dream-about-your-ex.jpeg)
+![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-your-ex.jpeg)
 
 
 The world of dreams can be a confusing place, often leaving us with more questions than answers. Dreaming about your ex is a common experience that can have multiple interpretations. In this article, we will explore the possible reasons behind these dreams and what they could mean for you.
@@ -66,6 +66,6 @@ If you frequently dream about your ex, consider the following steps:
 - Freud, S. (1900). *The interpretation of dreams*.
 - Carrión, E. (2007). *The unconscious and the interpretation of dreams*. Psychological Publishing House.
 
-This article is for informational purposes only. Dream Insights does not offer diagnoses or treatments. For a more in-depth evaluation, consult a psychology professional.
+This article is for informational purposes only. AnalyzeMyDream does not offer diagnoses or treatments. For a more in-depth evaluation, consult a psychology professional.
 
 To read more about the meaning of dreams, visit our [Meaning of Dreams](#) section.

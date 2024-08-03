@@ -2,18 +2,18 @@
 title: 'What does it mean to dream about someone who has hurt you?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Explore the different meanings of dreaming about people who have hurt you, from the need to resolve unprocessed emotions to the unconscious desire for revenge.'
-author: 'Dream Insights'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg'
 tags: ['People']
 ---
 
-![dream-insights is here.](/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg)
+![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg)
 
 # What Does It Mean to Dream About Someone Who Has Hurt You
 
 **Description:** Throughout our existence, there may be people who hurt or mistreat us, leaving emotional scars. Dreaming about someone who has hurt you may reflect the need to resolve unprocessed emotions, as well as the unconscious desire for revenge or the difficulty in expressing repressed feelings.
 
-**Author:** Dream Insights
+**Author:** AnalyzeMyDream
 
 ---
 
@@ -77,7 +77,7 @@ This dream also reflects the desire for reconciliation and to leave behind the b
 
 ---
 
-**This article is merely informative; at Dream Insights we do not have the authority to make a diagnosis or recommend a treatment. We invite you to go to a psychologist to treat your particular case.**
+**This article is merely informative; at AnalyzeMyDream we do not have the authority to make a diagnosis or recommend a treatment. We invite you to go to a psychologist to treat your particular case.**
 
 **Bibliography:**
 

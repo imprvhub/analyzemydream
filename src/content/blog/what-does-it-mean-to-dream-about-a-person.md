@@ -2,12 +2,12 @@
 title: 'What does it mean to dream about a person?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Analyze the varied psychological and symbolic interpretations of dreams involving people to uncover the underlying meanings of these dreams.'
-author: 'Dream Insights'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-a-person.jpeg'
 tags: ['People']
 ---
 
-![dream-insights is here.](/blog/what-does-it-mean-to-dream-about-a-person.jpeg)
+![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-a-person.jpeg)
 
 
 Dreams featuring a person can be a window into your inner emotional world. These dreams can express your feelings towards that person, aspects of your own identity, or even unresolved issues. In this article, we will break down the different psychological and symbolic interpretations of these dreams to help you better understand their meaning.
@@ -79,6 +79,6 @@ Dreaming about a deceased person can be an emotionally charged and meaningful ex
 
 <br>
 
-This article is for informational purposes only. At Dream Insights we do not offer diagnoses or treatment recommendations. For specific questions, we recommend consulting a psychology professional.
+This article is for informational purposes only. At AnalyzeMyDream we do not offer diagnoses or treatment recommendations. For specific questions, we recommend consulting a psychology professional.
 
 To explore more related topics, visit our section on the [Meaning of Dreams](#).
