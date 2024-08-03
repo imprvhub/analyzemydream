@@ -28,6 +28,7 @@ AnalyzeMyDream.com is an astro-powered project for comprehensive dream interpret
 - **Responsive Design**: Optimized for both desktop and mobile views.
 - **SEO Optimized**: Implemented best practices for SEO to enhance visibility on search engines.
 - **Analytics Integration**: Track user engagement and site performance.
+- **Future AI Integration**: In the upcoming version 1.0, a new feature is coming that leverages artificial intelligence to provide personalized dream interpretations. Users who do not find their specific dreams in the existing articles will be able to receive tailored responses to their queries. Please note that this AI functionality is intended to offer guidance and insights and should be used as an informative tool rather than a definitive source.
 
 ### Installation
 
