@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-saving-someone.jpeg'
 tags: ['People']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-saving-someone.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-saving-someone.jpeg)
 
 ### What Does It Mean to Dream About Saving Someone
 

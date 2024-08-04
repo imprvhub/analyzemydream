@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-a-house.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-a-house.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-a-house.jpeg)
 
 Dreaming about a house generally represents one's self and different aspects of one's personality. Each room can symbolize emotions, memories, or specific areas of one's life. There are dreams that are considered very strange, the product of a mixture of feelings and thoughts of the person. However, there is a long list of dreams that people often have, and you have probably already had one of them, possibly even several times. For example, dreaming about a house is one of the most common dreams. 
 Dreams are more important than we give them, because dreaming is interpreting the reality we live every day and our most frequent feelings, emotions and thoughts. In this article from AnalyzeMyDream, we explain the 

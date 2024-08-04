@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg'
 tags: ['Animals']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg)
 
 
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-music.jpeg'
 tags: ['Activities']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-music.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-music.jpeg)
 
 Music is a universal art present in almost all aspects of our lives. We listen to it in the car, on the street, at home, at parties and in many other places. Each musical rhythm expresses a particular emotion and feeling. But what does it mean to dream about music?
 

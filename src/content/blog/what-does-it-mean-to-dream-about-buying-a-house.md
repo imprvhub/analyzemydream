@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg'
 tags: ['Aspirations']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg)
 
 
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg'
 tags: ['Animals']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg)
 
 
 

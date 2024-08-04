@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-bats.jpeg'
 tags: ['Animals']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-bats.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-bats.jpeg)
 
 Psychoanalysts suggest that dreams are messages that the subconscious sends, related to emotions, memories or feelings that are not expressed consciously. It's common to dream about everyday items, but what happens when unusual animals like bats appear in your dreams?
 

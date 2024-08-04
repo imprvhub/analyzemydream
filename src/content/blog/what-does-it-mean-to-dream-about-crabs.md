@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-crabs.jpeg'
 tags: ['Animals']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-crabs.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-crabs.jpeg)
 
 Dreaming about crabs can be more revealing than you think. Although dreams often seem like irrelevant episodes, they frequently reflect deep aspects of our emotional life. The meaning of dreaming about crabs may relate to love, commitment, or even some discomfort.
 

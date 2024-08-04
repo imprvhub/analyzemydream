@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-frogs.jpeg'
 tags: ['Animals']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-frogs.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-frogs.jpeg)
 
 Did you dream about frogs and don't know what it means? These visions can be a little disturbing, especially if you are one of those who are afraid of frogs. But before going into the explanation of oneirism, you should know that, according to psychoanalysts, dreams are the result of the emotions and feelings that you try to repress when you are awake. These are then manifested through dreams.
 

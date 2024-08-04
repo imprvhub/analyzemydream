@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-someone-and-feel-it-real.jpeg'
 tags: ['People']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-someone-and-feel-it-real.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-someone-and-feel-it-real.jpeg)
 
 Dreaming about someone and feeling it real is often related to a strong emotional bond or a deep desire for connection with that person in real life. Sigmund Freud and Carl Jung, prominent psychoanalysts, have pointed out that dreams can be a source of learning about our feelings, emotions, and memories. For this reason, the study of dreams has fascinated people for centuries. Since dreams occur in our subconscious, it is not strange to dream about people we know or even strangers.
 

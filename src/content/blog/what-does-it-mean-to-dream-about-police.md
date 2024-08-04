@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-police.jpeg'
 tags: ['Threatening Situations']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-police.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-police.jpeg)
 
 Dreaming about police has various interpretations, but it is basically related to security, compliance with laws or the application of punishments, since those are the principles that govern this profession in the real world. Remember that dreams allow feelings and emotions to surface that are repressed or wanted to be hidden when we are conscious.
 

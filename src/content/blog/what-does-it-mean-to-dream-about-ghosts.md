@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-ghosts.jpeg'
 tags: ['supernatural']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-ghosts.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-ghosts.jpeg)
 
 Dreaming about ghosts can be distressing and scary, but their interpretation is not always negative. In psychoanalysis, these dreams often reveal repressed emotions or feelings that emerge from the unconscious. Each element in the dream is crucial to understanding its meaning.
 

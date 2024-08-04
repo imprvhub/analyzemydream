@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-fog.jpeg'
 tags: ['Nature']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-fog.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-fog.jpeg)
 
 In psychoanalysis, dreams reflect desires repressed by the conscious mind. We often wake up wondering why we have dreamed something and what it means. Dream images can appear disordered and disturbing, as is the case of dreaming about fog. This climatic phenomenon can have different interpretations depending on the circumstances of the dream.
 

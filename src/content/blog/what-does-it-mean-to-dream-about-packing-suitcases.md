@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-packing-bags.jpeg'
 tags: ['Activities']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-packing-bags.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-packing-bags.jpeg)
 
 
 

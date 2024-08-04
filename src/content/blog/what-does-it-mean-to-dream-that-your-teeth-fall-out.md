@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-your-teeth-fall-out.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-that-your-teeth-fall-out.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-that-your-teeth-fall-out.jpeg)
 
 ### Do you know what it means to dream that your teeth are falling out?
 

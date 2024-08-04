@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-numbers.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-numbers.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-numbers.jpeg)
 
 The meaning of dreams is something that arouses a lot of curiosity. Psychoanalysis tries to decipher our dream visions to understand the message that the subconscious wants to convey. To do this, several details are considered such as the emotions during the dream, its end and the people present in it.
 

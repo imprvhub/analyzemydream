@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-darkness.jpeg'
 tags: ['Abstract']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-darkness.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-darkness.jpeg)
 
 Dreaming about darkness can reflect uncertainty, fear, or a lack of clarity in your life. If you're wondering about the meaning of this dream, your subconscious may be trying to show you that you're afraid of the unknown or don't know how to handle a specific situation.
 

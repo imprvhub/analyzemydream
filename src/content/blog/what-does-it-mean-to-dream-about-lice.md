@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-lice.jpeg'
 tags: ['Insects']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-lice.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-lice.jpeg)
 
 Dreaming about different animals can be something very beautiful and cute, causing us to feel happy. However, there are different types of animals or insects that when we dream about them, they produce an unpleasant effect on us. A clear example of this are lice. Normally, these bugs are associated with dirt and negative things, however, this is not always the case.
 

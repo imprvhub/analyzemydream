@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-an-exam.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-an-exam.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-an-exam.jpeg)
 
 
 Dreaming about exams can be a distressing experience that reflects our anxieties and fears in real life. These dreams are often related to the pressure we feel to perform or demonstrate our abilities. Below, we explore the most common meanings of dreaming about exams and what your subconscious might be trying to tell you.

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg'
 tags: ['Feelings', 'People']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg)
 
 
 Dreaming that you get back together with your ex can reflect a need to close that stage of your life, a desire to reconcile with that person, or the will to resolve internal conflicts. This type of dream does not mean that something more is going to happen between you, but it can mean that there are unfinished processes of closure, pending issues, or fears, among other possible reasons. 

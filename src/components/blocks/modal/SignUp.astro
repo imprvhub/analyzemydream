@@ -1,5 +1,4 @@
 ---
-
 import Modal from '../../ui/Modal.astro'
 import Form from '../../ui/forms/Form.astro'
 import FormField from '../../ui/forms/partials/FormField.astro'
@@ -15,10 +14,10 @@ const { classes } = Astro.props
 ---
 
 <Modal id="signup" classes={classes} title="Sign up">
-	<p class="mb-0">Enter your email bellow to get started with AnalyzeMyDream</p>
-	<Form>
+	<p class="mb-0">Enter your email below to get started with AnalyzeMyDream</p>
+	<Form name="signup" netlify>
 		<FormField>
-			<InputField type="email" id="email" label="Your Email" />
+			<InputField type="email" id="email" name="email" label="Your Email" />
 		</FormField>
 		<Button style="primary" type="submit" classes="w-full" size="lg">Sign up</Button>
 		<div class="my-2 text-center">or</div>

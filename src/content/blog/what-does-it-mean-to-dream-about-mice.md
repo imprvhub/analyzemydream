@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-mice.jpeg'
 tags: ['Animals']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-mice.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-mice.jpeg)
 
 # What does it mean to dream about mice
 

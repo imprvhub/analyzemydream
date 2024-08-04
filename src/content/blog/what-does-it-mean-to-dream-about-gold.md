@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-gold.jpeg'
 tags: ['Fortune']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-gold.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-gold.jpeg)
 
 
 

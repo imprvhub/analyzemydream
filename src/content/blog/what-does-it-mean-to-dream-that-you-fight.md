@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-fights.jpeg'
 tags: ['Feelings']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-fights.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-fights.jpeg)
 
 
 

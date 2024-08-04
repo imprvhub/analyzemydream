@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-doors.jpeg'
 tags: ['Objects-Places']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-doors.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-doors.jpeg)
 
 The dream world is full of mysteries. This happens because when we sleep it is almost impossible to block the memories of everything that has happened to us during the day and, therefore, they remain in our subconscious. In fact, psychoanalysis indicates that dreams are manifestations of feelings and desires that are repressed or hidden in everyday life. Based on this, we can dream about different common things such as, for example, a door. The problem is knowing how to decipher what this type of episode means.
 

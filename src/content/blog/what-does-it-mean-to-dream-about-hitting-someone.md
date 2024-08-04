@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg'
 tags: ['Feelings']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg)
 
 Dreaming about hitting someone is often associated with the need to resolve conflicts with other people. It can also represent pent-up anger, frustration, resentment, or fears that you don't know how to overcome. On the other hand, this dream may be warning you that it is time to reflect and take control of your reactions to emotions, in order to learn to manage them assertively.
 

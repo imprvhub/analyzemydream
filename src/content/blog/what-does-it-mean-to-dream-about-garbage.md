@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-garbage.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-about-garbage.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-about-garbage.jpeg)
 
 
 

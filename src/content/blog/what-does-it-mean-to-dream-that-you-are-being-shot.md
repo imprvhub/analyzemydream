@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg'
 tags: ['Threatening Situations']
 ---
 
-![AnalyzeMyDream is here.](/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg)
+![asset](/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg)
 
 Did you dream that you were being shot and woke up with the distress of not knowing what that dream means? If you have recently been a victim of a robbery or have been in contact with people who have firearms, it's normal for such dreams to arise. However, if you haven’t experienced anything like this, you might be wondering about the meaning of that dream.
 
