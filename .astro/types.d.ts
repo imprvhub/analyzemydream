@@ -847,9 +847,9 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-someone-who-doesn't-talk-to-you.md": {
-	id: "what-does-it-mean-to-dream-about-someone-who-doesn't-talk-to-you.md";
-  slug: "what-does-it-mean-to-dream-about-someone-who-doesnt-talk-to-you";
+"what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you.md": {
+	id: "what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you.md";
+  slug: "what-does-it-mean-to-dream-about-someone-who-does-not-talk-to-you";
   body: string;
   collection: "blog";
   data: any

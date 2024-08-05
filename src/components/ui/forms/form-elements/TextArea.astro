@@ -4,7 +4,6 @@ import { Icon } from 'astro-icon/components'
 // Props
 type Props = {
 	id: string
-	name: string
 	label: string
 	iconName?: string
 	iconPosition?: 'lead' | 'trail'
@@ -14,26 +13,27 @@ type Props = {
 	value?: string
 	classes?: string
 }
-const { id, name, label, iconName, iconPosition, helperText, required, disabled, value, classes } = Astro.props
+const { id, label, iconName, iconPosition, helperText, required, disabled, value, classes } =
+	Astro.props
 ---
 
 <div
 	class:list={[
 		'input',
 		{ ['input--icon-' + `${iconPosition}`]: iconPosition },
+		,
 		{ [`${classes}`]: classes }
 	]}
 >
 	<textarea
 		id={id}
-		name={name}
 		rows="7"
+		name={id}
 		placeholder={label}
 		required={required}
 		disabled={disabled}
 		value={value}
-		class="input__field peer"
-	></textarea>
+		class="input__field peer"></textarea>
 	<label
 		for={id}
 		class={`input__label ${iconPosition === 'lead' ? 'peer-placeholder-shown:left-10 peer-focus:left-2' : ''}`}

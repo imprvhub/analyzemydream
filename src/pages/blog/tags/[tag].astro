@@ -14,21 +14,21 @@ import BlogPosts from '../../../components/blocks/blog/BlogPosts.astro'
 import { getCollection } from 'astro:content'
 
 export async function getStaticPaths() {
-	const allPosts = await getCollection('blog')
-	const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags || []).flat())]
+    const allPosts = await getCollection('blog')
+    const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags || []).flat())]
 
-	return uniqueTags.map((tag) => {
-		if (typeof tag !== 'string') {
-			throw new TypeError(`Expected tag to be a string, but got ${typeof tag}`);
-		}
-		const filteredPosts = allPosts.filter((post) => 
-			Array.isArray(post.data.tags) && post.data.tags.includes(tag)  // Verifica si post.data.tags es un array
-		)
-		return {
-			params: { tag },
-			props: { posts: filteredPosts }
-		}
-	})
+    return uniqueTags.map((tag) => {
+        if (typeof tag !== 'string') {
+            throw new TypeError(`Expected tag to be a string, but got ${typeof tag}`);
+        }
+        const filteredPosts = allPosts.filter((post) => 
+            Array.isArray(post.data.tags) && post.data.tags.includes(tag)
+        )
+        return {
+            params: { tag },
+            props: { posts: filteredPosts }
+        }
+    })
 }
 
 const { tag } = Astro.params
@@ -49,10 +49,9 @@ const SEO = {
 
 // - Page Header
 const header = {
-  title: `What Do Dreams About <strong>${tag}</strong> Mean?`,
+  title: `What Do Dreams About <br><strong>${tag}</strong> Mean?`,
   text: `Delve into the meanings behind your dreams about <strong>${tag}</strong>. Uncover the hidden messages and symbolism that may be influencing your subconscious mind. Explore Articles Related to <strong>${tag}</strong> Dreams:`
 };
-
 
 
 ---

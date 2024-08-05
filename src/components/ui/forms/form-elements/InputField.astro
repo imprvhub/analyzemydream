@@ -1,4 +1,5 @@
 ---
+
 import { Icon } from 'astro-icon/components'
 
 // Props
@@ -6,7 +7,6 @@ type Props = {
 	id: string
 	type?: 'text' | 'email' | 'password' | 'tel'
 	label: string
-	name: string
 	iconName?: string
 	iconPosition?: 'lead' | 'trail'
 	helperText?: string
@@ -19,7 +19,6 @@ const {
 	type = 'text',
 	id,
 	label,
-	name,
 	iconName,
 	iconPosition,
 	helperText,
@@ -34,13 +33,14 @@ const {
 	class:list={[
 		'input',
 		{ ['input--icon-' + `${iconPosition}`]: iconPosition },
+		,
 		{ [`${classes}`]: classes }
 	]}
 >
 	<input
 		id={id}
 		type={type}
-		name={name}
+		name={id}
 		placeholder={label}
 		required={required}
 		disabled={disabled}

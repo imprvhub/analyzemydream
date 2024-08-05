@@ -1,76 +1,66 @@
 ---
+// Imports
+// Components
 import NavigationBar from '../components/ui/NavigationBar.astro'
 import Main from '../components/ui/Main.astro'
 import Footer from '../components/ui/Footer.astro'
 import Modal from '../components/blocks/modal/SignUp.astro'
 import Header from '../components/blocks/head/Header.astro'
+
+// Scripts
 import Scriprs from '../components/scripts/LocalScripts.astro'
 import GoogleTagManagerBody from '../components/scripts/googleTagManagerBody.astro'
+// Styles
 import '../styles/global.css'
+// Fonts
 import '@fontsource-variable/inter'
 import '@fontsource-variable/outfit'
 import '@fontsource-variable/playfair-display'
+
+// Data
 import { configData } from '../config/config'
+
+// Props
 type Props = {
-    title?: string
-    description?: string
-    ogImage?: string
-    noindex?: boolean
+	title?: string
+	description?: string
+	ogImage?: string
+	noindex?: boolean
 }
+// Page Metadata
 const { title, description, ogImage, noindex } = Astro.props
 ---
 
 <!doctype html>
 <html lang="en" class="scroll-animation mode-auto">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{title}</title>
-        <meta name="description" content={description} />
-        <meta name="keywords" content="dream analysis, dream meanings, self-understanding" />
-        <meta name="robots" content={noindex ? "noindex, nofollow" : "index, follow"} />
-        
-        <!-- Favicon Links -->
-        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-        <link rel="apple-touch-icon" sizes="57x57" href="/favicon-57.png" />
-        <link rel="apple-touch-icon" sizes="60x60" href="/favicon-60.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="/favicon-72.png" />
-        <link rel="apple-touch-icon" sizes="76x76" href="/favicon-76.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="/favicon-114-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="120x120" href="/favicon-120-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="144x144" href="/favicon-144-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="152x152" href="/favicon-152-precomposed.png" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180-precomposed.png" />
-        <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
-        
-        <!-- Open Graph Meta Tags -->
-        <meta property="og:title" content={title} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image" content={ogImage} />
-        <meta property="og:url" content="https://www.analyzemydream.com" />
-        <meta property="og:type" content="website" />
-        
-        <!-- Twitter Card Meta Tags -->
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={ogImage} />
-    </head>
-    <body
-        class:list={[
-            { ['mode-' + `${configData.mode}`]: configData.mode },
-            { ['scroll-animation']: configData.scrollAnimations }
-        ]}
-    >
-        <GoogleTagManagerBody />
-        <NavigationBar />
-        <Main>
-            <slot />
-        </Main>
-        <Footer />
-        <Modal />
-        <Scriprs />
-    </body>
+     <!-- Favicon Links -->
+     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+     <link rel="apple-touch-icon" sizes="57x57" href="/favicon-57.png" />
+     <link rel="apple-touch-icon" sizes="60x60" href="/favicon-60.png" />
+     <link rel="apple-touch-icon" sizes="72x72" href="/favicon-72.png" />
+     <link rel="apple-touch-icon" sizes="76x76" href="/favicon-76.png" />
+     <link rel="apple-touch-icon" sizes="114x114" href="/favicon-114-precomposed.png" />
+     <link rel="apple-touch-icon" sizes="120x120" href="/favicon-120-precomposed.png" />
+     <link rel="apple-touch-icon" sizes="144x144" href="/favicon-144-precomposed.png" />
+     <link rel="apple-touch-icon" sizes="152x152" href="/favicon-152-precomposed.png" />
+     <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180-precomposed.png" />
+     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+	<Header title={title} description={description} ogImage={ogImage} noindex={noindex} />
+	<body
+		class:list={[
+			{ ['mode-' + `${configData.mode}`]: configData.mode },
+			{ ['scroll-animation']: configData.scrollAnimations }
+		]}
+	>
+		<GoogleTagManagerBody />
+		<NavigationBar />
+		<Main>
+			<slot />
+		</Main>
+		<Footer />
+		<Modal />
+		<Scriprs />
+	</body>
 </html>

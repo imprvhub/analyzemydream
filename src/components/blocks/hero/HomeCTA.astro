@@ -1,45 +1,79 @@
 ---
-
 import Section from '../../ui/Section.astro'
 import Row from '../../ui/Row.astro'
 import Col from '../../ui/Col.astro'
 // - UI
-import ChipNotification from '../../ui/ChipNotification.astro'
-import { Image } from 'astro:assets'
 import Button from '../../ui/Button.astro'
-
+import { Image } from 'astro:assets'
 
 // Content
-// - Hero Image
 import heroImage from '../../../assets/hero-01.png'
-
 ---
-
-<Section id="intro" padding="top" classes="bg-neutral-50 dark:bg-neutral-900">
-	<Row>
-		<Col span="2" />
-		<Col span="8" align="center">
-			<!-- 
-			<ChipNotification radius="rounded-full" classes="mb-6">
-				<strong>30K+</strong> satisfied customers
-				<AvatarGroup avatars={avatars} radius="rounded-full" slot="button" />
-			</ChipNotification>
-			-->
-			<h1>Exploring <strong>dream meanings</strong> and enhancing self-understanding.</h1>
-
-			<p class="pb-0 text-lg"> Decode the hidden messages of your dreams and awaken your inner wisdom.</p>
-			<Button size="lg" link="/blog">Explore All</Button>
-		</Col>
-		<Col span="2" />
-		<Col span="2" />
-		<Col span="8">
-			<Image
-				src={heroImage}
-				alt="Exploring dream meanings and enhancing self-understanding."
-				class="translate-y-8"
-				format="webp"
-			/></Col
-		>
-		<Col span="2" />
-	</Row>
+<Section id="intro" padding="none" classes="bg-neutral-50 dark:bg-neutral-900">
+    <Row>
+        <Col span="2" />
+        <Col span="8" align="center">
+            <br><br><h1>Exploring <strong>dream meanings</strong> and enhancing self-understanding.</h1>
+            
+            <p class="pb-0 text-lg"> Decode the hidden messages of your dreams and awaken your inner wisdom.</p><br><br>
+        </Col>
+        <Col span="2" />
+    </Row>
 </Section>
+
+<Section id="hero-image" padding="none" class="bg-neutral-50 dark:bg-neutral-900">
+    <Row>
+        <Col span="2" />
+        <Col span="8" align="center">
+            <Image
+                src={heroImage}
+                alt="AI-powered dream analyzer tool"
+                class="max-w-full h-auto"
+                format="webp"
+            />
+        </Col>
+        <Col span="2" />
+    </Row>
+</Section>
+
+<Section id="dream-form" padding="none" class="bg-neutral-50 dark:bg-neutral-900">
+    <Row>
+        <Col span="2" />
+        <Col span="8" align="center">
+            <h2 class="text-3xl font-semibold mb-4">Gain access to deep dream analysis through our <strong>AI-Powered Analyzer</strong> tool. </h2>
+            <form id="dreamForm" class="space-y-4">
+                <label for="dreamDescription" class="block text-lg font-medium mb-2">Designed to reveal the significant messages and insights within your dreams.</label>
+                <textarea id="Describe Your Dream:" name="dreamDescription" rows="4" cols="50" minlength="30" required class="w-full p-2 border border-gray-300 rounded" placeholder="Enter a detailed description of your dream..."></textarea>
+                <p id="analysisResult" class="mt-4"></p> <!-- Moved up here -->
+                <div class="flex justify-center space-x-4 mt-4">
+                    <Button size="lg" type="submit">Analyze Your Dream</Button>
+                    <Button size="lg" link="/blog">Explore Related Dreams</Button>
+                </div>
+				<br><br>
+            </form>
+        </Col>
+        <Col span="2" />
+    </Row>
+</Section>
+
+<script type="module">
+    document.getElementById('dreamForm').addEventListener('submit', async (event) => {
+        event.preventDefault();
+        const dreamDescription = document.getElementById('dreamDescription').value;
+
+        const response = await fetch('https://analyzemydream-gemini.vercel.app/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ dream_description: dreamDescription }),
+        });
+
+        const result = await response.json();
+        if (response.ok) {
+            document.getElementById('analysisResult').textContent = result.analysis;
+        } else {
+            document.getElementById('analysisResult').textContent = result.error;
+        }
+    });
+</script>
