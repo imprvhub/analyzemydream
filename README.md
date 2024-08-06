@@ -1,13 +1,10 @@
 ## Welcome to AnalyzeMyDream.com Repository:
 
 > [!NOTE]  
-> The project is under **maintenance**!.
+> The project is under **maintenance**.
 
 > [!NOTE]  
-> The release of **AnalyzeMyDream v0.1.0** is now **available**!. Release Date: **01.08.2024** - This release includes several new features, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v0.1.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v0.1.0). 
-
-A project designed to provide users with in-depth interpretations and insights into their dreams. The website is built using [Astro](https://astro.build) providing a fast and modern experience.
-
+> The release of **AnalyzeMyDream v1.0.0** is now **available**!. Release Date: **06.08.2024** - This release includes several new features such as AI integration, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v1.0.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.0.0). 
 
 ### Table of Contents
 
@@ -19,7 +16,7 @@ A project designed to provide users with in-depth interpretations and insights i
 
 ### Project Overview
 
-AnalyzeMyDream.com is an astro-powered project for comprehensive dream interpretations and insights. Perfect for exploring dream meanings and enhancing self-understanding.
+AnalyzeMyDream.com is an exploratory project designed to enhance self-understanding through the interpretation of dreams. In this specific version (v1.0.0), the focus is on providing insightful and research-backed interpretations of dreams, grounded in established bibliographic sources and AI integration. This version serves as a foundational tool for people to explore the meanings behind their dreams, with the aim of enriching their personal growth and self-understanding.
 
 ### Features
 
@@ -28,7 +25,7 @@ AnalyzeMyDream.com is an astro-powered project for comprehensive dream interpret
 - **Responsive Design**: Optimized for both desktop and mobile views.
 - **SEO Optimized**: Implemented best practices for SEO to enhance visibility on search engines.
 - **Analytics Integration**: Track user engagement and site performance.
-- **Future AI Integration**: In the upcoming version 1.0, a new feature is coming that leverages artificial intelligence to provide personalized dream interpretations. Users who do not find their specific dreams in the existing articles will be able to receive tailored responses to their queries. Please note that this AI functionality is intended to offer guidance and insights and should be used as an informative tool rather than a definitive source.
+- **AI-Powered Dream Interpretation**: The latest version (v1.0.0) introduces an advanced AI system that provides personalized dream analyses. Users can now receive tailored interpretations for their unique dreams, extending beyond the established bibliographic sources included in the previous release. Please note that this AI functionality is intended to offer guidance and insights and should be used as an informative tool rather than a definitive source.
 
 ### Installation
 
