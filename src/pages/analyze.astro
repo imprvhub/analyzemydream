@@ -133,33 +133,6 @@ const SEO = {
 </Section>
 </Layout>
 
-
-
- <!-- <Section id="about-analyzer" padding="none" classes="bg-neutral-50 dark:bg-neutral-900">
-    <Row>
-        <Col span="2" />
-        <Col span="8" align="center">
-            <h2>About the Gemini-1.5-Flash Model</h2>
-            <p>Information about the AI model, its limitations, and responsible use.</p>
-        </Col>
-        <Col span="2" />
-    </Row>
-</Section> 
-
-<Section id="faqs" padding="none" classes="bg-neutral-50 dark:bg-neutral-900">
-    <Row>
-        <Col span="2" />
-        <Col span="8" align="center">
-            <h2>Frequently Asked Questions</h2>
-            <ul>
-                <li>How accurate is the Dream Analyzer Tool?</li>
-                <li>Can I use the tool for free?</li>
-                <li>How should I describe my dream for the best results?</li>
-            </ul>
-        </Col>
-        <Col span="2" />
-    </Row>
-</Section> -->
 <script async custom-element="amp-auto-ads"
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
 </script>
@@ -192,7 +165,6 @@ const SEO = {
         `;
 
         const fullDescription = `${dreamDescription.value}\n\n${additionalInfo}`;
-        console.log(fullDescription);
 
         if (!analyzeButton || !buttonText || !dreamDescription || !analysisResult) {
             console.error('One or more elements are missing.');
