@@ -1,0 +1,33 @@
+---
+import Layout from '../layouts/Layout.astro'; // Asegúrate de que la ruta sea correcta
+import Button from '../components/ui/Button.astro';
+---
+
+<Layout>
+    <main>
+      <section class="success-message">
+        <div class="message-container">
+          <h3>Your Message Has Been <strong>Successfully</strong> Sent!</h3>
+          <p>Thank you for reaching out. We will review your message and get back to you shortly.</p>
+          <Button size="lg" link="/">Return to Homepage</Button><br><br>
+        </div>
+      </section>
+    </main>
+  </Layout>
+  
+  
+
+<style>
+    .success-message {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start; 
+      min-height: 100vh;
+      text-align: center;
+    }
+    
+    .message-container {
+      max-width: 600px;
+      margin: 20px; 
+    }
+  </style>
