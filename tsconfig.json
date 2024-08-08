@@ -3,9 +3,5 @@
   "compilerOptions": {
     "strictNullChecks": true,
     "allowJs": true
-  },
-  "include": [
-    "src/**/*",
-    "globals.d.ts"  
-  ]
+  }
 }
