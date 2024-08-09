@@ -9,13 +9,14 @@ import Hero from '../components/blocks/hero/PageHeader.astro'
 // Content
 // - SEO
 const SEO = {
-    title: 'AnalyzeMyDream | Terms of Service',
+    title: 'AnalyzeMyDream | Terms of Service and Privacy Policy',
     description:
-        "AnalyzeMyDream's terms of service outlines the rules and regulations that govern your use of our services. Please read them carefully to understand your rights and responsibilities."
+        "AnalyzeMyDream's terms of service and privacy policy outline the rules and regulations that govern your use of our services, as well as how we handle your personal information. Please read them carefully to understand your rights and responsibilities."
 }
+
 // - Page Header
 const header = {
-    title: '<strong>Terms</strong> and Conditions',
+    title: '<strong>Terms</strong> of Services and <strong>Privacy</strong> Policy.',
     text: 'Please read them carefully to understand your rights and responsibilities.'
 }
 ---
@@ -26,7 +27,7 @@ const header = {
         <div slot="sidebar">
             <h3>Introduction</h3>
             <p>
-                Welcome to AnalyzeMyDream.com! By using our services, you agree to be bound by these terms and conditions. Please read them carefully.
+                Welcome to AnalyzeMyDream.com! By using our services, you agree to be bound by these Terms of service and Privacy Policy. Please read them carefully.
             </p>
         </div>
         <div class="basic-text">
@@ -66,15 +67,15 @@ const header = {
 
             <h4>Not Professional Advice</h4>
             <p>
-                The content on our platform is based on specialized literature to provide you with a general overview of dreams. While we strive to provide accurate and useful information, dream meanings may vary. Therefore, we encourage you to use this information as a general guide and not as a definitive solution for personal experiences.
+                The content on our platform is based on specialized literature to provide you with a general overview of dreams. While we strive to provide accurate and useful information, dream meanings may vary. Therefore, we encourage you to use this information as a general guide and not as a definitive guidance for personal experiences.
             </p>
             <p>
-                The information provided on our platform is based on excerpts and summaries from academic works and should not be considered a substitute for professional advice. While the content aims to offer general perspectives, we are not qualified to provide personalized psychological advice. If you are dealing with phobias, traumas, or other emotional issues that require specialized attention, we strongly recommend consulting a mental health professional. Our content is intended to be informational and does not address specific psychological problems.
+                IMPORTANT: The information provided on our platform is based on excerpts and summaries from academic works and should not be considered a substitute for professional advice. While the content aims to offer general perspectives, we are not qualified to provide personalized psychological advice. 
             </p>
 
             <h4>Disclaimer</h4>
             <p>
-                The information available on our platform includes excerpts from academic books and specialized studies on dream interpretations. While we aim to provide valuable insights, please be aware that the accuracy of these interpretations can vary from person to person. Any decisions or actions taken based on this information are your own responsibility. For more personalized advice or if you have specific psychological concerns, we strongly recommend consulting a mental health professional.
+                The information available on our platform includes excerpts from academic books and specialized studies on dream interpretations. While we aim to provide valuable insights, please be aware that the accuracy of these interpretations can vary from person to person. Any decisions or actions taken based on this information are your own responsibility. For more personalized advice, we strongly recommend consulting a mental health professional.
             </p>
 
             <h4>Bibliography and Sources</h4>
@@ -116,12 +117,48 @@ const header = {
     </SidebarContent>
     <SidebarContent>
         <div slot="sidebar">
+            <h3>Privacy Policies</h3>
+            <p>
+                At AnalyzeMyDream.com, your privacy is important to us. This Privacy Policy explains how we use cookies, tracking technologies, and advertising to enhance your experience on our website.
+            </p>
+        </div>
+        <div class="basic-text">
+            <h4>Cookies and Tracking Technologies</h4>
+            <p>
+                We use cookies and other tracking technologies to improve our website and provide a better user experience. Cookies are small data files that are placed on your device to help us remember your preferences and understand how you use our site. This helps us analyze traffic patterns and improve our content and functionality.
+            </p>
+            <p>
+                To facilitate these improvements, we use services such as Google Analytics and Microsoft Clarity. These tools help us gather information about user interactions on our site, allowing us to identify areas for enhancement and ensure our content meets your needs. For more information on how Google Analytics and Microsoft Clarity handle your data, please refer to their privacy policies:
+                <ul>
+                    <li><a href="https://policies.google.com/privacy" target="_blank">Google Analytics Privacy Policy</a></li>
+                    <li><a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank">Microsoft Clarity Privacy Policy</a></li>
+                </ul>
+            </p>
+
+            <h4>Use of Google Ads</h4>
+            <p>
+                AnalyzeMyDream.com provides its services free of charge. To maintain and improve the website without directly charging users, we utilize Google Ads. This enables us to continue offering you free access to our tools and resources. For more information on how Google uses data for ads, please review the <a href="https://policies.google.com/privacy" target="_blank">Google Ads Privacy Policy</a>.
+            </p>
+
+            <h4>How We Use Your Information</h4>
+            <p>
+                The information collected through cookies and tracking technologies is used solely to enhance the quality of our service and user experience. We do not sell or rent your personal information to third parties. The data is used exclusively for improving our website's functionality and quality.
+            </p>
+            <p>
+                <strong>Please note that by using our site, you consent to the use of advertising, tracking technologies, and cookies as described in our Privacy Policy. If you do not agree with the use of these technologies, we kindly ask you to refrain from using our site.</strong>
+            </p>
+            
+        </div>
+        
+    </SidebarContent>
+    <SidebarContent>
+        <div slot="sidebar">
             <h3>Contact Information</h3>
             <p>
-                If you have any questions about these Terms of Service, please contact us at:
+                If you have any questions about these Terms of Service and Privacy Policies, please contact us at:
             </p>
             <ul>
-                <li>Email: contact@ivanluna.dev</li>
+                <li>Email: <a href="mailto:contact@ivanluna.dev">contact@ivanluna.dev</a></li>
             </ul>
         </div>
         <div class="basic-text">
@@ -151,7 +188,7 @@ const header = {
                 <li>Interfering with the operation of the service</li>
             </p>
 
-            <h4>Miscellaneous</h4>
+            <h3>Miscellaneous</h3>
             <p>
                 <strong>Entire Agreement:</strong> These terms constitute the entire agreement between you and AnalyzeMyDream regarding the use of the service and supersede any prior agreements.
             </p>
@@ -161,7 +198,7 @@ const header = {
             <p>
                 <strong>Waiver:</strong> Our failure to enforce any right or provision of these terms will not be considered a waiver of those rights.
             </p>
-            <p><em>Last updated: August 1, 2024</em></p>
+            <p><em>Last updated: August 9, 2024</em></p>
         </div>
     </SidebarContent>
 </Layout>
