@@ -80,6 +80,10 @@ export const footerNavigationData: FooterData = {
 				{
 					subCategory: 'Terms',
 					subCategoryLink: '/terms'
+				},
+				{
+					subCategory: 'Privacy Policy',
+					subCategoryLink: '/terms'
 				}
 			]
 		},
