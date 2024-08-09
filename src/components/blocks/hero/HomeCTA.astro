@@ -43,14 +43,18 @@ import heroImage from '../../../assets/hero-01.png'
         <Col span="2" />
         <Col span="8" align="center">
             <br><br><h3 class="text-3xl font-semibold mb-4">Unlock Insights Instantly with our <strong>Fast-AI Dream Analyzer</strong> tool.</h3>
-            <label for="dreamDescription" class="block text-lg font-medium mb-2">For a more comprehensive analysis, try the <strong><a href="/analyze" style="color: #7BC7C7; text-decoration: none;">Advanced AI-Dream Analyzer</a></strong> tool.</label>
+            
 
             <p class="text-sm text-gray-500 dark:text-gray-300 mb-4">
                 Please use this tool responsibly. The results are intended for general guidance only. <strong><a href="/faq" style="color: #7BC7C7; text-decoration: none;">Learn More.</a></strong>
             </p>            
             <form id="dreamForm" class="space-y-4">
                 <textarea id="dreamDescription" name="dreamDescription" rows="4" cols="50" minlength="30" required class="w-full p-2 border border-gray-300 rounded" placeholder="Enter a detailed description of your dream..."></textarea>
+                <label id="comprehensiveAnalysisLabel" for="dreamDescription" class="block text-lg font-medium mb-2 hidden">
+                    For a more comprehensive analysis, try the <strong><a href="/analyze" style="color: #7BC7C7; text-decoration: none;">Advanced AI-Dream Analyzer</a></strong> tool.
+                </label>
                 <p id="analysisResult" class="mt-4" style="text-align: justify;"></p>
+                
                 <div class="flex justify-center space-x-4 mt-4">
                     <button id="analyzeButton" type="submit" class="relative flex items-center justify-center text-white py-2 px-4 rounded-lg hover:bg-blue-600"
                         style="background-color: rgba(123, 199, 199, var(--tw-bg-opacity));">
@@ -59,6 +63,7 @@ import heroImage from '../../../assets/hero-01.png'
                 </div>
                 <br><br>
             </form>
+            
         </Col>
         <Col span="2" />
     </Row>
@@ -74,8 +79,9 @@ import heroImage from '../../../assets/hero-01.png'
         const buttonText = document.getElementById('buttonText');
         const dreamDescription = document.getElementById('dreamDescription');
         const analysisResult = document.getElementById('analysisResult');
+        const comprehensiveAnalysisLabel = document.getElementById('comprehensiveAnalysisLabel');
 
-        if (!analyzeButton || !buttonText || !dreamDescription || !analysisResult) {
+        if (!analyzeButton || !buttonText || !dreamDescription || !analysisResult || !comprehensiveAnalysisLabel) {
             console.error('One or more elements are missing.');
             return;
         }
@@ -96,8 +102,6 @@ import heroImage from '../../../assets/hero-01.png'
             if (response.ok) {
                 analysisResult.textContent = result.analysis;
                 buttonText.textContent = 'Try Again';
-                analyzeButton.removeEventListener('click', handleFormSubmit);
-                analyzeButton.addEventListener('click', handleClearInput);
             } else {
                 analysisResult.textContent = result.error;
                 buttonText.textContent = 'Analyze Your Dream';
@@ -107,12 +111,14 @@ import heroImage from '../../../assets/hero-01.png'
             buttonText.textContent = 'Analyze Your Dream';
         } finally {
             analyzeButton.disabled = false;
+            comprehensiveAnalysisLabel.classList.remove('hidden'); 
         }
 
         function handleClearInput() {
             dreamDescription.value = '';
             analysisResult.textContent = '';
             buttonText.textContent = 'Analyze Your Dream';
+            comprehensiveAnalysisLabel.classList.add('hidden'); 
             analyzeButton.removeEventListener('click', handleClearInput);
             analyzeButton.addEventListener('click', handleFormSubmit);
         }
