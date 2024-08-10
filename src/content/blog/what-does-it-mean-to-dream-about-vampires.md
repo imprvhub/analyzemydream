@@ -4,7 +4,7 @@ pubDate: '2024-07-27T05:00:00Z'
 description: 'Discover the various meanings of dreaming about vampires, from stalking and attack to other symbolisms.'
 author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-vampires.jpeg'
-tags: ['Animals']
+tags: ['Supernatural']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-vampires.jpeg)
