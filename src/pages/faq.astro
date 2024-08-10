@@ -15,27 +15,27 @@ const faqReferences = faqData.filter((faq) => faq.category === 'references')
 
 // - SEO
 const SEO = {
-    title: 'AnalyzeMyDream | Frequently Asked Questions',
+    title: 'AnalyzeMyDream | Preguntas Frecuentes',
     description:
-        'Find answers to common questions about our platform.'
+        'Encuentra respuestas a las preguntas comunes sobre nuestra plataforma.'
 }
 // - Page Header
 const header = {
-    title: 'Get Answers of <strong>AnalyzeMyDream.com</strong>',
-    text: 'Find answers to common questions about our platform.'
+    title: 'Obtén Respuestas de <strong>AnalyzeMyDream.com</strong>',
+    text: 'Encuentra respuestas a las preguntas comunes sobre nuestra plataforma.'
 }
 ---
 
 <Layout title={SEO.title} description={SEO.description}>
     <Hero title={header.title} text={header.text} />
     <FAQ
-        title="Understanding Our Dream Analysis Tool"
-        text="Get all the details on AnalyzeMyDream’s dream analysis tool. Learn about its features, how it works, and how it can help you gain insights into your dreams."
+        title="Comprendiendo Nuestra Herramienta de Análisis de Sueños"
+        text="Obtén todos los detalles sobre la herramienta de análisis de sueños de AnalyzeMyDream. Aprende sobre sus características, cómo funciona y cómo puede ayudarte a obtener información sobre tus sueños."
         data={faqDreamAnalysis}
     />
     <FAQ
-        title="Bibliographic Sources and References"
-        text="Discover the sources and references that form the foundation of our dream analysis articles. Learn more about the books and studies we use to ensure accurate and reliable interpretations."
+        title="Fuentes Bibliográficas y Referencias"
+        text="Descubre las fuentes y referencias que forman la base de nuestros artículos de análisis de sueños. Conoce más sobre los libros y estudios que utilizamos para asegurar interpretaciones precisas y fiables."
         data={faqReferences}
     />
     <CTA />

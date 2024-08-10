@@ -53,21 +53,22 @@ export const navigationBarData: NavData = {
 			name: 'Categories',
 			link: '#',
 			submenu: [
-			  { name: 'Abstract', link: '/blog/tags/Abstract' },
-			  { name: 'Activities', link: '/blog/tags/Activities' },
-			  { name: 'Animals', link: '/blog/tags/Animals' },
-			  { name: 'Aspirations', link: '/blog/tags/Aspirations' },
-			  { name: 'Feelings', link: '/blog/tags/Feelings' },
-			  { name: 'Food', link: '/blog/tags/Food' },
-			  { name: 'Fortune', link: '/blog/tags/Fortune' },
-			  { name: 'Health', link: '/blog/tags/Health' },
-			  { name: 'Insects', link: '/blog/tags/Insects' },
-			  { name: 'Miscellaneous', link: '/blog/tags/Miscellaneous' },
-			  { name: 'Nature', link: '/blog/tags/Nature' },
-			  { name: 'Objects-Places', link: '/blog/tags/Objects-places' },
-			  { name: 'People', link: '/blog/tags/People' },
-			  { name: 'Supernatural', link: '/blog/tags/Supernatural' },
-			  { name: 'Threatening Situations', link: '/blog/tags/Threatening%20Situations' }
+				{ name: 'Abstracto', link: '/blog/tags/Abstracto' },
+				{ name: 'Actividades', link: '/blog/tags/Actividades' },
+				{ name: 'Animales', link: '/blog/tags/Animales' },
+				{ name: 'Aspiraciones', link: '/blog/tags/Aspiraciones' },
+				{ name: 'Sentimientos', link: '/blog/tags/Sentimientos' },
+				{ name: 'Comida', link: '/blog/tags/Comida' },
+				{ name: 'Fortuna', link: '/blog/tags/Fortuna' },
+				{ name: 'Salud', link: '/blog/tags/Salud' },
+				{ name: 'Insectos', link: '/blog/tags/Insectos' },
+				{ name: 'Varios', link: '/blog/tags/Varios' },
+				{ name: 'Naturaleza', link: '/blog/tags/Naturaleza' },
+				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
+				{ name: 'Personas', link: '/blog/tags/Personas' },
+				{ name: 'Sobrenatural', link: '/blog/tags/Sobrenatural' },
+				{ name: 'Situaciones Amenazantes', link: '/blog/tags/Situaciones%20Amenazantes' }
+				
 			]
 		  },
 		

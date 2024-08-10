@@ -58,7 +58,7 @@ export const navigationBarData: NavData = {
 			link: '#',
 			submenu: [
 			  { name: 'All', link: '//tags/all' },
-			  { name: 'Abstract', link: '//tags/Abstract' },
+			  { name: 'Abstracto', link: '//tags/Abstract' },
 			  { name: 'Activities', link: '//tags/Activities' },
 			  { name: 'Animals', link: '//tags/Animals' },
 			  { name: 'Aspirations', link: '//tags/Aspirations' },
@@ -70,7 +70,7 @@ export const navigationBarData: NavData = {
 			  { name: 'Miscellaneous', link: '//tags/Miscellaneous' },
 			  { name: 'Nature', link: '//tags/Nature' },
 			  { name: 'Objects-Places', link: '//tags/Objects-places' },
-			  { name: 'People', link: '//tags/People' },
+			  { name: 'Personas', link: '//tags/People' },
 			  { name: 'Supernatural', link: '//tags/Supernatural' },
 			  { name: 'Threatening Situations', link: '//tags/Threatening%20Situations' }
 			]
