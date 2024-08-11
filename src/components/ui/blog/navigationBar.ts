@@ -53,7 +53,7 @@ export const navigationBarData: NavData = {
 			name: 'Categorías',
 			link: '#',
 			submenu: [
-				{ name: 'Surrealismo', link: '/blog/tags/Abstraccion' },
+				{ name: 'Abstracción', link: '/blog/tags/Abstraccion' },
 				{ name: 'Actividades', link: '/blog/tags/Actividades' },
 				{ name: 'Animales', link: '/blog/tags/Animales' },
 				{ name: 'Aspiraciones', link: '/blog/tags/Aspiraciones' },

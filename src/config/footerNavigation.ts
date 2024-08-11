@@ -34,10 +34,10 @@ export const footerNavigationData: FooterData = {
 	footerAbout: {
 		title: 'AnalyzeMyDream',
 		aboutText:
-			'Exploring dream meanings and enhancing self-understanding.',
+			'Descubre el significado de tus sueños.',
 		logo: {
 			src: '/logo.png',
-			alt: 'Exploring dream meanings and enhancing self-understanding.',
+			alt: 'Descubre el significado de tus sueños',
 			text: 'AnalyzeMyDream.com'
 		}
 	},
@@ -71,31 +71,32 @@ export const footerNavigationData: FooterData = {
 			*/
 
 		{
-			category: 'About us',
+			category: 'Sobre nosotros',
 			subCategories: [
 				{
-					subCategory: 'FAQ',
+					subCategory: 'Preguntas Frecuentes',
 					subCategoryLink: '/faq'
 				},
 				{
-					subCategory: 'Terms',
+					subCategory: 'Términos y condiciones',
 					subCategoryLink: '/terms'
 				},
 				{
-					subCategory: 'Privacy Policy',
+					subCategory: 'Política de Privacidad',
 					subCategoryLink: '/terms'
 				}
 			]
 		},
 		{
-			category: 'Reach out',
+			category: 'Ponte en contacto',
 			subCategories: [
 				{
-					subCategory: 'Contact',
+					subCategory: 'Contacto',
 					subCategoryLink: '/contact'
 				},
 			]
 		}
+		
 	],
 	subFooter: {
 		copywriteText: '© AnalyzeMyDream 2024.'
