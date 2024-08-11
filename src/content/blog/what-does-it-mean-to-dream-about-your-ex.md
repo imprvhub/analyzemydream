@@ -65,6 +65,3 @@ Si sueñas con frecuencia con tu ex, considera los siguientes pasos:
 - Freud, S. (1900). *La interpretación de los sueños*.
 - Carrión, E. (2007). *El inconsciente y la interpretación de los sueños*. Editorial Psicológica.
 
-Este artículo es sólo para fines informativos. AnalyzeMyDream no ofrece diagnósticos ni tratamientos. Para una evaluación más profunda, consulta con un profesional de la psicología.
-
-Para leer más sobre el significado de los sueños, visita nuestra sección [Significado de los sueños](#).

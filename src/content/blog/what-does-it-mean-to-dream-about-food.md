@@ -13,16 +13,17 @@ La comida forma parte de nuestra vida cotidiana, desde reuniones familiares hast
 
 En este artículo de AnalyzeMyDream, exploraremos qué significa soñar con comida y responderemos tus preguntas.
 
-### Índice de contenidos
+### Índice
 
 - [Significado de soñar con comida](#significado-de-soñar-con-comida)
-- [Qué significa soñar con comida en abundancia](#que-significa-soñar-con-comida-en-abundancia)
-- [Qué significa soñar con comida familiar](#que-significa-soñar-con-comida-familiar)
-- [Qué significa soñar con comida podrida](#que-significa-soñar-con-comida-podrida)
-- [Qué significa soñar con comida desperdiciada](#que-significa-soñar-con-comida-desperdiciada)
-- [Qué significa soñar con rechazar comida](#que-significa-soñar-con-rechazar-comida)
-- [Qué significa soñar con [Mariscos](#que-significa-soñar-con-mariscos)
-- [Qué significa soñar con [#que-significa-soñar-con-frutas]
+- [Qué significa soñar con comida en abundancia](#qué-significa-soñar-con-comida-en-abundancia)
+- [Qué significa soñar con comida familiar](#qué-significa-soñar-con-comida-familiar)
+- [Qué significa soñar con comida podrida](#qué-significa-soñar-con-comida-podrida)
+- [Qué significa soñar con comida desperdiciada](#qué-significa-soñar-con-comida-desperdiciada)
+- [Qué significa soñar con rechazar comida](#qué-significa-soñar-con-rechazar-comida)
+- [Qué significa soñar con mariscos](#qué-significa-soñar-con-mariscos)
+- [Qué significa soñar con frutas](#qué-significa-soñar-con-frutas)
+
 
 ### Significado de soñar con comida
 

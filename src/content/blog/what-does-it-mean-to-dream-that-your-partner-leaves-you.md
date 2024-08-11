@@ -11,9 +11,9 @@ tags: ['Sentimientos', 'Personas']
 
 # Qué significa soñar que tu pareja te deja
 
-**Descripción:** El cerebro nunca descansa, y los sueños son representaciones de las emociones y sentimientos experimentados durante el día. Soñar que tu pareja te abandona puede ser angustiante, pero no es una premonición. Este sueño puede indicar aspectos a tener en cuenta para potenciar tu futuro individual y el de tu pareja.
+**Description:** El cerebro nunca descansa, y los sueños son representaciones de las emociones y sentimientos experimentados durante el día. Soñar que tu pareja te abandona puede ser angustiante, pero no es una premonición. Este sueño puede indicar aspectos a tener en cuenta para potenciar tu futuro individual y el de tu pareja.
 
-**Autor:** AnalizaMiSueño
+**Author:** AnalizaMiSueño
 
 ---
 
@@ -23,7 +23,7 @@ tags: ['Sentimientos', 'Personas']
 2. [Significado de soñar que tu pareja te ignora](#significado-de-sonar-que-tu-pareja-te-ignora)
 3. [Significado de soñar que tu pareja te engaña](#significado-de-sonar-que-tu-pareja-te-engaña)
 4. [Qué significa soñar que tu pareja te deja](#que-significa-sonar-que-tu-pareja-te-deja)
-5. [Qué significa soñar que tu pareja te deja por alguien [sino](#que-significa-soñar-que-tu-pareja-te-deja-por-otra)
+5. [Qué significa soñar que tu pareja te deja por otra persona](#que-significa-soñar-que-tu-pareja-te-deja-por-otra)
 
 ---
 

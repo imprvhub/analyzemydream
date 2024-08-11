@@ -13,12 +13,13 @@ Soñar con exámenes puede ser una experiencia angustiante que refleja nuestras 
 
 ### Índice
 
-1. [Qué significa soñar con un examen y no saber nada](#que-significa-soñar-con-un-examen-y-no-saber-nada)
-2. [Qué significa soñar con un examen de matemáticas](#que-significa-soñar-con-un-examen-de-matemáticas)
-3. [Qué significa soñar que apruebas un examen](#que-significa-soñar-que-apruebas-un-examen)
-4. [Qué significa soñar que repruebas un examen](#que-significa-soñar-que-repruebas-un-examen)
-5. [Qué significa soñar que no tienes tiempo para hacer un examen](#que-significa-soñar-que-repruebas-un-examen) examen](#que-significa-soñar-que-no-tienes-tiempo-para-hacer-un-examen)
-6. [Qué significa soñar que repruebas un examen](#que-significa-soñar-que-no-tienes-tiempo-para-hacer-un-examen) [examen](#que-significa-soñar-que-repruebas-un-examen)
+1. [Qué significa soñar con un examen y no saber nada](#qué-significa-soñar-con-un-examen-y-no-saber-nada)
+2. [Qué significa soñar con un examen de matemáticas](#qué-significa-soñar-con-un-examen-de-matemáticas)
+3. [Qué significa soñar que apruebas un examen](#qué-significa-soñar-que-apruebas-un-examen)
+4. [Qué significa soñar que no tienes tiempo para hacer un examen](#qué-significa-soñar-que-no-tienes-tiempo-para-hacer-un-examen)
+5. [Qué significa soñar que repruebas un examen](#qué-significa-soñar-que-repruebas-un-examen)
+
+
 
 ### Qué significa soñar con un examen y no saber nada
 

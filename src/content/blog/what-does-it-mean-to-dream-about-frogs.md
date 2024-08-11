@@ -20,10 +20,11 @@ En este artículo de AnalizaMiSueño vamos a analizar qué significa soñar con 
 - [Significado de soñar con ranas verdes](#significado-de-soñar-con-ranas-verdes)
 - [Significado de soñar con ranas negras](#significado-de-soñar-con-ranas-negras)
 - [Significado de soñar con ranas de colores](#significado-de-soñar-con-ranas-de-colores)
-- [Significado de soñar con ranas pequeñas](#significado-de-soñar-con-ranas-pequenas)
-- [Qué significa soñar con ranas grandes](#que-significa-soñar-con-ranas-grandes)
-- [Qué significa soñar con ranas saltarinas](#que-significa-soñar-con-ranas-saltantes)
-- [Qué significa soñar con muertos ranas](#que-significa-soñar-con-ranas-muertas)
+- [Significado de soñar con ranas pequeñas](#significado-de-soñar-con-ranas-pequeñas)
+- [Qué significa soñar con ranas grandes](#qué-significa-soñar-con-ranas-grandes)
+- [Qué significa soñar con ranas saltarinas](#qué-significa-soñar-con-ranas-saltarinas)
+- [Qué significa soñar con ranas muertas](#qué-significa-soñar-con-ranas-muertas)
+
 
 ### Significado de soñar con ranas verdes
 

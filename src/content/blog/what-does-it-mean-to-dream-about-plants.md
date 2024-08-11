@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con plantas?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Descubre el significado de soñar con plantas, incluidas las interpretaciones de plantas verdes, plantas en macetas, plantas de interior, plantas carnívoras, plantas con flores y plantas muertas.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con plantas?'
+pubdate: '2024-07-29T05:00:00Z'
+description: 'Descubre el significado de soñar con plantas, incluidas las interpretaciones de plantas verdes, plantas en macetas, plantas de interior, plantas carnívoras, plantas con flores y plantas muertas.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-plants.jpeg'
-etiquetas: ['Naturaleza']
+tags: ['Naturaleza']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-plants.jpeg)

@@ -15,11 +15,12 @@ Para ayudarte a obtener la información que necesitas, en este artículo de Anal
 
 ### Índice
 
-- [Qué significa soñar con tu propia infidelidad](#que-significa-sonar-con-tu-propia-infidelidad)
+- [Qué significa soñar con tu propia infidelidad](#qué-significa-soñar-con-tu-propia-infidelidad)
 - [Significado de soñar con la infidelidad de otra persona](#significado-de-soñar-con-la-infidelidad-de-otra-persona)
-- [Qué significa soñar con engañar y arrepentirse de ello](#que-significa-sonar-con-engañar-y-arrepentirse de ello)
-- [Qué significa soñar con engañar y ser descubierto](#que-significa-sonar-con-engañar-y-ser-descubierto)
-- [Qué significa soñar que tu pareja te engaña delante de ti [you](#que-significa-soñar-que-tu-pareja-te-engana-delante-de-ti)
+- [Qué significa soñar con engañar y arrepentirse de ello](#qué-significa-soñar-con-engañar-y-arrepentirse-de-ello)
+- [Qué significa soñar con engañar y ser descubierto](#qué-significa-soñar-con-engañar-y-ser-descubierto)
+- [Qué significa soñar que tu pareja te engaña delante de ti](#qué-significa-soñar-que-tu-pareja-te-engaña-delante-de-ti)
+
 
 #### Qué significa soñar con tu propia infidelidad
 

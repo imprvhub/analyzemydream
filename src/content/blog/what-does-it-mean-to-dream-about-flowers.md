@@ -15,14 +15,16 @@ En este artículo de AnalyzeMyDream, exploraremos lo que significa soñar con fl
 
 ### Índice
 
-- [Qué significa soñar con flores blancas](#que-significa-soñar-con-flores-blancas)
-- [Significado de soñar con flores blancas pequeñas](#significado-de-soñar-con-flores-blancas-pequenas)
-- [Qué significa soñar con flores de distintos colores](#que-significa-sonar-con-flores-de-distintos-colores)
-- [Qué significa soñar con flores marchitas](#que-significa-sonar-con-flores-marchitas)
-- [Qué significa soñar con flores azules](#que-significa-sonar-con-flores-azules)
-- [Qué significa soñar con flores lilas](#que-significa-sonar-con-flores-lilas)
-- [Qué significa soñar con naranja [flores](#que-significa-soñar-con-flores-naranjas)
-- [Qué significa soñar con flores [Qué significa soñar con flores rojas y amarillas](#que-significa-soñar-con-flores-rojas-y-amarillas)
+- [Qué significa soñar con flores blancas](#qué-significa-soñar-con-flores-blancas)
+- [Significado de soñar con flores blancas pequeñas](#significado-de-soñar-con-flores-blancas-pequeñas)
+- [Qué significa soñar con flores de diferentes colores](#qué-significa-soñar-con-flores-de-diferentes-colores)
+- [Qué significa soñar con flores marchitas](#qué-significa-soñar-con-flores-marchitas)
+- [Qué significa soñar con flores azules](#qué-significa-soñar-con-flores-azules)
+- [Qué significa soñar con flores lilas](#qué-significa-soñar-con-flores-lilas)
+- [Qué significa soñar con flores naranjas](#qué-significa-soñar-con-flores-naranjas)
+- [Qué significa soñar con flores rosas](#qué-significa-soñar-con-flores-rosas)
+- [Qué significa soñar con flores rojas y amarillas](#qué-significa-soñar-con-flores-rojas-y-amarillas)
+
 
 ### Qué significa soñar con flores blancas
 

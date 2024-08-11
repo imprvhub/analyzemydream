@@ -15,11 +15,12 @@ Si este es tu caso y soñaste con uno de estos aparatos, en este artículo de An
 
 Índice:
 
-1. [¿Qué significa soñar con un ascensor que está fuera de control?](#que-significa-soñar-con-un-ascensor-que-está-fuera-de-control)
-2. [¿Qué significa soñar con un ascensor que se cae?](#que-significa-soñar-con-un-ascensor-que-se-cae)
-3. [¿Qué significa soñar con un ascensor que va de lado?](#que-significa-soñar-con-un-ascensor-que-va-de-lado)
-4. [¿Qué significa soñar con un ascensor que sube?](#que-significa-soñar-con-un-ascensor-que-sube)
-5. [¿Qué significa soñar con un ascensor atascado?](#que-significa-soñar-con-un-ascensor-que-sube) [ascensor](#que-significa-soñar-con-un-ascensor-atascado)
+1. [¿Qué significa soñar con un ascensor que está fuera de control?](#significado-de-soñar-con-ascensor-desbocado)
+2. [¿Qué significa soñar con un ascensor que se cae?](#significado-de-soñar-con-ascensor-que-se-caé)
+3. [¿Qué significa soñar con un ascensor que se va de lado?](#qué-significa-soñar-con-un-ascensor-que-se-va-de-lado)
+4. [¿Qué significa soñar con un ascensor que sube?](#qué-significa-soñar-con-un-ascensor-subiendo)
+5. [¿Qué significa soñar con un ascensor atascado?](#qué-significa-soñar-con-un-ascensor-atascado)
+
 
 ### Significado de Soñar con Ascensor Desbocado
 

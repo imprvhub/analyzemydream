@@ -15,9 +15,10 @@ Soñar con familia puede reflejar deseos de reconexión emocional, aspectos de t
 
 1. [Qué significa soñar con familiares fallecidos](#que-significa-sonar-con-familiares-fallecidos)
 2. [Qué significa soñar con familiares vestidos de luto](#que-significa-sonar-con-familiares-vestidos-de-luto)
-3. [Qué significa soñar con familiares que hace mucho que no veo](#que-significa-sonar-con-familiares-que-hace-mucho-que-no-veo)
+3. [Qué significa soñar con familiares que hace mucho tiempo que no veo](#que-significa-sonar-con-familiares-que-hace-mucho-tiempo-que-no-veo)
 4. [Qué significa soñar con familiares lejanos](#que-significa-sonar-con-familiares-lejanos)
-5. [Qué significa soñar con llorar [familia](#que-significa-soñar-con-familia-llorando)
+5. [Qué significa soñar con familiares llorando](#que-significa-sonar-con-familiares-llorando)
+
 
 ### Qué Significa Soñar Con Familia Fallecida
 

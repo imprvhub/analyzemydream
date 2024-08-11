@@ -20,7 +20,7 @@ En este artículo de AnalyzeMyDream, te explicaremos [qué significa soñar con 
 3. [¿Qué significa soñar con diamantes de colores?](#que-significa-soñar-con-diamantes-de-colores)
 4. [¿Qué significa soñar con diamantes grandes?](#que-significa-soñar-con-diamantes-grandes)
 5. [¿Qué significa soñar con diamantes y oro?](#que-significa-soñar-con-diamantes-y-oro)
-6. [¿Qué significa soñar con diamantes robados?](#que-significa-soñar-con-diamantes-y-oro) [diamantes](#significado-de-soñar-con-diamantes-robados)
+6. [¿Qué significa soñar con diamantes robados?](#significado-de-soñar-con-diamantes-robados)
 
 ### Significado de Soñar con Diamantes en las Manos
 

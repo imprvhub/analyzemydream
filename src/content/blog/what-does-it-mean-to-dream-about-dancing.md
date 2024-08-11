@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con bailar?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Descubre el significado de soñar con bailar en diferentes contextos y lo que tu subconsciente podría estar intentando comunicarte.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con bailar?'
+pubdate: '2024-07-29T05:00:00Z'
+description: 'Descubre el significado de soñar con bailar en diferentes contextos y lo que tu subconsciente podría estar intentando comunicarte.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-dancing.jpeg'
-etiquetas: ['Actividades']
+tags: ['Actividades']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-dancing.jpeg)
@@ -13,11 +13,12 @@ Soñar es una actividad que ocupa casi un tercio de nuestra vida. Durante el sue
 
 ### Índice
 
-- [Qué significa soñar con bailar con alguien](#que-significa-soñar-con-bailar-con-alguien)
-- [Interpretación de soñar con bailar sola](#interpretacion-de-soñar-con-bailar-sola)
-- [Qué significa soñar con bailar en pareja](#que-significa-soñar-con-bailar-en-pareja)
-- [Qué significa soñar con bailar en grupo](#que-significa-soñar-con-bailar-en-grupo)
-- [Significado de soñar con bailar en el escenario](#significado-de-soñar con-bailar-en-el-escenario)
+- [Qué significa soñar con bailar con alguien](#qué-significa-soñar-con-bailar-con-alguien)
+- [Interpretación de soñar con bailar solo](#interpretación-de-soñar-con-bailar-solo)
+- [Qué significa soñar con bailar en pareja](#qué-significa-soñar-con-bailar-en-pareja)
+- [Qué significa soñar con bailar en grupo](#qué-significa-soñar-con-bailar-en-grupo)
+- [Significado de soñar con bailar en el escenario](#significado-de-soñar-con-bailar-en-el-escenario)
+
 
 ### ¿Qué significa soñar con bailar con alguien?
 

@@ -19,7 +19,9 @@ Soñar que vuelas es uno de los sueños más comunes y a la vez intrigantes. Si 
 2. [Qué significa soñar con volar en avión](#que-significa-sonar-con-volar-en-avion)
 3. [Qué significa soñar que vuelas con tu pareja](#que-significa-sonar-que-vuelas-con-tu-pareja)
 4. [Qué significa soñar que vuelas sin alas](#que-significa-sonar-que-vuelas-sin-alas)
-5. [Qué significa soñar que vuelas y luego vuelas](#que-significa-soñar-que-vuelas-sin-alas) [Caída](#que-significa-soñar-que-estas-volando-y-luego-te-caes)
+5. [Qué significa soñar que vuelas y luego te caes](#que-significa-soñar-que-vuelas-y-luego-te-caes)
+6. [Qué significa soñar que vuelas y ser perseguido](#que-significa-soñar-que-vuelas-y-ser-perseguido)
+
 
 ### Que Significa Soñar Que Vuelas Con Los Brazos
 

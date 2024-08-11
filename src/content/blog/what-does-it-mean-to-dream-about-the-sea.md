@@ -18,7 +18,7 @@ El psicoanálisis sugiere que durante el sueño, el cerebro refleja recuerdos y 
 - [Qué significa soñar con un mar en la playa](#que-significa-sonar-con-un-mar-en-la-playa)
 - [Qué significa soñar con un mar azul](#que-significa-sonar-con-un-mar-azul)
 - [Qué significa soñar con un mar de noche](#que-significa-sonar-con-un-mar-de-noche)
-- [Qué significa soñar con un mar con [pez](#que-significa-soñar-con-un-mar-con-peces)
+- [Qué significa soñar con un mar con peces](#que-significa-sonar-con-un-mar-con-peces)
 
 ### Qué significa soñar con un mar agitado
 
@@ -50,6 +50,6 @@ Soñar con el mar lleno de peces refleja tu energía y motivación para seguir a
 
 Este artículo es meramente informativo. En AnalyzeMyDream no tenemos la facultad de hacer un diagnóstico ni recomendar un tratamiento. Te invitamos a consultar con un psicólogo para tratar tu caso particular.
 
-###Bibliografía
+### Bibliografía
 
-Sirin, M.I.*El libro de la interpretación de los sueños*. Editorial Sirio, S.A. España, 2008.
+- Sirin, M.I. *El libro de la interpretación de los sueños*. Editorial Sirio, S.A. España, 2008.

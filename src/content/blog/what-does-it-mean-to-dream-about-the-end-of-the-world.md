@@ -16,8 +16,8 @@ Despertarse sobresaltado soñando con el fin del mundo es una experiencia impact
 - [Significado de soñar con el fin del mundo con agua](#significado-de-soñar-con-el-fin-del-mundo-con-agua)
 - [Significado de soñar con el fin del mundo con fuego](#significado-de-soñar-con-el-fin-del-mundo-con-fuego)
 - [Significado de soñar con el fin del mundo con lava](#significado-de-soñar-con-el-fin-del-mundo-con-lava)
-- [Qué significa soñar con el fin del mundo y sobrevivir](#qué-significa-sonar-con-el-fin-del-mundo-y-sobrevivir)
-- [Qué significa soñar con el fin del mundo con [meteoritos](#que-significa-soñar-con-el-fin-del-mundo-con-meteoritos)
+- [Qué significa soñar con el fin del mundo y sobrevivir](#qué-significa-soñar-con-el-fin-del-mundo-y-sobrevivir)
+- [Qué significa soñar con el fin del mundo con meteoritos](#qué-significa-soñar-con-el-fin-del-mundo-con-meteoritos)
 
 ### Significado de soñar con el fin del mundo con agua
 
@@ -43,5 +43,5 @@ Este artículo es meramente informativo. En AnalyzeMyDream no tenemos la faculta
 
 ### Bibliografía
 
-Freud, S. *La interpretación de los sueños*. Ediciones Akal, 2013.
-Frígola, V. B. (2000). Ortega, Freud, el psicoanálisis y la interpretación de los sueños. *Revista de Historia de laPsicología, 21*(2), 631-658. Disponible en:[Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=68787)
+- Freud, S. *La interpretación de los sueños*. Ediciones Akal, 2013.
+- Frígola, V. B. (2000). Ortega, Freud, el psicoanálisis y la interpretación de los sueños. *Revista de Historia de la Psicología, 21*(2), 631-658. Disponible en: [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=68787)

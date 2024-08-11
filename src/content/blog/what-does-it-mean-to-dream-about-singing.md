@@ -20,7 +20,8 @@ En este artículo de AnalyzeMyDream, exploraremos en detalle qué significa soñ
 - [Significado de soñar con cantar en una iglesia](#significado-de-soñar-con-cantar-en-una-iglesia)
 - [Qué significa soñar con cantar desafinado](#que-significa-soñar-con-cantar-desafinado)
 - [Qué significa soñar con cantar y bailar](#que-significa-soñar-con-cantar-y-bailar)
-- [Qué significa soñar con cantar [opera](#que-significa-soñar-con-cantar-opera)
+- [Qué significa soñar con cantar ópera](#que-significa-soñar-con-cantar-opera)
+
 
 ### Significado de soñar con cantar en público
 

@@ -17,7 +17,7 @@ Soñar que tu pareja te engaña puede ser una experiencia angustiante. Estos sue
 2. [Qué significa soñar que tu pareja te engaña y te deja](#que-significa-sonar-que-tu-pareja-te-engaña-y-te-deja)
 3. [Qué significa soñar que tu pareja te engaña muchas veces](#que-significa-sonar-que-tu-pareja-te-engaña-muchas-veces)
 4. [Qué significa soñar que tu pareja te engaña con su ex](#que-significa-sonar-que-tu-pareja-te-engaña-con-su-ex)
-5. [Qué significa soñar que tu pareja te engaña con un [Amigo](#que-significa-soñar-que-tu-pareja-te-engaa-con-un-amigo)
+5. [Qué significa soñar que tu pareja te engaña con un Amigo](#que-significa-soñar-que-tu-pareja-te-engaa-con-un-amigo)
 
 ### Que Significa Soñar Que Tu Pareja Te Engaña Frente A Ti
 

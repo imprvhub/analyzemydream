@@ -22,9 +22,8 @@ En este artículo de AnalizaMiSueño te explicaremos con detalle qué significa 
 - [Significado de soñar que se te caen las muelas](#significado-de-soñar-que-se-te-caen-las-muelas)
 - [Qué significa soñar que te sacas los dientes](#que-significa-soñar-que-te-sacas-los-dientes)
 - [Qué significa soñar que se te mueven los dientes](#que-significa-soñar-que-se-mueven-los-dientes)
-- [Otros significados de soñar que se te caen los dientes [dientes](#que-significa-soñar-que-se-mueven-los-dientes)
-- [Otros significados de soñar que se te caen los dientes](#que-significa-soñar-que-se-mueven-los-dientes)
-[dientes](#otros-significados-de-soñar-que-se-caen-los-dientes)
+- [Otros significados de soñar que se te caen los dientes](#otros-significados-de-soñar-que-se-te-caen-los-dientes)
+
 
 #### Qué significa soñar que se te caen los dientes de arriba
 

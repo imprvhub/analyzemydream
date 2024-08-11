@@ -18,9 +18,10 @@ En este artículo de AnalizaMiSueño te explicaremos con detalle qué significa 
 - [Significado de soñar con fiesta de cumpleaños](#significado-de-soñar-con-fiesta-de-cumpleaños)
 - [Significado de soñar con fiesta de famosos](#significado-de-soñar-con-fiesta-de-famosos)
 - [Significado de soñar con fiesta con amigos](#significado-de-soñar-con-fiesta-con-amigos)
-- [Qué significa soñar con fiesta familiar](#que-significa-soñar-con-fiesta-familiar)
-- [Qué significa soñar con fiesta en mi casa](#que-significa-soñar-con-fiesta-en-mi-casa)
-- [Qué significa soñar con fiesta en casa ajena [casa](#que-significa-soñar-con-una-fiesta-en-casa-ajena)
+- [Qué significa soñar con fiesta familiar](#qué-significa-soñar-con-fiesta-familiar)
+- [Qué significa soñar con fiesta en mi casa](#qué-significa-soñar-con-una-fiesta-en-mi-casa)
+- [Qué significa soñar con fiesta en casa ajena](#qué-significa-soñar-con-una-fiesta-en-casa-ajena)
+
 
 #### Significado de soñar con fiesta de cumpleaños
 

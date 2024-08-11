@@ -15,11 +15,13 @@ En este artículo de AnalyzeMyDream, exploraremos qué significa soñar con hace
 
 ### Índice
 
-- [Qué significa soñar con hacer el amor con un desconocido](#que-significa-soñar-con-hacer-el-amor-con-un-desconocido)
-- [Qué significa soñar con hacer el amor con un conocido](#que-significa-soñar-con-hacer-el-amor-con-un-conocido)
-- [Qué significa soñar con hacer el amor con un amigo](#que-significa-soñar-con-hacer-el-amor-con-un-amigo)
-- [Qué significa soñar con hacer el amor con tu ex](#que-significa-soñar-con-hacer-el-amor-con-tu-ex)
-- [Qué significa soñar con hacer el amor con la persona que te gusta](#que-significa-soñar-con-hacer-el-amor-con-la-persona-que-te-gusta ... Qué significa soñar con hacer el amor con un [#que-significa-soñar-con-hacer-el-amor-con-una-persona-famosa]
+- [Qué significa soñar con hacer el amor con un desconocido](#qué-significa-soñar-con-hacer-el-amor-con-un-desconocido)
+- [Qué significa soñar con hacer el amor con un conocido](#qué-significa-soñar-con-hacer-el-amor-con-un-conocido)
+- [Qué significa soñar con hacer el amor con un amigo](#qué-significa-soñar-con-hacer-el-amor-con-un-amigo)
+- [Qué significa soñar con hacer el amor con tu ex](#qué-significa-soñar-con-hacer-el-amor-con-tu-ex)
+- [Qué significa soñar con hacer el amor con la persona que te gusta](#qué-significa-soñar-con-hacer-el-amor-con-la-persona-que-te-gusta)
+- [Qué significa soñar con hacer el amor con una celebridad](#qué-significa-soñar-con-hacer-el-amor-con-una-celebridad)
+
 
 ### Qué significa soñar con hacer el amor con un desconocido
 

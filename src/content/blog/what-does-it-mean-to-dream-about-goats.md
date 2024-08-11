@@ -17,13 +17,14 @@ Aunque existen diversos significados asociados a estos animales, la mayoría de 
 
 ### Índice
 
-- [Qué significa soñar con cabras atacando](#que-significa-soñar-con-cabras-atacando)
-- [Qué significa soñar con cabras con cuernos](#que-significa-soñar-con-cabras-con-cuernos)
-- [Qué significa soñar con cabras marrones](#que-significa-soñar-con-cabras-marrones)
-- [Qué significa soñar con cabras blancas](#que-significa-soñar-con-cabras-blancas)
-- [Qué significa soñar con cabras montesas](#que-significa-soñar-con-cabras-montesas)
-- [Qué significa soñar con cabras pequeñas [cabras](#que-significa-soñar-con-cabras-pequenas)
-- [Qué significa soñar con cabras muertas](#que-significa-soñar-con-cabras-muertas)
+- [Qué significa soñar con cabras atacando](#qué-significa-soñar-con-cabras-atacando)
+- [Qué significa soñar con cabras con cuernos](#qué-significa-soñar-con-cabras-con-cuernos)
+- [Qué significa soñar con cabras marrones](#qué-significa-soñar-con-cabras-marrones)
+- [Qué significa soñar con cabras blancas](#qué-significa-soñar-con-cabras-blancas)
+- [Qué significa soñar con cabras montesas](#qué-significa-soñar-con-cabras-montesas)
+- [Qué significa soñar con cabras pequeñas](#qué-significa-soñar-con-cabras-pequenas)
+- [Qué significa soñar con cabras muertas](#qué-significa-soñar-con-cabras-muertas)
+
 
 ### Qué significa soñar con cabras atacando atacan
 

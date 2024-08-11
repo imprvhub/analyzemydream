@@ -19,7 +19,7 @@ Soñar con tu amor platónico suele ser positivo y muchas veces refleja tus dese
 - [Qué significa soñar con la persona que te gusta y está con otra persona](#que-significa-sonar-con-la-persona-que-te-gusta-y-está-con-otra-persona)
 - [Qué significa soñar con la persona que te gusta y no te habla](#que-significa-sonar-con-la-persona-que-te-gusta-y-no-te-habla)
 - [Qué significa soñar con la persona que te gusta haciendo el amor](#que-significa-sonar-con-la-persona-que-te-gusta-haciendo-el-amor)
-- [Otros significados de soñar con la persona que te gusta [me gusta](#otros-significados-de-soñar-con-la-persona-que-te-gusta)
+- [Otros significados de soñar con la persona que te gusta](#otros-significados-de-sonar-con-la-persona-que-te-gusta)
 
 ### ¿Qué significa soñar con la persona que te gusta y te besa?
 
@@ -31,7 +31,7 @@ Si sueñas con la persona que te gusta acompañada de otra persona, tu subconsci
 
 ### ¿Qué significa soñar con la persona que te gusta que no te habla?
 
-Soñar con la persona que te gusta que no te habla puede reflejar tu inseguridad sobre si estás siendo correspondido. Puedes sentir que has hecho todo lo posible para llamar su atención y que todo esfuerzo parece en vano. Este sueño puede ser una señal para que consideres seguir adelante, ya que esa persona puede no compartir tus mismos sentimientos. Recuerda que hay muchas más oportunidades en el mundo. 
+Soñar con la persona que te gusta que no te habla puede reflejar tu inseguridad sobre si estás siendo correspondido. Puedes sentir que has hecho todo lo posible para llamar su atención y que todo esfuerzo parece en vano. Este sueño puede ser una señal para que consideres seguir adelante, ya que esa persona puede no compartir tus mismos sentimientos. Recuerda que hay muchas más oportunidades en el mundo.
 
 ### ¿Qué significa soñar con la persona que te gusta haciendo el amor?
 
@@ -49,6 +49,6 @@ Este artículo es meramente informativo. En AnalyzeMyDream no tenemos la autorid
 
 ### Bibliografía
 
-Borges, J.L. (2013). *El libro de los sueños*. Formato de bolsillo. 
-Freud, S. (2013). *La interpretación de los sueños* (Vol. 267). Ediciones Akal. 
-Fromm, E. (1957). *El arte de amar*. México: Ediciones Paidós Ibérica.
+- Borges, J.L. (2013). *El libro de los sueños*. Formato de bolsillo.
+- Freud, S. (2013). *La interpretación de los sueños* (Vol. 267). Ediciones Akal.
+- Fromm, E. (1957). *El arte de amar*. México: Ediciones Paidós Ibérica.

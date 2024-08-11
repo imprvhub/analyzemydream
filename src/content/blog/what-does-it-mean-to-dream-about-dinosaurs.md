@@ -13,12 +13,13 @@ Soñar con dinosaurios puede estar relacionado con recuerdos y emociones pasadas
 
 ### Índice
 
-- [Qué significa soñar con dinosaurios gigantes](#que-significa-sonar-con-dinosaurios-gigantes)
-- [Qué significa soñar con dinosaurios que atacan](#que-significa-sonar-con-dinosaurios-que-atacan)
-- [Qué significa soñar con dinosaurios velociraptores](#que-significa-sonar-con-dinosaurios-velociraptores)
-- [Qué significa soñar con dinosaurios pequeños](#que-significa-sonar-con-dinosaurios-pequenos)
-- [Qué significa soñar con dinosaurios en casa](#que-significa-sonar-con-dinosaurios-en-casa)
-- [Qué significa soñar con hablar [Dinosaurios que atacan](#que-significa-soñar-con-dinosaurios-que-hablan)
+- [Qué significa soñar con dinosaurios gigantes](#qué-significa-soñar-con-dinosaurios-gigantes)
+- [Qué significa soñar con dinosaurios que atacan](#qué-significa-soñar-con-dinosaurios-que-atacan)
+- [Qué significa soñar con dinosaurios velociraptores](#qué-significa-soñar-con-dinosaurios-velociraptores)
+- [Qué significa soñar con dinosaurios pequeños](#qué-significa-soñar-con-dinosaurios-pequeños)
+- [Qué significa soñar con dinosaurios en casa](#qué-significa-soñar-con-dinosaurios-en-casa)
+- [Qué significa soñar con dinosaurios parlantes](#qué-significa-soñar-con-dinosaurios-parlantes)
+
 
 ### Qué significa soñar con dinosaurios gigantes
 

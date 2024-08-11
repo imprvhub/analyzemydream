@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con un barco?'
-fecha de publicación: '2024-07-27T05:00:00Z'
-descripción: 'Descubre las diversas interpretaciones de soñar con barco, desde el éxito y la prosperidad hasta representar problemas y desafíos.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con un barco?'
+pubdate: '2024-07-27T05:00:00Z'
+description: 'Descubre las diversas interpretaciones de soñar con barco, desde el éxito y la prosperidad hasta representar problemas y desafíos.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-a-ship.jpeg'
-etiquetas: ['Objetos-Lugares']
+tags: ['Objetos-Lugares']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-a-ship.jpeg)

@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con números?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Descubre el significado de soñar con números en diferentes contextos: lotería, teléfono, pares y el número de cifras.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con números?'
+pubdate: '2024-07-29T05:00:00Z'
+description: 'Descubre el significado de soñar con números en diferentes contextos: lotería, teléfono, pares y el número de cifras.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-numbers.jpeg'
-etiquetas: ['varios']
+tags: ['varios']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-numbers.jpeg)
@@ -15,10 +15,11 @@ Es común soñar con elementos cotidianos como números, que utilizamos a diario
 
 ### Índice
 
-- [Significado de soñar con numeros de loteria](#significado-de-soñar con numeros-de-loteria)
+- [Significado de soñar con números de lotería](#significado-de-soñar-con-números-de-lotería)
 - [Significado de soñar con números de teléfono](#significado-de-soñar-con-números-de-teléfono)
-- [Qué significa soñar con números pares](#que-significa-soñar-con-numeros-pares)
+- [Qué significa soñar con números pares](#que-significa-soñar-con-números-pares)
 - [Qué significa soñar con números según el número de dígitos](#que-significa-soñar-con-números-según-el-número-de-dígitos)
+
 
 ### Significado de soñar con números de lotería
 

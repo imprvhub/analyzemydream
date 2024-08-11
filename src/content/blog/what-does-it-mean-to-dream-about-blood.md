@@ -20,15 +20,16 @@ Qué significa soñar con gallinas
 
 #### Índice
 
-1. [Qué significa soñar con tu propia sangre](#que-significa-sonar-con-tu-propia-sangre)
-2. [Qué significa soñar con sangrar profusamente](#que-significa-sonar-con-sangrar-profusamente)
+1. [Qué significa soñar con tu propia sangre](#qué-significa-soñar-con-tu-propia-sangre)
+2. [Qué significa soñar con sangrar profusamente](#qué-significa-soñar-con-sangrar-profusamente)
 3. [Significado de soñar con sangre menstrual](#significado-de-soñar-con-sangre-menstrual)
-4. [Qué significa soñar con sangre ajena](#que-significa-sonar-con-sangre-ajena)
+4. [Qué significa soñar con sangre ajena](#qué-significa-soñar-con-sangre-ajena)
 5. [Significado de soñar con sangre en las manos](#significado-de-soñar-con-sangre-en-las-manos)
-6. [Qué significa soñar con [Sangre y Muerte](#que-significa-soñar-con-sangre-y-muerte)
-7. [Qué Significa Soñar con Sangre Saliendo de Tus Partes Intimas](#que-significa-soñar-con-sangre-saliendo-de-tus-partes-intimas)
-8. [Significado de Soñar con Sangre en el Suelo](#significado-de-soñar-con-sangre-en-el-suelo)
-9. [Qué Significa Soñar con Sangre en la Boca](#que-significa-soñar-con-sangre-en-la-boca)
+6. [Qué significa soñar con sangre y muerte](#qué-significa-soñar-con-sangre-y-muerte)
+7. [Qué significa soñar con sangre saliendo de tus partes íntimas](#qué-significa-soñar-con-sangre-saliendo-de-tus-partes-íntimas)
+8. [Significado de soñar con sangre en el suelo](#significado-de-soñar-con-sangre-en-el-suelo)
+9. [Qué significa soñar con sangre en la boca](#qué-significa-soñar-con-sangre-en-la-boca)
+
 
 #### Qué Significa Soñar con Tu Propia Sangre
 

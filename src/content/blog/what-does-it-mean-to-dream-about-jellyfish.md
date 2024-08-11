@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con medusas?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Descubre qué significa soñar con medusas y cómo interpretar estos sueños. Conozca los diferentes significados de medusa rosada, clara, blanca y más.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con medusas?'
+pubDate: '2024-07-29T05:00:00Z'
+description: 'Descubre qué significa soñar con medusas y cómo interpretar estos sueños. Conozca los diferentes significados de medusa rosada, clara, blanca y más.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-jellyfish.jpeg'
-etiquetas: ['animales']
+tags: ['animales']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-jellyfish.jpeg)
@@ -21,7 +21,7 @@ A pesar de su belleza, con sus formas de paraguas y sus coloridos tentáculos, l
 - [Qué significa soñar con medusas blancas](#que-significa-soñar-con-medusas-blancas)
 - [Qué significa soñar con medusas que no pican](#que-significa-soñar-con-medusas-que-no-pican)
 - [Qué significa soñar con medusas pequeñas](#que-significa-soñar-con-medusas-pequeñas)
-- [Qué significa soñar con medusas [#que-significa-soñar-con-medusas-gigantes]
+- [Qué significa soñar con medusas gigantes](#que-significa-soñar-con-medusas-gigantes)
 
 ### ¿Qué significa soñar con medusas rosas?
 

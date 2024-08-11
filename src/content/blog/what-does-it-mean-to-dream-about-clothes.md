@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con ropa?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Descubre qué significa soñar con ropa, desde interpretaciones de ropa sucia hasta ropa nueva amontonada.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con ropa?'
+pubdate: '2024-07-29T05:00:00Z'
+description: 'Descubre qué significa soñar con ropa, desde interpretaciones de ropa sucia hasta ropa nueva amontonada.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-clothes.jpeg'
-etiquetas: ['Objetos-Lugares']
+tags: ['Objetos-Lugares']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-clothes.jpeg)
@@ -17,12 +17,13 @@ En AnalyseMyDream te revelaremos todos los secretos sobre lo que significa soña
 
 ### Índice
 
-- [Qué significa soñar con ropa sucia](#que-significa-soñar-con-ropa-sucia)
-- [Significado de soñar con ropa usada](#significado-de-soñar con ropa-usada)
-- [Qué significa soñar con ropa nueva](#que-significa-soñar-con-ropa-nueva)
-- [Interpretación de soñar con ropa tendida a secar](#interpretación-de-soñar-con-ropa-tendida)
-- [Qué significa soñar con ropa vieja](#que-significa-soñar-con-ropa-vieja)
-- [Significado de soñar con ropa amontonada](#significado-de-soñar con ropa-amontonada)
+- [Qué significa soñar con ropa sucia](#qué-significa-soñar-con-ropa-sucia)
+- [Significado de soñar con ropa usada](#significado-de-soñar-con-ropa-usada)
+- [Qué significa soñar con ropa nueva](#qué-significa-soñar-con-ropa-nueva)
+- [Interpretación de soñar con ropa tendida a secar](#interpretación-de-soñar-con-ropa-tendida-a-secar)
+- [Qué significa soñar con ropa vieja](#qué-significa-soñar-con-ropa-vieja)
+- [Significado de soñar con ropa amontonada](#significado-de-soñar-con-ropa-amontonada)
+
 
 ### ¿Qué significa soñar con ropa sucia?
 

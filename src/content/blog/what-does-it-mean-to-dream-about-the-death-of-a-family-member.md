@@ -15,11 +15,11 @@ En este artículo de AnalyzeMyDream te explicamos qué significa soñar con la m
 
 ### Índice
 
-- [Qué significa soñar con la muerte de un familiar vivo](#que-significa-soñar-con-la-muerte-de-un-familiar-vivo)
-- [Qué significa soñar con la muerte de un familiar fallecido](#que-significa-soñar-con-la-muerte-de-un-familiar-fallecido)
+- [Qué significa soñar con la muerte de un familiar vivo](#qué-significa-soñar-con-la-muerte-de-un-familiar-vivo)
+- [Qué significa soñar con la muerte de un familiar fallecido](#qué-significa-soñar-con-la-muerte-de-un-familiar-fallecido)
 - [Significado de soñar con la muerte de un familiar y llorar mucho](#significado-de-soñar-con-la-muerte-de-un-familiar-y-llorar-mucho)
 - [Significado de soñar con la muerte de un familiar lejano](#significado-de-soñar-con-la-muerte-de-un-familiar-lejano)
-- [Qué significa soñar con la muerte de un familiar de un [amigo](#que-significa-soñar-con-la-muerte-de-un-familiar-de-un-amigo)
+- [Qué significa soñar con la muerte de un familiar de un amigo](#qué-significa-soñar-con-la-muerte-de-un-familiar-de-un-amigo)
 
 ### Qué significa soñar con la muerte de un familiar vivo
 
@@ -55,5 +55,5 @@ Este artículo es meramente informativo. En AnalyzeMyDream no tenemos la autorid
 
 ### Bibliografía
 
-Colin, D. (2019). *La interpretación de los sueños para Dummies*. Grupo Planeta. 
-Freud, S. (1979). *Lainterpretación de los sueños*. Amorrortu Editores.
+- Colin, D. (2019). *La interpretación de los sueños para Dummies*. Grupo Planeta. 
+- Freud, S. (1979). *La interpretación de los sueños*. Amorrortu Editores.

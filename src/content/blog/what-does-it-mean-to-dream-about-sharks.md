@@ -20,7 +20,9 @@ Soñar con tiburones se asocia a ansiedad, angustia y preocupaciones, aunque tam
 - [Significado de soñar con tiburones blancos](#significado-de-soñar-con-tiburones-blancos)
 - [Qué significa soñar con tiburones grandes](#que-significa-soñar-con-tiburones-grandes)
 - [Qué significa soñar con tiburones pequeños](#que-significa-soñar-con-tiburones-pequenos)
-- [Qué significa soñar con tiburones que no atacan](#que-significa-soñar-con-tiburones-que-no-atacan... [#que-significa-soñar-con-tiburones-que-atacan)
+- [Qué significa soñar con tiburones que no atacan](#que-significa-soñar-con-tiburones-que-no-atacan)
+- [Qué significa soñar con tiburones que atacan](#que-significa-soñar-con-tiburones-que-atacan)
+
 
 #### Significado de soñar con tiburones en el mar
 

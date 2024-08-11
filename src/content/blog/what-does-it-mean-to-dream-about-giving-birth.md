@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con dar a luz?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Explora el significado de soñar con dar a luz y cómo este sueño puede simbolizar nuevos comienzos, crecimiento personal y superación de desafíos.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con dar a luz?'
+pubdate: '2024-07-29T05:00:00Z'
+description: 'Explora el significado de soñar con dar a luz y cómo este sueño puede simbolizar nuevos comienzos, crecimiento personal y superación de desafíos.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-giving-birth.jpeg'
-etiquetas: ['Aspiraciones']
+tags: ['Aspiraciones']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-giving-birth.jpeg)
@@ -15,11 +15,12 @@ Es importante recordar que los sueños son una parte misteriosa e intrigante de 
 
 ### Índice
 
-- [Que significa soñar con dar a luz sin estar embarazada](#que-significa-soñar-con-dar a luz-sin-estar-embarazada)
-- [Que significa soñar con dar a luz sin dolor](#que-significa-soñar-con-dar a luz-sin-dolor)
-- [Qué significa soñar con dar a luz en la calle](#que-significa-soñar-con-dar a luz-en-la-calle)
-- [Qué significa soñar con dar a luz a un bebé muerto](#que-significa-soñar-con-dar a luz-a-un-bebe-muerto)
-- [Qué significa soñar que otra persona está dando a luz](#que-significa-soñar-que-otra-esta-dando a luz)
+- [Qué significa soñar con dar a luz sin estar embarazada](#qué-significa-soñar-con-dar-a-luz-sin-estar-embarazada)
+- [Qué significa soñar con dar a luz sin dolor](#qué-significa-soñar-con-dar-a-luz-sin-dolor)
+- [Qué significa soñar con dar a luz en la calle](#qué-significa-soñar-con-dar-a-luz-en-la-calle)
+- [Qué significa soñar con dar a luz a un bebé muerto](#qué-significa-soñar-con-dar-a-luz-a-un-bebé-muerto)
+- [Qué significa soñar que otra persona está dando a luz](#qué-significa-soñar-que-otra-persona-está-dando-a-luz)
+
 
 ### ¿Qué significa soñar con dar a luz sin estar embarazada?
 

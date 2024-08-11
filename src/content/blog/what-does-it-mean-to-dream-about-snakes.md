@@ -24,12 +24,13 @@ Qué significa soñar con salvar a alguien
 2. [Qué significa soñar con víboras](#que-significa-soñar-con-víboras)
 3. [Qué significa soñar con serpientes](#que-significa-soñar-con-serpientes)
 4. [Qué significa soñar con serpientes de colores](#que-significa-soñar-con-serpientes-de-colores)
-5. [Qué significa soñar con serpientes pequeñas](#que-significa-sonar-con-serpientes-pequenas)
-6. [Qué significa soñar con serpientes grandes](#que-significa-soñar-con-serpientes-pequenas) serpientes](#que-significa-soñar-con-serpientes-grandes)
-7. [Qué significa soñar con serpientes en [Qué significa soñar con serpientes en el agua](#que-significa-soñar-con-serpientes-en-la-casa)
+5. [Qué significa soñar con serpientes pequeñas](#que-significa-soñar-con-serpientes-pequenas)
+6. [Qué significa soñar con serpientes grandes](#que-significa-soñar-con-serpientes-grandes)
+7. [Qué significa soñar con serpientes en la casa](#que-significa-soñar-con-serpientes-en-la-casa)
 8. [Qué significa soñar con serpientes en el agua](#que-significa-soñar-con-serpientes-en-el-agua)
-9. [Qué significa soñar con serpientes que no te hacen nada](#que-significa-soñar-con-serpientes-que-no-hacen-nada)
+9. [Qué significa soñar con serpientes que no te hacen nada](#que-significa-soñar-con-serpientes-que-no-te-hacen-nada)
 10. [Qué significa soñar con serpientes que te atacan](#que-significa-soñar-con-serpientes-que-te-atacan)
+
 
 #### La interpretación de los sueños en psicología
 

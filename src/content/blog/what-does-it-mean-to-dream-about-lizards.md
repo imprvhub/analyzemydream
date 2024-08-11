@@ -16,9 +16,10 @@ Soñar con lagartijas puede ser una experiencia desconcertante y, a veces, angus
 - [Significado de Soñar con Lagartijas Muertas](#significado-de-soñar-con-lagartijas-muertas)
 - [Significado de Soñar con Lagartijas en el Agua](#significado-de-soñar-con-lagartijas-en-el-agua)
 - [Significado de Soñar con Lagartijas Grandes](#significado-de-soñar-con-lagartijas-grandes)
-- [Qué Significa Soñar con Lagartijas Pequeñas](#que-significa-soñar-con-lagartijas-pequenas)
-- [Qué Significa Soñar con Lagartijas Que Te Atacan](#que-significa-soñar-con-lagartijas-que-te-atacan)
-- [Qué Significa Soñar con Lagartijas en el [Casa](#que-significa-soñar-con-lagartijas-en-la-casa)
+- [Qué Significa Soñar con Lagartijas Pequeñas](#qué-significa-soñar-con-lagartijas-pequeñas)
+- [Qué Significa Soñar con Lagartijas Que Te Atacan](#qué-significa-soñar-con-lagartijas-que-te-atacan)
+- [Qué Significa Soñar con Lagartijas en la Casa](#qué-significa-soñar-con-lagartijas-en-la-casa)
+
 
 ### Significado de Soñar con Lagartijas Muertas
 

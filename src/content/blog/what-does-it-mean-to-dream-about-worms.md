@@ -15,13 +15,13 @@ En este artículo de AnalizaMiSueño exploraremos qué significa soñar con lomb
 
 ### Índice
 
-- [Significado de los sueños según Sigmund Freud](#significado-de-los-suenos-según-sigmund-freud)
+- [Significado de los sueños según Sigmund Freud](#significado-de-los-suenos-segun-sigmund-freud)
 - [Qué significa soñar con gusanos que se transforman en mariposas](#que-significa-sonar-con-gusanos-que-se-transforman-en-mariposas)
 - [Qué significa soñar con gusanos en la boca](#que-significa-sonar-con-gusanos-en-la-boca)
 - [Qué significa soñar con gusanos en la cama](#que-significa-sonar-con-gusanos-en-la-cama)
 - [Qué significa soñar con gusanos en las heridas](#que-significa-sonar-con-gusanos-en-las-heridas)
-- [Significado de soñar con verde [gusanos](#significado-de-soñar-con-gusanos-verdes)
-- [Qué significa soñar con gusanos [Qué significa soñar con gusanos blancos](#que-significa-sonar-con-gusanos-blancos)
+- [Significado de soñar con gusanos verdes](#significado-de-sonar-con-gusanos-verdes)
+- [Qué significa soñar con gusanos blancos](#que-significa-sonar-con-gusanos-blancos)
 - [Qué significa soñar con gusanos vivos](#que-significa-sonar-con-gusanos-vivos)
 - [Qué significa soñar con gusanos dentro de la piel](#que-significa-sonar-con-gusanos-dentro-de-la-piel)
 - [Qué significa soñar con larvas de gusano](#que-significa-sonar-con-larvas-de-gusano)
@@ -63,7 +63,7 @@ Soñar con gusanos verdes puede tener una connotación negativa, ya que este col
 
 ### Qué significa soñar con gusanos blancos
 
-El color blanco en sueños simboliza pureza, luz,y perfección. Soñar con gusanos blancos puede indicar que estás experimentando un crecimiento personal y espiritual puro y deslumbrante. Este sueño sugiere que estás avanzando hacia un estado deseado de crecimiento y desarrollo.
+El color blanco en sueños simboliza pureza, luz, y perfección. Soñar con gusanos blancos puede indicar que estás experimentando un crecimiento personal y espiritual puro y deslumbrante. Este sueño sugiere que estás avanzando hacia un estado deseado de crecimiento y desarrollo.
 
 ### Qué significa soñar con gusanos vivos
 

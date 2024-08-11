@@ -13,12 +13,13 @@ El mundo onírico está lleno de elementos que tienden a confundir si no conocem
 
 ### Índice
 
-- [Qué significa soñar con una piscina grande](#que-significa-soñar-con-una-piscina-grande)
-- [Qué significa soñar con una piscina llena de agua](#que-significa-soñar-con-una-piscina-llena-de-agua)
-- [Qué significa soñar con una piscina vacía](#que-significa-soñar-con-una-piscina-vacia)
-- [Qué significa soñar con una piscina con agua limpia](#que-significa-soñar-con-una-piscina-con-agua-limpia)
-- [Qué significa soñar con una piscina sucia](#que-significa-soñar-con-una-piscina-sucia)
-- [Qué significa soñar con una piscina llena de [gente](#que-significa-soñar-con-una-piscina-llena-de-gente)
+- [Qué significa soñar con una piscina grande](#significado-de-soñar-con-piscina-grande)
+- [Qué significa soñar con una piscina llena de agua](#significado-de-soñar-con-piscina-llena-de-agua)
+- [Qué significa soñar con una piscina vacía](#significado-de-soñar-con-piscina-vacía)
+- [Qué significa soñar con una piscina con agua limpia](#qué-significa-soñar-con-una-piscina-de-agua-limpia)
+- [Qué significa soñar con una piscina sucia](#qué-significa-soñar-con-una-piscina-sucia)
+- [Qué significa soñar con una piscina llena de gente](#qué-significa-soñar-con-una-piscina-llena-de-gente)
+
 
 #### Significado de soñar con piscina grande
 

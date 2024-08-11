@@ -17,7 +17,7 @@ Un sueño adquiere mayor significado cuando una trama se repite de forma recurre
 - [Qué significa soñar que se te cae el pelo a mechones](#que-significa-sonar-que-se-te-cae-el-pelo-a-mechones)
 - [Significado de soñar que me falta pelo en la cabeza](#significado-de-soñar-que-me-falta-pelo-en-la-cabeza)
 - [Qué significa soñar que te estás quedando calvo](#que-significa-sonar-que-te-estás-quedando-calvo)
-- [Qué significa soñar que a otra persona se le cae el pelo [out](#que-significa-soñar-que-a-otra-persona-se-le-cae-el-cabello)
+- [Qué significa soñar que a otra persona se le cae el pelo](#que-significa-soñar-que-a-otra-persona-se-le-cae-el-cabello)
 
 ### Qué significa soñar que se te cae el cabello
 

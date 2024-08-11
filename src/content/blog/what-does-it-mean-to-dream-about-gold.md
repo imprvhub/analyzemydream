@@ -1,10 +1,10 @@
 ---
-título: '¿Qué significa soñar con oro?'
-fecha de publicación: '2024-07-29T05:00:00Z'
-descripción: 'Descubre los significados de soñar con oro en diferentes contextos, desde oro robado hasta joyas y monedas de oro.'
-autor: 'AnalyzeMyDream'
+title: '¿Qué significa soñar con oro?'
+pubdate: '2024-07-29T05:00:00Z'
+description: 'Descubre los significados de soñar con oro en diferentes contextos, desde oro robado hasta joyas y monedas de oro.'
+author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-gold.jpeg'
-etiquetas: ['Fortuna']
+tags: ['Fortuna']
 ---
 
 ![asset](/blog/what-does-it-mean-to-dream-about-gold.jpeg)
@@ -18,10 +18,11 @@ En este artículo de AnalyseMyDream te brindaremos toda la información necesari
 
 ### Índice
 
-- [Significado de soñar con oro robado](#significado-de-soñar con oro-robado)
-- [Significado de soñar con oro enterrado](#significado-de-soñar con oro-enterrado)
-- [Qué significa soñar con joyas de oro](#que-significa-soñar-con-joyas-de-oro)
-- [Qué significa soñar con monedas de oro](#que-significa-soñar-con-monedas-de-oro)
+- [Significado de soñar con oro robado](#significado-de-soñar-con-oro-robado)
+- [Significado de soñar con oro enterrado](#significado-de-soñar-con-oro-enterrado)
+- [Qué significa soñar con joyas de oro](#qué-significa-soñar-con-joyas-de-oro)
+- [Qué significa soñar con monedas de oro](#qué-significa-soñar-con-monedas-de-oro)
+
 
 ### Significado de soñar con oro robado
 
