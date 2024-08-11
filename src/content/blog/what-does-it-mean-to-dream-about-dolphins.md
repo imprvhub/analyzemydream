@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con delfines?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con delfines y cómo este sueño puede simbolizar inteligencia emocional y actitud positiva. Explora diferentes interpretaciones según el contexto del sueño.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-dolphins.jpeg'
 tags: ['Animales']
 ---

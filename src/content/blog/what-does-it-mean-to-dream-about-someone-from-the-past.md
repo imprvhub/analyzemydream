@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con alguien del pasado?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con alguien del pasado, desde viejos amores hasta personas que te hicieron daño.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-someone-from-the-past.jpeg'
 tags: ['Personas']
 ---

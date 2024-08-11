@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con alguien que te ha lastimado?'
 pubdate: '2024-07-27T05:00:00Z'
 description: 'Explora los diferentes significados de soñar con personas que te han hecho daño, desde la necesidad de resolver emociones no procesadas hasta el deseo inconsciente de venganza.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg'
 tags: ['Personas']
 ---

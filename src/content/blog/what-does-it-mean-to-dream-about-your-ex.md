@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con tu ex?'
 pubDate: '2024-06-05T05:00:00Z'
 description: 'Descubre las interpretaciones psicológicas y simbólicas de soñar con tu ex, incluidos los sueños sobre relaciones, celos y reconciliación.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-your-ex.jpeg'
 tags: ['Personas', 'Sentimientos']
 ---

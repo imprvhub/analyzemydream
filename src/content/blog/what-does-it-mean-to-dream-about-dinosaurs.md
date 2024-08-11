@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con dinosaurios?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con dinosaurios en diversos contextos, desde dinosaurios gigantes hasta dinosaurios parlantes. Conoce lo que tu subconsciente podría estar comunicándote.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-dinosaurs.jpeg'
 tags: ['Animales']
 ---

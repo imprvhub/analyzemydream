@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cantar?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con cantar. Conoce las interpretaciones para cantar en público, en un concierto, etc.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-singing.jpeg'
 tags: ['Actividades']
 ---

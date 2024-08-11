@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con nieve?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con nieve en diferentes contextos: copos cayendo, nieve en las montañas, artificial e hielo.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-snow.jpeg'
 tags: ['Naturaleza']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con el fin del mundo?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre las interpretaciones de soñar con el fin del mundo. Aprende qué significa soñar con el fin del mundo con agua, fuego, lava, meteoritos y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-end-of-the-world.jpeg'
 tags: ['Surrealismo']
 ---

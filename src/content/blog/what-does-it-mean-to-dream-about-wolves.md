@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con lobos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre la interpretación de los sueños con lobos, desde los lobos blancos hasta los lobos que atacan o protegen. Aprende qué simbolizan estos sueños y cómo pueden reflejar tu estado emocional.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-wolves.jpeg'
 tags: ['Animales']
 ---

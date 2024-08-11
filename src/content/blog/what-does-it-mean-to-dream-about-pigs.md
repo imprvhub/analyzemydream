@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cerdos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con cerdos y cómo varía según el contexto del sueño, desde cerdos pequeños hasta cerdos grandes.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-pigs.jpeg'
 tags: ['Animales']
 ---

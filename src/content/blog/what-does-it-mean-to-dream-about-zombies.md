@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con zombis?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con zombis, desde sensaciones de amenaza hasta estrés por cambios importantes.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-zombies.jpeg'
 tags: ['Surrealismo']
 ---

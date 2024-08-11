@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con hacer las maletas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con hacer las maletas y cómo interpretar este tipo de sueños según el psicoanálisis.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-packing-bags.jpeg'
 tags: ['Actividades']
 ---

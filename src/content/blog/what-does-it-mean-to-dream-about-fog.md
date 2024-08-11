@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con niebla?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con niebla en diferentes contextos, desde niebla blanca hasta niebla en la playa.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-fog.jpeg'
 tags: ['Naturaleza']
 ---

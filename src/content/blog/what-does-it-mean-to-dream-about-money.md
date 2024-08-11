@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con dinero?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Analiza las variadas interpretaciones psicológicas y simbólicas de los sueños que involucran dinero, para descubrir los significados subyacentes de estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-money.jpeg'
 tags: ['Fortuna']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con fantasmas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con fantasmas y cómo diferentes escenarios pueden reflejar aspectos de tus emociones y preocupaciones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-ghosts.jpeg'
 tags: ['Surrealismo']
 ---

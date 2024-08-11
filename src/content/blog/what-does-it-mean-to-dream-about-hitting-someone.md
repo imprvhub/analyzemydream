@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con golpear a alguien?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora las interpretaciones de soñar con golpear a alguien, desde la necesidad de resolver conflictos hasta el manejo de las emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg'
 tags: ['Sentimientos']
 ---

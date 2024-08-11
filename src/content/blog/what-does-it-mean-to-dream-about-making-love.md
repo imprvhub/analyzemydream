@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con hacer el amor?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con hacer el amor y cómo interpretar este tipo de sueño según el psicoanálisis.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-making-love.jpeg'
 tags: ['Actividades']
 ---

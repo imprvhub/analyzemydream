@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con chocolate?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con chocolate, desde chocolate negro hasta pastel de chocolate, y descubre lo que tu subconsciente podría estar revelando.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-chocolate.jpeg'
 tags: ['Comida']
 ---

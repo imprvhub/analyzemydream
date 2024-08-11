@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con perderse?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con perderse, incluyendo interpretaciones de perderse en una ciudad, en la calle, en el mar, de noche y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-getting-lost.jpeg'
 tags: ['Abstraccion']
 ---

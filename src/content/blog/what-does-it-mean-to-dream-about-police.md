@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con policías?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con policías, incluyendo interpretaciones sobre policías corruptos, policías muertos, policías que te persiguen, tiroteos y mujeres policías.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-police.jpeg'
 tags: ['Situaciones Amenazantes']
 ---

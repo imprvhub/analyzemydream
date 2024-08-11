@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ovejas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con ovejas, desde prosperidad y seguridad hasta traición y miedo.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-sheep.jpeg'
 tags: ['Animales']
 ---

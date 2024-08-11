@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con joyas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con joyas y cómo las diferentes interpretaciones pueden reflejar aspectos de tu vida y deseos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-jewels.jpeg'
 tags: ['Objetos-Lugares']
 ---

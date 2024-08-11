@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cangrejos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con cangrejos. Explora interpretaciones relacionadas con cangrejos grandes, cangrejos pequeños, cangrejos muertos y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-crabs.jpeg'
 tags: ['Animales']
 ---

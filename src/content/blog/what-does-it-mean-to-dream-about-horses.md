@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con caballos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con caballos. Explora las interpretaciones de los caballos blancos, marrones, corriendo, muertos y desbocados.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-horses.jpeg'
 tags: ['Animales']
 ---

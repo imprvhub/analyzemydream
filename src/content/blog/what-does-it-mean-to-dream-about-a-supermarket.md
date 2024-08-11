@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con un supermercado?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar con un supermercado, desde carencias emocionales hasta la búsqueda de independencia.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-a-supermarket.jpeg'
 tags: ['Varios']
 ---

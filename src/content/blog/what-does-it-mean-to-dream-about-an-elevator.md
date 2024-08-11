@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con un ascensor?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diversos significados de soñar con un ascensor, desde la falta de control emocional hasta el deseo de superación y el estancamiento.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg'
 tags: ['Objetos-Lugares']
 ---

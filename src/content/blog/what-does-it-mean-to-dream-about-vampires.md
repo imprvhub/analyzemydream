@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con vampiros?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diversos significados de soñar con vampiros, desde acecho y ataque hasta otros simbolismos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-vampires.jpeg'
 tags: ['Surrealismo']
 ---

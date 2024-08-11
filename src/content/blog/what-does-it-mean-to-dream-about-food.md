@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con comida?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora los significados de soñar con comida en diferentes contextos y cómo estos sueños reflejan aspectos emocionales y psicológicos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-food.jpeg'
 tags: ['Comida']
 ---

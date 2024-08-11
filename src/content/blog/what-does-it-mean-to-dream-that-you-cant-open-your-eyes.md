@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que no puedes abrir los ojos?'
 pubDate: '2024-07-28T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar que no puedes abrir los ojos, desde la inseguridad y el miedo hasta la parálisis del sueño.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-cant-open-your-eyes.jpeg'
 tags: ['Varios']
 ---

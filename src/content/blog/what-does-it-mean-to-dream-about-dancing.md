@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con bailar?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con bailar en diferentes contextos y lo que tu subconsciente podría estar intentando comunicarte.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-dancing.jpeg'
 tags: ['Actividades']
 ---

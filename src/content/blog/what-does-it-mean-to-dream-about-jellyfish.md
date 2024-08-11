@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con medusas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué significa soñar con medusas y cómo interpretar estos sueños. Conozca los diferentes significados de medusa rosada, clara, blanca y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-jellyfish.jpeg'
 tags: ['Animales']
 ---

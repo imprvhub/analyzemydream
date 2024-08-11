@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con una operación?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar con una operación, desde cirugías de corazón hasta operaciones de cerebro y riñón.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-an-operation.jpeg'
 tags: ['Salud']
 ---

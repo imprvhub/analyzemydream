@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con enfermedades?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar con enfermedades, desde enfermedades terminales hasta enfermedades cardíacas, y cómo estos sueños reflejan tus miedos y ansiedades.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-illness.jpeg'
 tags: ['Salud']
 ---

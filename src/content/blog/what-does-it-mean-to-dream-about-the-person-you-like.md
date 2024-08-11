@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con la persona que te gusta?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con la persona que te gusta, ya sea que te esté besando, estando con otra persona, sin hablarte o haciendo el amor.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg'
 tags: ['Personas']
 ---

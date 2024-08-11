@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con piojos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con piojos, incluyendo interpretaciones de piojos en la cabeza, en cabezas ajenas, blancos y negros, y eliminación de piojos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-lice.jpeg'
 tags: ['Insectos']
 ---

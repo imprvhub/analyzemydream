@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con tigres?'
 pubDate: '2024-07-28T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con tigres, desde la representación de fuerza y ​​liderazgo hasta el reflejo de tus miedos internos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-tigers.jpeg'
 tags: ['Animales']
 ---

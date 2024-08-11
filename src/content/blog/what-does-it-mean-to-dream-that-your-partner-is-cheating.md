@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que tu pareja te engaña?'
 pubDate: 2024-06-04T05:00:00Z
 description: 'Explora las interpretaciones psicológicas y simbólicas de los sueños en los que tu pareja te engaña, para descubrir los significados detrás de estas experiencias oníricas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg'
 tags: [ 'Personas']
 ---

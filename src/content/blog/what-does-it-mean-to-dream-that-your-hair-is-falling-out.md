@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que se te cae el pelo?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar que se te cae el pelo, desde la preocupación por la imagen personal hasta el miedo a envejecer.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-your-hair-is-falling-out.jpeg'
 tags: ['Varios']
 ---

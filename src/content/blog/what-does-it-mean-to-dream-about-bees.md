@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con abejas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora los significados de soñar con abejas, desde su relación con el trabajo y la abundancia hasta los posibles aspectos negativos que pueden indicar.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-bees.jpeg'
 tags: ['Animales']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con una infidelidad?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con una infidelidad, desde la inseguridad personal hasta los problemas de comunicación en la pareja.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg'
 tags: ['Sentimientos','Sentimientos']
 ---

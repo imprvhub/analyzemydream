@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que mueres?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Explora las diversas interpretaciones de soñar con tu propia muerte, desde la sensación de agobio hasta el simbolismo del renacimiento.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-die.jpeg'
 tags: ['Situaciones Amenazantes']
 ---

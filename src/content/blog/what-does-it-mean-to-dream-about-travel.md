@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con viajar?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con viajar, desde la necesidad de cambios radicales en la vida hasta la consecución de metas propuestas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-travel.jpeg'
 tags: ['Actividades']
 ---

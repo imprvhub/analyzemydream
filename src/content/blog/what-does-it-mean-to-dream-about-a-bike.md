@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con una bicicleta?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con una bicicleta, desde una bicicleta nueva hasta una sin frenos, y cómo interpretar estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-a-bike.jpeg'
 tags: ['Objetos-Lugares']
 ---

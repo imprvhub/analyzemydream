@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con llegar tarde?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre las interpretaciones de soñar con llegar tarde a eventos importantes como el trabajo, la escuela, una boda, un examen, una cita o un vuelo. Comprende cómo estos sueños reflejan ansiedad, estrés y otros sentimientos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-being-late.jpeg'
 tags: ['Actividades']
 ---

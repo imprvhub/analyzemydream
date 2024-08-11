@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con personas muertas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con personas muertas, desde verlas vivas hasta conversaciones y sueños con personas fallecidas. Comprende los posibles mensajes y simbolismos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-dead-people.jpeg'
 tags: ['Situaciones Amenazantes']
 ---

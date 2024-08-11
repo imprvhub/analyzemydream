@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te roban?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar que te roban, desde la invasión de la privacidad hasta el reflejo de tu ansiedad.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-are-being-robbed.jpeg'
 tags: ['Situaciones Amenazantes']
 ---

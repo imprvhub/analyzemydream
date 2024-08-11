@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con oro?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con oro en diferentes contextos, desde oro robado hasta joyas y monedas de oro.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-gold.jpeg'
 tags: ['Fortuna']
 ---

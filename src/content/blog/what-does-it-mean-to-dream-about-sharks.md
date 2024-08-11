@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con tiburones?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con tiburones, desde la ansiedad y la angustia hasta la fortaleza y la motivación.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-sharks.jpeg'
 tags: ['Animales']
 ---

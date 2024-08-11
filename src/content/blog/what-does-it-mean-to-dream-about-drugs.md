@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con drogas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora los significados de soñar con drogas en diferentes contextos, incluida la presencia de la policía, fiestas, dinero, amigos y armas. Comprende lo que tu subconsciente puede estar tratando de comunicar.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-drugs.jpeg'
 tags: ['Situaciones amenazantes']
 ---

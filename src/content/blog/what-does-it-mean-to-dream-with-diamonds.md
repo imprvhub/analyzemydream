@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con diamantes?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diversos significados de soñar con diamantes, desde la representación de la abundancia y el éxito hasta la interpretación de sueños específicos relacionados con estas preciosas gemas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-diamonds.jpeg'
 tags: ['Objetos-Lugares']
 ---

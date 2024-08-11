@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cucarachas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con cucarachas y cómo estos sueños pueden reflejar tus miedos, preocupaciones y necesidad de cambio en la vida.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-cockroaches.jpeg'
 tags: ['Insectos']
 ---

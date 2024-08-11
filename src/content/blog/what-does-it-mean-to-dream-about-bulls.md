@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con toros?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diferentes interpretaciones de soñar con toros, desde la fuerza y ​​la tenacidad hasta las amenazas e inseguridades.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-bulls.jpeg'
 tags: ['Animales']
 ---

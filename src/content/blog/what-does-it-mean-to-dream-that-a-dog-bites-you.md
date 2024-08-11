@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te muerde un perro?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con ser mordido por un perro, desde la traición hasta la ansiedad y el estrés.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-a-dog-bites-you.jpeg'
 tags: ['Animales']
 ---

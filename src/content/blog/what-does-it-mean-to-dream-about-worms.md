@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con gusanos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué simbolizan los gusanos en tus sueños y cómo interpretar su significado en función del contexto y los detalles del sueño.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-worms.jpeg'
 tags: ['Insectos']
 ---

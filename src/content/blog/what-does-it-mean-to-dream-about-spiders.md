@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con arañas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora los diversos significados de soñar con arañas y lo que podrían estar diciendo sobre ti.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-spiders.jpeg'
 tags: ['Insectos']
 ---

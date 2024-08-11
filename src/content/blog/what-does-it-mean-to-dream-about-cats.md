@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con gatos?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con gatos y cómo la presencia de estos felinos en tus sueños puede reflejar aspectos de tu vida emocional e intuición.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-cats.jpeg'
 tags: ['Animales']
 ---

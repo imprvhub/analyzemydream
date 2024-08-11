@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te matan?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Explora el significado de soñar que te matan, desde el simbolismo de los cambios personales hasta el impacto emocional de estas pesadillas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-they-kill-you.jpeg'
 tags: ['Situaciones amenazantes']
 ---

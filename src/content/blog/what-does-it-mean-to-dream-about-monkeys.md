@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con monos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué simboliza soñar con monos según la psicología y el psicoanálisis. Aprende a interpretar estos sueños y qué reflejan sobre tu personalidad y situación actual.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-monkeys.jpeg'
 tags: ['Animales']
 ---

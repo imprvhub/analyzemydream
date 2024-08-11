@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con goteras?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con goteras y cómo interpretar sus diversas manifestaciones en tu vida.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-leaks.jpeg'
 tags: ['Varios']
 ---

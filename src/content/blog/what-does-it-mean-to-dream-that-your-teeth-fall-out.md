@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que se te caen los dientes?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diferentes interpretaciones de soñar que se te caen los dientes, desde la inseguridad hasta el miedo al cambio.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-your-teeth-fall-out.jpeg'
 tags: ['Varios']
 ---

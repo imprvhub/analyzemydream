@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que vuelves con tu ex?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Explora las diferentes interpretaciones psicológicas de soñar con tu ex y lo que puede significar para tu bienestar emocional.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg'
 tags: ['Sentimientos', 'Personas']
 ---

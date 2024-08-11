@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con correr?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con correr, desde alcanzar nuevos horizontes hasta deseos de escapar de la rutina.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-running.jpeg'
 tags: ['Actividades']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con comprar una casa?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con comprar una casa y cómo este sueño puede reflejar aspectos de confianza, independencia y protección familiar, según el tipo de casa y el contexto del sueño.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg'
 tags: ['Aspiraciones']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con conejos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con conejos y cómo este tipo de sueños puede reflejar aspectos positivos como prosperidad y satisfacción personal, dependiendo del contexto y del tipo de conejo.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-rabbits.jpeg'
 tags: ['Animales']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con personajes famosos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué significa soñar con personajes famosos y cómo estos sueños pueden reflejar tus deseos de reconocimiento, creatividad y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/que-significa-sonar-con-personas-famosas.jpeg'
 tags: ['Personas']
 ---

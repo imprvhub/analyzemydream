@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con lluvia?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con lluvia, desde lluvia nocturna hasta lluvia de meteoritos. Aprenda cómo estos sueños reflejan sus emociones y situaciones personales.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-rain.jpeg'
 tags: ['Naturaleza']
 ---

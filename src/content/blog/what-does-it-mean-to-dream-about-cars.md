@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con coches?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con coches en diversas circunstancias y cómo estos sueños pueden reflejar tus emociones y situaciones actuales.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-cars.jpeg'
 tags: ['Objetos-Lugares']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con un tsunami?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar con un tsunami, desde cambios inesperados en tu vida hasta reflejos de tu estado emocional.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-a-tsunami.jpeg'
 tags: ['Naturaleza']
 ---

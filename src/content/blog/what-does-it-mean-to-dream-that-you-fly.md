@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que vuelas?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diversos significados de soñar que vuelas, desde representar libertad y empoderamiento hasta interpretar sentimientos de inseguridad.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-fly.jpeg'
 tags: ['Actividades']
 ---

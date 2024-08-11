@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con osos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con osos, desde la soledad y la ira hasta la perseverancia y el éxito.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-bears.jpeg'
 tags: ['Animales']
 ---

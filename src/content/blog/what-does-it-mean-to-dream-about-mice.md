@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ratones?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre lo que significa soñar con ratones, incluyendo interpretaciones de ratones blancos, vivos, muertos y pequeños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-mice.jpeg'
 tags: ['Animales']
 ---

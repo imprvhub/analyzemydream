@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con aviones?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con aviones en diferentes contextos y lo que tu subconsciente podría estar comunicándote.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-airplanes.jpeg'
 tags: ['Objetos-Lugares']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con salvar a alguien?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre el significado de soñar con salvar a alguien, desde salvarlo de la muerte hasta rescatarlo de una serpiente.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-saving-someone.jpeg'
 tags: ['Personas']
 ---

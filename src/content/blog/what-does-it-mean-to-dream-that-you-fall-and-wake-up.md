@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te caes y despiertas?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Explora las posibles interpretaciones de soñar que te caes y despiertas, desde la confusión y la vergüenza hasta las sacudidas mioclónicas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-fall-and-wake-up.jpeg'
 tags: ['Varios']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con vidrios rotos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con vidrios rotos y cómo este tipo de sueños puede reflejar diversos aspectos de tu vida, desde la comunicación hasta los conflictos personales.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg'
 tags: ['Situaciones Amenazantes']
 ---

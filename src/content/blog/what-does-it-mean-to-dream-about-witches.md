@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con brujas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con brujas en diferentes contextos, incluyendo brujas volando, atacando y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-witches.jpeg'
 tags: ['Surrealismo']
 ---

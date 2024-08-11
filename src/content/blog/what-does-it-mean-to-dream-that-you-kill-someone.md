@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que matas a alguien?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Descubre las interpretaciones psicológicas de soñar con matar a alguien, y lo que estos sueños pueden reflejar sobre tu estado emocional.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-kill-someone.jpeg'
 tags: ['Situaciones amenazantes']
 ---

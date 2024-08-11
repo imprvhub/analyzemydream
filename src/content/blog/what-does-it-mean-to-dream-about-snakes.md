@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con serpientes?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con serpientes, desde simbolizar una amenaza hasta representar una transformación personal.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-snakes.jpeg'
 tags: ['Animales']
 ---

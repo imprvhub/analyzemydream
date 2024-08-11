@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con desconocidos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con desconocidos. Descubre cómo estos sueños reflejan aspectos de tu propio ser y qué señales pueden estar enviándote.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-strangers.jpeg'
 tags: ['Personas']
 ---

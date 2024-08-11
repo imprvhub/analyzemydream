@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con dragones?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Descubre los diversos significados de soñar con dragones, desde representar poder y fuerza hasta simbolizar miedos internos y desafíos personales.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-dragons.jpeg'
 tags: ['Surrealismo']
 ---

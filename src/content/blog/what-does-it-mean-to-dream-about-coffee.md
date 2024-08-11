@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con café?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con café. Explora interpretaciones relacionadas con el café molido, el café en grano, el café maduro y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-coffee.jpeg'
 tags: ['Comida']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con libros?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué significa soñar con libros, ya sean viejos, nuevos, antiguos, desordenados o mojados. Explora cómo estos sueños reflejan tus deseos de cambio, crecimiento personal y evaluación de relaciones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-books.jpeg'
 tags: ['Objetos-Lugares']
 ---

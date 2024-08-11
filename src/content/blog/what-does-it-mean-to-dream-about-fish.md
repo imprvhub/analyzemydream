@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con peces?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con peces, desde la abundancia hasta el bienestar emocional y la libertad.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-fishes.jpeg'
 tags: ['Animales']
 ---

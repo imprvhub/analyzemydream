@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te casas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con una boda, ya sea con tu pareja, expareja o alguien que no conoces. Explora cómo estos sueños reflejan tus deseos y miedos inconscientes.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-are-getting-married.jpeg'
 tags: ['Aspiraciones']
 ---

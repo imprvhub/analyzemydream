@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con pulgas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con pulgas, incluyendo interpretaciones de pulgas en el cuerpo, cabeza, un perro, la cama, la ropa y el suelo.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-fleas.jpeg'
 tags: ['Insectos']
 ---

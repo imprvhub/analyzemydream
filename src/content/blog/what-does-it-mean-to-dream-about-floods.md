@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con inundaciones?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con inundaciones y cómo interpretar las diferentes situaciones que aparecen en estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-floods.jpeg'
 tags: ['Naturaleza']
 ---

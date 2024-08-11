@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ratas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con ratas, incluidas las interpretaciones de ratas grandes, blancas, muertas, que muerden y que corren.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-rats.jpeg'
 tags: ['Animales']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con la playa?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con la playa y cómo diferentes aspectos del sueño, como la limpieza del agua o la presencia de familiares, pueden influir en su interpretación.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-beach.jpeg'
 tags: ['Actividades']
 ---

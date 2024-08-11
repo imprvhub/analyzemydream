@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cabras?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con cabras. Descubre qué representan en tus sueños las cabras muertas, las cabras marrones, las cabras blancas y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-goats.jpeg'
 tags: ['Animales']
 ---

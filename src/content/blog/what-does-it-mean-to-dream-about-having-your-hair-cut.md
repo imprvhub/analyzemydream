@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cortarse el pelo?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con cortarse o cortarse el pelo. Explora las interpretaciones de estos sueños y cómo pueden reflejar aspectos de tu vida.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-having-your-hair-cut.jpeg'
 tags: ['Varios']
 ---

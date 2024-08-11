@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ángeles?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con ángeles y lo que podrían estar diciendo sobre tu vida y espiritualidad.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-angels.jpeg'
 tags: ['Surrealismo']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con una persona?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Analiza las diversas interpretaciones psicológicas y simbólicas de los sueños que involucran a personas para descubrir los significados subyacentes de estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-a-person.jpeg'
 tags: ['Personas']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con frutas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con frutas y cómo los diferentes tipos de frutas pueden reflejar aspectos importantes de tu vida y emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-fruits.jpeg'
 tags: ['Comida']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con familia?'
 pubDate: '2024-06-04T05:00:00Z'
 description: 'Descubre las interpretaciones psicológicas y simbólicas de los sueños sobre la familia, ya sea que estén muertos, lejos o llorando.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-family.jpeg'
 tags: ['Personas']
 ---

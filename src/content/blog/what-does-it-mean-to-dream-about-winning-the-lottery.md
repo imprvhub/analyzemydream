@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ganarse la lotería?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con ganar la lotería y cómo estos sueños pueden reflejar tus deseos, emociones y expectativas en la vida.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-winning-the-lottery.jpeg'
 tags: ['Fortuna']
 ---

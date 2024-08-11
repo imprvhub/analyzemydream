@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con amigos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con amigos, desde amigos muertos hasta amigos desconocidos, y lo que estos sueños pueden revelar sobre tu vida y emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-friends.jpeg'
 tags: ['Personas']
 ---

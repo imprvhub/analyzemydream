@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con alguien que no te habla?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con alguien con quien has perdido el contacto y lo que tu subconsciente podría estar tratando de comunicarte.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-someone-who-does-not-speak-to-you.jpeg'
 tags: ['Personas']
 ---

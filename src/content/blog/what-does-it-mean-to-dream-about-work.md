@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con el trabajo?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con el trabajo y cómo estos sueños pueden reflejar tus inquietudes, aspiraciones y estado emocional.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-work.jpeg'
 tags: ['Actividades']
 ---

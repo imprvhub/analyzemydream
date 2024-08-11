@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con búhos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con búhos. Explora las interpretaciones de los búhos blancos, los búhos pequeños, los búhos muertos y más.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-owls.jpeg'
 tags: ['Animales']
 ---

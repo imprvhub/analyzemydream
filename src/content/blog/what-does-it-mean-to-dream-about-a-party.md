@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con una fiesta?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las distintas interpretaciones de soñar con una fiesta, desde una fiesta de cumpleaños hasta una fiesta con amigos y familiares.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-a-party.jpeg'
 tags: ['Actividades']
 ---

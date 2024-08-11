@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con la oscuridad?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora los significados de soñar con la oscuridad en diferentes contextos y lo que puede indicar sobre tu estado emocional y psicológico.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-darkness.jpeg'
 tags: ['Abstraccion']
 ---

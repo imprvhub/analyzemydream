@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con lagartijas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con lagartijas en diferentes contextos, desde lagartijas muertas hasta ataques y su presencia en tu hogar. Explora cómo interpretar estos sueños en relación con tu vida y tus emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-lizards.jpeg'
 tags: ['Animales']
 ---

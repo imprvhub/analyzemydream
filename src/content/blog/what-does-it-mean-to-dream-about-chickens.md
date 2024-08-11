@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con gallinas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué simbolizan las gallinas en tus sueños y cómo sus diferentes colores y estados pueden reflejar aspectos de tu vida y emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-chickens.jpeg'
 tags: ['Animales']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con números?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con números en diferentes contextos: lotería, teléfono, pares y el número de cifras.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-numbers.jpeg'
 tags: ['Varios']
 ---

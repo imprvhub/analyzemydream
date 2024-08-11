@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con cocodrilos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con cocodrilos, desde pequeños hasta grandes, y cómo estos sueños pueden reflejar aspectos de tu vida emocional y mental.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg'
 tags: ['Animales']
 ---

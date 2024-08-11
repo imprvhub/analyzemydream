@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ranas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con ranas, incluyendo interpretaciones de ranas verdes, negras, pequeñas, grandes y saltarinas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-frogs.jpeg'
 tags: ['Animales']
 ---

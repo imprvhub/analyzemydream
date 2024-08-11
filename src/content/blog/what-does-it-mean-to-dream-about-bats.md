@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con murciélagos?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con murciélagos en diferentes contextos, desde ataques hasta murciélagos negros. Comprende lo que tu subconsciente quiere comunicarte a través de estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-bats.jpeg'
 tags: ['Animales']
 ---

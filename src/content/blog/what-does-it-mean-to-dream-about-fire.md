@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con fuego?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con fuego y descubre cómo diferentes escenarios pueden reflejar aspectos de tu vida y emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-fire.jpeg'
 tags: ['Naturaleza']
 ---

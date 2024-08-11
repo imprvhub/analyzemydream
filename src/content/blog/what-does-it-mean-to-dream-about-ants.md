@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con hormigas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con hormigas y cómo interpretar los diferentes contextos de estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-ants.jpeg'
 tags: ['Insectos']
 ---

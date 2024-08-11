@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con el mar?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con el mar y cómo estos sueños pueden reflejar tus emociones y estado interior. Descubre qué representan el mar agitado, el mar azul y otros escenarios.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-sea.jpeg'
 tags: ['Naturaleza']
 ---

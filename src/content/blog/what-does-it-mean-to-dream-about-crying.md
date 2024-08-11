@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con llorar?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con llorar, desde llorar desconsoladamente hasta llorar por amor. Aprende cómo estos sueños reflejan tus emociones y situaciones personales.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-crying.jpeg'
 tags: ['Sentimientos']
 ---

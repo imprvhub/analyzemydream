@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con puertas?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con puertas, incluidas las interpretaciones de puertas blancas, abiertas, cerradas, de madera y que no se pueden cerrar.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-doors.jpeg'
 tags: ['Objetos-Lugares']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que tu pareja te deja?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los significados detrás de soñar que tu pareja te deja, incluyendo dudas sobre la relación, inseguridades y el impacto en tu autoestima.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-your-partner-leaves-you.jpeg'
 tags: ['Sentimientos', 'Personas']
 ---

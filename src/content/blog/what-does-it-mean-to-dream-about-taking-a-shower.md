@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con tomar una ducha?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre los significados de soñar con tomar una ducha. Analiza las interpretaciones según el contexto: tomar una ducha y ser visto, lavar el cabello, ducharse en la calle, con agua fría, entre otros.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-taking-a-shower.jpeg'
 tags: ['Actividades']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te disparan?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar que te disparan, desde el miedo a la pérdida hasta el impacto emocional de estas visiones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg'
 tags: ['Situaciones Amenazantes']
 ---

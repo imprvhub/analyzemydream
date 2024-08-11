@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con extraterrestres?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué significa soñar con extraterrestres y cómo estos sueños pueden reflejar tu fascinación por lo desconocido, sentimientos de alienación o nuevos desafíos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-aliens.jpeg'
 tags: ['Surrealismo']
 ---

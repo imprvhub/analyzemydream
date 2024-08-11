@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con un terremoto?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con un terremoto, desde la inseguridad y los cambios drásticos hasta los conflictos internos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-an-earthquake.jpeg'
 tags: ['Naturaleza']
 ---

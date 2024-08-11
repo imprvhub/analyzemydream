@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar que te persiguen?'
 pubdate: '2024-07-27T05:00:00Z'
 description: 'Explora los diferentes significados de soñar que te persiguen, desde inquietudes personales hasta la búsqueda de seguridad.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg'
 tags: ['Situaciones amenazantes']
 ---

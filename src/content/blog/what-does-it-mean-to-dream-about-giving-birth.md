@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con dar a luz?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con dar a luz y cómo este sueño puede simbolizar nuevos comienzos, crecimiento personal y superación de desafíos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-giving-birth.jpeg'
 tags: ['Aspiraciones']
 ---

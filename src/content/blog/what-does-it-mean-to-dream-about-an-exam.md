@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con un examen?'
 pubDate: '2024-06-06T05:00:00Z'
 description: 'Explora las interpretaciones psicológicas de soñar con exámenes, desde la ansiedad hasta la autoevaluación, y cómo estos sueños reflejan tus miedos y expectativas.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-an-exam.jpeg'
 tags: ['Varios']
 ---

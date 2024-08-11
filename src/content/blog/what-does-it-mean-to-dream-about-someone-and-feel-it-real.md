@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con alguien y sentirlo real?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Explora el significado de soñar con alguien y sentirlo real, incluidos amigos, familiares, conocidos, desconocidos y personajes famosos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-someone-and-feel-it-real.jpeg'
 tags: ['Personas']
 ---

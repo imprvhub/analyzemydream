@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con flores?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con flores y cómo los diferentes tipos de flores pueden reflejar aspectos importantes de tu vida y emociones.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-flowers.jpeg'
 tags: ['Naturaleza']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con demonios?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con demonios y cómo estos sueños pueden reflejar conflictos internos, tentaciones y miedos. Aprende a interpretar estos sueños y cómo manejarlos.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-demons.jpeg'
 tags: ['Surrealismo']
 ---

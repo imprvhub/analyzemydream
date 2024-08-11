@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con música?'
 pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué significa soñar con música en diferentes contextos, desde el clásico hasta el cristiano. Explora la interpretación de estos sueños para entender mejor lo que tu mente subconsciente quiere decirte.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-music.jpeg'
 tags: ['Actividades']
 ---

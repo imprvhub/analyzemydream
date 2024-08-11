@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con ropa?'
 pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre qué significa soñar con ropa, desde interpretaciones de ropa sucia hasta ropa nueva amontonada.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-clothes.jpeg'
 tags: ['Objetos-Lugares']
 ---

@@ -2,7 +2,7 @@
 title: '¿Qué significa soñar con una casa?'
 pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre los diferentes significados de soñar con casa, desde casas grandes y nuevas hasta casas antiguas con muchas habitaciones, y cómo interpretar estos sueños.'
-author: 'AnalyzeMyDream'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-a-house.jpeg'
 tags: ['Objetos-Lugares']
 ---
