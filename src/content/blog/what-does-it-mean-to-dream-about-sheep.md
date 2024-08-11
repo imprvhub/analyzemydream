@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-sheep.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-sheep.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-sheep.jpeg)
 
 According to Sigmund Freud, dreams reflect our subconscious trying to resolve desires, conflicts and emotions of everyday life. Sometimes we dream about animals or elements with which we have had little contact, such as sheep. Dreaming about sheep can have multiple interpretations that vary depending on the color, size, or context in which the sheep appears in the dream.
 

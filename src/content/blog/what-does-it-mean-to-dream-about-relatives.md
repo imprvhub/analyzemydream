@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-family.jpeg'
 tags: ['People']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-family.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-family.jpeg)
 
 Dreaming about family can reflect desires for emotional reconnection, aspects of yourself symbolized by those family, or even a need for attention. The interpretation of these dreams can vary depending on the context and details. Below, we explore the meanings of dreaming about different types of family.
 

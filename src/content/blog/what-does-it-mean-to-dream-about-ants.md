@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-ants.jpeg'
 tags: ['Insects']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-ants.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-ants.jpeg)
 
 Our brain never rests, not even when we are asleep. When entering the dream world, our subconscious mind tries to communicate things to us that we sometimes cannot consciously analyze. Dreams, such as dreaming about ants, can be disturbing, but knowing their meaning can be very useful.
 

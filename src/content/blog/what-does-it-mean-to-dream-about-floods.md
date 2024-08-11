@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-floods.jpeg'
 tags: ['Nature']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-floods.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-floods.jpeg)
 
 Have you dreamed about floods and wondered what they mean? Interpreting dreams is useful to understand what your subconscious wants to communicate to you and to know how to act in certain situations. Dreaming about floods can be disturbing, as it is generally associated with emotional overflow, fears or anxiety. It can also reflect dilemmas or sudden changes in your life that you don't know how to resolve.
 

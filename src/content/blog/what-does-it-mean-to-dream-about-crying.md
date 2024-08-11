@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-crying.jpeg'
 tags: ['Feelings']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-crying.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-crying.jpeg)
 
 
 

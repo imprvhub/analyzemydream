@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-dead-people.jpeg'
 tags: ['Threatening Situations']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-dead-people.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-dead-people.jpeg)
 
 Dreaming about dead people often symbolizes the closure or end of a stage in the dreamer's life. It represents the need to let go or overcome the past. Many people feel terror when they have dreams about deceased people, although others feel relief because they think their loved ones are visiting them or bringing them a message.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-an-earthquake.jpeg'
 tags: ['Nature']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-an-earthquake.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-earthquake.jpeg)
 
 Dreaming about an earthquake often represents insecurity, drastic changes, or internal conflicts in the dreamer's life. It may indicate a sense of losing control or a need for stability. It is a call for introspection and personal analysis. Dreams represent a symbolic world where our emotions, fears, and desires can manifest in surprising and sometimes unsettling ways. In this AnalyzeMyDream article, we will explain what it means to dream about an earthquake, especially when related to areas of your life such as family, work, or home.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg'
 tags: ['Threatening Situations']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg)
 
 Dreaming that you are being chased can mean that you are worried about something, that there is an issue that is troubling you, that you are feeling vulnerable, or that you are feeling threatened by someone or something in your life. When you dream that you are being chased and you try to escape from a situation that puts you in danger, you experience an immediate feeling of discomfort when you wake up.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-running.jpeg'
 tags: ['Activities']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-running.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-running.jpeg)
 
 Running or jogging is one of the most common activities we engage in, especially since it’s an excellent way to keep the mind and body healthy. But what does it mean to dream about running? These types of dreams are generally positive, as they relate to new horizons and goals to achieve. However, depending on the context, they can also be interpreted as desires to escape from routine.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-getting-lost.jpeg'
 tags: ['Abstract']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-getting-lost.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-getting-lost.jpeg)
 
 Have you ever dreamed that you were lost and you don't know what it means? Dreaming about getting lost is related to doubts, insecurities, and fear of making important decisions. However, this dream can also have other connotations that will depend on the emotions you experienced while dreaming. Without a doubt, this is one of the most recurrent dreams and, in some cases, it can even become a nightmare.
 

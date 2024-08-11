@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg'
 tags: ['People']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg)
 
 # What Does It Mean to Dream About Someone Who Has Hurt You
 

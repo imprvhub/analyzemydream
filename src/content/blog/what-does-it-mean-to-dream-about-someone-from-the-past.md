@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-someone-from-the-past.jpeg'
 tags: ['People']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-someone-from-the-past.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-someone-from-the-past.jpeg)
 
 The meaning of dreams has fascinated humanity throughout history. Researchers such as Sigmund Freud and Carl Jung have conducted extensive studies to understand what happens in our subconscious while we sleep. Dreams often reflect our daily emotions and experiences, and are considered a kind of code that we must decipher in order to understand their message.
 

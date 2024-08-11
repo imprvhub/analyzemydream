@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-singing.jpeg'
 tags: ['Activities']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-singing.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-singing.jpeg)
 
 Dreaming about singing is a common experience, as singing is present in many facets of our daily lives. According to Sigmund Freud's psychoanalytic theories, dreams are associated with experiences and sensations that we have lived. Thus, dreaming about singing can have multiple interpretations depending on the context of the dream.
 

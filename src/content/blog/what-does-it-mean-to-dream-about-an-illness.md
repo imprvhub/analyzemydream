@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-illness.jpeg'
 tags: ['Health']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-illness.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-illness.jpeg)
 
 Have you ever dreamed about illness? Health is really the most important thing we have, hence why we are so worried about suffering from some kind of illness. Many people dream that a family member is suffering from a very serious illness or that they themselves are caught in a spiral of illnesses from which they cannot escape. But what does it mean to dream about an illness? What do our dreams want to tell us when illnesses appear in them? At AnalyzeMyDream we will give you the answers you need about your dreams, since depending on the situation you experienced in your dream it will mean one thing or another. Keep reading below if you really want to discover the meaning of your dreams.
 

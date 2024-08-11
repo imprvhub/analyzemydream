@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-sharks.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-sharks.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-sharks.jpeg)
 
 Dreams, according to different psychoanalysts such as Sigmund Freud, are the reflection of emotions and feelings repressed during waking hours, which tend to emerge when the brain is at rest. Therefore, it is important that you decipher what your subconscious wants to tell you. In them, it is common for different animals that we encounter daily to appear, such as dogs, cats, and birds, but when we dream of ferocious species such as sharks, this tends to confuse.
 

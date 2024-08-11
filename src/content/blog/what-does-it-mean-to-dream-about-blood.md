@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-blood.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-blood.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-blood.jpeg)
 
 ### What Does It Mean to Dream About Blood
 

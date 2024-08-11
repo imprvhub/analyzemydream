@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-friends.jpeg'
 tags: ['People']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-friends.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-friends.jpeg)
 
 Although the world of dreams is full of fantasy and unreality, it is very common to dream about familiar scenarios, such as those in which friends and family appear. These dreams can offer clarification about your current situation, and the interpretation becomes even clearer when the dreams involve people who are part of your daily life.
 

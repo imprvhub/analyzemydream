@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-fly.jpeg'
 tags: ['Activities']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-you-fly.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-fly.jpeg)
 
 Have you ever had a dream where, by some magic, your body lifts off the ground and you start flying? Do you want to know what it means to dream that you are flying according to your subconscious? The meaning of dreams can vary depending on the person and the feelings these dreams evoke. However, it is well-known that dreaming of flying is often a gratifying experience, leaving us with a pleasant feeling upon waking.
 

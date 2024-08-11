@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-clothes.jpeg'
 tags: ['Objects-Places']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-clothes.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-clothes.jpeg)
 
 # What does it mean to dream about clothes
 

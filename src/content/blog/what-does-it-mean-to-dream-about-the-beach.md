@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-the-beach.jpeg'
 tags: ['Activities']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-the-beach.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-beach.jpeg)
 
 
 

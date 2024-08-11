@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg'
 tags: ['People']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
 
 
 

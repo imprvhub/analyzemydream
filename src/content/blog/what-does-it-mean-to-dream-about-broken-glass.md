@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg'
 tags: ['Threatening Situations']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg)
 
 Dreaming about broken glass can cause concern, since in real life broken glass is associated with injuries, accidents, and pain. However, in the dream context, the meaning of these dreams can vary depending on how you felt when you saw the glass and the context in which it appeared.
 

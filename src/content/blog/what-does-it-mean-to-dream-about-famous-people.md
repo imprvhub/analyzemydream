@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-famous-people.jpeg'
 tags: ['People']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-famous-people.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-famous-people.jpeg)
 
 Dreaming about famous people, such as actors, singers, or soccer players, often arouses great curiosity. This type of dream is linked to self-esteem and the need for recognition and acceptance. Dreams are a reflection of our unconscious, and therefore, it is important to interpret each episode according to the context in which it occurs.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-cant-open-your-eyes.jpeg'
 tags: ['Miscellaneous']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-you-cant-open-your-eyes.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-cant-open-your-eyes.jpeg)
 
 In daily life, we use our eyes to see everything around us and to interpret the gestures and emotions of others. For this reason, dreaming that you can’t open your eyes can be associated with insecurity, fear, or a constant denial of a particular situation that is difficult for you to accept. Additionally, this type of dream can also be a physiological response of the brain before falling asleep or when you are about to wake up, known as sleep paralysis. In this AnalyzeMyDream article, we explain what it means to dream that you can’t open your eyes so that you can have the courage you need and learn to see reality from a different perspective.
 

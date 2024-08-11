@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-tigers.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-tigers.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-tigers.jpeg)
 
 Tigers are imposing and beautiful animals, but dangerous. If you have recently been to a zoo or seen a movie in which this feline appears, it is normal that you have dreamed about this animal. But what does it mean to dream about tigers if you have never seen one up close in your life?
 

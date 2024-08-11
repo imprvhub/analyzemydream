@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg'
 tags: ['Objects-Places']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg)
 
 The world of dreams has been the subject of countless studies by many psychoanalysts. Among the main findings of these researchers is the fact that dreams are manifestations of desires, emotions or feelings that are repressed during the day, but which then emerge in the form of dream visions. The most common thing is to dream about everyday elements. For example, if you live in a building or your work is on a high floor, it is normal for you to dream about an elevator.
 

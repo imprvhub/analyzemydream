@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-bears.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-bears.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-bears.jpeg)
 
 The world of dreams is full of mysteries and each dream episode can have a unique and individual meaning. Sigmund Freud, the father of psychoanalysis, considered dreams to be a window to the subconscious, revealing hidden desires, conflicts and emotions. If you have dreamed about bears, you may find the message behind the dream somewhat confusing, as these animals are not common in everyday life.
 

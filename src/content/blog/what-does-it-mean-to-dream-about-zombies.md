@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-zombies.jpeg'
 tags: ['supernatural']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-zombies.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-zombies.jpeg)
 
 Dreams about zombies are not very pleasant, and their meaning may be related to a sense of threat, helplessness, significant changes, isolation, stress, or family issues, among others. Over time, zombies have been associated with terrifying figures capable of pursuing and causing fear, making dreams about these creatures potentially nightmarish.
 

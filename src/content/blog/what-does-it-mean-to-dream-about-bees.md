@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-bees.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-bees.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-bees.jpeg)
 
 The world of dreams is full of mysteries, and dream interpretation seeks to understand the emotions and desires reflected in them. Although it is common to dream about everyday aspects, it is also possible to encounter less common elements, such as bees. If you have dreamed about these insects, in this article from AnalyzeMyDream you will discover what it can mean.
 

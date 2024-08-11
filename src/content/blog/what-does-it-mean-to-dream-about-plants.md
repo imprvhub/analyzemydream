@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-plants.jpeg'
 tags: ['Nature']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-plants.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-plants.jpeg)
 
 Dreaming about plants can reflect a period of personal growth, positive changes, or a new phase in your life, or the need to care for and attend to important aspects of your life. It is also related to inner growth and desires for self-improvement. However, the meaning of the dream can vary according to the elements that are present in the dream.
 

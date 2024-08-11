@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-rats.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-rats.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-rats.jpeg)
 
 # What does it mean to dream about rats
 

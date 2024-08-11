@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-a-tsunami.jpeg'
 tags: ['Nature']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-a-tsunami.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-a-tsunami.jpeg)
 
 Have you dreamed about a tsunami in the last few days and don't know what its interpretation might be? Dreams reveal a lot of information about our mood or our personality. Dreaming about a tsunami is an example of this. When we talk about dreams related to atmospheric phenomena, a tsunami in this case, it means that unexpected changes are coming to your life. It is likely that you are suffering from a period of stress or anxiety that you did not expect, hence why tsunamis appear in your dreams. But it is not the only meaning that can be given to this dream. In this AnalyzeMyDream article, we will show you what it means to dream about a tsunami. We will analyze what the different meanings of this type of dream are.
 

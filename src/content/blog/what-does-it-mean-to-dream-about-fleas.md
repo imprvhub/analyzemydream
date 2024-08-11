@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-fleas.jpeg'
 tags: ['Insects']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-fleas.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-fleas.jpeg)
 
 Dreaming about fleas often symbolizes minor worries or irritations in daily life. It can also indicate feelings of guilt or lingering regrets. Fleas are insects that are not always detected, due to their small size. However, they are very dangerous and can transmit diseases. In addition, almost 2,000 species have been discovered, so they are a latent threat.
 

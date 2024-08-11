@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-dogs.jpeg'
 tags: ['Animals']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-dogs.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-dogs.jpeg)
 
 It is said that dogs are humans' best friends and that they are always there for us. They give us their unconditional love, as well as brighten our day with their crazy things or occurrences. However, in dreams it is not always the case that dogs are a good thing, so we invite you to continue reading to learn more about it.
 
