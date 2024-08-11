@@ -38,7 +38,7 @@ const SEO = {
                             <label class="mr-4"><input type="radio" name="dreamType" value="Experienced" /> Experimentado</label>
                             <label class="mr-4"><input type="radio" name="dreamType" value="Lucid" /> Lúcido</label>
                             <label class="mr-4"><input type="radio" name="dreamType" value="Blurred" /> Borroso</label>
-                            <label><input type="radio" name="dreamType" value="N/A" /> N/A</label>
+                            <label><input type="radio" name="dreamType" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
     
@@ -49,7 +49,7 @@ const SEO = {
                             <label class="mr-4"><input type="radio" name="dreamImportance" value="Insignificant" /> Insignificante</label>
                             <label class="mr-4"><input type="radio" name="dreamImportance" value="Neutral" /> Neutral</label>
                             <label class="mr-4"><input type="radio" name="dreamImportance" value="Very Important" /> Muy Importante</label>
-                            <label><input type="radio" name="dreamImportance" value="N/A" /> N/A</label>
+                            <label><input type="radio" name="dreamImportance" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
     
@@ -62,7 +62,7 @@ const SEO = {
                             <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Fear" /> Miedo</label>
                             <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Anxiety" /> Ansiedad</label>
                             <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Anger" /> Ira</label>
-                            <label><input type="checkbox" name="mainEmotions" value="N/A" /> N/A</label>
+                            <label><input type="checkbox" name="mainEmotions" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
     
@@ -74,7 +74,7 @@ const SEO = {
                             <label class="mr-4"><input type="radio" name="dreamContext" value="Unknown" /> Desconocido</label>
                             <label class="mr-4"><input type="radio" name="dreamContext" value="Natural Environment" /> Entorno Natural</label>
                             <label class="mr-4"><input type="radio" name="dreamContext" value="Urban Environment" /> Entorno Urbano</label>
-                            <label><input type="radio" name="dreamContext" value="N/A" /> N/A</label>
+                            <label><input type="radio" name="dreamContext" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
     
@@ -86,7 +86,7 @@ const SEO = {
                             <label class="mr-4"><input type="radio" name="dreamState" value="Tired" /> Cansado</label>
                             <label class="mr-4"><input type="radio" name="dreamState" value="Confused" /> Confundido</label>
                             <label class="mr-4"><input type="radio" name="dreamState" value="Indifferent" /> Indiferente</label>
-                            <label><input type="radio" name="dreamState" value="N/A" /> N/A</label>
+                            <label><input type="radio" name="dreamState" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
     
@@ -98,7 +98,7 @@ const SEO = {
                             <label class="mr-4"><input type="radio" name="dreamFrequency" value="Occasionally" /> Ocasionalmente</label>
                             <label class="mr-4"><input type="radio" name="dreamFrequency" value="Frequently" /> Frecuentemente</label>
                             <label class="mr-4"><input type="radio" name="dreamFrequency" value="Always" /> Siempre</label>
-                            <label><input type="radio" name="dreamFrequency" value="N/A" /> N/A</label>
+                            <label><input type="radio" name="dreamFrequency" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
 
@@ -110,7 +110,7 @@ const SEO = {
                             <label class="mr-4"><input type="radio" name="dreamExpectations" value="Personal Insight" /> Perspectiva Personal</label>
                             <label class="mr-4"><input type="radio" name="dreamExpectations" value="Warnings" /> Advertencias</label>
                             <label class="mr-4"><input type="radio" name="dreamExpectations" value="No Expectation" /> Sin Expectativas</label>
-                            <label><input type="radio" name="dreamExpectations" value="N/A" /> N/A</label>
+                            <label><input type="radio" name="dreamExpectations" value="NS/NC" /> NS/NC</label>
                         </div>
                     </div>
                 </div>
@@ -147,13 +147,13 @@ const SEO = {
         const analysisResult = document.getElementById('analysisResult');
 
         // Get additional parameters
-        const dreamType = document.querySelector('input[name="dreamType"]:checked')?.value || "N/A";
-        const dreamImportance = document.querySelector('input[name="dreamImportance"]:checked')?.value || "N/A";
-        const mainEmotions = Array.from(document.querySelectorAll('input[name="mainEmotions"]:checked')).map(el => el.value).join(", ") || "N/A";
-        const dreamContext = document.querySelector('input[name="dreamContext"]:checked')?.value || "N/A";
-        const dreamState = document.querySelector('input[name="dreamState"]:checked')?.value || "N/A";
-        const dreamFrequency = document.querySelector('input[name="dreamFrequency"]:checked')?.value || "N/A";
-        const dreamExpectations = document.querySelector('input[name="dreamExpectations"]:checked')?.value || "N/A";
+        const dreamType = document.querySelector('input[name="dreamType"]:checked')?.value || "NS/NC";
+        const dreamImportance = document.querySelector('input[name="dreamImportance"]:checked')?.value || "NS/NC";
+        const mainEmotions = Array.from(document.querySelectorAll('input[name="mainEmotions"]:checked')).map(el => el.value).join(", ") || "NS/NC";
+        const dreamContext = document.querySelector('input[name="dreamContext"]:checked')?.value || "NS/NC";
+        const dreamState = document.querySelector('input[name="dreamState"]:checked')?.value || "NS/NC";
+        const dreamFrequency = document.querySelector('input[name="dreamFrequency"]:checked')?.value || "NS/NC";
+        const dreamExpectations = document.querySelector('input[name="dreamExpectations"]:checked')?.value || "NS/NC";
 
         const additionalInfo = `
             Dream Type: ${dreamType}

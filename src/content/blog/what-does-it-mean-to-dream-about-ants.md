@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-ants.jpeg'
 tags: ['Insectos']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-ants.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-ants.jpeg)
 
 Nuestro cerebro nunca descansa, ni siquiera cuando dormimos. Al entrar en el mundo onírico, nuestra mente subconsciente intenta comunicarnos cosas que a veces no podemos analizar conscientemente. Los sueños, como soñar con hormigas, pueden resultar perturbadores, pero conocer su significado puede resultar muy útil.
 

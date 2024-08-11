@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-roses.jpeg'
 tags: ['Naturaleza']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-roses.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-roses.jpeg)
 
 ### Qué significa soñar con rosas
 

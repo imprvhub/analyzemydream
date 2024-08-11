@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-tigers.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-tigers.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-tigers.jpeg)
 
 Los tigres son animales imponentes y hermosos, pero peligrosos. Si recientemente has estado en un zoológico o has visto una película en la que aparece este felino, es normal que hayas soñado con este animal. Pero, ¿qué significa soñar con tigres si nunca en tu vida has visto uno de cerca?
 

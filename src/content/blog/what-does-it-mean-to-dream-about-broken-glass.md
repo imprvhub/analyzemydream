@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg'
 tags: ['Situaciones Amenazantes']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg)
 
 Soñar con vidrios rotos puede causar preocupación, ya que en la vida real los vidrios rotos se asocian con lesiones, accidentes y dolor. Sin embargo, en el contexto onírico, el significado de estos sueños puede variar dependiendo de cómo te sentiste al ver el vidrio y del contexto en el que apareció.
 

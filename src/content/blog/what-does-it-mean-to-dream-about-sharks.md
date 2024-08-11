@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-sharks.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-sharks.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-sharks.jpeg)
 
 Los sueños, según distintos psicoanalistas como Sigmund Freud, son el reflejo de emociones y sentimientos reprimidos durante las horas de vigilia, que tienden a aflorar cuando el cerebro está en reposo. Por ello, es importante que descifres lo que tu subconsciente quiere decirte. En ellos es común que aparezcan distintos animales con los que nos topamos a diario, como perros, gatos y aves, pero cuando soñamos con especies feroces como los tiburones, esto suele confundir.
 

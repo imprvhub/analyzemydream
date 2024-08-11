@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-your-partner-leaves-you.jpeg'
 tags: ['Sentimientos', 'Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-your-partner-leaves-you.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-your-partner-leaves-you.jpeg)
 
 # Qué significa soñar que tu pareja te deja
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-lice.jpeg'
 tags: ['Insectos']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-lice.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-lice.jpeg)
 
 Soñar con distintos animales puede ser algo muy bonito y tierno, provocando que nos sintamos felices. Sin embargo, existen distintos tipos de animales o insectos que cuando soñamos con ellos nos producen un efecto desagradable. Un claro ejemplo de ello son los piojos. Normalmente, estos bichos se asocian con la suciedad y cosas negativas, sin embargo, no siempre es así.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg'
 tags: ['Sentimientos','Sentimientos']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg)
 
 A veces los sueños pueden sorprenderte por las visiones que muestran. Por ejemplo, soñar con una infidelidad no es muy común e incluso puede causar cierto impacto. Sin duda, la infidelidad es algo muy desconcertante, tanto en la vida real como en los sueños. Por ello, si tienes este tipo de sueños, lo más probable es que al despertar busques las respuestas para intentar comprender lo que te estaba queriendo decir.
 

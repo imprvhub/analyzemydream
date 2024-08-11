@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-crabs.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-crabs.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-crabs.jpeg)
 
 Soñar con cangrejos puede ser más revelador de lo que crees. Aunque los sueños a menudo parecen episodios irrelevantes, con frecuencia reflejan aspectos profundos de nuestra vida emocional. El significado de soñar con cangrejos puede estar relacionado con el amor, el compromiso o incluso con alguna incomodidad.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg'
 tags: ['Sentimientos']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-hitting-someone.jpeg)
 
 Soñar con golpear a alguien suele estar asociado a la necesidad de resolver conflictos con otras personas. También puede representar ira reprimida, frustración, resentimiento o miedos que no sabes cómo superar. Por otro lado, este sueño puede estar advirtiéndote de que es momento de reflexionar y tomar el control de tus reacciones ante las emociones, para así aprender a gestionarlas de forma asertiva.
 

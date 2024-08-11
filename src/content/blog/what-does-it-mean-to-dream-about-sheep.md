@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-sheep.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-sheep.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-sheep.jpeg)
 
 Según Sigmund Freud, los sueños reflejan nuestro subconsciente tratando de resolver deseos, conflictos y emociones de la vida cotidiana. En ocasiones soñamos con animales o elementos con los que hemos tenido poco contacto, como las ovejas. Soñar con ovejas puede tener múltiples interpretaciones que varían según el color, el tamaño o el contexto en el que aparezca la oveja en el sueño.
 

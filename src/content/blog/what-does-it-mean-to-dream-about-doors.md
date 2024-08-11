@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-doors.jpeg'
 tags: ['Objetos-Lugares']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-doors.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-doors.jpeg)
 
 El mundo de los sueños está lleno de misterios. Esto sucede porque cuando dormimos es casi imposible bloquear los recuerdos de todo lo que nos ha pasado durante el día y, por lo tanto, permanecen en nuestro subconsciente. De hecho, el psicoanálisis indica que los sueños son manifestaciones de sentimientos y deseos que se reprimen o se ocultan en la vida cotidiana. Basado en esto, podemos soñar con diferentes cosas comunes, como, por ejemplo, una puerta. El problema es saber cómo descifrar lo que significa este tipo de episodio.
 

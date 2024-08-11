@@ -35,9 +35,9 @@ export const navigationBarData: NavData = {
 		text: 'AnalyzeMyDream.com'
 	},
 	navItems: [
-		{ name: 'Home', link: '/' },
-		{ name: 'Analyze', link: '/analyze' },
-		{ name: 'Explore', link: '/blog' },
+		{ name: 'Inicio', link: '/' },
+		{ name: 'Analizar', link: '/analyze' },
+		{ name: 'Explorar', link: '/blog' },
 		// { name: 'Features', link: '/features' },
 		// {
 		// 	name: 'Resources',
@@ -50,10 +50,10 @@ export const navigationBarData: NavData = {
 		// 	]
 		// },
 		{
-			name: 'Categories',
+			name: 'Categorías',
 			link: '#',
 			submenu: [
-				{ name: 'Abstracto', link: '/blog/tags/Abstracto' },
+				{ name: 'Abstraccion', link: '/blog/tags/Abstraccion' },
 				{ name: 'Actividades', link: '/blog/tags/Actividades' },
 				{ name: 'Animales', link: '/blog/tags/Animales' },
 				{ name: 'Aspiraciones', link: '/blog/tags/Aspiraciones' },
@@ -66,13 +66,13 @@ export const navigationBarData: NavData = {
 				{ name: 'Naturaleza', link: '/blog/tags/Naturaleza' },
 				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
 				{ name: 'Personas', link: '/blog/tags/Personas' },
-				{ name: 'Sobrenatural', link: '/blog/tags/Sobrenatural' },
+				{ name: 'Surrealismo', link: '/blog/tags/Surrealismo' },
 				{ name: 'Situaciones Amenazantes', link: '/blog/tags/Situaciones%20Amenazantes' }
 				
 			]
 		  },
 		
-		{ name: 'Contact', link: '/contact' }
+		{ name: 'Contacto', link: '/contact' }
 	],
 	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]
 }

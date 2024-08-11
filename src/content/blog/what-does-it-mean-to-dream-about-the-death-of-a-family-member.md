@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-the-death-of-a-family-member.jpeg
 tags: ['Situaciones Amenazantes', 'Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-the-death-of-a-family-member.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-death-of-a-family-member.jpeg)
 
 Soñar con la muerte de un familiar puede ser inquietante, pero no necesariamente tiene un significado negativo o un mal augurio. Estos sueños suelen estar relacionados con preocupaciones, angustias, celos familiares o asuntos no resueltos con seres queridos. En psicoanálisis, el significado de los sueños varía de persona a persona, ya que son mensajes del subconsciente.
 

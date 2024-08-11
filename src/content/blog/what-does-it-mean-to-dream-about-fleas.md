@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-fleas.jpeg'
 tags: ['Insectos']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-fleas.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-fleas.jpeg)
 
 Soñar con pulgas a menudo simboliza pequeñas preocupaciones o irritaciones en la vida diaria. También puede indicar sentimientos de culpa o arrepentimientos persistentes. Las pulgas son insectos que no siempre se detectan debido a su pequeño tamaño. Sin embargo, son muy peligrosas y pueden transmitir enfermedades. Además, se han descubierto casi 2,000 especies, por lo que representan una amenaza latente.
 

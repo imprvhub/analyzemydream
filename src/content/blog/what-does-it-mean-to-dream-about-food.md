@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-food.jpeg'
 tags: ['Comida']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-food.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-food.jpeg)
 
 La comida forma parte de nuestra vida cotidiana, desde reuniones familiares hasta eventos laborales. Por eso no es de extrañar que soñemos con ella. Pero, ¿qué intentan decirnos nuestros sueños cuando aparecen platos de comida? Los significados pueden variar, desde positivos a negativos, y es fundamental analizar el sueño para comprender su mensaje.
 

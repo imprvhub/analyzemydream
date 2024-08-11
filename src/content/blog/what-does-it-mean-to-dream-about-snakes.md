@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-snakes.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-snakes.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-snakes.jpeg)
 
 ### Qué significa soñar con serpientes
 

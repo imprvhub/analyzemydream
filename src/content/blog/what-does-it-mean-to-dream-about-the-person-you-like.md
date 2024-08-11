@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg'
 tags: ['Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
 
 Uno de los sueños más comunes es aquel en el que aparece esa persona especial y nos hace sentir mariposas en el estómago. Cuando estamos enamorados o nos sentimos atraídos por alguien, nuestros pensamientos suelen girar en torno a esa persona. Su belleza, su forma de ser o la forma en la que nos trata pueden influir en nuestros sueños, ya que reflejan nuestros pensamientos y sentimientos más profundos.
 

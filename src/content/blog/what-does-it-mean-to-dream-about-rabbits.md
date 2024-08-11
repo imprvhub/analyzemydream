@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-rabbits.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-rabbits.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-rabbits.jpeg)
 
 Los conejos son animales tiernos, amigables y hermosos, conocidos por su inteligencia y astucia. Muchas personas los adoptan como mascotas, por lo que es normal soñar con ellos, especialmente si tienes uno en casa o has visto alguna película reciente sobre conejos. Pero, ¿qué significa soñar con conejos si no tienes contacto directo con estos animales?
 

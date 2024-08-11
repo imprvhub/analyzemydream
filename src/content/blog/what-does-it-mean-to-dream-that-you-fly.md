@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-fly.jpeg'
 tags: ['Actividades']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-you-fly.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-fly.jpeg)
 
 ¿Alguna vez has tenido un sueño en el que, por arte de magia, tu cuerpo se levanta del suelo y comienzas a volar? ¿Quieres saber qué significa soñar que vuelas según tu subconsciente? El significado de los sueños puede variar según la persona y los sentimientos que estos evocan. Sin embargo, es bien sabido que soñar con volar suele ser una experiencia gratificante, dejándonos una sensación agradable al despertar.
 

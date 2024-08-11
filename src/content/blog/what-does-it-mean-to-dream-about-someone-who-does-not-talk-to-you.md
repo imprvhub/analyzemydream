@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-someone-who-does-not-speak-to-you
 tags: ['Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-someone-who-does-not-speak-to-you.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-someone-who-does-not-speak-to-you.jpeg)
 
 La interpretación de los sueños ha cautivado a la humanidad desde la antigüedad. Filósofos, psicólogos e investigadores han intentado descifrar lo que nuestro subconsciente nos comunica a través de los sueños. En su libro La interpretación de los sueños, Sigmund Freud ofrece una exploración profunda de las visiones oníricas desde una perspectiva psicoanalítica.
 

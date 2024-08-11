@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg'
 tags: ['Situaciones Amenazantes']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg)
 
 ¿Soñaste que te disparaban y te despertaste con la angustia de no saber qué significa ese sueño? Si recientemente has sido víctima de un robo o has estado en contacto con personas que tienen armas de fuego, es normal que surjan este tipo de sueños. Sin embargo, si no has experimentado nada parecido, es posible que te preguntes cuál es el significado de ese sueño.
 

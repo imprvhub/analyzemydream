@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-fog.jpeg'
 tags: ['Naturaleza']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-fog.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-fog.jpeg)
 
 En psicoanálisis, los sueños reflejan deseos reprimidos por la mente consciente. A menudo nos despertamos preguntándonos por qué hemos soñado algo y qué significa. Las imágenes oníricas pueden aparecer desordenadas y perturbadoras, como es el caso de soñar con niebla. Este fenómeno climático puede tener diferentes interpretaciones según las circunstancias del sueño.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-horses.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-horses.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-horses.jpeg)
 
 En nuestros sueños, los caballos pueden simbolizar libertad, energía y fuerza. Aunque es más común soñar con animales domésticos como perros o gatos, los caballos, al ser menos frecuentes, aportan significados únicos. La interpretación de soñar con caballos varía según el color, la acción y el estado del caballo en el sueño.
 

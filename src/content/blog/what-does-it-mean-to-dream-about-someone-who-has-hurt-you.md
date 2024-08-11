@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg'
 tags: ['Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-someone-who-has-hurt-you.jpeg)
 
 # ¿Qué significa soñar con alguien que te ha lastimado?
 

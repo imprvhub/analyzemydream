@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-running.jpeg'
 tags: ['Actividades']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-running.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-running.jpeg)
 
 Correr o trotar es una de las actividades más comunes que realizamos, sobre todo porque es una excelente manera de mantener la mente y el cuerpo sanos. Pero, ¿qué significa soñar con correr? Este tipo de sueños son generalmente positivos, ya que se relacionan con nuevos horizontes y metas a alcanzar. Sin embargo, dependiendo del contexto, también pueden interpretarse como deseos de escapar de la rutina.
 

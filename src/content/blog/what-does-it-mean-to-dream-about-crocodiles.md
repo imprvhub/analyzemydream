@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-crocodiles.jpeg)
 
 Soñar con cocodrilos puede ser desconcertante debido a la naturaleza peligrosa y agresiva de estos animales. Generalmente, el significado de estos sueños está asociado con malos augurios y amenazas, pero también puede reflejar precaución, astucia y fortaleza. La buena noticia es que estos sueños a menudo sirven como advertencias de tu subconsciente, invitándote a tomar medidas preventivas.
 

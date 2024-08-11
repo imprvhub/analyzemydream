@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-bats.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-bats.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-bats.jpeg)
 
 Los psicoanalistas sugieren que los sueños son mensajes que envía el subconsciente, relacionados con emociones, recuerdos o sentimientos que no se expresan de manera consciente. Es común soñar con objetos cotidianos, pero ¿qué sucede cuando aparecen animales inusuales como los murciélagos en tus sueños?
 

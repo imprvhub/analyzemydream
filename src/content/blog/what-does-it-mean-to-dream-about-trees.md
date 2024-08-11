@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-trees.jpeg'
 tags: ['Naturaleza']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-trees.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-trees.jpeg)
 
 Soñar con árboles se asocia a conceptos positivos como abundancia, crecimiento personal y profesional, protección, vida y estabilidad personal y económica. En la naturaleza, los árboles representan la base de la vida, siendo sus raíces las que forman los cimientos que sostienen su frondosidad. Por ello, estos sueños suelen tener significados favorables.
 

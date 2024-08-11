@@ -7,7 +7,7 @@ image: "/blog/what-does-it-mean-to-dream-about-fights.jpeg"
 tags: ["Sentimientos"]
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-fights.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-fights.jpeg)
 
 Soñar con peleas puede tener múltiples interpretaciones, que van desde conflictos internos hasta la necesidad de resolver problemas, controlar emociones o enfrentar sorpresas inesperadas. Los sueños suelen ser enigmáticos, y muchas veces no tienen una relación directa con la vida cotidiana, lo que puede resultar desconcertante.
 

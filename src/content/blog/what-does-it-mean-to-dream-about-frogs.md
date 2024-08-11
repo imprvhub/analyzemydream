@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-frogs.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-frogs.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-frogs.jpeg)
 
 ¿Soñaste con ranas y no sabes qué significa? Estas visiones pueden ser un poco inquietantes, sobre todo si eres de los que les temen a las ranas. Pero antes de entrar en la explicación del onirismo, debes saber que, según los psicoanalistas, los sueños son el resultado de las emociones y sentimientos que intentas reprimir cuando estás despierto. Estos luego se manifiestan a través de los sueños.
 

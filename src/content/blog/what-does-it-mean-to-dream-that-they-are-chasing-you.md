@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg'
 tags: ['Situaciones amenazantes']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-they-are-chasing-you.jpeg)
 
 Soñar que te persiguen puede significar que estás preocupado por algo, que hay algún asunto que te preocupa, que te sientes vulnerable o que te sientes amenazado por alguien o algo en tu vida. Cuando sueñas que te persiguen y tratas de escapar de una situación que te pone en peligro, experimentas una sensación inmediata de malestar al despertar.
 

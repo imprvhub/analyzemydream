@@ -1,6 +1,3 @@
-// Navigation Bar
-// ------------
-// Description: The navigation bar data for the website.
 export interface Logo {
 	src: string
 	alt: string
@@ -35,13 +32,12 @@ export const navigationBarData: NavData = {
 	logo: {
 		src: '/logo.png',
 		alt: 'Exploring dream meanings and enhancing self-understanding.',
-		text: 'AnalyzeMyDream'
+		text: 'AnalyzeMyDream.com'
 	},
 	navItems: [
-		{ name: 'Home', link: '/' },
-		// { name: 'Pricing', link: '/pricing' },
-		{ name: 'Analyze', link: '/analyze' },
-		{ name: 'Explore', link: '/blog' },
+		{ name: 'Inicio', link: '/' },
+		{ name: 'Analizar', link: '/analyze' },
+		{ name: 'Explorar', link: '/blog' },
 		// { name: 'Features', link: '/features' },
 		// {
 		// 	name: 'Resources',
@@ -54,29 +50,29 @@ export const navigationBarData: NavData = {
 		// 	]
 		// },
 		{
-			name: 'Categories',
+			name: 'Categorías',
 			link: '#',
 			submenu: [
-			  { name: 'All', link: '//tags/all' },
-			  { name: 'Abstracto', link: '//tags/Abstract' },
-			  { name: 'Activities', link: '//tags/Activities' },
-			  { name: 'Animals', link: '//tags/Animals' },
-			  { name: 'Aspirations', link: '//tags/Aspirations' },
-			  { name: 'Feelings', link: '//tags/Feelings' },
-			  { name: 'Food', link: '//tags/Food' },
-			  { name: 'Fortune', link: '//tags/Fortune' },
-			  { name: 'Health', link: '//tags/Health' },
-			  { name: 'Insects', link: '//tags/Insects' },
-			  { name: 'Miscellaneous', link: '//tags/Miscellaneous' },
-			  { name: 'Nature', link: '//tags/Nature' },
-			  { name: 'Objects-Places', link: '//tags/Objects-places' },
-			  { name: 'Personas', link: '//tags/People' },
-			  { name: 'Supernatural', link: '//tags/Supernatural' },
-			  { name: 'Threatening Situations', link: '//tags/Threatening%20Situations' }
+				{ name: 'Surrealismo', link: '/blog/tags/Abstraccion' },
+				{ name: 'Actividades', link: '/blog/tags/Actividades' },
+				{ name: 'Animales', link: '/blog/tags/Animales' },
+				{ name: 'Aspiraciones', link: '/blog/tags/Aspiraciones' },
+				{ name: 'Sentimientos', link: '/blog/tags/Sentimientos' },
+				{ name: 'Comida', link: '/blog/tags/Comida' },
+				{ name: 'Fortuna', link: '/blog/tags/Fortuna' },
+				{ name: 'Salud', link: '/blog/tags/Salud' },
+				{ name: 'Insectos', link: '/blog/tags/Insectos' },
+				{ name: 'Varios', link: '/blog/tags/Varios' },
+				{ name: 'Naturaleza', link: '/blog/tags/Naturaleza' },
+				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
+				{ name: 'Personas', link: '/blog/tags/Personas' },
+				{ name: 'Surrealismo', link: '/blog/tags/Surrealismo' },
+				{ name: 'Situaciones Amenazantes', link: '/blog/tags/Situaciones%20Amenazantes' }
+				
 			]
 		  },
 		
-		{ name: 'Contact', link: '/contact' }
+		{ name: 'Contacto', link: '/contact' }
 	],
 	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]
 }

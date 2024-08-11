@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-a-house.jpeg'
 tags: ['Objetos-Lugares']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-a-house.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-a-house.jpeg)
 
 Soñar con una casa generalmente representa a uno mismo y diferentes aspectos de la personalidad. Cada habitación puede simbolizar emociones, recuerdos o áreas específicas de la vida. Hay sueños que se consideran muy extraños, producto de una mezcla de sentimientos y pensamientos de la persona. Sin embargo, hay una larga lista de sueños que la gente suele tener, y probablemente ya hayas tenido uno de ellos, posiblemente incluso varias veces. Por ejemplo, soñar con casa es uno de los sueños más comunes. 
 Los sueños son más importantes de lo que les damos, porque soñar es interpretar la realidad que vivimos cada día y nuestros sentimientos, emociones y pensamientos más frecuentes. En este artículo de AnalyseMyDream, explicamos el 

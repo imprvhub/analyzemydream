@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-singing.jpeg'
 tags: ['Actividades']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-singing.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-singing.jpeg)
 
 Soñar con cantar es una experiencia común, ya que el canto está presente en muchas facetas de nuestra vida diaria. Según las teorías psicoanalíticas de Sigmund Freud, los sueños están asociados a experiencias y sensaciones que hemos vivido. Así, soñar con cantar puede tener múltiples interpretaciones dependiendo del contexto del sueño.
 

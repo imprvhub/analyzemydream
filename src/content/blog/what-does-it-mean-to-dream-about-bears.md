@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-bears.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-bears.jpeg))
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-bears.jpeg))
 
 El mundo de los sueños está lleno de misterios y cada episodio onírico puede tener un significado único e individual. Sigmund Freud, el padre del psicoanálisis, consideraba que los sueños eran una ventana al subconsciente, que revelaba deseos, conflictos y emociones ocultas. Si alguna vez has soñado con osos, es posible que el mensaje detrás del sueño te resulte algo confuso, ya que estos animales no son comunes en la vida cotidiana.
 

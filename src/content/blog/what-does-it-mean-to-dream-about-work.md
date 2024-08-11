@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-work.jpeg'
 tags: ['Actividades']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-work.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-work.jpeg)
 
 La interpretación de los sueños ha sido un tema de interés durante muchos años, con estudios realizados por psicoanalistas como Sigmund Freud. Según estas teorías, durante el sueño, el subconsciente hace aflorar sentimientos y emociones reprimidas durante el día. Soñar con el trabajo es algo común debido al tiempo que pasas en tu entorno laboral, y estos sueños pueden estar relacionados con preocupaciones, miedos y cambios en tu actitud.
 

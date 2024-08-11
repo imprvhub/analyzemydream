@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-a-party.jpeg'
 tags: ['Actividades']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-a-party.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-a-party.jpeg)
 
 Soñar que estás en una fiesta y no saber qué significa es más común de lo que crees. Esto sucede porque los sueños, según Sigmund Freud, son capaces de revelar ciertos aspectos de nuestra personalidad y estado de ánimo que quizás hayas pasado por alto. Soñar con fiesta es casi siempre señal de cosas positivas porque representa un ambiente alegre y de celebración. Sin embargo, la interpretación de este tipo de sueños también dependerá del lugar donde se produzca, de las personas que te acompañen, de si estás solo e incluso del motivo de la fiesta.
 

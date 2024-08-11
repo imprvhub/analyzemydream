@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-family.jpeg'
 tags: ['Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-family.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-family.jpeg)
 
 Soñar con familia puede reflejar deseos de reconexión emocional, aspectos de ti mismo simbolizados por esa familia o incluso una necesidad de atención. La interpretación de estos sueños puede variar según el contexto y los detalles. A continuación, exploramos los significados de soñar con diferentes tipos de familia.
 

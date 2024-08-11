@@ -7,7 +7,7 @@ image: '/blog/que-significa-sonar-con-personas-famosas.jpeg'
 tags: ['Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-famous-people.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-famous-people.jpeg)
 
 Soñar con personajes famosos, como actores, cantantes o futbolistas, suele despertar una gran curiosidad. Este tipo de sueños está vinculado a la autoestima y a la necesidad de reconocimiento y aceptación. Los sueños son un reflejo de nuestro inconsciente, por lo que es importante interpretar cada episodio según el contexto en el que ocurre.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg'
 tags: ['Aspiraciones']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-buying-a-house.jpeg)
 
 Soñar que compras una casa es un claro símbolo de confianza, independencia y protección familiar. Por ello, es uno de los sueños más positivos que puedes tener. Además, se trata de un sueño recurrente porque nuestro hogar es el lugar donde nos sentimos cómodos, seguros y donde compartimos momentos importantes con nuestros seres queridos.
 

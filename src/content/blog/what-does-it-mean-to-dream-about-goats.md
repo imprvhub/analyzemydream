@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-goats.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-goats.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-goats.jpeg)
 
 ¡
 

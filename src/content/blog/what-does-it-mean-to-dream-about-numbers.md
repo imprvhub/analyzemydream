@@ -4,10 +4,10 @@ pubdate: '2024-07-29T05:00:00Z'
 description: 'Descubre el significado de soñar con números en diferentes contextos: lotería, teléfono, pares y el número de cifras.'
 author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-numbers.jpeg'
-tags: ['varios']
+tags: ['Varios']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-numbers.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-numbers.jpeg)
 
 El significado de los sueños es algo que despierta mucha curiosidad. El psicoanálisis intenta descifrar nuestras visiones oníricas para comprender el mensaje que el subconsciente quiere transmitir. Para ello se consideran varios detalles como las emociones durante el sueño, su final y las personas presentes en el mismo.
 

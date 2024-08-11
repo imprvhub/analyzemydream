@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-chickens.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-chickens.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-chickens.jpeg)
 
 En psicoanálisis, los sueños son una ventana al subconsciente que revela recuerdos, sentimientos y emociones que no siempre son visibles en la vida diaria. Sigmund Freud y Carl Jung, dos de los grandes expertos en este campo, afirmaban que los sueños reflejan aspectos ocultos de nuestra mente sin juicios ni interferencias.
 

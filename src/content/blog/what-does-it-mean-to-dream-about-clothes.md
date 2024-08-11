@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-clothes.jpeg'
 tags: ['Objetos-Lugares']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-clothes.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-clothes.jpeg)
 
 # ¿Qué significa soñar con ropa?
 

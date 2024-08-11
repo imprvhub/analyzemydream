@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg'
 tags: ['Sentimientos', 'Personas']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-get-back-with-your-ex.jpeg)
 
 Soñar que vuelves con tu ex puede reflejar una necesidad de cerrar esa etapa de tu vida, un deseo de reconciliarte con esa persona o la voluntad de resolver conflictos internos. Este tipo de sueños no significa que vaya a pasar algo más entre vosotros, pero sí puede significar que hay procesos inconclusos de cierre, asuntos pendientes o miedos, entre otras posibles razones. 
 

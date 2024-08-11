@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-birds.jpeg'
 tags: ['Animales']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-birds.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-birds.jpeg)
 
 Para muchas culturas, los pájaros son símbolos de libertad y paz. Si aparecen en tus sueños, es natural que te preguntes qué significa ese episodio onírico. Soñar con pájaros puede tener varias connotaciones, que dependen del contexto del sueño y las emociones experimentadas durante el mismo. Cada sueño tiene una interpretación particular.
 

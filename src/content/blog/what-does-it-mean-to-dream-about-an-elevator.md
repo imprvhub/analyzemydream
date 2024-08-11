@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg'
 tags: ['Objetos-Lugares']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-elevator.jpeg)
 
 El mundo de los sueños ha sido objeto de innumerables estudios por parte de muchos psicoanalistas. Entre los principales hallazgos de estos investigadores se encuentra el hecho de que los sueños son manifestaciones de deseos, emociones o sentimientos que se reprimen durante el día, pero que luego emergen en forma de visiones oníricas. Lo más habitual es soñar con elementos cotidianos. Por ejemplo, si vives en un edificio o tu trabajo está en un piso alto, es normal que sueñes con un ascensor.
 

@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-plants.jpeg'
 tags: ['Naturaleza']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-plants.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-plants.jpeg)
 
 Soñar con plantas puede reflejar un periodo de crecimiento personal, cambios positivos, o una nueva etapa en tu vida, o la necesidad de cuidar y atender aspectos importantes de tu vida. También se relaciona con el crecimiento interior y los deseos de superación personal. Sin embargo, el significado del sueño puede variar según los elementos que estén presentes en el sueño.
 

@@ -4,10 +4,10 @@ pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubre las diversas interpretaciones de soñar con sangre, desde simbolizar emociones intensas hasta reflejar cambios significativos en tu vida.'
 author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-blood.jpeg'
-tags: ['Miscelánea']
+tags: ['Varios']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-blood.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-blood.jpeg)
 
 ### Qué significa soñar con sangre
 

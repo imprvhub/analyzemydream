@@ -7,7 +7,7 @@ image: '/blog/what-does-it-mean-to-dream-about-police.jpeg'
 tags: ['Situaciones Amenazantes']
 ---
 
-![asset](/blog/what-does-it-mean-to-dream-about-police.jpeg)
+![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-police.jpeg)
 
 Soñar con policías tiene diversas interpretaciones, pero básicamente está relacionado con la seguridad, el cumplimiento de las leyes o la aplicación de castigos, ya que esos son los principios que rigen esta profesión en el mundo real. Recuerda que los sueños permiten que afloren sentimientos y emociones que se reprimen o se desea ocultar cuando estamos conscientes.
 
