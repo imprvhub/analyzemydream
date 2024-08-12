@@ -11,7 +11,7 @@ tags: ['Personas']
 
 Uno de los sueños más comunes es aquel en el que aparece esa persona especial y nos hace sentir mariposas en el estómago. Cuando estamos enamorados o nos sentimos atraídos por alguien, nuestros pensamientos suelen girar en torno a esa persona. Su belleza, su forma de ser o la forma en la que nos trata pueden influir en nuestros sueños, ya que reflejan nuestros pensamientos y sentimientos más profundos.
 
-Soñar con tu amor platónico suele ser positivo y muchas veces refleja tus deseos hacia esa persona. En este artículo de AnalizaMiSueño te explicamos qué significa soñar con la persona que te gusta, teniendo en cuenta si te besa, no te habla, está con otra persona o estáis haciendo el amor.
+Soñar con tu amor platónico suele ser positivo y muchas veces refleja tus deseos hacia esa persona. En este artículo de AnalyzeMyDream.com te explicamos qué significa soñar con la persona que te gusta, teniendo en cuenta si te besa, no te habla, está con otra persona o estáis haciendo el amor.
 
 ### Índice
 

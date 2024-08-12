@@ -11,7 +11,7 @@ tags: ['Sentimientos']
 
 Soñar con golpear a alguien suele estar asociado a la necesidad de resolver conflictos con otras personas. También puede representar ira reprimida, frustración, resentimiento o miedos que no sabes cómo superar. Por otro lado, este sueño puede estar advirtiéndote de que es momento de reflexionar y tomar el control de tus reacciones ante las emociones, para así aprender a gestionarlas de forma asertiva.
 
-En este artículo de AnalizaMiSueño te explicaremos a profundidad qué significa soñar con golpear a alguien. Sin embargo, recuerda que los sueños son subjetivos y personales, por lo que es importante reflexionar sobre tus propias circunstancias y emociones a la hora de interpretar su significado.
+En este artículo de AnalyzeMyDream.com te explicaremos a profundidad qué significa soñar con golpear a alguien. Sin embargo, recuerda que los sueños son subjetivos y personales, por lo que es importante reflexionar sobre tus propias circunstancias y emociones a la hora de interpretar su significado.
 
 ### Índice
 

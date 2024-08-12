@@ -13,8 +13,6 @@ tags: ['Sentimientos', 'Personas']
 
 **Description:** El cerebro nunca descansa, y los sueños son representaciones de las emociones y sentimientos experimentados durante el día. Soñar que tu pareja te abandona puede ser angustiante, pero no es una premonición. Este sueño puede indicar aspectos a tener en cuenta para potenciar tu futuro individual y el de tu pareja.
 
-**Author:** AnalizaMiSueño
-
 ---
 
 ### Índice

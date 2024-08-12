@@ -11,7 +11,7 @@ tags: ['Comida']
 
 Soñar con café puede simbolizar la necesidad de estar alerta y preparado para nuevos desafíos, así como un deseo de socialización y conexiones personales. El café, al ser una bebida energizante, también puede tener matices de dulzura y amargura. Así, el significado de tus sueños dependerá del sabor y aroma que percibas durante tu experiencia onírica.
 
-En este artículo de AnalizaMiSueño te explicamos qué significa soñar con café y cómo interpretar tu sueño en base a tus experiencias personales. Descubre qué puede significar soñar con café molido, en grano, maduro o seco.
+En este artículo de AnalyzeMyDream.com te explicamos qué significa soñar con café y cómo interpretar tu sueño en base a tus experiencias personales. Descubre qué puede significar soñar con café molido, en grano, maduro o seco.
 
 ### Índice
 

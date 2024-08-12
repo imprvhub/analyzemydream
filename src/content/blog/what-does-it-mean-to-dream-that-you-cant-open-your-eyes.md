@@ -9,7 +9,7 @@ tags: ['Varios']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-cant-open-your-eyes.jpeg)
 
-En la vida diaria, utilizamos los ojos para ver todo lo que nos rodea y para interpretar los gestos y emociones de los demás. Por este motivo, soñar que no puedes abrir los ojos puede estar asociado a la inseguridad, al miedo o a una negación constante ante una situación concreta que te resulta difícil aceptar. Además, este tipo de sueños también puede ser una respuesta fisiológica del cerebro antes de dormirte o cuando estás a punto de despertar, conocida como parálisis del sueño. En este artículo de AnalizaMiSueño te explicamos qué significa soñar que no puedes abrir los ojos para que tengas el coraje que necesitas y aprendas a ver la realidad desde otra perspectiva.
+En la vida diaria, utilizamos los ojos para ver todo lo que nos rodea y para interpretar los gestos y emociones de los demás. Por este motivo, soñar que no puedes abrir los ojos puede estar asociado a la inseguridad, al miedo o a una negación constante ante una situación concreta que te resulta difícil aceptar. Además, este tipo de sueños también puede ser una respuesta fisiológica del cerebro antes de dormirte o cuando estás a punto de despertar, conocida como parálisis del sueño. En este artículo de AnalyzeMyDream.com te explicamos qué significa soñar que no puedes abrir los ojos para que tengas el coraje que necesitas y aprendas a ver la realidad desde otra perspectiva.
 
 ### Índice
 

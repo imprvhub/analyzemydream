@@ -13,7 +13,7 @@ El mundo de los sueños está lleno de misterios y cada episodio onírico puede 
 
 Soñar con osos puede asociarse a características como el carácter, la perseverancia y el instinto maternal, así como a problemas con la ira o el control emocional. La interpretación del sueño puede variar en función de factores como el tipo de oso (polar, negro, marrón, pequeño) y si el oso te ataca o no.
 
-En este artículo de AnalizaMiSueño, exploraremos qué significa soñar con osos, para que puedas entender mejor el mensaje que te está enviando tu inconsciente.
+En este artículo de AnalyzeMyDream.com, exploraremos qué significa soñar con osos, para que puedas entender mejor el mensaje que te está enviando tu inconsciente.
 
 ### Índice
 
