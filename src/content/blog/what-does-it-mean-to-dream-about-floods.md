@@ -13,8 +13,6 @@ Have you dreamed about floods and wondered what they mean? Interpreting dreams i
 
 To find out what it means to dream about floods, keep reading. In this AnalyzeMyDream article we explain how to interpret dreams in which you escape from a flood, see a flood in the street or your house is flooded. The idea is to provide you with all the information necessary to understand the message that your unconscious mind is trying to convey.
 
-You may also be interested in: 
-What does it mean to dream of fleas
 
 ### Index
 

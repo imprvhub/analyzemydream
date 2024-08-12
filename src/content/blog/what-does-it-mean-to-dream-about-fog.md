@@ -13,8 +13,6 @@ In psychoanalysis, dreams reflect desires repressed by the conscious mind. We of
 
 In this AnalyzeMyDream article, we'll explore what it means to dream about fog. We'll look at the different types of fog in your dreams, from thick white fog to fog on the beach, to give you a more complete interpretation.
 
-You may also be interested in: 
-What does it mean to dream of fleas
 
 ### Index
 

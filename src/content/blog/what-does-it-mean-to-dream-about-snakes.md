@@ -15,8 +15,6 @@ Dreaming about snakes can represent a threat or danger in your life, but it coul
 
 Dreaming about snakes can be unpleasant and even disconcerting, however, according to many theories, it can be a sign of a very important change. In this article from AnalyzeMyDream we tell you in depth what it means to dream about snakes.
 
-You may also be interested in: 
-What does it mean to dream of saving someone
 
 #### Index
 
