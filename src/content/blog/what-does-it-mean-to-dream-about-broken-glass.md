@@ -4,7 +4,7 @@ pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubra o significado de sonhar com vidros quebrados e como esse tipo de sonho pode refletir diversos aspectos da sua vida, desde a comunicação até os conflitos pessoais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg'
-tags: ['Situações Ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-broken-glass.jpeg)

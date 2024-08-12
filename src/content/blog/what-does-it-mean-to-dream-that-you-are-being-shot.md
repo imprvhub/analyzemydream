@@ -4,7 +4,7 @@ pubDate: '2024-07-27T05:00:00Z'
 description: 'Descubra os diferentes significados de sonhar que leva um tiro, desde o medo da perda até o impacto emocional dessas visões.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg'
-tags: ['Situações ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-are-being-shot.jpeg)

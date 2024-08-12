@@ -1149,6 +1149,14 @@ declare module 'astro:content' {
   data: any
 } & { render(): Render[".md"] };
 };
+"posts": Record<string, {
+  id: string;
+  slug: string;
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">;
+  render(): Render[".md"];
+}>;
 
 	};
 
@@ -1158,5 +1166,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../src/content/config.js");
 }

@@ -4,7 +4,7 @@ pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubra o significado de sonhar com a morte de um familiar, vivo ou falecido, e como interpretar esses sonhos de acordo com sua situação pessoal.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-death-of-a-family-member.jpeg'
-tags: ['Situações ameaçadoras', 'Pessoas']
+tags: ['Situações-Ameaçadoras', 'Pessoas']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-death-of-a-family-member.jpeg)

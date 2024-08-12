@@ -4,7 +4,7 @@ pubDate: '2024-07-27T05:00:00Z'
 description: 'Explore as diversas interpretações de sonhar com a sua própria morte, desde a sensação de sobrecarga até o simbolismo do renascimento.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-you-die.jpeg'
-tags: ['Situações Ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-die.jpeg)

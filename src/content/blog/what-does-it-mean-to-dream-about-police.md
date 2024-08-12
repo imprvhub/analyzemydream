@@ -4,7 +4,7 @@ pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubra o significado de sonhar com polícia, incluindo interpretações sobre policiais corruptos, policiais mortos, policiais perseguindo você, tiroteios e policiais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-police.jpeg'
-tags: ['Situações ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-police.jpeg)

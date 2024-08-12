@@ -4,7 +4,7 @@ publicação: "2024-06-04T05:00:00Z"
 description: “Explorar o significado e as interpretações psicológicas dos sonhos em que alguém morre, analisando diferentes variantes como afogamentos, acidentes e queimaduras.”
 author: "AnalyzeMyDream"
 image: "/blog/what-does-it-mean-to-dream-about-someones-death.jpeg"
-tags: ["Situações ameaçadoras"]
+tags: ["Situações-Ameaçadoras"]
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-someones-death.jpeg)

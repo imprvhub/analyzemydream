@@ -4,7 +4,7 @@ pubDate: '2024-07-29T05:00:00Z'
 description: 'Descubra o que sonhar com os mortos simboliza segundo a psicologia e a psicanálise. Aprenda a interpretar esses sonhos e como eles podem refletir transformações pessoais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-dead.jpeg'
-tags: ['Situações ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-dead.jpeg)

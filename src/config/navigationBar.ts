@@ -31,47 +31,47 @@ export interface NavData {
 export const navigationBarData: NavData = {
 	logo: {
 		src: '/logo.png',
-		alt: 'Exploring dream meanings and enhancing self-understanding.',
+		alt: 'Explorando significados dos sonhos e aprimorando o autoconhecimento.',
 		text: 'AnalyzeMyDream.com'
 	},
 	navItems: [
-		{ name: 'Home', link: '/' },
-		{ name: 'Analyze', link: '/analyze' },
-		{ name: 'Explore', link: '/blog' },
-		// { name: 'Features', link: '/features' },
+		{ name: 'Início', link: '/' },
+		{ name: 'Analisar', link: '/analyze' },
+		{ name: 'Explorar', link: '/blog' },
+		// { name: 'Recursos', link: '/features' },
 		// {
-		// 	name: 'Resources',
+		// 	name: 'Recursos',
 		// 	link: '#',
 		// 	submenu: [
 						
-		// 		{ name: 'Changelog', link: '/changelog' },
+		// 		{ name: 'Registro de Alterações', link: '/changelog' },
 		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
+		// 		{ name: 'Termos', link: '/terms' }
 		// 	]
 		// },
 		{
-			name: 'Categories',
+			name: 'Categorias',
 			link: '#',
 			submenu: [
-			  { name: 'Abstract', link: '/blog/tags/Abstract' },
-			  { name: 'Activities', link: '/blog/tags/Activities' },
-			  { name: 'Animals', link: '/blog/tags/Animals' },
-			  { name: 'Aspirations', link: '/blog/tags/Aspirations' },
-			  { name: 'Feelings', link: '/blog/tags/Feelings' },
-			  { name: 'Food', link: '/blog/tags/Food' },
-			  { name: 'Fortune', link: '/blog/tags/Fortune' },
-			  { name: 'Health', link: '/blog/tags/Health' },
-			  { name: 'Insects', link: '/blog/tags/Insects' },
-			  { name: 'Miscellaneous', link: '/blog/tags/Miscellaneous' },
-			  { name: 'Nature', link: '/blog/tags/Nature' },
-			  { name: 'Objects-Places', link: '/blog/tags/Objects-places' },
-			  { name: 'People', link: '/blog/tags/People' },
-			  { name: 'Supernatural', link: '/blog/tags/Supernatural' },
-			  { name: 'Threatening Situations', link: '/blog/tags/Threatening%20Situations' }
-			]
-		  },
-		
-		{ name: 'Contact', link: '/contact' }
+				{ name: 'Abstração', link: '/blog/tags/Abstração' },
+				{ name: 'Atividades', link: '/blog/tags/Atividades' },
+				{ name: 'Animais', link: '/blog/tags/Animais' },
+				{ name: 'Aspirações', link: '/blog/tags/Aspirações' },
+				{ name: 'Sentimentos', link: '/blog/tags/Sentimentos' },
+				{ name: 'Comida', link: '/blog/tags/Comida' },
+				{ name: 'Fortuna', link: '/blog/tags/Fortuna' },
+				{ name: 'Saúde', link: '/blog/tags/Saúde' },
+				{ name: 'Insetos', link: '/blog/tags/Insetos' },
+				{ name: 'Vários', link: '/blog/tags/Vários' },
+				{ name: 'Natureza', link: '/blog/tags/Natureza' },
+				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
+				{ name: 'Pessoas', link: '/blog/tags/Pessoas' },
+				{ name: 'Surrealismo', link: '/blog/tags/Surrealismo' },
+				{ name: 'Situações-Ameaçadoras', link: '/blog/tags/Situações-Ameaçadoras' }
+			  ]
+			  
+		},
+		{ name: 'Contato', link: '/contact' }
 	],
-	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]
+	navActions: [{ name: 'Experimente agora', link: '/', style: 'primary', size: 'lg' }]
 }

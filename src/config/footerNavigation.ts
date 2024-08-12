@@ -34,20 +34,20 @@ export const footerNavigationData: FooterData = {
 	footerAbout: {
 		title: 'AnalyzeMyDream',
 		aboutText:
-			'Exploring dream meanings and enhancing self-understanding.',
+			'Explorando significados dos sonhos e aprimorando a auto-compreensão.',
 		logo: {
 			src: '/logo.png',
-			alt: 'Exploring dream meanings and enhancing self-understanding.',
+			alt: 'Explorando significados dos sonhos e aprimorando a auto-compreensão.',
 			text: 'AnalyzeMyDream.com'
 		}
 	},
 	footerColumns: [
 		/*
 			{
-				category: 'Product',
+				category: 'Produto',
 				subCategories: [
 					{
-						subCategory: 'Features',
+						subCategory: 'Recursos',
 						subCategoryLink: '/features'
 					},
 					{
@@ -55,15 +55,15 @@ export const footerNavigationData: FooterData = {
 						subCategoryLink: '/faq'
 					},
 					{
-						subCategory: 'Pricing',
+						subCategory: 'Preços',
 						subCategoryLink: '/pricing'
 					},
 					{
-						subCategory: 'Changelog',
+						subCategory: 'Histórico de mudanças',
 						subCategoryLink: '/changelog'
 					},
 					{
-						subCategory: 'Terms',
+						subCategory: 'Termos',
 						subCategoryLink: '/terms'
 					}
 				]
@@ -71,27 +71,27 @@ export const footerNavigationData: FooterData = {
 			*/
 
 		{
-			category: 'About us',
+			category: 'Sobre nós',
 			subCategories: [
 				{
 					subCategory: 'FAQ',
 					subCategoryLink: '/faq'
 				},
 				{
-					subCategory: 'Terms',
+					subCategory: 'Termos',
 					subCategoryLink: '/terms'
 				},
 				{
-					subCategory: 'Privacy Policy',
+					subCategory: 'Política de Privacidade',
 					subCategoryLink: '/terms'
 				}
 			]
 		},
 		{
-			category: 'Reach out',
+			category: 'Entre em contato',
 			subCategories: [
 				{
-					subCategory: 'Contact',
+					subCategory: 'Contato',
 					subCategoryLink: '/contact'
 				},
 			]

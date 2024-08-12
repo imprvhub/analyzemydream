@@ -1,29 +1,29 @@
 ---
-// Blog Index Page
+// Página de Índice do Blog
 // ------------
-// Description: The blog index page.
+// Descrição: A página de índice do blog.
 
-// Components
+// Componentes
 // - Layout
 import Layout from '../../layouts/Layout.astro'
 // - UI
 import Hero from '../../components/blocks/hero/PageHeader.astro'
 import BlogPosts from '../../components/blocks/blog/BlogPosts.astro'
 
-// Data
+// Dados
 import { getCollection } from 'astro:content'
 
-// Content
+// Conteúdo
 // - SEO
 const SEO = {
-	title: 'AnalyzeMyDream | Latest AnalyzeMyDream News and updates',
+	title: 'AnalyzeMyDream | Explore todos os sonhos.',
 	description:
-		"Explore AnalyzeMyDream latest news designed to enhance productivity, ensure top-notch security, and integrate seamlessly with your favorite tools. Join thousands of satisfied users and transform your workflow with AnalyzeMyDream today!"
+		"Desvende o Significado dos Seus Sonhos. Descubra as últimas interpretações e entenda o que seus sonhos revelam."
 }
-// - Page Header
+// - Cabeçalho da Página
 const header = {
-	title: 'Explore all the <strong>dreams</strong>.',
-	text: 'Unlock the Meaning of Your Dreams. Discover the latest interpretations and understand what your dreams reveal.'
+	title: 'Explore todos os <strong>sonhos</strong>.',
+	text: 'Desvende o Significado dos Seus Sonhos. Descubra as últimas interpretações e entenda o que seus sonhos revelam.'
 }
 
 const allPosts = await getCollection('blog')

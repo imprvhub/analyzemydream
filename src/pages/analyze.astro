@@ -1,14 +1,14 @@
 ---
-// Importaciones
+// Importações
 import Layout from '../layouts/Layout.astro'
 import Section from '../components/ui/Section.astro'
 import Row from '../components/ui/Row.astro'
 import Col from '../components/ui/Col.astro'
 
 const SEO = {
-	title: 'AnalyzeMyDream | Exploring dream meanings and enhancing self-understanding.',
+	title: 'AnalyzeMyDream | Explorando significados dos sonhos e aprimorando a compreensão pessoal.',
 	description:
-		'A comprehensive dream interpretations and insights platform.'
+		'Uma plataforma abrangente para interpretações e insights de sonhos.'
 }
 ---
 <Layout title={SEO.title} description={SEO.description}>
@@ -16,10 +16,10 @@ const SEO = {
     <Row>
         <Col span="2" />
         <Col span="8" align="center">
-            <br><h2 class="text-4xl font-semibold mb-4">Gain access to deep dream analysis through our <strong>AI-Advanced Dream Analyzer</strong> tool. </h2>
-            <label for="dreamDescription" class="block text-lg font-medium mb-2">Designed to reveal the significant messages and insights within your dreams.</label>
+            <br><h2 class="text-4xl font-semibold mb-4">Obtenha acesso a uma análise profunda dos sonhos com nossa ferramenta <strong>AI-Advanced Dream Analyzer</strong>.</h2>
+            <label for="dreamDescription" class="block text-lg font-medium mb-2">Projetado para revelar as mensagens e insights significativos dentro dos seus sonhos.</label>
             <p class="text-sm text-gray-500 dark:text-gray-300 mb-4">
-                Enter a detailed description of your dream, and our AI will generate a comprehensive analysis for you.
+                Insira uma descrição detalhada do seu sonho e nossa IA gerará uma análise abrangente para você.
             </p><br><br>
         </Col>
         <Col span="2" />
@@ -31,113 +31,114 @@ const SEO = {
         <Col span="8" align="center">
             <form id="dreamForm" class="space-y-4">
                 <div class="p-4 bg-white dark:bg-neutral-800 shadow-md rounded-lg space-y-4" style="border-radius:20px;">
-                    <!-- Dream Type -->
+                    <!-- Tipo de Sonho -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Dream Type</h3>
+                        <h3 class="text-lg font-medium mb-2">Tipo de Sonho</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
-                            <label class="mr-4"><input type="radio" name="dreamType" value="Experienced" /> Experienced</label>
-                            <label class="mr-4"><input type="radio" name="dreamType" value="Lucid" /> Lucid</label>
-                            <label class="mr-4"><input type="radio" name="dreamType" value="Blurred" /> Blurred</label>
+                            <label class="mr-4"><input type="radio" name="dreamType" value="Experienciado" /> Experienciado</label>
+                            <label class="mr-4"><input type="radio" name="dreamType" value="Lúcido" /> Lúcido</label>
+                            <label class="mr-4"><input type="radio" name="dreamType" value="Embaçado" /> Embaçado</label>
                             <label><input type="radio" name="dreamType" value="N/A" /> N/A</label>
                         </div>
                     </div>
     
-                    <!-- Dream Importance -->
+                    <!-- Importância do Sonho -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Dream Importance</h3>
+                        <h3 class="text-lg font-medium mb-2">Importância do Sonho</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
-                            <label class="mr-4"><input type="radio" name="dreamImportance" value="Insignificant" /> Insignificant</label>
-                            <label class="mr-4"><input type="radio" name="dreamImportance" value="Neutral" /> Neutral</label>
-                            <label class="mr-4"><input type="radio" name="dreamImportance" value="Very Important" /> Very Important</label>
+                            <label class="mr-4"><input type="radio" name="dreamImportance" value="Insignificante" /> Insignificante</label>
+                            <label class="mr-4"><input type="radio" name="dreamImportance" value="Neutra" /> Neutra</label>
+                            <label class="mr-4"><input type="radio" name="dreamImportance" value="Muito Importante" /> Muito Importante</label>
                             <label><input type="radio" name="dreamImportance" value="N/A" /> N/A</label>
                         </div>
                     </div>
     
-                    <!-- Main Emotions -->
+                    <!-- Emoções Principais -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Main Emotions</h3>
+                        <h3 class="text-lg font-medium mb-2">Emoções Principais</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
-                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Happiness" /> Happiness</label>
-                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Sadness" /> Sadness</label>
-                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Fear" /> Fear</label>
-                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Anxiety" /> Anxiety</label>
-                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Anger" /> Anger</label>
+                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Felicidade" /> Felicidade</label>
+                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Tristeza" /> Tristeza</label>
+                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Medo" /> Medo</label>
+                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Ansiedade" /> Ansiedade</label>
+                            <label class="mr-4"><input type="checkbox" name="mainEmotions" value="Raiva" /> Raiva</label>
                             <label><input type="checkbox" name="mainEmotions" value="N/A" /> N/A</label>
                         </div>
                     </div>
     
-                    <!-- Dream Context -->
+                    <!-- Contexto do Sonho -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Dream Context</h3>
+                        <h3 class="text-lg font-medium mb-2">Contexto do Sonho</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
                             <label class="mr-4"><input type="radio" name="dreamContext" value="Familiar" /> Familiar</label>
-                            <label class="mr-4"><input type="radio" name="dreamContext" value="Unknown" /> Unknown</label>
-                            <label class="mr-4"><input type="radio" name="dreamContext" value="Natural Environment" /> Natural Environment</label>
-                            <label class="mr-4"><input type="radio" name="dreamContext" value="Urban Environment" /> Urban Environment</label>
+                            <label class="mr-4"><input type="radio" name="dreamContext" value="Desconhecido" /> Desconhecido</label>
+                            <label class="mr-4"><input type="radio" name="dreamContext" value="Ambiente Natural" /> Ambiente Natural</label>
+                            <label class="mr-4"><input type="radio" name="dreamContext" value="Ambiente Urbano" /> Ambiente Urbano</label>
                             <label><input type="radio" name="dreamContext" value="N/A" /> N/A</label>
                         </div>
                     </div>
     
-                    <!-- Dream State -->
+                    <!-- Estado do Sonho -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Dream State</h3>
+                        <h3 class="text-lg font-medium mb-2">Estado do Sonho</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
-                            <label class="mr-4"><input type="radio" name="dreamState" value="Refreshed" /> Refreshed</label>
-                            <label class="mr-4"><input type="radio" name="dreamState" value="Tired" /> Tired</label>
-                            <label class="mr-4"><input type="radio" name="dreamState" value="Confused" /> Confused</label>
-                            <label class="mr-4"><input type="radio" name="dreamState" value="Indifferent" /> Indifferent</label>
+                            <label class="mr-4"><input type="radio" name="dreamState" value="Revigorado" /> Revigorado</label>
+                            <label class="mr-4"><input type="radio" name="dreamState" value="Cansado" /> Cansado</label>
+                            <label class="mr-4"><input type="radio" name="dreamState" value="Confuso" /> Confuso</label>
+                            <label class="mr-4"><input type="radio" name="dreamState" value="Indiferente" /> Indiferente</label>
                             <label><input type="radio" name="dreamState" value="N/A" /> N/A</label>
                         </div>
                     </div>
     
-                    <!-- Dream Frequency -->
+                    <!-- Frequência do Sonho -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Dream Frequency</h3>
+                        <h3 class="text-lg font-medium mb-2">Frequência do Sonho</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
-                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Rarely" /> Rarely</label>
-                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Occasionally" /> Occasionally</label>
-                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Frequently" /> Frequently</label>
-                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Always" /> Always</label>
+                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Raramente" /> Raramente</label>
+                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Ocasionalmente" /> Ocasionalmente</label>
+                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Frequentemente" /> Frequentemente</label>
+                            <label class="mr-4"><input type="radio" name="dreamFrequency" value="Sempre" /> Sempre</label>
                             <label><input type="radio" name="dreamFrequency" value="N/A" /> N/A</label>
                         </div>
                     </div>
 
-                    <!-- Dream Expectations -->
+                    <!-- Expectativas do Sonho -->
                     <div class="card">
-                        <h3 class="text-lg font-medium mb-2">Dream Expectations</h3>
+                        <h3 class="text-lg font-medium mb-2">Expectativas do Sonho</h3>
                         <div class="flex flex-wrap" style="justify-content:center;">
-                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Problem Resolution" /> Problem Resolution</label>
-                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Personal Insight" /> Personal Insight</label>
-                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Warnings" /> Warnings</label>
-                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="No Expectation" /> No Expectation</label>
+                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Resolução de Problemas" /> Resolução de Problemas</label>
+                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Insight Pessoal" /> Insight Pessoal</label>
+                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Alertas" /> Alertas</label>
+                            <label class="mr-4"><input type="radio" name="dreamExpectations" value="Sem Expectativa" /> Sem Expectativa</label>
                             <label><input type="radio" name="dreamExpectations" value="N/A" /> N/A</label>
                         </div>
                     </div>
                 </div>
-                <p class="text-sm text-gray-500 dark:text-gray-300 mb-4">
-                    Please use this tool responsibly. The results are intended for general guidance only.  <strong><a href="/faq" style="color: #7BC7C7; text-decoration: none;">Learn More.</a></strong>
+
+               <p class="text-sm text-gray-500 dark:text-gray-300 mb-4">
+                    Por favor, use esta ferramenta de forma responsável. Os resultados são destinados apenas para orientação geral. <strong><a href="/faq" style="color: #7BC7C7; text-decoration: none;">Saiba Mais.</a></strong>
                 </p>        
-                 <!-- Dream Input -->
-                <textarea id="dreamDescription" name="dreamDescription" rows="6" cols="50" minlength="30" required class="w-full p-2 border border-gray-300 rounded" placeholder="Enter a detailed description of your dream..."></textarea>
+                <!-- Entrada do Sonho -->
+                <textarea id="dreamDescription" name="dreamDescription" rows="6" cols="50" minlength="30" required class="w-full p-2 border border-gray-300 rounded" placeholder="Insira uma descrição detalhada do seu sonho..."></textarea>
 
                 <p id="analysisResult" class="mt-4" style="text-align: justify;"></p>
                 <div class="flex justify-center space-x-4 mt-4">
                     <button id="analyzeButton" type="submit" class="relative flex items-center justify-center text-white py-2 px-4 rounded-lg hover:bg-blue-600" style="background-color: rgba(123, 199, 199, var(--tw-bg-opacity));">
-                        <span id="buttonText" style="font-weight: 700; font-size: 0.875rem;">Analyze My Dream</span>
+                        <span id="buttonText" style="font-weight: 700; font-size: 0.875rem;">Analisar Meu Sonho</span>
                     </button>
                 </div>
-            </form>
-        </Col>
-        <Col span="2" />
-    </Row>
-</Section>
-</Layout>
+                </form>
+                </Col>
+                <Col span="2" />
+                </Row>
+                </Section>
+                </Layout>
 
 <script async custom-element="amp-auto-ads"
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
 </script>
 <script type="module">
-    document.getElementById('dreamForm').addEventListener('submit', async (event) => {
+        document.getElementById('dreamForm').addEventListener('submit', async (event) => {
         event.preventDefault();
 
         const analyzeButton = document.getElementById('analyzeButton');
@@ -145,7 +146,7 @@ const SEO = {
         const dreamDescription = document.getElementById('dreamDescription');
         const analysisResult = document.getElementById('analysisResult');
 
-        // Get additional parameters
+        // Obter parâmetros adicionais
         const dreamType = document.querySelector('input[name="dreamType"]:checked')?.value || "N/A";
         const dreamImportance = document.querySelector('input[name="dreamImportance"]:checked')?.value || "N/A";
         const mainEmotions = Array.from(document.querySelectorAll('input[name="mainEmotions"]:checked')).map(el => el.value).join(", ") || "N/A";
@@ -155,23 +156,23 @@ const SEO = {
         const dreamExpectations = document.querySelector('input[name="dreamExpectations"]:checked')?.value || "N/A";
 
         const additionalInfo = `
-            Dream Type: ${dreamType}
-            Dream Importance: ${dreamImportance}
-            Main Emotions: ${mainEmotions}
-            Dream Context: ${dreamContext}
-            Dream State: ${dreamState}
-            Dream Frequency: ${dreamFrequency}
-            Dream Expectations: ${dreamExpectations}
+            Tipo de Sonho: ${dreamType}
+            Importância do Sonho: ${dreamImportance}
+            Emoções Principais: ${mainEmotions}
+            Contexto do Sonho: ${dreamContext}
+            Estado do Sonho: ${dreamState}
+            Frequência do Sonho: ${dreamFrequency}
+            Expectativas do Sonho: ${dreamExpectations}
         `;
 
         const fullDescription = `${dreamDescription.value}\n\n${additionalInfo}`;
 
         if (!analyzeButton || !buttonText || !dreamDescription || !analysisResult) {
-            console.error('One or more elements are missing.');
+            console.error('Um ou mais elementos estão faltando.');
             return;
         }
 
-        buttonText.textContent = 'Analyzing...';
+        buttonText.textContent = 'Analisando...';
         analyzeButton.disabled = true;
 
         try {
@@ -186,16 +187,16 @@ const SEO = {
             const result = await response.json();
             if (response.ok) {
                 analysisResult.textContent = result.analysis;
-                buttonText.textContent = 'Try Again';
+                buttonText.textContent = 'Tentar Novamente';
                 analyzeButton.removeEventListener('click', handleFormSubmit);
                 analyzeButton.addEventListener('click', handleClearInput);
             } else {
                 analysisResult.textContent = result.error;
-                buttonText.textContent = 'Analyze Your Dream';
+                buttonText.textContent = 'Analisar Meu Sonho';
             }
         } catch (error) {
-            analysisResult.textContent = 'An error occurred. Please try again.';
-            buttonText.textContent = 'Analyze Your Dream';
+            analysisResult.textContent = 'Ocorreu um erro. Por favor, tente novamente.';
+            buttonText.textContent = 'Analisar Meu Sonho';
         } finally {
             analyzeButton.disabled = false;
         }
@@ -203,7 +204,7 @@ const SEO = {
         function handleClearInput() {
             dreamDescription.value = '';
             analysisResult.textContent = '';
-            buttonText.textContent = 'Analyze Your Dream';
+            buttonText.textContent = 'Analisar Meu Sonho';
             analyzeButton.removeEventListener('click', handleClearInput);
             analyzeButton.addEventListener('click', handleFormSubmit);
         }
@@ -213,4 +214,3 @@ const SEO = {
         }
     });
 </script>
-

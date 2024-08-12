@@ -47,7 +47,7 @@ As bruxas em sonhos geralmente simbolizam **aspectos escuros ou reprimidos**, en
 
 ### O que significa sonhar com bruxas e gatos
 
-Os gatos, especialmente os pretos, têm sido associados com **magia e feitiçaria**. Sonhar com bruxas e gatos pode sugerir uma conexão com o sobrenatural e a exploração de aspectos ocultos de você mesmo. Esse sonho também pode refletir **energias negativas** em seu ambiente e advertir sobre pessoas que não são o que parecem. Além disso, pode sinalizar um **encontro com sua própria sabedoria interior** e sua capacidade de confiar em sua intuição.
+Os gatos, especialmente os pretos, têm sido associados com **magia e feitiçaria**. Sonhar com bruxas e gatos pode sugerir uma conexão com o Surrealismo e a exploração de aspectos ocultos de você mesmo. Esse sonho também pode refletir **energias negativas** em seu ambiente e advertir sobre pessoas que não são o que parecem. Além disso, pode sinalizar um **encontro com sua própria sabedoria interior** e sua capacidade de confiar em sua intuição.
 
 ### O que significa sonhar com bruxas e rezar
 

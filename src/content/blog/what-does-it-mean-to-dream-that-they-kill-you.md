@@ -4,7 +4,7 @@ pubDate: '2024-07-27T05:00:00Z'
 description: 'Explore o significado de sonhar sendo morto, desde o simbolismo das mudanças pessoais até o impacto emocional desses pesadelos.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-they-kill-you.jpeg'
-tags: ['Situações ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-they-kill-you.jpeg)

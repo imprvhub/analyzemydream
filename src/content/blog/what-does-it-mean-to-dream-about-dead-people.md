@@ -4,7 +4,7 @@ pubDate: '2024-07-29T05:00:00Z'
 description: 'Explore o significado de sonhar com pessoas mortas, desde vê-las vivas até conversas e sonhos com pessoas falecidas. Entenda as possíveis mensagens e simbolismo.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-dead-people.jpeg'
-tags: ['Situações ameaçadoras']
+tags: ['Situações-Ameaçadoras']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-dead-people.jpeg)
