@@ -1,7 +1,7 @@
 ---
 title: 'O que significa sonhar com chuva?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Descubra os diferentes significados de sonhar com chuva, desde chuva noturna até chuvas de meteoros. Aprenda como esses sonhos refletem suas emoções e situações pessoais.
+description: 'Descubra os diferentes significados de sonhar com chuva, desde chuva noturna até chuvas de meteoros. Aprenda como esses sonhos refletem suas emoções e situações pessoais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-rain.jpeg'
 tags: ['Natureza']

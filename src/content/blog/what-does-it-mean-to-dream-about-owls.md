@@ -1,7 +1,7 @@
 ---
 title: 'O que significa sonhar com corujas?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Descubra o significado de sonhar com corujas. Explore interpretações de corujas nevadas, pequenas corujas, corujas mortas e muito mais.
+description: 'Descubra o significado de sonhar com corujas. Explore interpretações de corujas nevadas, pequenas corujas, corujas mortas e muito mais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-owls.jpeg'
 tags: ['Animais']

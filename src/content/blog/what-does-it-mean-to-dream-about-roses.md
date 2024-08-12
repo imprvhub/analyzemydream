@@ -1,7 +1,7 @@
 ---
 title: 'O que significa sonhar com rosas?'
 pubDate: '2024-07-27T05:00:00Z'
-description: 'Descubra o significado de sonhar com rosas de acordo com sua cor e estado. Aprenda a interpretar esses sonhos para compreender melhor suas emoções e situações pessoais.
+description: 'Descubra o significado de sonhar com rosas de acordo com sua cor e estado. Aprenda a interpretar esses sonhos para compreender melhor suas emoções e situações pessoais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-roses.jpeg'
 tags: ['Natureza']

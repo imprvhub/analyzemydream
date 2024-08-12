@@ -1,7 +1,7 @@
 ---
 title: 'O que significa sonhar com leões?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Descubra o que significa sonhar com leões, sejam eles atacando, soltos, domesticados, brincando ou velhos. Explore como interpretar esses sonhos em relação à sua vida e emoções.',
+description: 'Descubra o que significa sonhar com leões, sejam eles atacando, soltos, domesticados, brincando ou velhos. Explore como interpretar esses sonhos em relação à sua vida e emoções.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-lions.jpeg'
 tags: ['Animais']
