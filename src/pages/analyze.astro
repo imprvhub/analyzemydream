@@ -145,8 +145,7 @@ const SEO = {
         const buttonText = document.getElementById('buttonText');
         const dreamDescription = document.getElementById('dreamDescription');
         const analysisResult = document.getElementById('analysisResult');
-
-        // Obter parâmetros adicionais
+        
         const dreamType = document.querySelector('input[name="dreamType"]:checked')?.value || "N/A";
         const dreamImportance = document.querySelector('input[name="dreamImportance"]:checked')?.value || "N/A";
         const mainEmotions = Array.from(document.querySelectorAll('input[name="mainEmotions"]:checked')).map(el => el.value).join(", ") || "N/A";
