@@ -1,60 +1,54 @@
 ---
-title: 'What does it mean to dream about the person you like?'
+title: 'O que significa sonhar com a pessoa que você gosta?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Discover the meaning of dreaming about the person you like, whether they are kissing you, being with someone else, not talking to you, or you are making love.'
-author: 'AnalyzeMyDream'
+description: 'Descubra o significado de sonhar com a pessoa que você gosta, seja ela te beijando, estando com outra pessoa, não conversando com você ou fazendo amor.'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg'
-tags: ['People']
+tags: ['Pessoas']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-the-person-you-like.jpeg)
 
+Um dos sonhos mais comuns é aquele em que aquela pessoa especial aparece e nos faz sentir um frio na barriga. Quando estamos apaixonados ou atraídos por alguém, nossos pensamentos geralmente giram em torno dessa pessoa. A sua beleza, a sua forma de ser ou a forma como nos trata podem influenciar os nossos sonhos, pois refletem os nossos pensamentos e sentimentos mais profundos.
 
+Sonhar com seu amor platônico geralmente é positivo e muitas vezes reflete seus desejos em relação a essa pessoa. Neste artigo do AnalyzeMiSueño explicamos o que significa sonhar com a pessoa que você gosta, levando em consideração se ela te beija, não fala com você, está com outra pessoa ou você está fazendo amor.
 
-One of the most common dreams is the one in which that special person appears and makes us feel butterflies in our stomach. When we are in love or attracted to someone, our thoughts often revolve around that person. His beauty, his way of being or the way he treats us can influence our dreams, since they reflect our deepest thoughts and feelings.
+### Índice
 
-Dreaming about your platonic love is usually positive and often reflects your desires for that person. In this AnalyzeMyDream article, we explain what it means to dream about the person you like, considering if they kiss you, they don't talk to you, they are with someone else, or you are making love.
+- [O que significa sonhar com a pessoa que você gosta e te beija](#o-que-significa-sonhar-com-a-pessoa-que-você-gosta-e-beijar-você)
+- [O que significa sonhar com a pessoa que você gosta e está com outra pessoa](#o-que-significa-sonhar-com-a-pessoa-que-você-gosta-e-está-com-outra -pessoa)
+- [O que significa sonhar com a pessoa que você gosta e não fala com você](#o-que-significa-sonhar-com-a-pessoa-que-você-gosta-e-não-gosta -falar com você)
+- [O que significa sonhar com a pessoa que você gosta de fazer amor](#o-que-significa-sonhar-com-a-pessoa-que-você-gosta-de-fazer-amor)
+- [Outros significados de sonhar com a pessoa que você gosta](#outros-significados-de-sonhar-com-a-pessoa-que-você-gosta)
 
+### O que significa sonhar com a pessoa que você gosta te beijando?
 
-### Index
+Sonhar que você beija a pessoa que você gosta não garante que esse beijo se materialize em realidade. Este sonho sugere que o seu eu interior deseja se aproximar daquela pessoa e criar cumplicidade com ela. Pode ser um reflexo da sua vontade de se aproximar, conversar com ele ou fazer pequenos gestos que podem eventualmente levar àquele beijo tão esperado.
 
-- [What does it mean to dream about the person you like and kisses you](#what-does-it-mean-to-dream-about-the-person-you-like-and-kiss-you)
-- [What does it mean to dream about the person you like and is with another person](#what-does-it-mean-to-dream-about-the-person-you-like-and-is-with-another-person)
-- [What does it mean to dream about the person you like and doesn't talk to you](#what-does-it-mean-to-dream-about-the-person-you-like-and-doesn't-talk-to-you)
-- [What does it mean to dream about the person you like making love](#what-does-it-mean-to-dream-about-the-person-you-like-making-love)
-- [Other meanings of dreaming about the person you like](#other-meanings-of-dreaming-about-the-person-you-like)
+### O que significa sonhar com a pessoa que você gosta e ela está com outra pessoa?
 
-### What does it mean to dream about the person you like and kisses you?
+Se você sonha com a pessoa que você gosta acompanhada de outra pessoa, seu subconsciente pode estar lhe dizendo que é hora de deixar para trás esse amor não correspondido e buscar novos horizontes. Alternativamente, se a sua paixão parecer triste perto do encontro, ela pode estar sinalizando que você pode ajudá-la em uma situação difícil ou opressora.
 
-Dreaming that you kiss the person you like does not guarantee that such a kiss will materialize in reality. This dream rather suggests that your inner self longs to get closer to that person and create complicity with them. It may be a reflection of your desire to get closer, talk to him or make small gestures that could eventually lead to that long-awaited kiss.
+### O que significa sonhar com a pessoa que você gosta não falando com você?
 
+Sonhar com sua paixão não falando com você pode refletir sua insegurança sobre se você está sendo correspondido. Você pode sentir que fez tudo o que podia para chamar a atenção deles e que todo esforço parece em vão. Este sonho pode ser um sinal para você considerar seguir em frente, pois essa pessoa pode não compartilhar dos mesmos sentimentos. Lembre-se de que existem muito mais oportunidades no mundo.
 
-### What does it mean to dream about the person you like and they are with someone else?
+### O que significa sonhar com a pessoa que você gosta fazendo amor?
 
-If you dream of the person you like accompanied by another person, your subconscious could be telling you that it is time to leave that unrequited love behind and seek new horizons. Alternatively, if your crush seems sad around her date, she may be signaling to you that you could be the one to help her through a difficult or overwhelming situation.
+Sonhar com a pessoa de quem você gosta fazendo amor geralmente é um reflexo de seus desejos profundos de ter mais intimidade com ela. Este sonho pode expressar o seu desejo de avançar no relacionamento, embora também possa refletir uma obsessão por aquela pessoa.
 
+###Outros significados de sonhar com a pessoa que você gosta
 
-### What does it mean to dream about the person you like who doesn't talk to you?
+- **Sonhar que está grávida da pessoa que você gosta**: Uma gravidez em sonhos pode simbolizar novos projetos e um futuro promissor. Não está necessariamente relacionado ao desejo de ser mãe, mas sim à chegada de uma nova etapa em sua vida.
+- **Sonhar que dança com a pessoa que você gosta**: Reflete seu desejo de ter um relacionamento pleno e feliz com essa pessoa.
+- **Sonhar que a pessoa que você gosta sofre um acidente**: Pode indicar que você está se preocupando demais com os problemas dessa pessoa.
+- **Sonhar que a pessoa que você gosta lhe propõe uma proposta**: Embora esse sonho não seja premonitório, ele pode expressar seu desejo de encontrar a felicidade no amor com alguém especial.
+- **Sonhar que a pessoa que você gosta te rejeita**: Este sonho pode estar relacionado à falta de autoestima e autoconfiança. Lembre-se que você merece amor e que tem muito valor.
 
-Dreaming about the person you like not speaking to you may reflect your insecurity about whether you are being reciprocated. You may feel like you've done everything you can to get her attention and that every effort seems in vain. This dream may be a sign for you to consider moving on, as that person may not share your same feelings. Remember that there are many more opportunities in the world. 
+Este artigo é meramente informativo. Na AnalyzeMyDream não temos autoridade para fazer um diagnóstico ou recomendar tratamento. Convidamos você a consultar um psicólogo para tratar o seu caso particular.
 
-### What does it mean to dream about the person you like making love
+### Bibliografia
 
-Dreaming about the person you like making love to you is usually a reflection of your deep desires to become more intimate with them. This dream can express your desire to move forward in the relationship, although it can also reflect an obsession with that person.
-
-### Other meanings of dreaming about the person you like
-
-- **Dreaming that you are pregnant with the person you like**: A pregnancy in dreams can symbolize new projects and a promising future. It is not necessarily related to the desire to be a mother, but rather to the arrival of a new stage in your life.
-- **Dreaming that you dance with the person you like**: Reflects your desire to have a full and happy relationship with that person.
-- **Dreaming that the person you like has an accident**: It may indicate that you are worrying too much about that person's problems.
-- **Dreaming that the person you like proposes to you**: Although this dream is not premonitory, it can express your desire to find happiness in love with someone special.
-- **Dreaming that the person you like rejects you**: This dream may be related to a lack of self-esteem and self-confidence. Remember that you deserve love and that you have a lot of value.
-
-This article is purely informative. At AnalyzeMyDream we do not have the authority to make a diagnosis or recommend treatment. We invite you to consult with a psychologist to treat your particular case.
-
-
-### Bibliography
-
-Borges, J.L. (2013). *Dream book*. Pocket-size.  
-Freud, S. (2013). *The interpretation of dreams* (Vol. 267). Akal Editions.  
-Fromm, E. (1957). *The art of Loving*. Mexico: Paidós Ibérica Editions.
+- Borges, J.L. (2013). *O livro dos sonhos*. Formato de bolso.
+-Freud, S. (2013). *A interpretação dos sonhos* (Vol. 267). Edições Akal.
+- Fromm, E. (1957). *A arte de amar*. México: Edições Paidós Ibérica.

@@ -1,66 +1,67 @@
 ---
-title: 'What does it mean to dream about infidelity?'
+title: 'O que significa sonhar com infidelidade?'
 pubDate: '2024-07-27T05:00:00Z'
-description: 'Discover the different meanings of dreaming about infidelity, from personal insecurity to communication problems in the couple.'
-author: 'AnalyzeMyDream'
+description: 'Descubra os diferentes significados de sonhar com infidelidade, desde insegurança pessoal até problemas de comunicação entre seu casal.'
+author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg'
-tags: ['Feelings','Feelings']
+tags: ['Sentimentos','Sentimentos']
 ---
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg)
 
-Sometimes dreams can surprise you because of the visions they show. For example, dreaming about infidelity is not very common and can even cause some impact. Undoubtedly, infidelity is something very disconcerting, both in real life and in dreams. Therefore, if you have this type of dream, it is most likely that when you wake up you will look for the answers to try to understand what it was trying to tell you.
+Às vezes, os sonhos podem surpreendê-lo com as visões que mostram. Por exemplo, sonhar com infidelidade não é muito comum e pode até causar algum impacto. Sem dúvida, a infidelidade é algo muito desconcertante, tanto na vida real como nos sonhos. Portanto, se você tem esse tipo de sonho, é muito provável que ao acordar procure respostas para tentar entender o que ele estava tentando lhe dizer.
 
-To help you get the information you need, in this AnalyzeMyDream article you will find out what it means to dream about infidelity. We can tell you in advance that for psychoanalysis this dream is related to dissatisfaction, discontent or fears, not only on a sexual level, but in any area of ​​your life. However, the most accurate interpretation will depend on the general characteristics of the dream, because dreaming that you are cheating on your partner is not the same as dreaming that your partner is cheating in front of you.
+Para ajudá-lo a obter as informações necessárias, neste artigo do AnalyzeMyDream você descobrirá o que significa sonhar com infidelidade. Podemos dizer que para a psicanálise esse sonho está relacionado à insatisfação, ao descontentamento ou aos medos, não só no nível sexual, mas em qualquer área da sua vida. Porém, a interpretação mais precisa dependerá das características gerais do sonho, pois sonhar que está traindo seu parceiro não é a mesma coisa que sonhar que seu parceiro está te traindo na sua frente.
 
-### Index
+### Índice
 
-- [What does it mean to dream of your own infidelity](#what-does-it-mean-to-dream-of-your-own-infidelity)
-- [Meaning of dreaming of someone else's infidelity](#meaning-of-dreaming-of-an-other-person's-infidelity)
-- [What does it mean to dream of being cheating and regretting it](#what-does-it-mean-to-dream-of-being-cheating-and-regretting it)
-- [What does it mean to dream of being cheating and being discovered](#what-does-it-mean-to-dream-of-being-cheating-and-being-discovered)
-- [What does it mean to dream that your partner is cheating in front of you](#what-does-it-mean-to-dream-that-your-partner-is-cheating-in-front-of-you)
+- [O que significa sonhar com sua própria infidelidade](#o-que-significa-sonhar-com-sua-própria-infidelidade)
+- [Significado de sonhar com a infidelidade de outra pessoa](#significado-de-sonhar-com-a-infidelidade-de-outra pessoa)
+- [O que significa sonhar com traição e se arrepender](#o-que-significa-sonhar-com-trair-e-arrepender-de-isso)
+- [O que significa sonhar com traição e ser descoberto](#o-que-significa-sonhar-com-traição-e-ser-descoberto)
+- [O que significa sonhar que seu parceiro está te traindo na sua frente](#o-que-significa-sonhar-que-seu-parceiro-trai-você-na-frente- de você)
 
-#### What does it mean to dream of your own infidelity
 
-In this first section We will explain what it means to dream that you are cheating on your partner. Although many people associate this dream directly with desires for betrayal, it actually involves different meanings. One of them is that the couple may be going through a time where there is no good communication. This causes projects not to flow as they should, because each one has a different opinion. If this is your case, both must work to come to an agreement. Only then will they be able to move forward.
+#### O que significa sonhar com sua própria infidelidade
 
-Another meaning of dreaming about your own infidelity is that you are not happy with what you are currently experiencing. In some areas of your life you are not calm. It may be on a personal, work, love or even financial level. Therefore, the dream is a sign that you want to get out of that situation and give another direction to your existence.
+Nesta primeira seção explicaremos o que significa sonhar que você está traindo seu parceiro. Embora muitas pessoas associem esse sonho diretamente ao desejo de traição, na verdade ele implica significados diferentes. Uma delas é que o casal pode estar passando por um momento em que não há uma boa comunicação. Isso faz com que os projetos não fluam como deveriam, pois cada um tem uma opinião diferente. Se este for o seu caso, ambos deverão trabalhar para chegar a um acordo. Só então eles poderão seguir em frente.
 
-On the other hand, dreaming that you are cheating on your partner has to do with sexual distancing with your partner. You want to resume passion, which causes this type of dream to arise. 
+Outro significado de sonhar com a própria infidelidade é que você não está feliz com o que está vivenciando atualmente. Em algumas áreas da sua vida você não está calmo. Pode ser a nível pessoal, profissional, amoroso ou mesmo económico. Portanto, o sonho é um sinal de que você quer sair dessa situação e dar outro rumo à sua existência.
 
-#### Meaning of dreaming about someone else's infidelity
+Por outro lado, sonhar que está traindo o parceiro tem a ver com distanciamento sexual do parceiro. Você quer voltar à paixão que faz surgir esse tipo de sonho. 
 
-Are you looking for the meaning of dreaming about someone else's infidelity? If in your dreams you witness someone else's infidelity **it speaks of your own insecurity**. You are reflecting your fears in your dreams through the actions of others. You need to analyze what the origin of your concerns is so that you can face and overcome them. 
+#### Significado de sonhar com a infidelidade de outra pessoa
 
-In addition, dreaming about someone else's infidelity may be related to people who are jealous of you and who are not entirely honest. Also, it is associated with **the fear of suffering a betrayal or pain** that you have already experienced in the past. If this is so, you must learn to heal the wounds and start working on trust on a personal and couple level. 
+Você está procurando o significado de sonhar com a infidelidade de outra pessoa? Se em seus sonhos você testemunha a infidelidade de outra pessoa **isso fala de sua própria insegurança**. Você está refletindo seus medos em seus sonhos por meio das ações de outras pessoas. É necessário que você analise a origem de suas preocupações para poder enfrentá-las e superá-las. 
 
-#### What does it mean to dream about being cheating and regretting it
+Além disso, sonhar com a infidelidade de outra pessoa pode estar relacionado a pessoas que têm ciúmes de você e que não são totalmente honestas. Além disso, está associado ao **medo de sofrer traição ou dor** que você já experimentou no passado. Nesse caso, você deve aprender a curar as feridas e começar a trabalhar a confiança no nível pessoal e de casal. 
 
-If we talk about the meaning of dreams, for psychoanalysis, dreaming that you cheat on your partner and regret it speaks of your **moral values**. You are not used to treating people badly or hurting them. You may have recently had some problem with someone close to you and this does not make you feel very good.
+#### O que significa sonhar em ser infiel e se arrepender?
 
-Also, dreaming about being cheating and regretting it reflects that, despite the circumstances you may experience, you will always be **present and willing to solve the problems** you have in your life as a couple.
+Se falamos do significado dos sonhos, para a psicanálise, sonhar que trai o parceiro e se arrepende fala de seus **valores morais**. Você não está acostumado a tratar mal as pessoas ou a machucá-las. Você pode ter tido recentemente um problema com alguém próximo e isso não faz você se sentir muito bem.
 
-#### What does it mean to dream about being cheating and being discovered
+Além disso, sonhar em ser infiel e se arrepender reflete que, apesar das circunstâncias que possa vivenciar, você estará sempre presente e disposto a resolver os problemas que tiver na vida de casal.
 
-Dreaming that you cheat on your partner and they discover you basically means a **strong sign of personal insecurity**. You fear that they will know what you are really like because of the **fear of being judged**. You should know that your fears will diminish as you are able to face them. Even so, to achieve this you should not hide them or put them aside, on the contrary, it is time for you to take a firm stance, look ahead and start believing in your own **capabilities**.
+#### O que significa sonhar em ser infiel e ser descoberto?
 
-Also, this vision predicts good times with your partner, because despiteWhatever problems you may have, you will get through them.
+Sonhar que você trai seu parceiro e ele descobre que você basicamente significa um **forte sinal de insegurança pessoal**. Você teme que eles saibam o que você realmente é por causa do **medo de ser julgado**. Você deve saber que seus medos diminuirão à medida que você for capaz de enfrentá-los. Mesmo assim, para conseguir isso você não deve escondê-los ou deixá-los de lado, pelo contrário, é hora de você se posicionar com firmeza, olhar para frente e começar a acreditar nas suas próprias **capacidades**.
 
-#### What does it mean to dream that your partner is cheating in front of you
+Além disso, esta visão prevê bons momentos com o seucasal, porque apesar dos problemas que você possa ter, você os superará.
 
-If you have had this dream, it is normal that you want to know the meaning of dreaming that your partner is cheating in front of you. This dream is a sign for you to be aware of everything that happens around you. You may have **doubts about your partner's feelings for you** and this puts your senses on high alert.
+#### O que significa sonhar que seu parceiro está te traindo na sua frente?
 
-It also symbolizes your own **existential doubts about what you really feel**. You don't know if it is convenient to continue with the relationship. The most sensible thing is to communicate openly with your partner to put the cards on the table.
+Se você teve esse sonho, é normal que queira saber o significado de sonhar que seu parceiro está te traindo na sua frente. Esse sonho é um sinal para você estar atento a tudo o que acontece ao seu redor. Você pode ter **dúvidas sobre os sentimentos do seu parceiro em relação a você** e isso coloca seus sentidos em alerta máximo.
 
-Now, depending on who you saw your partner having sex with in the dream, the meaning of dreaming about infidelity can change:
+Também simboliza suas próprias **dúvidas existenciais sobre o que você realmente sente**. Você não sabe se é aconselhável continuar o relacionamento. O mais sensato é comunicar-se abertamente com seu parceiro para colocar as cartas na mesa.
 
-- **You dreamed that your partner is cheating with a family member in front of you**: you possibly feel that your partner has better communication with that family member, which makes you jealous. Remember that if you speak honestly, misunderstandings can be resolved.
-- **You dreamed that your partner is cheating with a friend in front of you**: this indicates a certain level of distrust that you feel towards that friend. It is good that you listen to your subconscious, since perhaps that person wants to hurt you and you have not noticed it. 
-This article is merely informative, at AnalyzeMyDream we do not have the power to make a diagnosis or recommend a treatment. We invite you to go to a psychologist to treat your particular case.
+Agora, dependendo de com quem você viu seu parceiro fazendo sexo no sonho, o significado de sonhar com infidelidade pode mudar:
 
-### Bibliography
+- **Você sonhou que seu parceiro estava te traindo com um familiar na sua frente**: possivelmente você sente que seu parceiro se comunica melhor com aquele familiar, o que te deixa com ciúmes. Lembre-se de que se você falar honestamente, os mal-entendidos podem ser resolvidos.
+- **Você sonhou que seu parceiro te traiu com um amigo na sua frente**: isso indica um certo nível de desconfiança que você sente em relação a esse amigo. É bom que você ouça o seu subconsciente, pois talvez essa pessoa queira te machucar e você não tenha percebido. 
+Este artigo é meramente informativo, no AnalyzeMyDream não temos o poder de fazer um diagnóstico ou recomendar um tratamento. Convidamos você a procurar um psicólogo para tratar o seu caso particular.
 
-- Freud, S. (2013). *The interpretation of dreams* (Vol. 267). Akal Editions.
-- Lapeña, S. C. (2008). *Interpretation of dreams: how to decode them and understand their meaning*. AMAT Publishing House.
-- Psychology and training: Psychological clinics in Madrid. (2020). *Infidelities: causes, types and solutions*. Spain.
+### Bibliografia
+
+-Freud, S. (2013). *A interpretação dos sonhos* (Vol. 267). Edições Akal.
+- Lapeña, SC (2008). *Interpretação dos sonhos: como decifrá-los e compreender seu significado*. Publicação AMAT.
+- Psicologia e formação: Clínicas psicológicas em Madrid. (2020). *Infidelidades: causas, tipos e soluções*. Espanha.
