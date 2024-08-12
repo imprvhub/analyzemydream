@@ -1,7 +1,7 @@
 ---
 title: 'O que significa sonhar com água-viva?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Descubra o que significa sonhar com água-viva e como interpretar esses sonhos. Aprenda os diferentes significados das águas-vivas rosa, transparentes, brancas e muito mais.
+description: 'Descubra o que significa sonhar com água-viva e como interpretar esses sonhos. Aprenda os diferentes significados das águas-vivas rosa, transparentes, brancas e muito mais.'
 author: 'AnalyzeMyDream.com'
 image: '/blog/what-does-it-mean-to-dream-about-jellyfish.jpeg'
 tags: ['Animais']
