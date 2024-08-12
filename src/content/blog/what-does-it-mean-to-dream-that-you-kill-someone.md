@@ -21,7 +21,7 @@ A lo largo del artículo exploraremos lo siguiente:
 
 Soñar con matar a alguien desconocido no significa que de un momento a otro vayamos a coger un arma y asesinar a alguien sin ninguna premeditación. Estos sueños pueden reflejar diversos aspectos de tu estado emocional:
 
-- **Preocupación por la Muerte:** Puede concebirse como algo trágico, doloroso y triste como la pérdida de algo o la ausencia de alguien importante. A la luz de ellos, te recomendamos que leas este artículo sobre [cómo superar el miedo a la muerte](#como-superar-el-miedo-a-la-muerte).
+- **Preocupación por la Muerte:** Puede concebirse como algo trágico, doloroso y triste como la pérdida de algo o la ausencia de alguien importante.
 - **Naturalización del Duelo:** Expresar que la muerte es algo inevitable y que ésta forma parte de la vida misma.
 - **Deseo Latente Muy Reprimido:** Soñar que matas a alguien con un cuchillo, aunque sea alguien desconocido, es algo angustiante, vergonzoso y deplorable. La vergüenza, angustia y desaprobación de este tipo de conductas será algo que surgirá como respuesta del ego a tu inconsciente.
 
@@ -49,5 +49,3 @@ Soñar con matar a alguien conocido puede ser especialmente perturbador. Estos s
 <br>
 
 Este artículo es sólo para fines informativos. En AnalyzeMyDream no ofrecemos diagnósticos ni recomendaciones de tratamiento. Para preguntas específicas, recomendamos consultar con un profesional de la psicología.
-
-Para explorar más temas relacionados, visita nuestra sección sobre [Significado de los sueños](#).
