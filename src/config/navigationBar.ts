@@ -53,21 +53,20 @@ export const navigationBarData: NavData = {
 			name: 'Categorias',
 			link: '#',
 			submenu: [
-				{ name: 'Abstração', link: '/blog/tags/Abstração' },
-				{ name: 'Atividades', link: '/blog/tags/Atividades' },
 				{ name: 'Animais', link: '/blog/tags/Animais' },
-				{ name: 'Aspirações', link: '/blog/tags/Aspirações' },
-				{ name: 'Sentimentos', link: '/blog/tags/Sentimentos' },
-				{ name: 'Comida', link: '/blog/tags/Comida' },
-				{ name: 'Fortuna', link: '/blog/tags/Fortuna' },
-				{ name: 'Saúde', link: '/blog/tags/Saúde' },
-				{ name: 'Insetos', link: '/blog/tags/Insetos' },
-				{ name: 'Vários', link: '/blog/tags/Vários' },
-				{ name: 'Natureza', link: '/blog/tags/Natureza' },
 				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
 				{ name: 'Pessoas', link: '/blog/tags/Pessoas' },
+				{ name: 'Atividades', link: '/blog/tags/Atividades' },
+				{ name: 'Natureza', link: '/blog/tags/Natureza' },
+				{ name: 'Sentimentos', link: '/blog/tags/Sentimentos' },
+				{ name: 'Fortuna', link: '/blog/tags/Fortuna' },
 				{ name: 'Surrealismo', link: '/blog/tags/Surrealismo' },
-				{ name: 'Situações-Ameaçadoras', link: '/blog/tags/Situações-Ameaçadoras' }
+				{ name: 'Comida', link: '/blog/tags/Comida' },
+				{ name: 'Insetos', link: '/blog/tags/Insetos' },
+				{ name: 'Aspirações', link: '/blog/tags/Aspiracoes' },
+				{ name: 'Saúde', link: '/blog/tags/Saude' },
+				{ name: 'Abstrato', link: '/blog/tags/Abstrato' },
+				{ name: 'Diversos', link: '/blog/tags/Diversos' }
 			  ]
 			  
 		},
