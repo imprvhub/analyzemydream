@@ -9,14 +9,14 @@ import Hero from '../components/blocks/hero/PageHeader.astro'
 // Content
 // - SEO
 const SEO = {
-    title: 'AnalyzeMyDream | Terms of Service and Privacy Policy',
+    title: 'AnalyzeMyDream | Terms of Service and User Agreement',
     description:
-        "AnalyzeMyDream's terms of service and privacy policy outline the rules and regulations that govern your use of our services, as well as how we handle your personal information. Please read them carefully to understand your rights and responsibilities."
+        "AnalyzeMyDream's Terms of Service and User Agreement outline the rules and regulations that govern your use of our services, as well as how we handle your personal information. Please read them carefully to understand your rights and responsibilities."
 }
 
 // - Page Header
 const header = {
-    title: '<strong>Terms</strong> of Services and <strong>Privacy</strong> Policy.',
+    title: '<strong>Terms</strong> of Service and <strong>User Agreement</strong>',
     text: 'Please read them carefully to understand your rights and responsibilities.'
 }
 ---
@@ -25,31 +25,23 @@ const header = {
     <Hero title={header.title} text={header.text} />
     <SidebarContent>
         <div slot="sidebar">
-            <h3>Introduction</h3>
+            <h3>Introduction</h3> 
             <p>
-                Welcome to AnalyzeMyDream.com! By using our services, you agree to be bound by these Terms of service and Privacy Policy. Please read them carefully.
+                Welcome to AnalyzeMyDream.com! By using our services, you agree to be bound by these Terms of Service and User Agreement. Please read them carefully.
             </p>
         </div>
         <div class="basic-text">
             <h4>Acceptance of Terms</h4>
             <p>
-                By accessing or using AnalyzeMyDream.com, you agree to comply with and be bound by these Terms of Service and our Privacy Policy. If you do not agree with these terms, you should not use our services.
+                <p>
+                    By accessing or using AnalyzeMyDream.com, including its domain names, IP addresses, content, or any interaction (such as clicking on links), <strong>you acknowledge and declare that you accept this Terms and User Agreement and confirm that you are at least 18 years old. Your access and use indicate your acknowledgment, acceptance, and unconditional agreement to all the terms and conditions set forth herein without modification, and this agreement takes effect immediately. To reject, simply refrain from using the website and close all its windows.</strong>  You may not access or use this website if you (or your guardian or legal representative) cannot enter into a binding contract or if this User Agreement is not enforceable in your jurisdiction. By using this website, you confirm that you have read, understood, and accepted all terms. If you are the owner or operator of the equipment used to access this website, by allowing such use, you consent and agree to be bound by the terms and conditions of this User Agreement. If acting on behalf of an organization, you declare that you are authorized to act as an agent and accept this User Agreement on behalf of your employer and organization. You agree to use the website only in accordance with these usage rights and all applicable laws and regulations.
+                </p>                
             </p>
 
             <h4>Changes to Terms</h4>
             <p>
                 We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new terms on our website. Your continued use of the service after such changes constitutes your acceptance of the new terms.
             </p>
-            
-            <!-- <h4>Registration</h4>
-            <p>
-                To use certain features of AnalyzeMyDream, you may need to create an account. You agree to provide accurate and complete information when creating your account and to keep this information up-to-date.
-            </p>
-
-            <h4>Account Security</h4>
-            <p>
-                You are responsible for maintaining the confidentiality of your account and password. You agree to notify us immediately of any unauthorized use of your account.
-            </p> -->
         </div>
     </SidebarContent>
     <SidebarContent classes="bg-neutral-50 dark:bg-neutral-900">
@@ -70,7 +62,7 @@ const header = {
                 The content on our platform is based on specialized literature to provide you with a general overview of dreams. While we strive to provide accurate and useful information, dream meanings may vary. Therefore, we encourage you to use this information as a general guide and not as a definitive guidance for personal experiences.
             </p>
             <p>
-                IMPORTANT: The information provided on our platform is based on excerpts and summaries from academic works and should not be considered a substitute for professional advice. While the content aims to offer general perspectives, we are not qualified to provide personalized psychological advice. 
+                The information provided on our platform is based on excerpts and summaries from academic works and should not be considered a substitute for professional advice. While the content aims to offer general perspectives, we are not qualified to provide personalized psychological advice. 
             </p>
 
             <h4>Disclaimer</h4>
@@ -117,45 +109,9 @@ const header = {
     </SidebarContent>
     <SidebarContent>
         <div slot="sidebar">
-            <h3>Privacy Policies</h3>
-            <p>
-                At AnalyzeMyDream.com, your privacy is important to us. This Privacy Policy explains how we use cookies, tracking technologies, and advertising to enhance your experience on our website.
-            </p>
-        </div>
-        <div class="basic-text">
-            <h4>Cookies and Tracking Technologies</h4>
-            <p>
-                We use cookies and other tracking technologies to improve our website and provide a better user experience. Cookies are small data files that are placed on your device to help us remember your preferences and understand how you use our site. This helps us analyze traffic patterns and improve our content and functionality.
-            </p>
-            <p>
-                To facilitate these improvements, we use services such as Google Analytics and Microsoft Clarity. These tools help us gather information about user interactions on our site, allowing us to identify areas for enhancement and ensure our content meets your needs. For more information on how Google Analytics and Microsoft Clarity handle your data, please refer to their privacy policies:
-                <ul>
-                    <li><a href="https://policies.google.com/privacy" target="_blank">Google Analytics Privacy Policy</a></li>
-                    <li><a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank">Microsoft Clarity Privacy Policy</a></li>
-                </ul>
-            </p>
-
-            <h4>Use of Google Ads</h4>
-            <p>
-                AnalyzeMyDream.com provides its services free of charge. To maintain and improve the website without directly charging users, we utilize Google Ads. This enables us to continue offering you free access to our tools and resources. For more information on how Google uses data for ads, please review the <a href="https://policies.google.com/privacy" target="_blank">Google Ads Privacy Policy</a>.
-            </p>
-
-            <h4>How We Use Your Information</h4>
-            <p>
-                The information collected through cookies and tracking technologies is used solely to enhance the quality of our service and user experience. We do not sell or rent your personal information to third parties. The data is used exclusively for improving our website's functionality and quality.
-            </p>
-            <p>
-                <strong>Please note that by using our site, you consent to the use of advertising, tracking technologies, and cookies as described in our Privacy Policy. If you do not agree with the use of these technologies, we kindly ask you to refrain from using our site.</strong>
-            </p>
-            
-        </div>
-        
-    </SidebarContent>
-    <SidebarContent>
-        <div slot="sidebar">
             <h3>Contact Information</h3>
             <p>
-                If you have any questions about these Terms of Service and Privacy Policies, please contact us at:
+                If you have any questions about these Terms of Service and User Agreement, please contact us at:
             </p>
             <ul>
                 <li>Email: <a href="mailto:contact@ivanluna.dev">contact@ivanluna.dev</a></li>
@@ -183,9 +139,11 @@ const header = {
 				
             </p>
             <p>
-				<li>Avoiding any applicable laws or regulations</li>
-				<li>Uploading or distributing viruses or malicious code</li>
-                <li>Interfering with the operation of the service</li>
+                <li>Avoiding any applicable laws or regulations</li>
+				<li>Attempt to bypass the website's security measures.</li>
+                <li>Use the website in a way that may harm it or affect its performance.</li>
+                <li>Disassemble or decompile the website.</li>
+                
             </p>
 
             <h3>Miscellaneous</h3>
@@ -198,7 +156,7 @@ const header = {
             <p>
                 <strong>Waiver:</strong> Our failure to enforce any right or provision of these terms will not be considered a waiver of those rights.
             </p>
-            <p><em>Last updated: August 9, 2024</em></p>
+            <p><em>Last updated: August 14, 2024</em></p>
         </div>
     </SidebarContent>
 </Layout>

@@ -1,0 +1,122 @@
+---
+// Components
+// - Layout
+import Layout from '../layouts/Layout.astro'
+// - UI
+import SidebarContent from '../components/blocks/basic/StickySidebar.astro'
+import Hero from '../components/blocks/hero/PageHeader.astro'
+
+// Content
+// - SEO
+const SEO = {
+    title: 'AnalyzeMyDream | Privacy Policy',
+    description:
+        "AnalyzeMyDream's Privacy Policy provides detailed information on how we manage your personal data, including our use of cookies, tracking technologies, and advertising to enhance your experience on our website."
+}
+
+// - Page Header
+const header = {
+    title: '<strong>Privacy</strong> Policy',
+    text: 'Explore how we handle your personal information, our use of cookies, and our practices concerning tracking technologies and advertising.'
+}
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+    <Hero title={header.title} text={header.text} />
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Introduction</h3>
+            <p>
+                A brief overview of our commitment to your privacy and how this policy will guide the use of cookies, tracking technologies, and advertising on our site.
+            </p>
+        </div>
+        <div>
+            <h4>Introduction to Our Privacy Practices</h4>
+            <p>
+                At AnalyzeMyDream, protecting your privacy is a top priority. This Privacy Policy outlines how we handle your personal information and provides insights into our practices concerning cookies, tracking technologies, and advertising.
+            </p>
+            <p>
+                By understanding these practices, you can make informed decisions about your use of our website and the information you share with us.
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Cookies and Tracking Technologies</h3>
+            <p>
+                Learn about our use of cookies and other tracking technologies to enhance your user experience and analyze site usage.
+            </p>
+        </div>
+        <div>
+            <h4>Understanding Cookies and Tracking Technologies</h4>
+            <p>
+                Cookies are small data files placed on your device that help us remember your preferences and understand your usage of our site. These technologies enable us to analyze traffic patterns and improve our content.
+            </p>
+            <p>
+                We use services like Google Analytics and Microsoft Clarity to gather and analyze data about user interactions. This helps us improve our website and address your needs more effectively. For more information, you can review the privacy policies of these services:
+                <ul>
+                    <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Analytics Privacy Policy</a></li>
+                    <li><a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank" rel="noopener noreferrer">Microsoft Clarity Privacy Policy</a></li>
+                </ul>
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Use of Google Ads</h3>
+            <p>
+                Understand how we use Google Ads to support our services and provide free access to our tools.
+            </p>
+        </div>
+        <div>
+            <h4>Advertising and Its Impact on Your Experience</h4>
+            <p>
+                AnalyzeMyDream.com provides its services free of charge. To maintain and improve the website without directly charging users, we utilize Google Ads. This enables us to continue offering you free access to our tools and resources. 
+            </p>
+            <p>
+                For more details on how Google uses your data for advertising purposes, please review the <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Ads Privacy Policy</a>.
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>How We Use Your Information</h3>
+            <p>
+                Discover how the information collected is used to improve our services and protect your privacy.
+            </p>
+        </div>
+        <div>
+            <h4>Information Usage and Protection</h4>
+            <p>
+                Information collected through cookies and tracking technologies is used to enhance our website’s functionality and improve user experience. We do not sell or rent your personal information to third parties.
+            </p>
+            <p>
+                Your data is used exclusively to refine our services and ensure they meet your needs. We are committed to protecting your privacy and handling your data with care and confidentiality.
+            </p>
+            <p>
+                <strong>By continuing to use our site, you consent to our use of cookies, tracking technologies, and advertising practices as outlined in this Privacy Policy. If you do not agree, please discontinue use of our site.</strong>
+            </p>
+        </div>
+    </SidebarContent>
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Contact Information</h3>
+            <p>
+                Find out how to reach us if you have any questions about our Privacy Policy or practices.
+            </p>
+        </div>
+        <div>
+            <h4>Reach Out for Assistance</h4>
+            <p>
+                If you have any questions or concerns regarding our Privacy Policy or how we handle your personal information, please do not hesitate to reach out. We are committed to addressing your inquiries and ensuring that your concerns are resolved promptly.
+            </p>
+            <ul>
+                <li>Email: <a href="mailto:contact@ivanluna.dev">contact@ivanluna.dev</a></li>
+            </ul>
+        </div>
+    </SidebarContent>
+</Layout>
