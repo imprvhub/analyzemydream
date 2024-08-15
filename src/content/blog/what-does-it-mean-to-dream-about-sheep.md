@@ -25,13 +25,6 @@ El color blanco a menudo se asocia en psicología con la paz y la pureza. Soñar
 **Oveja Blanca como mascota:** Implica que tienes amigos leales que están dispuestos a apoyarte.
 **Acariciar una oveja blanca:** Este sueño representa noticias positivas en el horizonte, una recompensa por tu arduo trabajo y esfuerzo.
 
-**Soñar con oveja muerta:**
-
-Los sueños que involucran ovejas muertas suelen tener una connotación negativa, insinuando:
-
-**Traición y resentimiento:** Podría indicar que alguien en quien confías te está traicionando o hablando negativamente de ti a tus espaldas.
-**Preocupación y ansiedad:** Este sueño sugiere que estás enfrentando tiempos difíciles. Sin embargo, también apunta a tu fuerza y ​​determinación para superar los obstáculos.
-
 **Soñar con oveja bebé:**
 
 Los sueños con crías de ovejas están asociados con:

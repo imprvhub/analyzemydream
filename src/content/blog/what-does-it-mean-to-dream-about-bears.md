@@ -24,7 +24,6 @@ El tipo de oso que aparece en tu sueño tiene un significado específico:
 **Oso polar:** Esta majestuosa criatura suele simbolizar el aislamiento, la injusticia y el deseo de escapar de situaciones difíciles. También puede representar la necesidad de expresar tus emociones para evitar la agitación interna. 
 **Mirándote:** Un oso polar mirándote puede ser un llamado a reconocer y expresar tus sentimientos. 
 **Como mascota:** Esto puede indicar un posible estallido de ira o pérdida de control. 
-**Matar a un oso polar:** Este sueño puede sugerir que debes superar el miedo y enfrentar los desafíos de frente. 
 **Oso negro:** Los osos negros suelen representar impulsividad, ira y una necesidad de mayor comprensión y compasión. 
 **Persiguiéndote:** Esto sugiere una necesidad de ser más tolerante y empático con los demás. 
 **Territorialidad y sobreprotección:** El sueño puede reflejar un fuerte deseo de familia o una tendencia hacia un comportamiento sobreprotector. 
@@ -49,5 +48,3 @@ La naturaleza de tu interacción con el oso también influye en la comprensión 
 Lapeña, S. C. (2008). *Interpretación de los sueños: cómo decodificarlos y comprender su significado*. Editorial AMAT.
 
 ---
-
-He reestructurado el contenido para que siga el formato estándar, asegurando la coherencia en los niveles de encabezado, el formato y el lenguaje. También he realizado pequeñas modificaciones para mejorar la legibilidad y realzar el profesionalismo del texto.

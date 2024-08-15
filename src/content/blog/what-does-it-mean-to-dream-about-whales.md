@@ -42,10 +42,6 @@ Los sueños con ballenas blancas pueden interpretarse de dos maneras:
 - **Buscar tranquilidad:** Este sueño puede reflejar un deseo de paz y tranquilidad en tu vida diaria, un anhelo de un momento de soledad para organizar tus pensamientos y recuperar la compostura. Aprovecha los momentos de relajación y rejuvenecimiento para revitalizar tu mente y tu espíritu.
 - **Enfrentar preocupaciones:** Una ballena blanca grande significa una preocupación importante que estás tratando activamente de liberar. Por el contrario, una ballena blanca más pequeña sugiere que estás resolviendo eficazmente problemas menores que han estado pesando en tu mente.
 
-### Ballenas muertas
-
-Soñar con una ballena muerta puede indicar que has tomado decisiones recientes que podrían tener consecuencias perjudiciales. Sirve como recordatorio para ejercitar una cuidadosa consideración antes de actuar, reconociendo que las decisiones impulsivas pueden llevar a resultados negativos no deseados para ti y para los demás. El sueño también sugiere un anhelo de revisar planes olvidados y embarcarte en metas nuevas e inspiradoras. Aproveche la oportunidad de comenzar de nuevo, considerando a la ballena muerta como un símbolo de las cargas que debe dejar atrás para forjar un camino hacia el éxito.
-
 **Importante:** Estas interpretaciones son meramente sugerentes y ofrecen un punto de partida para comprender el significado de sus sueños. Para una interpretación personalizada, considere consultar con un psicólogo calificado. 
 
 **Bibliografía:**

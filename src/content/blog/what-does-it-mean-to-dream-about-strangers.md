@@ -23,8 +23,6 @@ En nuestros sueños, un reino de expresión subconsciente, a menudo aparecen ros
 
 **Extraños en conflicto:** Ser testigo de una pelea entre extraños en tus sueños puede significar un anhelo de equilibrio interno y de dejar atrás la negatividad. Refleja tu determinación para tomar decisiones cruciales, lo que te anima a aceptar tu yo auténtico y enfrentar los conflictos internos de frente.
 
-**Extraños muertos:** Los sueños que involucran a extraños fallecidos pueden resucitar problemas pasados ​​que creías haber resuelto. Si los fallecidos están activos, pueden representar remordimiento por acciones pasadas y un deseo de rectificarlas. Si los muertos aparecen como cadáveres, el sueño puede indicar nostalgia, arrepentimiento o incluso posibles problemas de salud, lo que justifica un chequeo médico. 
-
 **Extraños que te atacan:** Este sueño a menudo simboliza preocupaciones financieras, advirtiéndote contra los gastos o inversiones impulsivas. También puede indicar conflictos en el lugar de trabajo, en particular con nuevos colegas. En las relaciones, este sueño puede reflejar insatisfacción con la dinámica actual o vacío emocional. 
 
 **Subtítulo Adicional**

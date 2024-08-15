@@ -57,7 +57,7 @@ Esta guía tiene como objetivo proporcionar información sobre los posibles sign
 
 * Freud, S. (2023). *La interpretación de los sueños*. BoD-Books on Demand. 
 * De Daldis, Artemidoro. *El libro de la interpretación de los sueños. Vol. 53*. Ediciones AKAL, 1999. 
-* Colomer, Javier Castillo. *Introducción a la interpretación de los sueños*. Editorial Manuscritos, 2014. 
+* Colomer, Javier Castillo. *Introducción a la interpretación de los sueños*. Editorial Manuscritos, 201
 * Freud, S. (1981). * El uso de la interpretación de los sueños en el psicoanálisis* (Vol. 2096). Editorial NoBooks.
 
 ---

@@ -55,6 +55,6 @@ A pesar de su asociación con el frío, soñar con hielo suele conllevar connota
 **Referencias:**
 
 - Freud, S. (2013). *La interpretación de los sueños* (Vol. 267). Ediciones Akal.
-- Murillo, R. (2008). *Los sueños: cuando los dioses se comunican con los hombres. Psicobiología de los sueños*. Revista Médica de la Universidad Veracruzana 8(S2), 79-81. Recuperado de: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
+- Murillo, R. (2008). *Los sueños: cuando los dioses se comunican con los hombres. Psicobiología de los sueños*. Revista Médica de la Universidad Veracruzana 8(S2), 79-8Recuperado de: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
 
 ---

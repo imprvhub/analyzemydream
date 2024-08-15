@@ -33,9 +33,6 @@ Esta imagen indica un período difícil en tu vida, que puede implicar desafíos
 - **Cocodrilos blancos en agua sucia:** A pesar de las dificultades, tu fuerte fuerza de voluntad te ayudará a superar los obstáculos.
 - **Cocodrilos durmiendo en agua sucia:** Esto sugiere que podrías estar descuidando aspectos importantes de tu vida. Esfuérzate por lograr un equilibrio en tus esfuerzos para abordar tus necesidades de manera efectiva.
 
-### Cocodrilos muertos
-
-Este ominoso sueño presagia el fin de una relación importante, ya sea romántica, profesional o amistosa. La traición y la negatividad se asocian con este sueño, lo que indica un posible daño. Reflexiona sobre tus relaciones actuales y considera dejar ir aquellas que ya no te sirven. Si bien esto puede ser doloroso, el sueño te anima a seguir adelante con lo que te hace daño.
 
 ### Cocodrilos persiguiéndote
 

@@ -17,7 +17,7 @@ Soñar que tu pareja te es infiel puede ser una experiencia angustiante, que te 
 
 Psicoanalistas como Sigmund Freud y Carl Jung han explorado los significados detrás de estos sueños. Al ahondar en la mente subconsciente, podemos obtener información valiosa sobre los mensajes que transmiten estos sueños. Aquí, examinamos varios escenarios y sus posibles interpretaciones:
 
-**1. Ser testigo de una infidelidad:** Si sueñas que tu pareja te engaña frente a ti, podría significar inseguridades subyacentes y una falta de confianza en tu relación. 
+**Ser testigo de una infidelidad:** Si sueñas que tu pareja te engaña frente a ti, podría significar inseguridades subyacentes y una falta de confianza en tu relación. 
 
 ### Inseguridades y miedos
 
@@ -27,7 +27,7 @@ Estos sueños pueden revelar ansiedades sobre la fidelidad de tu pareja o miedos
 
 El sueño también puede ser un reflejo de baja autoestima, donde te sientes inadecuado para tu pareja. La comunicación abierta y honesta puede ayudar a abordar estos sentimientos y fortalecer la confianza en tu relación.
 
-**2. Infidelidad y abandono:** Los sueños en los que tu pareja te engaña y luego te deja suelen indicar conflictos internos y miedos a quedarse solo.
+**Infidelidad y abandono:** Los sueños en los que tu pareja te engaña y luego te deja suelen indicar conflictos internos y miedos a quedarse solo.
 
 ### Conflictos internos
 
@@ -37,7 +37,7 @@ Este sueño puede indicar miedos no resueltos de abandono o problemas subyacente
 
 El sueño también puede significar sentimientos de compromiso no correspondido por parte de tu pareja. La comunicación abierta puede ayudar a aclarar tus dudas e inquietudes, fomentando una mayor comprensión y conexión.
 
-**3. Infidelidad recurrente:** Si sueñas repetidamente que tu pareja te engaña, esto podría indicar dolor emocional y heridas sin sanar.
+**Infidelidad recurrente:** Si sueñas repetidamente que tu pareja te engaña, esto podría indicar dolor emocional y heridas sin sanar.
 
 ### Duelo y recuperación
 
@@ -47,7 +47,7 @@ Este sueño recurrente podría estar relacionado con una pérdida reciente o un 
 
 Según Freud, los sueños repetitivos a menudo reflejan nuestro estado emocional actual. Si te sientes triste, frustrado o ansioso en tu vida diaria, estas emociones podrían manifestarse en tus sueños como una infidelidad repetida.
 
-**4. Engañar con un ex:** Soñar que tu pareja te engaña con su ex puede indicar sentimientos de celos y preocupaciones sobre el pasado.
+**Engañar con un ex:** Soñar que tu pareja te engaña con su ex puede indicar sentimientos de celos y preocupaciones sobre el pasado.
 
 ### Celos y comparaciones
 
@@ -57,7 +57,7 @@ Este sueño podría reflejar celos hacia el pasado de tu pareja o inseguridades 
 
 Este sueño brinda una oportunidad para reflexionar sobre su relación actual e identificar áreas que podrían requerir más atención o esfuerzo.
 
-**5. Engañar con un amigo:** Soñar con que su pareja le engaña con un amigo puede estar relacionado con miedos personales y autoevaluación.
+**Engañar con un amigo:** Soñar con que su pareja le engaña con un amigo puede estar relacionado con miedos personales y autoevaluación.
 
 ### Miedo al cambio
 

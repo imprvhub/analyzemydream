@@ -83,7 +83,7 @@ export const footerNavigationData: FooterData = {
 				},
 				{
 					subCategory: 'Política de Privacidad',
-					subCategoryLink: '/terms'
+					subCategoryLink: '/privacy'
 				}
 			]
 		},

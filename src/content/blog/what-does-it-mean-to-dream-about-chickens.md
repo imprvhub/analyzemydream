@@ -27,12 +27,6 @@ Soñar con gallinas con pollitos suele significar un fuerte sentido de protecci�
 
 Si la gallina en su sueño parece asustada, podría simbolizar preocupación por un miembro de la familia, tal vez un niño. Este sueño puede ser un recordatorio para estar atento a las necesidades de sus seres queridos, especialmente si tiene adolescentes, y mantener una comunicación abierta con ellos. Este tipo de sueño sugiere que las acciones positivas pueden ayudar a resolver los problemas familiares. 
 
-### Pollos muertos
-
-Soñar con pollos muertos o heridos, especialmente si hay sangre presente, generalmente conlleva una connotación negativa. Este sueño podría presagiar posibles dificultades financieras o escasez de recursos. Es aconsejable evitar las inversiones impulsivas y asegurarse de tener algunos ahorros para afrontar posibles desafíos financieros. 
-
-Ver pollos muertos o desplumados también puede relacionarse con preocupaciones personales o tristeza reciente. Si usted es quien mata al pollo en el sueño, podría reflejar una actitud agresiva hacia los demás. Reflexionar sobre el contexto del sueño puede ayudarlo a encontrar una sensación de calma y ajustar su comportamiento en consecuencia. 
-
 ### Gallinas negras
 
 En el análisis de sueños, el color negro suele asociarse al rechazo o la negación. Soñar con gallinas negras puede simbolizar noticias desfavorables u obstáculos para alcanzar tus metas. Este sueño podría ser una señal para renovar tus esfuerzos y enfrentar los desafíos con una mentalidad positiva. 
@@ -59,6 +53,6 @@ El color marrón está vinculado a la estabilidad y el bienestar en psicología.
 
 **Bibliografía:**
 
-- Freud, S. *La interpretación de los sueños*. Akal Editions, 2013. 
+- Freud, S. *La interpretación de los sueños*. Akal Editions, 201
 - Pérsico, L. *5.005 sueños: interpretación y significado*. LIBSA, 2013.
 ---

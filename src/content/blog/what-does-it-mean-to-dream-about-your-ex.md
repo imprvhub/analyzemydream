@@ -22,11 +22,6 @@ El reino de los sueños es intrincado y a menudo desafía la interpretación sim
 
 **Descifrando escenarios oníricos específicos**
 
-### Soñar con tu ex teniendo sexo
-
-**Deseo de intimidad:** Estos sueños pueden indicar un anhelo por la intimidad que compartiste anteriormente con tu ex. Pueden reflejar un deseo de reconectarse a nivel emocional o físico.
-**Satisfacción inconsciente:** Si actualmente estás en una relación, soñar con tu ex participando en actos íntimos podría significar una sensación de que algo falta en tu dinámica actual. Tu mente puede estar buscando llenar este vacío con recuerdos de una relación pasada.
-
 ### Soñar con tu ex con otra persona
 
 **Celos e inseguridad:** Este tipo de sueño a menudo refleja sentimientos de celos o inseguridad, especialmente si estás en una nueva relación. El vínculo subconsciente con tu ex puede desencadenar estas emociones, aunque la relación haya terminado. 

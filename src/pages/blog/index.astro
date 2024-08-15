@@ -4,9 +4,9 @@
 // Descripción: La página de índice del blog.
 
 // Componentes
-// - Layout
+// - Diseño
 import Layout from '../../layouts/Layout.astro'
-// - UI
+// - Interfaz de Usuario
 import Hero from '../../components/blocks/hero/PageHeader.astro'
 import BlogPosts from '../../components/blocks/blog/BlogPosts.astro'
 
@@ -16,14 +16,14 @@ import { getCollection } from 'astro:content'
 // Contenido
 // - SEO
 const SEO = {
-	title: 'AnalyzeMyDream | Últimas noticias y actualizaciones de AnalyzeMyDream',
+	title: 'AnalyzeMyDream | Explorando significados de sueños y mejorando la auto-comprensión.',
 	description:
-		"Explora las últimas noticias de AnalyzeMyDream diseñadas para mejorar la productividad, asegurar la mejor seguridad y integrarse a la perfección con tus herramientas favoritas. Únete a miles de usuarios satisfechos y transforma tu flujo de trabajo con AnalyzeMyDream hoy mismo."
+		"Una plataforma integral para interpretaciones de sueños y perspectivas."
 }
 // - Encabezado de Página
 const header = {
-	title: 'Explora todos los <strong>sueños</strong>.',
-	text: 'Accede a interpretaciones basadas en investigaciones académicas. Descubre el verdadero significado detrás de tus sueños.'
+	title: 'Explora todos los <strong>significados</strong> de los <strong>sueños</strong>.',
+	text: 'Descifra el Significado de Tus Sueños. Descubre las últimas interpretaciones y entiende lo que revelan tus sueños.'
 }
 
 const allPosts = await getCollection('blog')

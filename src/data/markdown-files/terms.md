@@ -12,13 +12,6 @@ By accessing or using AnalyzeMyDream, you agree to comply with and be bound by t
 
 We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new terms on our website. Your continued use of the service after such changes constitutes your acceptance of the new terms.
 
-### Registration
-
-To use certain features of AnalyzeMyDream, you may need to create an account. You agree to provide accurate and complete information when creating your account and to keep this information up-to-date.
-
-### Account Security
-
-You are responsible for maintaining the confidentiality of your account and password. You agree to notify us immediately of any unauthorized use of your account.
 
 ## Use of Content
 

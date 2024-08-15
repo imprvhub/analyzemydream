@@ -36,8 +36,8 @@ export const navigationBarData: NavData = {
 	},
 	navItems: [
 		{ name: 'Inicio', link: '/' },
-		{ name: 'Analizar', link: '/analyze' },
-		{ name: 'Explorar', link: '/blog' },
+		
+		//  { name: 'Explorar', link: '/blog' },
 		// { name: 'Features', link: '/features' },
 		// {
 		// 	name: 'Resources',
@@ -50,9 +50,10 @@ export const navigationBarData: NavData = {
 		// 	]
 		// },
 		{
-			name: 'Categorías',
+			name: 'Explorar',
 			link: '#',
 			submenu: [
+				{ name: 'Todos', link: '/blog/' },
 				{ name: 'Animales', link: '/blog/tags/Animales' },
 				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
 				{ name: 'Personas', link: '/blog/tags/Personas' },
@@ -69,7 +70,7 @@ export const navigationBarData: NavData = {
 				{ name: 'Miscelánea', link: '/blog/tags/Miscelánea' },	
 			]
 		  },
-		
+		{ name: 'Analizar', link: '/analyze' },
 		{ name: 'Contacto', link: '/contact' }
 	],
 	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]

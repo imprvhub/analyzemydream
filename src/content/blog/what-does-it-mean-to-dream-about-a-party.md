@@ -60,6 +60,6 @@ A continuación, se muestra un desglose de los sueños de fiesta más comunes y 
 **Bibliografía:**
 
 * Freud, S. (2013). *La interpretación de los sueños* (Vol. 267). Ediciones Akal.
-* Murillo, R. (2008). *Los sueños: Cuando los dioses se comunican con los hombres. Psicobiología de los sueños diurnos*. Revista Médica de la Universidad Veracruzana 8(S2), 79-81. Recuperado de: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
+* Murillo, R. (2008). *Los sueños: Cuando los dioses se comunican con los hombres. Psicobiología de los sueños diurnos*. Revista Médica de la Universidad Veracruzana 8(S2), 79-8Recuperado de: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
 
 ---

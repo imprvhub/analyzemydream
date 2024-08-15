@@ -1,0 +1,123 @@
+---
+// Componentes
+// - Diseño
+import Layout from '../layouts/Layout.astro'
+// - Interfaz de usuario
+import SidebarContent from '../components/blocks/basic/StickySidebar.astro'
+import Hero from '../components/blocks/hero/PageHeader.astro'
+
+// Contenido
+// - SEO
+const SEO = {
+    title: 'AnalyzeMyDream | Política de Privacidad',
+    description:
+        "La Política de Privacidad de AnalyzeMyDream proporciona información detallada sobre cómo gestionamos tus datos personales, incluyendo el uso de cookies, tecnologías de seguimiento y publicidad para mejorar tu experiencia en nuestro sitio web."
+}
+
+// - Encabezado de la Página
+const header = {
+    title: '<strong>Política</strong> de Privacidad',
+    text: 'Explora cómo manejamos tu información personal, nuestro uso de cookies y nuestras prácticas respecto a las tecnologías de seguimiento y publicidad.'
+}
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+    <Hero title={header.title} text={header.text} />
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Introducción</h3>
+            <p>
+                Una visión general de nuestro compromiso con tu privacidad y cómo esta política guiará el uso de cookies, tecnologías de seguimiento y publicidad en nuestro sitio.
+            </p>
+        </div>
+        <div>
+            <h4>Introducción a Nuestras Prácticas de Privacidad</h4>
+            <p>
+                En AnalyzeMyDream, proteger tu privacidad es una prioridad. Esta Política de Privacidad describe cómo manejamos tu información personal y ofrece información sobre nuestras prácticas en relación con cookies, tecnologías de seguimiento y publicidad.
+            </p>
+            <p>
+                Al entender estas prácticas, puedes tomar decisiones informadas sobre el uso de nuestro sitio web y la información que compartes con nosotros.
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Cookies y Tecnologías de Seguimiento</h3>
+            <p>
+                Conoce nuestro uso de cookies y otras tecnologías de seguimiento para mejorar tu experiencia de usuario y analizar el uso del sitio.
+            </p>
+        </div>
+        <div>
+            <h4>Comprendiendo las Cookies y Tecnologías de Seguimiento</h4>
+            <p>
+                Las cookies son pequeños archivos de datos colocados en tu dispositivo que nos ayudan a recordar tus preferencias y entender tu uso de nuestro sitio. Estas tecnologías nos permiten analizar patrones de tráfico y mejorar nuestro contenido.
+            </p>
+            <p>
+                Utilizamos servicios como Google Analytics y Microsoft Clarity para recopilar y analizar datos sobre las interacciones de los usuarios. Esto nos ayuda a mejorar nuestro sitio web y abordar tus necesidades de manera más efectiva. Para más información, puedes revisar las políticas de privacidad de estos servicios:
+                <ul>
+                    <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Política de Privacidad de Google Analytics</a></li>
+                    <li><a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank" rel="noopener noreferrer">Política de Privacidad de Microsoft Clarity</a></li>
+                </ul>
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Uso de Google Ads</h3>
+            <p>
+                Entiende cómo usamos Google Ads para apoyar nuestros servicios y proporcionar acceso gratuito a nuestras herramientas.
+            </p>
+        </div>
+        <div>
+            <h4>Publicidad y Su Impacto en Tu Experiencia</h4>
+            <p>
+                AnalyzeMyDream.com proporciona sus servicios de forma gratuita. Para mantener y mejorar el sitio web sin cobrar directamente a los usuarios, utilizamos Google Ads. Esto nos permite seguir ofreciéndote acceso gratuito a nuestras herramientas y recursos.
+            </p>
+            <p>
+                Para más detalles sobre cómo Google usa tus datos con fines publicitarios, por favor revisa la <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Política de Privacidad de Google Ads</a>.
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Cómo Usamos Tu Información</h3>
+            <p>
+                Descubre cómo se utiliza la información recopilada para mejorar nuestros servicios y proteger tu privacidad.
+            </p>
+        </div>
+        <div>
+            <h4>Uso y Protección de la Información</h4>
+            <p>
+                La información recopilada a través de cookies y tecnologías de seguimiento se utiliza para mejorar la funcionalidad de nuestro sitio web y mejorar la experiencia del usuario. No vendemos ni alquilamos tu información personal a terceros.
+            </p>
+            <p>
+                Tus datos se utilizan exclusivamente para refinar nuestros servicios y asegurar que satisfagan tus necesidades. Estamos comprometidos con la protección de tu privacidad y el manejo de tus datos con cuidado y confidencialidad.
+            </p>
+            <p>
+                <strong>Al continuar usando nuestro sitio, consientes el uso de cookies, tecnologías de seguimiento y prácticas publicitarias como se describe en esta Política de Privacidad. Si no estás de acuerdo, por favor, deja de usar nuestro sitio.</strong>
+            </p>
+        </div>
+    </SidebarContent>
+
+    <SidebarContent>
+        <div slot="sidebar">
+            <h3>Información de Contacto</h3>
+            <p>
+                Descubre cómo contactarnos si tienes alguna pregunta sobre nuestra Política de Privacidad o prácticas.
+            </p>
+        </div>
+        <div>
+            <h4>Contacto para Asistencia</h4>
+            <p>
+                Si tienes alguna pregunta o inquietud respecto a nuestra Política de Privacidad o cómo manejamos tu información personal, no dudes en ponerte en contacto con nosotros. Estamos comprometidos a resolver tus consultas y asegurar que tus preocupaciones sean atendidas de manera oportuna.
+            </p>
+            <ul>
+                <li>Email: <a href="mailto:contact@ivanluna.dev">contact@ivanluna.dev</a></li>
+            </ul>
+        </div>
+    </SidebarContent>
+</Layout>

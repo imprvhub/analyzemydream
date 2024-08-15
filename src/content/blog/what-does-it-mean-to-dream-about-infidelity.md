@@ -25,7 +25,6 @@ A continuación, se muestra un desglose de los escenarios oníricos de infidelid
 
 - **Fallos en la comunicación:** Este sueño podría indicar que tu relación está experimentando una brecha en la comunicación, lo que dificulta el progreso y crea diferentes perspectivas. Es un llamado a mejorar la comunicación y llegar a un punto en común para avanzar.
 - **Insatisfacción con tu vida actual:** Este sueño podría ser un reflejo de tu infelicidad general en ciertas áreas de tu vida, ya sea personal, laboral o financiera. Señala un deseo de cambio y una nueva dirección.
-- **Distancia sexual:** El sueño podría indicar un anhelo de pasión renovada dentro de tu relación. Anhelas una chispa que te ha estado faltando.
 
 ### Soñar con la infidelidad de otra persona:
 

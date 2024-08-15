@@ -23,8 +23,7 @@ Los sueños con hormigas suelen simbolizar trabajo en equipo, disciplina y perse
 
 Soñar con hormigas pequeñas suele simbolizar tu tenacidad ante la adversidad. Así como las hormigas pequeñas pueden mover objetos grandes, tu perseverancia te ayudará a superar desafíos y alcanzar tus objetivos. 
 
-- **Matar hormigas pequeñas:** Esto sugiere que estás abordando y resolviendo eficazmente problemas menores en tu vida.
-- **Ver hormigas pequeñas muertas:** Esta es una señal positiva que indica que tu perseverancia te ayudará a superar cualquier obstáculo.
+
 - **Pequeñas hormigas cargando comida:** Esto sugiere la importancia de mejorar su comunicación y compromiso en el trabajo para mejorar el desempeño y fomentar relaciones laborales sólidas.
 
 ### Hormigas gigantes

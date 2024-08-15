@@ -43,7 +43,7 @@ Soñar que otra persona gana la lotería puede revelar sentimientos de ser espec
 
 **Bibliografía:**
 
-*Freud, Sigmund. *La interpretación de los sueños*. BoD-Libros a la carta, 2023. 
+*Freud, Sigmund. *La interpretación de los sueños*. BoD-Libros a la carta, 202
 *Echeverría González, Cristián Eduardo. "Lenguaje e imagen de los sueños. Los sueños de deseo del psicoanálisis". (2014).
 *Sierra, María Laura. "Los sueños de Sigmund Freud". *Historia y escritura* 33 (2009): 85-111.
 

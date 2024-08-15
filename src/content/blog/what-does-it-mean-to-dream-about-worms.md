@@ -56,11 +56,6 @@ Los gusanos vivos pueden simbolizar transformación, cambio y crecimiento person
 
 Este sueño puede simbolizar una necesidad de privacidad y soledad. Puede reflejar una tendencia hacia la introversión o un deseo de protegerse de las influencias externas.
 
-### Larvas de gusano
-
-**Larvas vivas:** Las larvas vivas representan nuevos comienzos y proyectos que avanzan de manera positiva.
-**Larvas muertas:** Las larvas muertas sugieren dificultades o reveses en tus esfuerzos.
-
 **Importante:**
 
 La interpretación de los sueños es subjetiva y puede variar según las experiencias y emociones individuales. Esta guía ofrece información general, pero la interpretación profesional de un psicólogo puede ofrecer una comprensión más profunda de sus sueños personales.

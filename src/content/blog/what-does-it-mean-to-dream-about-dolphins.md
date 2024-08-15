@@ -26,9 +26,6 @@ Soñar con delfines nadando libremente en el océano, su entorno natural, simbol
 - **Delfín cerca de un barco:** Posibles obstáculos por delante, pero tu paciencia y sabiduría te guiarán para superarlos.
 - **Montar en el lomo de un delfín:** Incertidumbre en la toma de decisiones. El delfín puede estar guiándote hacia un nuevo camino, fomentando la confianza y un nuevo objetivo.
 
-**La desafortunada señal de los delfines muertos**
-
-Los sueños con delfines muertos tienen un significado sombrío, que representa pérdida, tristeza y sufrimiento. Puede reflejar dolor derivado de una enfermedad, conflictos en las relaciones personales (como una posible ruptura) o un sentimiento de vacío debido a la ausencia de una persona importante.
 
 **Delfines en espacios reducidos**
 
