@@ -59,7 +59,6 @@ This dream might symbolize a need for privacy and solitude.  It could reflect a 
 ### Worm Larvae
 
 **Live Larvae:** Live larvae represent new beginnings and projects moving forward positively.
-**Dead Larvae:** Dead larvae suggest difficulties or setbacks in your endeavors.
 
 **Important:**
 

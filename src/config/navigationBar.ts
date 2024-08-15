@@ -36,23 +36,11 @@ export const navigationBarData: NavData = {
 	},
 	navItems: [
 		{ name: 'Home', link: '/' },
-		{ name: 'Analyze', link: '/analyze' },
-		{ name: 'Explore', link: '/blog' },
-		// { name: 'Features', link: '/features' },
-		// {
-		// 	name: 'Resources',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Changelog', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
-		// 	]
-		// },
 		{
-			name: 'Categories',
+			name: 'Explore',
 			link: '#',
 			submenu: [
+				{ name: 'All', link: '/blog/' },
 				{ name: 'Animals', link: '/blog/tags/Animals' },
 				{ name: 'Objects-Places', link: '/blog/tags/Objects-places' },
 				{ name: 'People', link: '/blog/tags/People' },
@@ -69,6 +57,20 @@ export const navigationBarData: NavData = {
 				{ name: 'Miscellaneous', link: '/blog/tags/Miscellaneous' }
 			  ]
 		  },
+		{ name: 'Analyze', link: '/analyze' },
+		// { name: 'Explore', link: '/blog' },
+		// { name: 'Features', link: '/features' },
+		// {
+		// 	name: 'Resources',
+		// 	link: '#',
+		// 	submenu: [
+						
+		// 		{ name: 'Changelog', link: '/changelog' },
+		// 		{ name: 'FAQ', link: '/faq' },
+		// 		{ name: 'Terms', link: '/terms' }
+		// 	]
+		// },
+		
 		
 		{ name: 'Contact', link: '/contact' }
 	],

@@ -1,7 +1,7 @@
 ---
 title: 'What Does It Mean to Dream About Friends?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Discover the meaning of dreaming about friends, from dead friends to unknown friends, and what these dreams can reveal about your life and emotions.'
+description: 'Discover the meaning of dreaming about friends, unknown friends, and what these dreams can reveal about your life and emotions.'
 author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-friends.jpeg'
 tags: ['People']
@@ -19,9 +19,6 @@ Dreaming about friends frequently reflects our own personalities and the intrica
 
 **Specific Friend Dream Meanings**
 
-### Dead Friends
-
-While distressing, dreaming about deceased friends rarely signifies premonition. Instead, it might indicate a sense of betrayal or disappointment within the relationship. This could prompt your subconscious to suggest distance, suggesting that the bond may have lost its trustworthiness.
 
 ### Friends from the Past
 

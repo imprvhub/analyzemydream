@@ -25,7 +25,7 @@ Here's a breakdown of common infidelity dream scenarios and their potential inte
 
 - **Communication Breakdown:** This dream might indicate that your relationship is experiencing a communication gap, hindering progress and creating differing perspectives.  It's a call to improve communication and reach a common ground to move forward.
 - **Dissatisfaction with Your Current Life:** This dream could be a reflection of your overall unhappiness in certain areas of your life, be it personal, work, or financial.  It signals a desire for change and a new direction.
-- **Sexual Distance:** The dream might indicate a longing for renewed passion within your relationship.  You crave a spark that's been missing.
+
 
 ### Dreaming of Someone Else's Infidelity:
 

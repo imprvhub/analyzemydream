@@ -33,9 +33,6 @@ This imagery indicates a difficult period in your life, potentially involving he
 - **White crocodiles in dirty water:** Despite difficulties, your strong willpower will help you overcome obstacles.
 - **Sleeping crocodiles in dirty water:** This suggests you might be neglecting important aspects of your life. Strive for balance in your efforts to address your needs effectively.
 
-### Dead Crocodiles
-
-This ominous dream foreshadows the end of a significant relationship, be it romantic, professional, or friendly. Betrayal and negativity are associated with this dream, indicating possible harm. Reflect on your current relationships and consider letting go of those that no longer serve you. While this may be painful, the dream encourages you to move on from what hurts you.
 
 ### Crocodiles Chasing You
 

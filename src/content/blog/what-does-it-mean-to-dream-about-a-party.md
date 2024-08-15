@@ -60,6 +60,6 @@ Here's a breakdown of common party dreams and their possible meanings:
 **Bibliografía:**
 
 * Freud, S. (2013). *The interpretation of dreams* (Vol. 267). Akal Editions.
-* Murillo, R. (2008). *Dreams: When the gods communicate with men. Psychobiology of daydreams*. Medical Journal of the University of Veracruz 8(S2), 79-81. Retrieved from: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
+* Murillo, R. (2008). *Dreams: When the gods communicate with men. Psychobiology of daydreams*. Medical Journal of the University of Veracruz 8(S2), 79-8Retrieved from: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
 
 ---

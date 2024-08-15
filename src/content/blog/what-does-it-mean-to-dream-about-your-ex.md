@@ -22,11 +22,6 @@ The realm of dreams is intricate and often defies simple interpretation. Accordi
 
 **Decoding Specific Dream Scenarios**
 
-### Dreaming About Your Ex Having Sex
-
-**Desire for Intimacy:** These dreams might indicate a longing for the intimacy previously shared with your ex. They could reflect a desire to reconnect on an emotional or physical level.
-**Unconscious Satisfaction:** If you are currently in a relationship, dreams about your ex engaging in intimate acts could signify a feeling of something missing in your current dynamic. Your mind may be seeking to fulfill this void with memories from a past relationship.
-
 ### Dreaming About Your Ex With Someone Else
 
 **Jealousy and Insecurity:** This type of dream often reflects feelings of jealousy or insecurity, especially if you are in a new relationship. The subconscious bond with your ex may trigger these emotions, even though the relationship is over. 

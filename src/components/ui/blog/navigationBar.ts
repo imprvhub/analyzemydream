@@ -41,7 +41,7 @@ export const navigationBarData: NavData = {
 		{ name: 'Home', link: '/' },
 		// { name: 'Pricing', link: '/pricing' },
 		{ name: 'Analyze', link: '/analyze' },
-		{ name: 'Explore', link: '/blog' },
+		
 		// { name: 'Features', link: '/features' },
 		// {
 		// 	name: 'Resources',
@@ -54,7 +54,7 @@ export const navigationBarData: NavData = {
 		// 	]
 		// },
 		{
-			name: 'Categories',
+			name: 'Explore',
 			link: '#',
 			submenu: [
 			  { name: 'All', link: '//tags/all' },

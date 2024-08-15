@@ -43,7 +43,7 @@ Dreaming that someone else wins the lottery can reveal feelings of being a spect
 
 **Bibliography:**
 
-* Freud, Sigmund. *The interpretation of dreams*. BoD-Books on Demand, 2023. 
+* Freud, Sigmund. *The interpretation of dreams*. BoD-Books on Demand, 202
 * Echeverría González, Cristián Eduardo. "Language and image of dreams. The dreams of desire of psychoanalysis." (2014).
 * Sierra, María Laura. "The dreams of Sigmund Freud." *History and writing* 33 (2009): 85-111.
 

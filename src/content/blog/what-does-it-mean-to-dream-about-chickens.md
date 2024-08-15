@@ -27,11 +27,6 @@ Dreaming of chickens with chicks often signifies a strong sense of protectivenes
 
 If the hen in your dream appears scared, it could symbolize concern for a family member, perhaps a child.  This dream may be a reminder to be attentive to the needs of your loved ones, especially if you have teenagers, and maintain open communication with them. This type of dream suggests that positive actions can help resolve family issues.
 
-### Dead Chickens
-
-Dreaming of dead or injured chickens, particularly if blood is present, generally carries a negative connotation. This dream could foreshadow potential financial difficulties or a shortage of resources. It's wise to avoid impulsive investments and ensure you have some savings to navigate potential financial challenges.
-
-Seeing dead or plucked chickens can also relate to personal worries or recent sadness. If you're the one killing the chicken in the dream, it could reflect an aggressive attitude towards others. Reflecting on the context of the dream may help you find a sense of calm and adjust your behavior accordingly.
 
 ### Black Chickens
 
@@ -59,6 +54,6 @@ The color brown is linked to stability and well-being in psychology. Dreaming of
 
 **Bibliography:**
 
-- Freud, S. *The interpretation of dreams*. Akal Editions, 2013. 
+- Freud, S. *The interpretation of dreams*. Akal Editions, 201
 - Pérsico, L. *5,005 dreams: interpretation and meaning*. LIBSA, 2013.
 ---

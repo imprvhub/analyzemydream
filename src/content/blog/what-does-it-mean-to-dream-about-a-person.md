@@ -71,10 +71,6 @@ Frequently dreaming about someone can symbolize a persistent concern, an unresol
 
 If you have conflicts or unresolved issues with this individual, repetitive dreams could be a sign that your subconscious is attempting to bring those issues to your conscious awareness. It is a time to reflect on the relationship and seek resolution or understanding.
 
-**Dreaming About a Dead Person**
-
-Dreams featuring deceased individuals can be emotionally charged and profound, offering a unique opportunity to explore themes of grief, loss, and personal growth.
-
 ### Desire for Reunion
 
 Dreaming about someone who has passed away can reflect a desire to connect with them again, to share unlived moments, or to express unspoken words. These dreams are common when the loss is recent and profound.

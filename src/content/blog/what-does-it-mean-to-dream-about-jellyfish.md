@@ -57,7 +57,7 @@ This guide aims to provide insight into the potential meanings of jellyfish drea
 
 * Freud, S. (2023). *The interpretation of dreams*. BoD-Books on Demand. 
 * De Daldis, Artemidorus. *The book of the interpretation of dreams. Vol. 53*. AKAL Editions, 1999. 
-* Colomer, Javier Castillo. * Introduction to the interpretation of dreams*. Editorial Manuscritos, 2014. 
+* Colomer, Javier Castillo. * Introduction to the interpretation of dreams*. Editorial Manuscritos, 201
 * Freud, S. (1981). * The use of dream interpretation in psychoanalysis* (Vol. 2096). NoBooks Editorial.
 
 ---

@@ -39,7 +39,6 @@ Dreaming of black lice, however, indicates the presence of toxic individuals in 
 
 Dreaming about removing lice from your head suggests a strong desire to escape or eliminate negative influences in your life. It signifies a need to distance yourself from untrustworthy individuals or problematic situations that are causing you discomfort. 
 
-Similarly, dreaming about killing lice can symbolize the desire to overcome worries and leave behind negative experiences or situations that are holding you back. This dream reflects your determination to move forward and embrace a brighter future.
 
 **Important:** This article is meant for informational purposes only. If you are struggling with recurring or disturbing dreams, it is essential to consult with a qualified mental health professional for personalized guidance and support.
 

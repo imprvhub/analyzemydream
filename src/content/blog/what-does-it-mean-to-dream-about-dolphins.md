@@ -26,10 +26,6 @@ Dreaming of dolphins swimming freely in the ocean, their natural environment, sy
 - **Dolphin Near a Boat:** Potential obstacles ahead, yet your patience and wisdom will guide you towards overcoming them.
 - **Riding on a Dolphin's Back:** Uncertainty in decision-making. The dolphin may be guiding you towards a new path, encouraging confidence and a new goal.
 
-**The Unfortunate Sign of Dead Dolphins**
-
-Dreams featuring dead dolphins carry a somber meaning, representing loss, sadness, and suffering. It could reflect pain stemming from illness, conflicts within personal relationships (such as a potential breakup), or a feeling of emptiness due to the absence of a significant individual.
-
 **Dolphins in Confined Spaces**
 
 The symbolism of dreaming about dolphins in a pool depends on the size and condition of the pool:

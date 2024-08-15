@@ -23,8 +23,6 @@ Our dreams, a realm of subconscious expression, often feature familiar faces –
 
 **Strangers Engaged in Conflict:** Witnessing strangers fight in your dreams may signify a longing for internal balance and the shedding of negativity. It reflects your determination to make crucial decisions, encouraging you to embrace your authentic self and face inner conflicts head-on.
 
-**Dead Strangers:** Dreams involving deceased strangers can resurrect past issues you thought you had resolved. If the deceased are active, they may represent remorse for past actions and a desire to rectify them. If the dead appear as corpses, the dream may signal nostalgia, regret, or even potential health concerns, warranting a medical checkup. 
-
 **Strangers Attacking You:** This dream often symbolizes financial concerns, warning against impulsive spending or investments. It can also indicate workplace conflicts, particularly with new colleagues. In relationships, this dream may reflect dissatisfaction with current dynamics or emotional emptiness. 
 
 **Subtítulo Adicional**

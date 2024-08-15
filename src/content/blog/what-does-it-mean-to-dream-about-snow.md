@@ -55,6 +55,6 @@ Despite its association with coldness, dreaming about ice often carries positive
 **Bibliography:**
 
 - Freud, S. (2013). *The Interpretation of Dreams* (Vol. 267). Akal Editions.
-- Murillo, R. (2008). *Dreams: When the Gods Communicate with Men. Psychobiology of Daydreams*. Medical Journal of the University of Veracruz 8(S2), 79-81. Retrieved from: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
+- Murillo, R. (2008). *Dreams: When the Gods Communicate with Men. Psychobiology of Daydreams*. Medical Journal of the University of Veracruz 8(S2), 79-8Retrieved from: [https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf](https://www.medigraphic.com/pdfs/veracruzana/muv-2008/muvs082l.pdf)
 
 ---
