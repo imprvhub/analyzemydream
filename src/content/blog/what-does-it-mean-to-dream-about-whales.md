@@ -42,10 +42,6 @@ Sonhos com baleias brancas podem ser interpretados de duas maneiras:
 - **Buscando Tranquilidade:** Este sonho pode refletir um desejo por paz e tranquilidade em sua vida diária, um anseio por um momento de solidão para organizar seus pensamentos e recuperar sua compostura. Abrace momentos de relaxamento e rejuvenescimento para revitalizar sua mente e espírito.
 - **Confrontando Preocupações:** Uma grande baleia branca significa uma preocupação significativa que você está ativamente tentando liberar. Por outro lado, uma baleia branca menor sugere que você está efetivamente resolvendo problemas menores que têm pesado em sua mente.
 
-### Baleias Mortas
-
-Sonhar com uma baleia morta pode indicar que você tomou decisões recentes que podem ter consequências prejudiciais. Serve como um lembrete para exercer consideração cuidadosa antes de agir, reconhecendo que decisões impulsivas podem levar a resultados negativos não intencionais para você e para os outros. O sonho também sugere um desejo de revisitar planos esquecidos e embarcar em novas metas inspiradoras. Abrace a oportunidade de um novo começo, vendo a baleia morta como um símbolo dos fardos que você deve abandonar para trilhar um caminho em direção ao sucesso.
-
 **Importante:** Essas interpretações são meramente sugestivas e oferecem um ponto de partida para entender o significado dos seus sonhos. Para uma interpretação personalizada, considere consultar um psicólogo qualificado. 
 
 **Bibliografia:**

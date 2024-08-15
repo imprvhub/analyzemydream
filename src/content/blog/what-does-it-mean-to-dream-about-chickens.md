@@ -27,12 +27,6 @@ Sonhar com galinhas com pintinhos geralmente significa um forte senso de proteç
 
 Se a galinha em seu sonho parece assustada, isso pode simbolizar preocupação com um membro da família, talvez uma criança. Este sonho pode ser um lembrete para estar atento às necessidades de seus entes queridos, especialmente se você tem adolescentes, e manter uma comunicação aberta com eles. Este tipo de sonho sugere que ações positivas podem ajudar a resolver problemas familiares.
 
-### Galinhas mortas
-
-Sonhar com galinhas mortas ou feridas, principalmente se houver sangue, geralmente carrega uma conotação negativa. Este sonho pode prenunciar potenciais dificuldades financeiras ou escassez de recursos. É sensato evitar investimentos impulsivos e garantir que você tenha alguma economia para enfrentar potenciais desafios financeiros.
-
-Ver galinhas mortas ou depenadas também pode estar relacionado a preocupações pessoais ou tristeza recente. Se você é quem está matando a galinha no sonho, isso pode refletir uma atitude agressiva em relação aos outros. Refletir sobre o contexto do sonho pode ajudá-lo a encontrar uma sensação de calma e ajustar seu comportamento de acordo.
-
 ### Galinhas pretas
 
 Na análise dos sonhos, a cor preta é frequentemente associada à rejeição ou negação. Sonhar com galinhas pretas pode simbolizar notícias desfavoráveis ​​ou obstáculos para atingir seus objetivos. Este sonho pode ser um sinal para renovar seus esforços e enfrentar os desafios com uma mentalidade positiva. 

@@ -26,10 +26,6 @@ Sonhar com golfinhos nadando livremente no oceano, seu ambiente natural, simboli
 - **Golfinho perto de um barco:** Obstáculos potenciais à frente, mas sua paciência e sabedoria o guiarão para superá-los.
 - **Cavalgando nas costas de um golfinho:** Incerteza na tomada de decisões. O golfinho pode estar guiando você em direção a um novo caminho, encorajando confiança e um novo objetivo.
 
-**O sinal infeliz de golfinhos mortos**
-
-Sonhos com golfinhos mortos carregam um significado sombrio, representando perda, tristeza e sofrimento. Pode refletir dor decorrente de doença, conflitos em relacionamentos pessoais (como um possível rompimento) ou um sentimento de vazio devido à ausência de um indivíduo significativo.
-
 **Golfinhos em espaços confinados**
 
 O simbolismo de sonhar com golfinhos em uma piscina depende do tamanho e das condições da piscina:

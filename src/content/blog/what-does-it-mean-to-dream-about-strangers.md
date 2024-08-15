@@ -23,8 +23,6 @@ Nossos sonhos, um reino de expressão subconsciente, geralmente apresentam rosto
 
 **Estranhos envolvidos em conflitos:** Testemunhar estranhos brigando em seus sonhos pode significar um anseio por equilíbrio interno e o abandono da negatividade. Isso reflete sua determinação em tomar decisões cruciais, encorajando você a abraçar seu eu autêntico e enfrentar os conflitos internos de frente.
 
-**Estranhos mortos:** Sonhos envolvendo estranhos falecidos podem ressuscitar problemas passados ​​que você pensou ter resolvido. Se os falecidos estiverem ativos, eles podem representar remorso por ações passadas e um desejo de retificá-las. Se os mortos aparecerem como cadáveres, o sonho pode sinalizar nostalgia, arrependimento ou até mesmo potenciais problemas de saúde, justificando um check-up médico. 
-
 **Estranhos atacando você:** Este sonho geralmente simboliza preocupações financeiras, alertando contra gastos ou investimentos impulsivos. Também pode indicar conflitos no local de trabalho, principalmente com novos colegas. Em relacionamentos, este sonho pode refletir insatisfação com a dinâmica atual ou vazio emocional. 
 
 **Subtítulo Adicional**

@@ -58,7 +58,6 @@ Sonhos sobre escorpiões que picam carregam várias interpretações:
 
 - **Traição ou Infidelidade:** Um escorpião que picam simboliza o potencial de traição ou infidelidade, alertando você sobre um possível engano em seu ambiente.
 - **Problemas de Saúde:** Também pode indicar problemas de saúde iminentes ou desconforto físico, incentivando você a priorizar seu bem-estar e evitar excessos.
-- **Superando Desafios:** Se você conseguir matar o escorpião que picam em seu sonho, é um sinal positivo. Significa sua capacidade de superar obstáculos e alcançar o reconhecimento e o sucesso que você merece.
 
 **Importante:** Este artigo oferece uma interpretação geral dos sonhos com escorpiões. Para orientação personalizada, é recomendável procurar uma consulta psicológica profissional.
 

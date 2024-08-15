@@ -33,10 +33,6 @@ Esta imagem indica um período difícil em sua vida, potencialmente envolvendo d
 - **Crocodilos brancos em água suja:** Apesar das dificuldades, sua forte força de vontade o ajudará a superar os obstáculos.
 - **Crocodilos dormindo em água suja:** Isso sugere que você pode estar negligenciando aspectos importantes de sua vida. Esforce-se para ter equilíbrio em seus esforços para atender às suas necessidades de forma eficaz.
 
-### Crocodilos Mortos
-
-Este sonho sinistro prenuncia o fim de um relacionamento significativo, seja romântico, profissional ou amigável. Traição e negatividade estão associadas a este sonho, indicando possíveis danos. Reflita sobre seus relacionamentos atuais e considere deixar de lado aqueles que não lhe servem mais. Embora isso possa ser doloroso, o sonho o encoraja a seguir em frente com o que o machuca.
-
 ### Crocodilos Perseguindo Você
 
 Este cenário reflete perigos e situações desagradáveis ​​em sua vida, possivelmente no trabalho ou em casa. Pode indicar que você está criando problemas para si mesmo. Examine seus hábitos e tome medidas para trazer ordem de volta à sua vida. O sonho também destaca sua capacidade de perseverar e lidar com conflitos com disciplina. Aja com sabedoria e evite decisões impulsivas.

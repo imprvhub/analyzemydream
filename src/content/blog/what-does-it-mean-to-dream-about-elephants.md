@@ -38,12 +38,6 @@ Sonhar com elefantes na água significa uma sensação de harmonia interior e li
 
 Sonhar com elefantes perseguindo você pode indicar uma ameaça potencial de alguém próximo a você. Este sonho atua como um aviso para ser cauteloso com o seu entorno, especialmente no seu local de trabalho. Um colega pode estar tentando minar seus esforços. Confie em seus instintos e exerça vigilância ao lidar com as pessoas ao seu redor.
 
-### Elefantes mortos: um sinal de perda e confronto
-
-Sonhar com elefantes mortos geralmente não é um presságio positivo. Este sonho pode simbolizar:
-
-- **Medo e evitação:** Pode refletir sua relutância em enfrentar conflitos ou lutas importantes em sua vida, ou um sentimento de inadequação ou fracasso no trabalho. Enfrentar seus medos é crucial para superar esses desafios.
-- **Perdas e decisões ruins:** O sonho também pode indicar contratempos financeiros ou erros cometidos em decisões comerciais. Considere cuidadosamente todos os aspectos antes de tomar decisões financeiras significativas.
 
 **Observação:** Estas informações são apenas para orientação geral. Para interpretação e assistência personalizadas, consulte um psicólogo qualificado.
 

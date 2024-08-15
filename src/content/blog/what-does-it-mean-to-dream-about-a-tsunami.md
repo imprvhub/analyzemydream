@@ -17,23 +17,23 @@ A força bruta e a natureza imprevisível de um sonho com tsunami geralmente sim
 
 **Compreendendo o simbolismo dos sonhos com tsunami**
 
-**1. A onda gigante: um sinal de problemas avassaladores**
+**A onda gigante: um sinal de problemas avassaladores**
 
 Um tsunami de proporções imensas em seu sonho pode representar desafios pessoais significativos que estão causando angústia. Essas questões podem estar relacionadas à sua vida diária, relacionamentos ou até mesmo à sua carreira. O tamanho e a intensidade das ondas refletem a magnitude de suas dificuldades, enquanto a sensação de estar preso dentro da onda pode indicar sua luta para lidar com isso.
 
-**2. O Encontro na Praia: Um Símbolo de Enraizamento e Mudança**
+**O Encontro na Praia: Um Símbolo de Enraizamento e Mudança**
 
 Sonhar com um tsunami na praia sugere uma profunda apreciação por suas raízes, sua família e a estabilidade que você encontra em sua vida estabelecida. A presença do tsunami, no entanto, também indica um medo de mudança e um desejo de manter o familiar.
 
-**3. As Águas Lamacentas: Remorso e a Necessidade de Resolução**
+**As Águas Lamacentas: Remorso e a Necessidade de Resolução**
 
 Um tsunami com água suja significa sentimentos de culpa e remorso que podem estar enterrados profundamente dentro de você. Este sonho o encoraja a confrontar erros passados, reconhecer suas emoções e buscar resolução. A água turva representa a situação complexa que você precisa abordar e superar.
 
-**4. A Onda Cristalina: Calma, Renovação e Fertilidade**
+**A Onda Cristalina: Calma, Renovação e Fertilidade**
 
 Um tsunami composto de água limpa é um presságio positivo, sugerindo um período de calma, rejuvenescimento e renovação espiritual. Também pode simbolizar fertilidade e a possibilidade de novos começos. Este sonho o encoraja a abraçar as mudanças positivas que estão surgindo em seu caminho e a entrar em um futuro mais brilhante.
 
-**5. The Fiery Tide: Atingindo seu limite**
+**The Fiery Tide: Atingindo seu limite**
 
 Um tsunami de lava em seu sonho indica que você está se sentindo sobrecarregado e exausto tanto física quanto mentalmente. A força implacável da lava representa a pressão que você está enfrentando e a necessidade urgente de uma mudança significativa em sua vida. Isso sugere que você está se aproximando do seu ponto de ruptura e precisa fazer mudanças drásticas para evitar mais esgotamento.
 

@@ -40,21 +40,8 @@ export const navigationBarData: NavData = {
 	navItems: [
 		{ name: 'Home', link: '/' },
 		// { name: 'Pricing', link: '/pricing' },
-		{ name: 'Analyze', link: '/analyze' },
-		{ name: 'Explore', link: '/blog' },
-		// { name: 'Features', link: '/features' },
-		// {
-		// 	name: 'Resources',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Changelog', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
-		// 	]
-		// },
 		{
-			name: 'Categories',
+			name: 'Explore',
 			link: '#',
 			submenu: [
 			  { name: 'All', link: '//tags/all' },
@@ -74,6 +61,20 @@ export const navigationBarData: NavData = {
 			  { name: 'Diversos', link: '/blog/tags/Diversos' }
 			]
 		  },
+		{ name: 'Analyze', link: '/analyze' },
+		// { name: 'Explore', link: '/blog' },
+		// { name: 'Features', link: '/features' },
+		// {
+		// 	name: 'Resources',
+		// 	link: '#',
+		// 	submenu: [
+						
+		// 		{ name: 'Changelog', link: '/changelog' },
+		// 		{ name: 'FAQ', link: '/faq' },
+		// 		{ name: 'Terms', link: '/terms' }
+		// 	]
+		// },
+		
 		
 		{ name: 'Contact', link: '/contact' }
 	],

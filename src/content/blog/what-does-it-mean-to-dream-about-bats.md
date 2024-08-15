@@ -41,7 +41,6 @@ Se os morcegos voam na mesma direção, pode sinalizar problemas financeiros fut
 
 Morcegos grandes em seu sonho podem simbolizar um golpe em potencial, pedindo que você permaneça vigilante e evite ser vítima de engano. Eles também podem representar indivíduos com más intenções, visando enredá-lo em fofocas maliciosas.
 
-No entanto, se o morcego grande estiver morto, isso significa força e determinação, refletindo sua capacidade de superar qualquer desafio que surja.
 
 ### Morcegos Pretos
 

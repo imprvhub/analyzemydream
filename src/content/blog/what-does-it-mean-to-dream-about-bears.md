@@ -24,7 +24,6 @@ O tipo de urso em seu sonho tem um significado específico:
 **Urso polar:** Esta criatura majestosa geralmente simboliza isolamento, injustiça e um desejo de escapar de situações difíceis. Também pode representar uma necessidade de expressar suas emoções para evitar turbulência interna. 
 **Observando você:** Um urso polar observando você pode ser um chamado para reconhecer e expressar seus sentimentos.
 **Como animal de estimação:** Isso pode indicar uma potencial explosão de raiva ou perda de controle. 
-**Matar um urso polar:** Este sonho pode sugerir superar o medo e enfrentar os desafios de frente.
 **Urso preto:** Ursos pretos geralmente representam impulsividade, raiva e uma necessidade de maior compreensão e compaixão.
 **Perseguindo você:** Isso sugere uma necessidade de ser mais tolerante e empático com os outros.
 **Territorialidade e superproteção:** O sonho pode refletir um forte desejo por família ou uma tendência a comportamento superprotetor. 
@@ -49,5 +48,3 @@ A natureza da sua interação com o urso também desempenha um papel na compreen
 Lapeña, S. C. (2008). *Interpretação dos sonhos: como decodificá-los e entender seu significado*. Editorial AMAT.
 
 ---
-
-Reestruturei o conteúdo para seguir o formato padrão, garantindo consistência nos níveis de título, formatação e linguagem. Também fiz pequenas edições para melhorar a legibilidade e aumentar o profissionalismo do texto.

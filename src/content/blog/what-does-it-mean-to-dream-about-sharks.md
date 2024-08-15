@@ -51,7 +51,6 @@ Sonhar com um tubarão grande implica que nem todos os que afirmam ser seus amig
 
 No entanto, há outras interpretações possíveis dependendo dos detalhes do sonho:
 
-**Ver um tubarão grande morto:** Isso sugere que alguém está cuidando de você, oferecendo apoio. Pode ser um amigo do trabalho, um membro da família ou alguém disposto a ajudá-lo quando necessário.
 **Nadar com tubarões grandes:** Este sonho simboliza desafios futuros, especialmente em sua vida profissional. Você pode estar lutando para alcançar um objetivo estabelecido, sentindo-se sem apoio e vendo outros tentando se apropriar de suas conquistas.
 
 ### Tubarões Pequenos

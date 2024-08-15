@@ -25,9 +25,6 @@ Geralmente, sonhar com peixes é considerado um sinal positivo, sugerindo abund�
 
 Sonhar com peixes grandes geralmente significa a necessidade de tomar uma decisão significativa, potencialmente uma que moldará a trajetória da sua vida. Esses sonhos podem surgir em momentos de incerteza ou medo, refletindo o peso da escolha em questão. Se você se sente intimidado pelo tamanho do peixe, isso pode sugerir sentimentos de inadequação ou relutância em assumir o controle da sua vida, apesar de suas aspirações internas.
 
-### Peixe morto
-
-Sonhos envolvendo peixes mortos, especialmente aqueles flutuando sem vida, geralmente são interpretados como presságios negativos. Eles podem indicar que algo está atrapalhando seu bem-estar emocional, causando turbulência interna. Este sonho serve como um aviso, incitando você a identificar e abordar a causa raiz de sua angústia para recuperar a paz interior. Alternativamente, sonhar com peixes mortos pode refletir sentimentos de solidão, amargura ou tristeza. Embora esse tipo de sonho possa ser perturbador, ele o encoraja a tomar medidas proativas para alcançar o equilíbrio emocional.
 
 ### Peixe dourado
 

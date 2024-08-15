@@ -24,7 +24,7 @@ Os sonhos com formigas geralmente simbolizam trabalho em equipe, disciplina e pe
 Sonhar com formigas pequenas geralmente simboliza sua tenacidade diante da adversidade. Assim como formigas pequenas podem mover objetos grandes, sua persistência o ajudará a superar desafios e atingir seus objetivos. 
 
 - **Matando formigas pequenas:** Isso sugere que você está efetivamente abordando e resolvendo pequenos problemas em sua vida.
-- **Ver formigas pequenas mortas:** Este é um sinal positivo que indica que sua perseverança o ajudará a superar qualquer obstáculo.
+
 - **Formigas pequenas carregando comida:** Isso sugere a importância de melhorar sua comunicação e comprometimento no trabalho para melhorar o desempenho e promover relacionamentos de trabalho fortes.
 
 ### Formigas gigantes

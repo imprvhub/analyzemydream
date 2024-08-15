@@ -25,7 +25,7 @@ O dinheiro, no contexto dos sonhos, transcende seu significado literal, represen
 
 **Cenários comuns de sonhos e suas interpretações**
 
-**1. Sonhar com muito dinheiro:**
+**Sonhar com muito dinheiro:**
 
 Sonhar com grandes somas de dinheiro pode refletir vários aspectos da sua psique:
 
@@ -33,14 +33,14 @@ Sonhar com grandes somas de dinheiro pode refletir vários aspectos da sua psiqu
 **Preocupações financeiras:** Alternativamente, o sonho pode significar ansiedades sobre potenciais perdas financeiras. Pode refletir preocupações sobre administrar grandes quantias de dinheiro ou o medo de perder a riqueza existente.
 **Conflitos internos:** Este sonho também pode revelar traços negativos como egoísmo ou obsessão por bens materiais. Refletir sobre seu relacionamento com o dinheiro na sua vida desperta pode ajudar a decifrar a mensagem por trás deste sonho.
 
-**2. Sonhar em encontrar dinheiro:**
+**Sonhar em encontrar dinheiro:**
 
 Descobrir dinheiro em um sonho pode ser um presságio positivo ou um reflexo do seu estado interior:
 
 **Boa sorte e resolução:** Encontrar dinheiro pode simbolizar boa sorte e a resolução de dificuldades financeiras. Pode indicar encontrar uma solução para um problema ou receber uma recompensa inesperada.
 **Incertezas e Medos:** Este sonho também pode representar ansiedades sobre o desconhecido. Se você está apreensivo sobre surpresas ou mudanças repentinas, este sonho pode estar refletindo esses medos.
 
-**3. Sonhar com Contas:**
+**Sonhar com Contas:**
 
 Sonhos envolvendo contas podem ser interpretados de várias maneiras, dependendo do contexto e das emoções vivenciadas:
 
@@ -48,14 +48,14 @@ Sonhos envolvendo contas podem ser interpretados de várias maneiras, dependendo
 **Preocupações Financeiras:** Por outro lado, se o sonho evoca ansiedade ou angústia, pode sinalizar dificuldades financeiras ou preocupações sobre sua estabilidade econômica.
 **Interpretações Adicionais:** Novas contas podem simbolizar novas oportunidades, enquanto contas rasgadas podem significar uma maré ruim ou desinteresse em questões práticas.
 
-**4. Sonhar com Roubar Dinheiro:**
+**Sonhar com Roubar Dinheiro:**
 
 Sonhar com roubar dinheiro geralmente revela aspectos mais profundos da sua personalidade:
 
 **Inveja e Desejo:** Este sonho pode expressar inveja ou um desejo de possuir algo que você sente inatingível por meios convencionais. Pode refletir sentimentos de frustração ou aspirações não realizadas.
 **Medo do Fracasso:** Também pode revelar ansiedades sobre sua capacidade de superar desafios. O ato de roubar pode simbolizar uma incapacidade percebida de enfrentar obstáculos diretamente.
 
-**5. Sonhar com Receber Dinheiro:**
+**Sonhar com Receber Dinheiro:**
 
 Receber dinheiro em um sonho pode ter várias interpretações com base no contexto e suas emoções:
 

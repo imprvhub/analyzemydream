@@ -1,7 +1,7 @@
 ---
 title: 'O que significa sonhar com amigos?'
 pubDate: '2024-07-29T05:00:00Z'
-description: 'Descubra o significado de sonhar com amigos, desde amigos mortos até amigos desconhecidos, e o que esses sonhos podem revelar sobre sua vida e emoções.'
+description: 'Descubra o significado de sonhar com amigos, amigos desconhecidos, e o que esses sonhos podem revelar sobre sua vida e emoções.'
 author: 'AnalyzeMyDream'
 image: '/blog/what-does-it-mean-to-dream-about-friends.jpeg'
 tags: ['Pessoas']
@@ -18,10 +18,6 @@ Os sonhos geralmente são um reflexo de nossas mentes subconscientes, e sonhar c
 Sonhar com amigos frequentemente reflete nossas próprias personalidades e a dinâmica intrincada de nossas interações sociais. A interpretação desses sonhos pode ser diferenciada, dependendo da natureza da amizade e do contexto específico do sonho.
 
 **Significados específicos dos sonhos com amigos**
-
-### Amigos mortos
-
-Embora seja angustiante, sonhar com amigos falecidos raramente significa premonição. Em vez disso, pode indicar uma sensação de traição ou decepção dentro do relacionamento. Isso pode levar seu subconsciente a sugerir distância, sugerindo que o vínculo pode ter perdido sua confiabilidade.
 
 ### Amigos do Passado
 

@@ -25,13 +25,6 @@ A cor branca é frequentemente associada à paz e à pureza na psicologia. Sonha
 **Ovelha branca como animal de estimação:** Isso implica que você tem amigos leais que estão dispostos a apoiá-lo.
 **Acariciar uma ovelha branca:** Este sonho representa notícias positivas no horizonte, uma recompensa pelo seu trabalho duro e esforços.
 
-**Sonhar com ovelha morta:**
-
-Sonhos envolvendo ovelhas mortas geralmente carregam uma conotação negativa, sugerindo:
-
-**Traição e ressentimento:** Pode indicar que alguém em quem você confia está traindo você ou falando negativamente sobre você pelas suas costas.
-**Preocupação e ansiedade:** Este sonho sugere que você está enfrentando tempos desafiadores. No entanto, também aponta para sua força e determinação para superar obstáculos.
-
 **Sonhar com ovelhas bebês:**
 
 Sonhos com ovelhas bebês estão associados a:

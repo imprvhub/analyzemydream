@@ -36,23 +36,12 @@ export const navigationBarData: NavData = {
 	},
 	navItems: [
 		{ name: 'Início', link: '/' },
-		{ name: 'Analisar', link: '/analyze' },
-		{ name: 'Explorar', link: '/blog' },
-		// { name: 'Recursos', link: '/features' },
-		// {
-		// 	name: 'Recursos',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Registro de Alterações', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Termos', link: '/terms' }
-		// 	]
-		// },
+		
 		{
-			name: 'Categorias',
+			name: 'Explorar',
 			link: '#',
 			submenu: [
+				{ name: 'Todos', link: '/blog'},
 				{ name: 'Animais', link: '/blog/tags/Animais' },
 				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
 				{ name: 'Pessoas', link: '/blog/tags/Pessoas' },
@@ -70,6 +59,20 @@ export const navigationBarData: NavData = {
 			  ]
 			  
 		},
+		{ name: 'Analisar', link: '/analyze' },
+		//  { name: 'Explorar', link: '/blog' },
+		// { name: 'Recursos', link: '/features' },
+		// {
+		// 	name: 'Recursos',
+		// 	link: '#',
+		// 	submenu: [
+						
+		// 		{ name: 'Registro de Alterações', link: '/changelog' },
+		// 		{ name: 'FAQ', link: '/faq' },
+		// 		{ name: 'Termos', link: '/terms' }
+		// 	]
+		// },
+		
 		{ name: 'Contato', link: '/contact' }
 	],
 	navActions: [{ name: 'Experimente agora', link: '/', style: 'primary', size: 'lg' }]

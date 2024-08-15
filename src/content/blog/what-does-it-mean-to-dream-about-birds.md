@@ -19,7 +19,7 @@ Embora os sonhos com pássaros sejam geralmente associados a energia positiva e 
 
 **Tipos de sonhos com pássaros e seus significados:**
 
-**1. Pássaros coloridos:**
+**Pássaros coloridos:**
 
 Sonhar com pássaros coloridos muitas vezes significa abundância, riqueza e prosperidade. Pode sugerir um período de estabilidade financeira e sucesso em seus empreendimentos profissionais. 
 
@@ -30,17 +30,8 @@ Sonhar com pássaros coloridos muitas vezes significa abundância, riqueza e pro
     **Pássaro Branco:** Reflete sua disposição de abraçar novos desafios e seu desejo de paz e harmonia. 
     **Pássaro Amarelo:** Indica equilíbrio e estabilidade emocional. Abrace esta fase positiva e aproveite o momento.
 
-**2. Pássaros Mortos:**
 
-Sonhar com pássaros mortos, especialmente aqueles cobertos de sangue ou flutuando, traz consigo conotações negativas. 
-
-**Consequências de ações passadas:** O sonho pode indicar que você enfrentará repercussões por um erro passado. Prepare-se para notícias inesperadas que podem causar desconforto ou tristeza.
-**Rompimento de relacionamento:** Também pode simbolizar o fim de um relacionamento romântico ou platônico.
-**Pássaros mortos voltando à vida:** Isso pode alertar sobre investimentos inadequados ou decisões financeiras imprudentes. Analise cuidadosamente seus próximos movimentos financeiros. 
-
-Lembre-se de que as dificuldades costumam ser temporárias e as soluções podem ser encontradas. Mantenha a calma e busque soluções para superar esses desafios.
-
-**3. Aves pequenas:**
+**Aves pequenas:**
 
 Sonhar com pequenos pássaros pode sugerir:
 
@@ -49,7 +40,7 @@ Sonhar com pequenos pássaros pode sugerir:
 
 Desenvolva sua autoconfiança para enfrentar novas experiências e oportunidades. Não deixe o medo te impedir.
 
-**4. Pássaros em gaiolas:**
+**Pássaros em gaiolas:**
 
 Sonhar com pássaros em gaiolas sugere:
 
@@ -58,7 +49,7 @@ Sonhar com pássaros em gaiolas sugere:
 
 Quebre as barreiras que estão impedindo você de prosperar.
 
-**5. Pássaros voando:**
+**Pássaros voando:**
 
 Sonhar com pássaros voando é um sinal positivo, representando:
 

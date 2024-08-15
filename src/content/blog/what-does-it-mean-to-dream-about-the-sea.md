@@ -24,15 +24,15 @@ A interpretação dos sonhos sobre o mar pode variar dependendo de sua aparênci
 
 Aqui está uma análise dos cenários comuns de sonhos sobre o mar e suas possíveis interpretações:
 
-**1. Mar agitado:**
+**Mar agitado:**
 
 Sonhar com um mar agitado geralmente indica um período de estresse e ansiedade significativos em sua vida. Você pode estar passando por conflitos internos ou lutando com situações desafiadoras. Este sonho encoraja você a tirar um momento para avaliar seus sentimentos e encontrar maneiras de navegar por suas dificuldades com a mente limpa.
 
-**2. Mar com ondas:**
+**Mar com ondas:**
 
 Ondas em sonhos podem simbolizar obstáculos e contratempos em vários aspectos da sua vida, como seus relacionamentos, finanças ou carreira. Ondas grandes representam desafios significativos e potenciais interrupções, enquanto ondas menores sugerem que você está lidando com essas dificuldades com autocontrole e resiliência.
 
-**3. Mar na praia:**
+**Mar na praia:**
 
 Sonhar com o mar e a praia reflete uma dualidade dentro de você - os aspectos racionais e emocionais da sua personalidade. Este sonho pode estar ligado a uma decisão difícil que você está enfrentando. 
 
@@ -40,15 +40,15 @@ Sonhar com o mar e a praia reflete uma dualidade dentro de você - os aspectos r
 **Banhando-se no mar:** Isso sugere que, apesar de suas ansiedades atuais, uma solução para seus problemas surgirá.
 **Deixando a areia correr pelos seus dedos:** Isso simboliza a necessidade de ação rápida para lidar com uma situação urgente antes que ela piore.
 
-**4. Mar Azul:**
+**Mar Azul:**
 
 Um mar calmo e azul em seu sonho é um sinal positivo de paz interior e contentamento. Você provavelmente se sente satisfeito com a jornada da sua vida e aprecia períodos de tranquilidade. Este sonho o encoraja a abraçar a autorreflexão e encontrar realização na busca de seus desejos.
 
-**5. Mar à Noite:**
+**Mar à Noite:**
 
 Sonhar com o mar à noite significa uma necessidade de descanso e rejuvenescimento. Você pode estar se sentindo esgotado e sobrecarregado pelo estresse. Este sonho o encoraja a priorizar o autocuidado e reservar um tempo para relaxar e recarregar as energias. 
 
-**6. Mar com Peixes:**
+**Mar com Peixes:**
 
 Um mar repleto de peixes reflete sua energia abundante e motivação para atingir seus objetivos, apesar dos obstáculos. Este sonho representa sua atitude positiva e capacidade de superar desafios. Indica um momento favorável para perseguir suas aspirações e alcançar o sucesso. 
 

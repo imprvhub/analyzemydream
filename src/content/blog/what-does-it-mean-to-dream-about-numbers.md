@@ -17,7 +17,7 @@ Este guia explora as interpretações comuns associadas a sonhar com vários tip
 
 ### O significado de diferentes tipos de números em sonhos
 
-**1. Números de loteria:**
+**Números de loteria:**
 
 Sonhar com números de loteria pode ter várias interpretações, muitas vezes vinculadas a:
 
@@ -25,13 +25,13 @@ Sonhar com números de loteria pode ter várias interpretações, muitas vezes v
 **Preocupações financeiras:** Pode refletir ansiedades sobre sua situação financeira, especialmente se você estiver passando por estresse financeiro. O sonho pode representar seu desejo por uma solução rápida para seus problemas financeiros.
 **Buscando uma solução:** Sonhar com números de loteria também pode significar um forte desejo por segurança financeira e um anseio por uma solução repentina para seus problemas. É crucial se firmar e analisar sua situação racionalmente para encontrar soluções práticas. 
 
-**2. Números de telefone:**
+**Números de telefone:**
 
 Sonhos envolvendo números de telefone geralmente sugerem:
 
 **Uma necessidade de conexão:** Este sonho pode indicar um desejo de se reconectar com alguém de quem você sente falta, seja um antigo amigo, um ente querido do seu passado ou alguém com quem você teve um desentendimento recentemente. Considere entrar em contato com essa pessoa para potencialmente consertar as cercas e resolver conflitos emocionais.
 
-**3. Números pares:**
+**Números pares:**
 
 Sonhar com números pares pode oferecer insights sobre sua personalidade e circunstâncias atuais, muitas vezes simbolizando:
 

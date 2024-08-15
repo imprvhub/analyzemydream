@@ -25,7 +25,7 @@ Este artigo explora o mundo multifacetado dos sonhos com bruxas, oferecendo inte
 
 ### Cenários comuns de sonhos com bruxas e seus significados:
 
-**1. Bruxas Voadoras:**
+**Bruxas Voadoras:**
 
 Sonhar com bruxas voadoras sugere uma necessidade de mudança e talvez até mesmo uma sensação de estar sobrecarregado por preocupações. Se a bruxa estiver atacando ou perseguindo você, isso pode significar energia negativa ao seu redor, potencialmente no trabalho ou em sua vida pessoal. Este sonho também pode prenunciar uma mudança inesperada em sua carreira ou vida pessoal. 
 
@@ -33,27 +33,27 @@ Sonhar com bruxas voadoras sugere uma necessidade de mudança e talvez até mesm
 
 **Bruxas Voadoras com uma Vassoura:** Ver uma bruxa voando em uma vassoura simboliza ansiedades persistentes que parecem avassaladoras e difíceis de lidar. Essas preocupações podem estar impedindo você de encontrar soluções para seus problemas, e você pode sentir o desejo de escapar de sua situação atual.
 
-**2. Bruxas Atacando Você:**
+**Bruxas Atacando Você:**
 
 Ser atacado por bruxas em um sonho indica uma sensação de inquietação e sentimento de ameaça ou opressão. Isso pode resultar de sentimentos de vulnerabilidade em casa, no trabalho ou na escola, ou pode representar uma ameaça percebida de alguém próximo a você, possivelmente devido a uma traição.
 
-**3. Bruxas e Crianças:**
+**Bruxas e Crianças:**
 
 As bruxas geralmente representam aspectos ocultos ou obscuros, enquanto as crianças incorporam inocência e vitalidade. Um sonho com bruxas e crianças pode simbolizar um conflito interno entre forças positivas e negativas em sua vida. Também pode refletir preocupação com o bem-estar de um membro da família ou um dilema pessoal que requer equilíbrio emocional.
 
-**4. Bruxas e Gatos:**
+**Bruxas e Gatos:**
 
 Os gatos, especialmente os pretos, há muito são associados à magia e à feitiçaria. Sonhar com bruxas e gatos pode indicar uma conexão com o sobrenatural e a exploração de aspectos ocultos de sua personalidade. Este sonho também pode alertar sobre energias negativas em seu ambiente ou pessoas não confiáveis. Também pode sinalizar uma conexão com sua sabedoria interior e a importância de confiar em sua intuição. 
 
-**5. Bruxas e orações:**
+**Bruxas e orações:**
 
 Rezar representa buscar proteção e orientação espiritual. Sonhar com bruxas e orações sugere buscar soluções para problemas difíceis e uma necessidade de apoio de alguém que não irá julgá-la. Este sonho reflete seu desejo por força e uma conexão com o reino espiritual. 
 
-**6. Bruxas rindo:**
+**Bruxas rindo:**
 
 Bruxas rindo em sonhos podem indicar sentimentos de constrangimento ou medo do ridículo. Também pode estar relacionado a ansiedades sobre fofocas ou comentários maliciosos. No entanto, serve como um lembrete para confiar em suas habilidades e não permitir que fatores externos afetem sua autoestima.
 
-**7. Bruxas durante a gravidez:**
+**Bruxas durante a gravidez:**
 
 Sonhar com bruxas durante a gravidez pode refletir medos e inseguranças associados a esta fase da vida. As mudanças intensas da gravidez podem manifestar ansiedades sobre o bem-estar do bebê, sua capacidade de ser uma boa mãe ou os desafios que virão. Este sonho encoraja você a reconhecer e processar esses medos emocionalmente. 
 

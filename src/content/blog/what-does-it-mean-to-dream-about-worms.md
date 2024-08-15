@@ -56,11 +56,6 @@ Vermes vivos podem simbolizar transformação, mudança e crescimento pessoal. E
 
 Este sonho pode simbolizar uma necessidade de privacidade e solidão. Pode refletir uma tendência à introversão ou um desejo de se proteger de influências externas.
 
-### Larvas de vermes
-
-**Larvas vivas:** Larvas vivas representam novos começos e projetos avançando positivamente.
-**Larvas mortas:** Larvas mortas sugerem dificuldades ou contratempos em seus esforços.
-
 **Importante:**
 
 A interpretação dos sonhos é subjetiva e pode variar dependendo das experiências e emoções individuais. Este guia fornece insights gerais, mas a interpretação profissional de um psicólogo pode oferecer uma compreensão mais profunda dos seus sonhos pessoais.

@@ -1,22 +1,22 @@
 ---
-// Components
+// Componentes
 // - Layout
 import Layout from '../layouts/Layout.astro'
 // - UI
 import SidebarContent from '../components/blocks/basic/StickySidebar.astro'
 import Hero from '../components/blocks/hero/PageHeader.astro'
 
-// Content
+// Conteúdo
 // - SEO
 const SEO = {
-    title: 'AnalyzeMyDream | Termos de Serviço e Política de Privacidade',
+    title: 'AnalyzeMyDream | Termos de Serviço e Acordo do Usuário',
     description:
-        "Os termos de serviço e a política de privacidade do AnalyzeMyDream delineiam as regras e regulamentos que regem o uso de nossos serviços, bem como como lidamos com suas informações pessoais. Por favor, leia-os cuidadosamente para entender seus direitos e responsabilidades."
+        "Os Termos de Serviço e o Acordo do Usuário da AnalyzeMyDream descrevem as regras e regulamentos que regem o uso dos nossos serviços, bem como como lidamos com suas informações pessoais. Por favor, leia-os cuidadosamente para entender seus direitos e responsabilidades."
 }
 
-// - Page Header
+// - Cabeçalho da Página
 const header = {
-    title: '<strong>Termos</strong> de Serviço e <strong>Política</strong> de Privacidade.',
+    title: '<strong>Termos</strong> de Serviço e <strong>Acordo do Usuário</strong>',
     text: 'Por favor, leia-os cuidadosamente para entender seus direitos e responsabilidades.'
 }
 ---
@@ -25,30 +25,22 @@ const header = {
     <Hero title={header.title} text={header.text} />
     <SidebarContent>
         <div slot="sidebar">
-            <h3>Introdução</h3>
+            <h3>Introdução</h3> 
             <p>
-                Bem-vindo ao AnalyzeMyDream.com! Ao usar nossos serviços, você concorda em estar vinculado por estes Termos de Serviço e Política de Privacidade. Por favor, leia-os cuidadosamente.
+                Bem-vindo ao AnalyzeMyDream.com! Ao utilizar nossos serviços, você aceita os seguintes Termos de Serviço e o Acordo do Usuário. Por favor, leia-os cuidadosamente.
             </p>
         </div>
         <div class="basic-text">
             <h4>Aceitação dos Termos</h4>
             <p>
-                Ao acessar ou usar o AnalyzeMyDream.com, você concorda em cumprir e estar vinculado por estes Termos de Serviço e nossa Política de Privacidade. Se você não concordar com esses termos, não deve usar nossos serviços.
+                <p>
+                    Ao acessar ou utilizar o AnalyzeMyDream.com, incluindo seus nomes de domínio, endereços IP, conteúdo ou qualquer interação (como clicar em links), <strong>você reconhece e declara que aceita estes Termos e Acordo do Usuário e confirma que tem pelo menos 18 anos. Seu acesso e uso indicam seu reconhecimento, aceitação e concordância incondicional com todos os termos e condições aqui estabelecidos, sem modificações, e este acordo entra em vigor imediatamente. Para rejeitar, basta se abster de usar o site e fechar todas as suas janelas.</strong> Você não poderá acessar nem utilizar este site se você (ou seu tutor ou representante legal) não puder celebrar um contrato vinculativo ou se este Acordo do Usuário não for aplicável em sua jurisdição. Ao utilizar este site, você confirma que leu, entendeu e aceitou todos os termos. Se você é o proprietário ou operador do equipamento usado para acessar este site, ao permitir tal uso, você consente e aceita estar sujeito aos termos e condições deste Acordo do Usuário. Se você agir em nome de uma organização, declara que está autorizado a agir como agente e aceitar este Acordo do Usuário em nome do seu empregador e organização. Você concorda em usar o site apenas de acordo com esses direitos de uso e todas as leis e regulamentos aplicáveis.
+                </p>                
             </p>
 
             <h4>Alterações nos Termos</h4>
             <p>
-                Reservamo-nos o direito de modificar estes termos a qualquer momento. Notificaremos você sobre quaisquer alterações publicando os novos termos em nosso site. Seu uso contínuo do serviço após tais alterações constitui sua aceitação dos novos termos.
-            </p>
-
-            <h4>Registro</h4>
-            <p>
-                Para usar certos recursos do AnalyzeMyDream, você pode precisar criar uma conta. Você concorda em fornecer informações precisas e completas ao criar sua conta e manter essas informações atualizadas.
-            </p>
-
-            <h4>Segurança da Conta</h4>
-            <p>
-                Você é responsável por manter a confidencialidade da sua conta e senha. Você concorda em nos notificar imediatamente sobre qualquer uso não autorizado de sua conta.
+                Reservamo-nos o direito de modificar estes termos a qualquer momento. Você será notificado de quaisquer alterações publicando os novos termos em nosso site. Seu uso contínuo do serviço após tais mudanças constitui sua aceitação dos novos termos.
             </p>
         </div>
     </SidebarContent>
@@ -56,148 +48,115 @@ const header = {
         <div slot="sidebar">
             <h3>Uso do Conteúdo</h3>
             <p>
-                Esta seção descreve o uso do conteúdo disponível no AnalyzeMyDream.
+                Esta seção descreve o uso do conteúdo disponível no AnalyzeMyDream.com
             </p>
         </div>
         <div class="basic-text">
-            <h4>Visão Geral do Conteúdo</h4>
+            <h4>Resumo do Conteúdo</h4>
             <p>
-                Nossa plataforma fornece informações e análises sobre interpretações de sonhos com base na literatura acadêmica e estudos especializados. Oferecemos acesso a trechos de livros e estudos relevantes para exploração geral das interpretações de sonhos de uma perspectiva acadêmica. Este conteúdo é fornecido apenas para facilitar o acesso a esses recursos.
+                Nossa plataforma fornece informações e análises sobre interpretações de sonhos baseadas em literatura acadêmica e estudos especializados. Oferecemos acesso a trechos de livros e estudos relevantes para uma exploração geral das interpretações de sonhos a partir de uma perspectiva acadêmica. Esse conteúdo é fornecido apenas para facilitar o acesso a esses recursos.
             </p>
 
-            <h4>Não é Conselho Profissional</h4>
+            <h4>Não é Assessoria Profissional</h4>
             <p>
-                O conteúdo em nossa plataforma é baseado em literatura especializada para fornecer uma visão geral geral dos sonhos. Embora nos esforcemos para fornecer informações precisas e úteis, os significados dos sonhos podem variar. Portanto, incentivamos você a usar essas informações como um guia geral e não como uma orientação definitiva para experiências pessoais.
+                O conteúdo em nossa plataforma é baseado em literatura especializada para fornecer uma visão geral dos sonhos. Embora nos esforcemos para oferecer informações precisas e úteis, os significados dos sonhos podem variar. Portanto, incentivamos você a usar essas informações como uma orientação geral e não como uma orientação definitiva para experiências pessoais.
             </p>
             <p>
-                IMPORTANTE: As informações fornecidas em nossa plataforma são baseadas em trechos e resumos de trabalhos acadêmicos e não devem ser consideradas um substituto para conselhos profissionais. Embora o conteúdo tenha o objetivo de oferecer perspectivas gerais, não estamos qualificados para fornecer conselhos psicológicos personalizados.
+                As informações fornecidas em nossa plataforma são baseadas em trechos e resumos de trabalhos acadêmicos e não devem ser consideradas como um substituto para a assessoria profissional. Embora o conteúdo busque oferecer perspectivas gerais, não estamos qualificados para fornecer assessoria psicológica personalizada.
             </p>
 
             <h4>Isenção de Responsabilidade</h4>
             <p>
-                As informações disponíveis em nossa plataforma incluem trechos de livros acadêmicos e estudos especializados sobre interpretações de sonhos. Embora visemos fornecer insights valiosos, esteja ciente de que a precisão dessas interpretações pode variar de pessoa para pessoa. Quaisquer decisões ou ações tomadas com base nessas informações são de sua própria responsabilidade. Para conselhos mais personalizados, recomendamos fortemente consultar um profissional de saúde mental.
+                As informações disponíveis em nossa plataforma incluem trechos de livros acadêmicos e estudos especializados sobre interpretações de sonhos. Embora busquemos fornecer informações valiosas, tenha em mente que a precisão dessas interpretações pode variar de pessoa para pessoa. Qualquer decisão ou ação tomada com base nessas informações é de sua própria responsabilidade. Para obter uma orientação mais personalizada, recomendamos fortemente consultar um profissional de saúde mental.
             </p>
 
             <h4>Bibliografia e Fontes</h4>
             <p>
-                Todo o conteúdo oferecido em nossa plataforma é suportado pela bibliografia correspondente. Usamos trechos e citações de livros e estudos especializados para fornecer informações precisas com base em fontes reconhecidas. Não somos os autores originais do conteúdo, mas facilitamos o acesso a informações de especialistas na área.
+                Todo o conteúdo oferecido em nossa plataforma está respaldado pela bibliografia correspondente. Utilizamos trechos e citações de livros e estudos especializados para fornecer informações precisas baseadas em fontes reconhecidas. Não somos os autores originais do conteúdo, mas facilitamos o acesso a informações de especialistas no campo.
             </p>
         </div>
     </SidebarContent>
     <SidebarContent>
         <div slot="sidebar">
-            <h3>Ferramenta de Análise de Sonhos com IA</h3>
+            <h3>Ferramenta de Análise de Sonhos Baseada em IA</h3>
             <p>
-                Esta seção descreve os termos e condições relacionados à ferramenta de análise de sonhos com IA fornecida no AnalyzeMyDream.
+                Esta seção descreve os termos e condições relacionados à ferramenta de análise de sonhos baseada em IA fornecida no AnalyzeMyDream.
             </p>
         </div>
         <div class="basic-text">
             <h4>Isenção de Responsabilidade da Ferramenta de IA e Restrição de Idade</h4>
             <p>
-                A ferramenta de análise de sonhos com IA disponível no AnalyzeMyDream.com é projetada para fornecer interpretações adicionais aos usuários quando a análise específica de sonhos que estão procurando não aparece em nosso <a href="https://analyzemydream.com/blog/" target="_blank">glossário</a>. Este recurso visa oferecer uma compreensão mais abrangente, complementando o conteúdo existente com percepções geradas por IA. A IA pode produzir resultados que são imprecisos, inconsistentes ou que desviam das interpretações tradicionais. Portanto, não garantimos a precisão ou confiabilidade das informações fornecidas.
+                A ferramenta de análise de sonhos baseada em IA disponível no AnalyzeMyDream.com foi projetada para fornecer interpretações adicionais aos usuários quando a análise de sonhos específica que procuram não aparece em nosso <a href="https://analyzemydream.com/blog/" target="_blank">glossário</a>. Esta função tem como objetivo oferecer uma compreensão mais completa ao complementar o conteúdo existente com perspectivas geradas por IA. A IA pode produzir resultados que sejam imprecisos, inconsistentes ou que se desviem das interpretações tradicionais. Portanto, não garantimos a precisão ou confiabilidade das informações fornecidas.
             </p>
             <p>
-                A ferramenta utiliza o modelo Gemini-1.5-Flash, que tem suas próprias limitações e restrições. O uso desta ferramenta de IA é por sua conta e risco, e o AnalyzeMyDream.com não assume responsabilidade por quaisquer decisões, ações ou resultados que resultem do uso do conteúdo gerado pela IA. Os usuários devem ter cautela ao considerar as interpretações fornecidas pela IA e não devem depender exclusivamente delas para entender ou tratar questões pessoais.
+                A ferramenta utiliza o modelo Gemini-1.5-Flash, que possui suas próprias limitações e restrições. O uso desta ferramenta de IA é por sua conta e risco, e AnalyzeMyDream.com não assume nenhuma responsabilidade pelas decisões, ações ou resultados que resultem do uso do conteúdo gerado pela IA. Os usuários devem exercer cautela ao considerar as interpretações fornecidas pela IA e não depender exclusivamente delas para compreender ou abordar questões pessoais.
             </p>
             <p>
-                Para usar a plataforma AnalyzeMyDream e sua ferramenta de análise de sonhos com IA, os usuários devem ter pelo menos 18 anos. Indivíduos com menos de 18 anos estão estritamente proibidos de acessar nossos serviços. Esta restrição de idade é implementada para garantir que os usuários possam processar e interpretar adequadamente as informações geradas pela IA de maneira responsável.
+                Para utilizar a plataforma AnalyzeMyDream.com e sua ferramenta de análise de sonhos baseada em IA, os usuários devem ter pelo menos 18 anos. Pessoas menores de 18 anos têm proibido acessar nossos serviços. Esta restrição de idade é implementada para garantir que os usuários possam processar e interpretar adequadamente as informações geradas pela IA de maneira responsável.
             </p>
             <p>
-                Além disso, entradas de usuários que não se referem à análise de sonhos ou que incluam linguagem inadequada não são permitidas. Para garantir a qualidade do serviço, registramos todas as interações com a IA. No entanto, fique tranquilo de que dados pessoais não são coletados; apenas os detalhes dessas interações são mantidos, exclusivamente para o propósito de aprimorar e melhorar o modelo de IA em futuras atualizações.
+                Além disso, não são permitidas interações de usuários que não se refiram à análise de sonhos ou que incluam linguagem inadequada. Para garantir a qualidade do serviço, registramos todas as interações com a IA. No entanto, observe que dados pessoais não são coletados; apenas os detalhes dessas interações são armazenados, exclusivamente com o propósito de refinar e melhorar o modelo de IA em futuras atualizações.
             </p>
             
             <p>
-                Ao utilizar a ferramenta de análise de sonhos com IA, você concorda em aderir aos termos e condições estabelecidos pelo AnalyzeMyDream.com, bem como àqueles estipulados por nosso fornecedor de serviços de IA, Gemini. Para detalhes abrangentes, por favor, consulte os seguintes links:
+                Ao utilizar a ferramenta de análise de sonhos baseada em IA, você concorda em aderir aos termos e condições estabelecidos pelo AnalyzeMyDream.com, bem como aos estipulados pelo nosso provedor de serviços de IA, Gemini. Para obter detalhes completos, por favor, revise os seguintes links:
                 <ul>
-                    <li><a href="https://policies.google.com/terms/generative-ai/use-policy" target="_blank">Política de Uso do Gemini AI</a></li>
+                    <li><a href="https://policies.google.com/terms/generative-ai/use-policy" target="_blank">Política de Uso da Gemini AI</a></li>
                     <li><a href="https://policies.google.com/terms" target="_blank">Termos de Serviço do Google</a></li>
                 </ul>
             </p>
         </div>
     </SidebarContent>
+
     <SidebarContent>
         <div slot="sidebar">
-            <h3>Políticas de Privacidade</h3>
+            <h3>Informações de Contato</h3>
             <p>
-                No AnalyzeMyDream.com, sua privacidade é importante para nós. Esta Política de Privacidade explica como usamos cookies, tecnologias de rastreamento e publicidade para melhorar sua experiência em nosso site.
+                Se você tiver alguma dúvida sobre estes Termos de Serviço e Acordo de Usuário, por favor, entre em contato conosco em:
             </p>
+            <ul>
+                <li>Email: <a href="mailto:contact@ivanluna.dev">contact@ivanluna.dev</a></li>
+            </ul>
         </div>
         <div class="basic-text">
-            <h4>Cookies e Tecnologias de Rastreamento</h4>
+            <h4>Isenção de Garantias</h4>
             <p>
-                Usamos cookies e outras tecnologias de rastreamento para melhorar nosso site e proporcionar uma melhor experiência ao usuário. Cookies são pequenos arquivos de dados que são colocados em seu dispositivo para nos ajudar a lembrar suas preferências e entender como você usa nosso site. Isso nos ajuda a analisar padrões de tráfego e melhorar nosso conteúdo e funcionalidade.
+                AnalyzeMyDream.com é fornecido "como está" e "conforme disponível", sem garantias de qualquer tipo, expressas ou implícitas. Não garantimos que o serviço esteja livre de interrupções ou erros.
             </p>
-            <p>
-                Para facilitar essas melhorias, utilizamos serviços como Google Analytics e Microsoft Clarity. Essas ferramentas nos ajudam a coletar informações sobre interações dos usuários em nosso site, permitindo-nos identificar áreas para aprimoramento e garantir que nosso conteúdo atenda às suas necessidades. Para mais informações sobre como o Google Analytics e o Microsoft Clarity lidam com seus dados, consulte suas políticas de privacidade:
-                <ul>
-                    <li><a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google Analytics</a></li>
-                    <li><a href="https://clarity.microsoft.com/privacy" target="_blank">Política de Privacidade do Microsoft Clarity</a></li>
-                </ul>
-            </p>
-
-            <h4>Uso do Google Ads</h4>
-            <p>
-                O AnalyzeMyDream.com oferece seus serviços gratuitamente. Para manter e melhorar o site sem cobrar diretamente dos usuários, utilizamos Google Ads. Isso nos permite continuar oferecendo acesso gratuito às nossas ferramentas e recursos. Para mais informações sobre como o Google usa dados para anúncios, por favor, revise a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google Ads</a>.
-            </p>
-
-            <h4>Como Usamos Suas Informações</h4>
-            <p>
-                As informações coletadas através de cookies e tecnologias de rastreamento são usadas exclusivamente para aprimorar a qualidade de nosso serviço e experiência do usuário. Não vendemos nem alugamos suas informações pessoais a terceiros. Os dados são usados exclusivamente para melhorar a funcionalidade e qualidade do nosso site.
-            </p>
-            <p>
-                <strong>Observe que, ao usar nosso site, você consente com o uso de publicidade, tecnologias de rastreamento e cookies conforme descrito em nossa Política de Privacidade. Se você não concorda com o uso dessas tecnologias, solicitamos gentilmente que se abstenha de usar nosso site.</strong>
-            </p>
-            
-        </div>
     
-</SidebarContent>
-<SidebarContent>
-    <div slot="sidebar">
-        <h3>Informações de Contato</h3>
-        <p>
-            Se você tiver alguma dúvida sobre estes Termos de Serviço e Políticas de Privacidade, por favor, entre em contato conosco pelo:
-        </p>
-        <ul>
-            <li>Email: <a href="mailto:contact@ivanluna.dev">contact@ivanluna.dev</a></li>
-        </ul>
-    </div>
-    <div class="basic-text">
-        <h4>Isenção de Garantias</h4>
-        <p>
-            O AnalyzeMyDream.com é fornecido "como está" e "conforme disponível", sem garantias de qualquer tipo, expressas ou implícitas. Não garantimos que o serviço será ininterrupto ou isento de erros.
-        </p>
-
-        <h4>Limitação de Responsabilidade</h4>
-        <p>
-            Na máxima extensão permitida por lei, o AnalyzeMyDream não será responsável por quaisquer danos indiretos, incidentais, especiais ou consequenciais decorrentes de ou em conexão com o uso do serviço.
-        </p>
-
-        <h4>Legislação Aplicável</h4>
-        <p>
-            Estes termos são regidos e interpretados de acordo com as leis da jurisdição na qual o AnalyzeMyDream opera, sem consideração aos seus princípios de conflito de leis.
-        </p>
-
-        <h4>Atividades Proibidas</h4>
-        <p>
-            Você concorda em não usar o AnalyzeMyDream para quaisquer atividades ilegais ou proibidas, incluindo, mas não se limitando a:
-        </p>
-        <ul>
-            <li>Desrespeitar quaisquer leis ou regulamentos aplicáveis</li>
-            <li>Carregar ou distribuir vírus ou código malicioso</li>
-            <li>Interferir na operação do serviço</li>
-        </ul>
-
-        <h3>Diversos</h3>
-        <p>
-            <strong>Acordo Integral:</strong> Estes termos constituem o acordo integral entre você e o AnalyzeMyDream em relação ao uso do serviço e substituem quaisquer acordos anteriores.
-        </p>
-        <p>
-            <strong>Divisibilidade:</strong> Se qualquer disposição destes termos for considerada inválida ou inaplicável, as disposições restantes permanecerão em pleno vigor e efeito.
-        </p>
-        <p>
-            <strong>Renúncia:</strong> Nossa falha em exigir qualquer direito ou disposição destes termos não será considerada uma renúncia desses direitos.
-        </p>
-        <p><em>Última atualização: 9 de agosto de 2024</em></p>
-    </div>
-</SidebarContent>
+            <h4>Limitação de Responsabilidade</h4>
+            <p>
+                Na máxima extensão permitida por lei, AnalyzeMyDream não será responsável por danos indiretos, incidentais, especiais ou consequenciais que surjam de ou em conexão com o uso do serviço.
+            </p>
+    
+            <h4>Legislação Aplicável</h4>
+            <p>
+                Estes termos são regidos e interpretados de acordo com as leis da jurisdição onde opera a AnalyzeMyDream, sem considerar seus princípios de conflitos de leis.
+            </p>
+    
+            <h4>Atividades Proibidas</h4>
+            <p>
+                Você concorda em não usar AnalyzeMyDream para atividades ilegais ou proibidas, incluindo, mas não se limitando a:
+            </p>
+            <p>
+                <li>Eludir qualquer lei ou regulamentação aplicável</li>
+                <li>Tentar contornar as medidas de segurança do site.</li>
+                <li>Usar o site de maneira que possa danificá-lo ou afetar seu desempenho.</li>
+                <li>Desmontar ou descompilar o site.</li>
+            </p>
+    
+            <h3>Disposições Gerais</h3>
+            <p>
+                <strong>Acordo Completo:</strong> Estes termos constituem o acordo completo entre você e a AnalyzeMyDream em relação ao uso do serviço e substituem qualquer acordo anterior.
+            </p>
+            <p>
+                <strong>Separabilidade:</strong> Se qualquer disposição destes termos for considerada inválida ou inaplicável, as disposições restantes continuarão em pleno vigor e efeito.
+            </p>
+            <p>
+                <strong>Isenção de Responsabilidade:</strong> A nossa falta de aplicação de qualquer direito ou disposição destes termos não será considerada uma renúncia a tais direitos.
+            </p>
+            <p><em>Última atualização: 14 de agosto de 2024</em></p>
+        </div>
+    </SidebarContent>
 </Layout>
+    
