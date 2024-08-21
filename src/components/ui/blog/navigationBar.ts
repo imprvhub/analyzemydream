@@ -75,7 +75,15 @@ export const navigationBarData: NavData = {
 			]
 		  },
 		{ name: 'API', link: '/api' },
-		{ name: 'Contact', link: '/contact' }
+		{ name: 'Contact', link: '/contact' },
+		{
+            name: 'EN',
+            link: '#',
+            submenu: [
+                { name: 'Spanish', link: 'https://es.analyzemydream.com/' },
+                { name: 'Brazilian Portuguese', link: 'https://br.analyzemydream.com/' },
+            ]
+        },
 	],
 	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]
 }
