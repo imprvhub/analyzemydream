@@ -1,5 +1,12 @@
 [
     {
+        "title": "v1.2.0",
+        "date": "21 de agosto de 2024",
+        "text": "<strong>AnalyzeMyDream v1.2.0</strong> adiciona suporte multilíngue para uma experiência de usuário mais inclusiva.<br><br><strong>Novos Recursos e Melhorias:</strong><br><br>- <strong>Suporte para Espanhol:</strong> A plataforma agora suporta espanhol, permitindo que os usuários de língua espanhola interajam com a ferramenta no seu idioma.<br>- <strong>Suporte para Português:</strong> O português também está disponível, oferecendo aos usuários de língua portuguesa uma experiência local e personalizada.<br><br><strong>Atualizações:</strong><br><br>- Os usuários podem selecionar seu idioma preferido no seletor de idiomas na página principal, com opções que incluem inglês, espanhol e português.<br>- A interface do usuário está totalmente traduzida, assegurando uma funcionalidade e experiência consistentes em todos os idiomas suportados.<br><br><strong>Benefícios:</strong><br><br>- <strong>Maior Acessibilidade:</strong> A adição de espanhol e português melhora a acessibilidade e reduz as barreiras linguísticas.<br>- <strong>Melhoria na Experiência do Usuário:</strong> Aproveite uma experiência adaptada com todas as principais funcionalidades disponíveis no idioma escolhido.<br><br>",
+        "image": "https://analyzemydream.com/changelog_03.png",
+        "link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.2.0"
+    },      
+    {
         "title": "v1.1.0",
         "date": "7 de agosto de 2024",
         "text": "<strong>Advanced-AI Dream Analyzer:</strong> Esta ferramenta oferece uma análise de sonhos mais profunda e abrangente. <br> <strong>O que há de Novo:</strong> <br> - Análise Detalhada dos Sonhos: Insira uma descrição detalhada do seu sonho para uma análise aprofundada com IA. <br> - Parâmetros Aprimorados: Considera Tipo de Sonho, Importância, Emoções, Contexto, Estado, Frequência e Expectativas. <br> <strong>Comparação com o Fast-AI Dream Analyzer:</strong> <br> - Nível de Detalhe: Fornece uma análise mais sutil com entrada detalhada do usuário. <br> - Insights Abrangentes: Oferece um resultado mais rico ao incorporar vários fatores.",
