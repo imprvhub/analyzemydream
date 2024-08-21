@@ -1,38 +1,23 @@
 [
-	{
-		"title": "",
-		"date": "",
-		"text": "",
-		"image": ""
-	},
-	{
-		"title": "",
-		"date": "",
-		"text": "",
-		"image": ""
-	},
-	{
-		"title": "",
-		"date": "",
-		"text": "",
-		"image": ""
-	},
-	{
-		"title": "",
-		"date": "",
-		"text": "",
-		"image": ""
-	},
-	{
-		"title": "",
-		"date": "",
-		"text": "",
-		"image": ""
-	},
-	{
-		"title": "",
-		"date": "",
-		"text": "",
-		"image": ""
-	}
+    {
+        "title": "feat: AI-Advanced Dream Analyzer tool and FAQ section.",
+        "date": "7 de agosto de 2024",
+        "text": "<strong>AI-Advanced Dream Analyzer:</strong> Analiza un sueño con IA Avanzada, ofreciendo una interpretación completa que considera múltiples factores como tipo, importancia, emociones, contexto y más para un resultado refinado y específico. <br><strong>Sección Nueva de Preguntas Frecuentes (FAQ):</strong> <br> Se ha integrado una sección de Preguntas Frecuentes (FAQ) para proporcionar soporte adicional y mejorar la experiencia del usuario.",
+        "image": "https://analyzemydream.com/changelog-02.png",
+        "link": ""
+    },
+    {
+        "title": "v1.0.0.",
+        "date": "6 de agosto de 2024",
+        "text": "<strong>Interpretación de Sueños con IA</strong>: Esta versión introduce un sistema avanzado de IA que proporciona análisis personalizados de sueños. Los usuarios ahora pueden recibir interpretaciones a medida para sus sueños únicos, más allá de las fuentes bibliográficas establecidas incluidas en la versión anterior. <br><strong>Experiencia del Usuario Mejorada</strong>: Se han realizado varias mejoras y optimizaciones para garantizar una experiencia de usuario más fluida y atractiva. <br><strong>Integración con Google Ads</strong>: Como parte de nuestra fase experimental, se ha integrado Google Ads para entender su impacto y funcionalidad dentro de la plataforma.",
+        "image": "https://analyzemydream.com/changelog-01.png",
+        "link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.0.0"
+    },
+    {
+        "title": "v0.1.0.",
+        "date": "30 de julio de 2024",
+        "text": "AnalyzeMyDream.com es un proyecto exploratorio diseñado para mejorar la auto-comprensión a través de la interpretación de sueños. En esta versión inicial, el enfoque está en proporcionar interpretaciones perspicaces y basadas en investigaciones de los sueños de los usuarios, fundamentadas en fuentes bibliográficas establecidas. Esta versión sirve como una herramienta básica para que las personas exploren los significados detrás de sus sueños, con el objetivo de enriquecer su crecimiento personal y auto-comprensión.",
+        "image": "",
+        "link": "https://github.com/imprvhub/analyzemydream/releases/tag/v0.1.0"
+    }
 ]

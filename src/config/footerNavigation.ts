@@ -42,60 +42,50 @@ export const footerNavigationData: FooterData = {
 		}
 	},
 	footerColumns: [
-		/*
-			{
-				category: 'Product',
-				subCategories: [
-					{
-						subCategory: 'Features',
-						subCategoryLink: '/features'
-					},
-					{
-						subCategory: 'FAQ',
-						subCategoryLink: '/faq'
-					},
-					{
-						subCategory: 'Pricing',
-						subCategoryLink: '/pricing'
-					},
-					{
-						subCategory: 'Changelog',
-						subCategoryLink: '/changelog'
-					},
-					{
-						subCategory: 'Terms',
-						subCategoryLink: '/terms'
-					}
-				]
-			}
-			*/
-
 		{
-			category: 'Sobre nosotros',
+			category: 'Recursos',
 			subCategories: [
+				// {
+				// 	subCategory: 'Características',
+				// 	subCategoryLink: '/features'
+				// },
+				// {
+				// 	subCategory: 'API',
+				// 	subCategoryLink: '/api'
+				// },
+				// {
+				// 	subCategory: 'Precios',
+				// 	subCategoryLink: '/pricing'
+				// },
 				{
-					subCategory: 'Preguntas Frecuentes',
-					subCategoryLink: '/faq'
+					subCategory: 'Changelog',
+					subCategoryLink: '/changelog'
 				},
-				{
-					subCategory: 'Términos y condiciones',
-					subCategoryLink: '/terms'
-				},
-				{
-					subCategory: 'Política de Privacidad',
-					subCategoryLink: '/privacy'
-				}
 			]
 		},
+	
 		{
-			category: 'Ponte en contacto',
+			category: 'Información & Soporte',
 			subCategories: [
+				{
+					subCategory: 'FAQ',
+					subCategoryLink: '/faq'
+				},
 				{
 					subCategory: 'Contacto',
 					subCategoryLink: '/contact'
 				},
+				{
+					subCategory: 'Política de Privacidad',
+					subCategoryLink: '/privacy'
+				},
+				{
+					subCategory: 'Términos',
+					subCategoryLink: '/terms'
+				},
 			]
-		}
+		},
+	
 		
 	],
 	subFooter: {
