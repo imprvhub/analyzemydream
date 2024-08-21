@@ -27,7 +27,7 @@ const savedNavActions = navActions.map((action) => ({
 		<!-- Logo -->
 		<a href="/" class="header__logo">
 		  <img style="top: -3px; position: relative;" src={logo.src} alt={logo.alt} width="48" height="48" />
-		  <span id="logo-text" style="font-size: 18px; top: -2px; position: relative;">{logo.text}</span>
+		  <span id="logo-text" style="font-size: 17px; top: -3.5px; position: relative;">{logo.text}</span>
 		</a>
 		<!-- Menu toggle -->
 		<button
@@ -107,6 +107,21 @@ const savedNavActions = navActions.map((action) => ({
 	// Add event listener to handle resize
 	window.addEventListener('resize', handleResize);
   </script>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+	  const menuItems = document.querySelectorAll('.header__menu-item > .header__menu-link');
+	  
+	  menuItems.forEach((item) => {
+		if (item instanceof HTMLElement) {
+		  const textContent = item.textContent?.trim();
+		  if (textContent === 'PT' || textContent === 'Início') {
+			item.style.color = '#7BC7C7'; 
+		  }
+		}
+	  });
+	});
+  </script>
   
   <style>
 	.header {
@@ -147,6 +162,11 @@ const savedNavActions = navActions.map((action) => ({
 	}
 	.header__submenu-link {
 	  @apply px-8 py-4 hover:text-primary-500 [.header\_\_menu-item.open_&]:flex;
+	}
+	.header__menu-link {
+	  padding-bottom: 0.4rem;
+	  padding-left: 1.3rem;
+      padding-right: 1.3rem;
 	}
 	.header__toggle {
 	  @apply relative order-10 block h-10 w-10 self-center lg:hidden [&--open]:visible [&--open]:opacity-100;

@@ -73,7 +73,15 @@ export const navigationBarData: NavData = {
 		// 	]
 		// },
 		// { name: 'API', link: '/api'},
-		{ name: 'Contato', link: '/contact' }
+		{ name: 'Contato', link: '/contact' },
+		{
+			name: 'PT',
+			link: '#',
+			submenu: [
+				{ name: 'Inglês', link: 'https://analyzemydream.com/' },
+				{ name: 'Espanhol', link: 'https://es.analyzemydream.com/' },
+			]
+		}
 	],
 	navActions: [{ name: 'Experimente agora', link: '/', style: 'primary', size: 'lg' }]
 }
