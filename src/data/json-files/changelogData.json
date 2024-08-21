@@ -1,20 +1,20 @@
 [
 	{
-		"title": "feat: AI-Advanced Dream Analyzer tool and faq section.",
+		"title": "v1.1.0",
 		"date": "August 07, 2024",
-		"text": "<strong>AI-Advanced Dream Analyzer:</strong> Analyze a dream with Advanced-AI, delivering a comprehensive interpretation that considers multiple factors such as type, importance, emotions, context, and more for a refined and specific result. <br><strong>New Frequently Asked Questions (FAQ) Section:</strong> <br> Integrated a Frequently Asked Questions (FAQ) section to provide additional support and improve user experience.",
+		"text": "<strong>Advanced-AI Dream Analyzer:</strong> This tool offers deeper and more comprehensive dream analysis. <br> <strong>What's New:</strong> <br> - Detailed Dream Analysis: Input a detailed description of your dream for an in-depth IA analysis. <br> - Enhanced Parameters: Considers Dream Type, Importance, Emotions, Context, State, Frequency, and Expectations. <br> <strong>Comparison with Fast-AI Dream Analyzer:</strong> <br> - Level of Detail: Provides a nuanced analysis with detailed user input. <br> - Comprehensive Insights: Delivers a richer result by incorporating various factors.",
 		"image": "https://analyzemydream.com/changelog-02.png",
-		"link": ""
+		"link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.1.0"
 	},
 	{
-		"title": "v1.0.0.",
+		"title": "v1.0.0",
 		"date": "August 06, 2024",
 		"text": "<strong>AI-Powered Dream Interpretation</strong>: This release introduces an advanced AI system that provides personalized dream analyses. Users can now receive tailored interpretations for their unique dreams, extending beyond the established bibliographic sources included in the previous release. <br><strong>Enhanced User Experience</strong>: Various improvements and optimizations have been made to ensure a smoother and more engaging user experience. <br><strong>Integration with Google Ads</strong>: As part of our experimental phase, Google Ads has been integrated to understand its impact and functionality within the platform.",
 		"image": "https://analyzemydream.com/changelog-01.png",
 		"link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.0.0"
 	},
 	{
-		"title": "v0.1.0.",
+		"title": "v0.1.0",
 		"date": "July 30, 2024",
 		"text": "AnalyzeMyDream.com is an exploratory project designed to enhance self-understanding through the interpretation of dreams. In this initial release, the focus is on providing insightful and research-backed interpretations of their dreams, grounded in established bibliographic sources. This version serves as a foundational tool for people to explore the meanings behind their dreams, with the aim of enriching their personal growth and self-understanding.",
 		"image": "",
