@@ -1,10 +1,10 @@
 [
     {
-        "title": "feat: Ferramenta de Análise Avançada de Sonhos com IA e seção de FAQ.",
-        "date": "07 de agosto de 2024",
-        "text": "<strong>Analisador de Sonhos Avançado com IA:</strong> Analise um sonho com a IA Avançada, oferecendo uma interpretação abrangente que considera múltiplos fatores, como tipo, importância, emoções, contexto e mais, para um resultado refinado e específico. <br><strong>Nova Seção de Perguntas Frequentes (FAQ):</strong> <br> Integrada uma seção de Perguntas Frequentes (FAQ) para fornecer suporte adicional e melhorar a experiência do usuário.",
+        "title": "v1.1.0",
+        "date": "7 de agosto de 2024",
+        "text": "<strong>Advanced-AI Dream Analyzer:</strong> Esta ferramenta oferece uma análise de sonhos mais profunda e abrangente. <br> <strong>O que há de Novo:</strong> <br> - Análise Detalhada dos Sonhos: Insira uma descrição detalhada do seu sonho para uma análise aprofundada com IA. <br> - Parâmetros Aprimorados: Considera Tipo de Sonho, Importância, Emoções, Contexto, Estado, Frequência e Expectativas. <br> <strong>Comparação com o Fast-AI Dream Analyzer:</strong> <br> - Nível de Detalhe: Fornece uma análise mais sutil com entrada detalhada do usuário. <br> - Insights Abrangentes: Oferece um resultado mais rico ao incorporar vários fatores.",
         "image": "https://analyzemydream.com/changelog-02.png",
-        "link": ""
+        "link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.1.0"
     },
     {
         "title": "v1.0.0.",
