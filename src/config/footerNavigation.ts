@@ -42,60 +42,50 @@ export const footerNavigationData: FooterData = {
 		}
 	},
 	footerColumns: [
-		/*
 			{
-				category: 'Product',
+				category: 'Resources',
 				subCategories: [
-					{
-						subCategory: 'Features',
-						subCategoryLink: '/features'
-					},
-					{
-						subCategory: 'FAQ',
-						subCategoryLink: '/faq'
-					},
-					{
-						subCategory: 'Pricing',
-						subCategoryLink: '/pricing'
-					},
+					// {
+					// 	subCategory: 'Features',
+					// 	subCategoryLink: '/features'
+					// },
+					// {
+					// 	subCategory: 'API',
+					// 	subCategoryLink: '/api'
+					// },
+					// {
+					// 	subCategory: 'Pricing',
+					// 	subCategoryLink: '/pricing'
+					// },
 					{
 						subCategory: 'Changelog',
 						subCategoryLink: '/changelog'
 					},
-					{
-						subCategory: 'Terms',
-						subCategoryLink: '/terms'
-					}
 				]
-			}
-			*/
+			},
+
 
 		{
-			category: 'About us',
+			category: 'Info & Support',
 			subCategories: [
 				{
 					subCategory: 'FAQ',
 					subCategoryLink: '/faq'
 				},
 				{
-					subCategory: 'Terms',
-					subCategoryLink: '/terms'
+					subCategory: 'Contact',
+					subCategoryLink: '/contact'
 				},
 				{
 					subCategory: 'Privacy Policy',
 					subCategoryLink: '/privacy'
-				}
-			]
-		},
-		{
-			category: 'Reach out',
-			subCategories: [
+				},
 				{
-					subCategory: 'Contact',
-					subCategoryLink: '/contact'
+					subCategory: 'Terms',
+					subCategoryLink: '/terms'
 				},
 			]
-		}
+		},
 	],
 	subFooter: {
 		copywriteText: '© AnalyzeMyDream 2024.'
