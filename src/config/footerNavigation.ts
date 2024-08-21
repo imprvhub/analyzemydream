@@ -42,60 +42,50 @@ export const footerNavigationData: FooterData = {
 		}
 	},
 	footerColumns: [
-		/*
-			{
-				category: 'Produto',
-				subCategories: [
-					{
-						subCategory: 'Recursos',
-						subCategoryLink: '/features'
-					},
-					{
-						subCategory: 'FAQ',
-						subCategoryLink: '/faq'
-					},
-					{
-						subCategory: 'Preços',
-						subCategoryLink: '/pricing'
-					},
-					{
-						subCategory: 'Histórico de mudanças',
-						subCategoryLink: '/changelog'
-					},
-					{
-						subCategory: 'Termos',
-						subCategoryLink: '/terms'
-					}
-				]
-			}
-			*/
-
 		{
-			category: 'Sobre nós',
+			category: 'Recursos',
+			subCategories: [
+				// {
+				// 	subCategory: 'Características',
+				// 	subCategoryLink: '/features'
+				// },
+				// {
+				// 	subCategory: 'API',
+				// 	subCategoryLink: '/api'
+				// },
+				// {
+				// 	subCategory: 'Preços',
+				// 	subCategoryLink: '/pricing'
+				// },
+				{
+					subCategory: 'Changelog',
+					subCategoryLink: '/changelog'
+				},
+			]
+		},
+	
+		{
+			category: 'Informações & Suporte',
 			subCategories: [
 				{
 					subCategory: 'FAQ',
 					subCategoryLink: '/faq'
 				},
 				{
-					subCategory: 'Termos',
-					subCategoryLink: '/terms'
+					subCategory: 'Contato',
+					subCategoryLink: '/contact'
 				},
 				{
 					subCategory: 'Política de Privacidade',
 					subCategoryLink: '/privacy'
-				}
-			]
-		},
-		{
-			category: 'Entre em contato',
-			subCategories: [
+				},
 				{
-					subCategory: 'Contato',
-					subCategoryLink: '/contact'
+					subCategory: 'Termos',
+					subCategoryLink: '/terms'
 				},
 			]
-		}
+		},
+	
 	],
 	subFooter: {
 		copywriteText: '© AnalyzeMyDream 2024.'

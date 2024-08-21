@@ -38,7 +38,7 @@ export const navigationBarData: NavData = {
 		text: 'AnalyzeMyDream'
 	},
 	navItems: [
-		{ name: 'Home', link: '/' },
+		{ name: 'Inicio', link: '/' },
 		// { name: 'Pricing', link: '/pricing' },
 		{
 			name: 'Explore',
@@ -75,7 +75,7 @@ export const navigationBarData: NavData = {
 		// 	]
 		// },
 		
-		
+		// { name: 'API', link: '/api'},
 		{ name: 'Contact', link: '/contact' }
 	],
 	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]

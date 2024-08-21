@@ -72,7 +72,7 @@ export const navigationBarData: NavData = {
 		// 		{ name: 'Termos', link: '/terms' }
 		// 	]
 		// },
-		
+		// { name: 'API', link: '/api'},
 		{ name: 'Contato', link: '/contact' }
 	],
 	navActions: [{ name: 'Experimente agora', link: '/', style: 'primary', size: 'lg' }]

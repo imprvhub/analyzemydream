@@ -6,6 +6,7 @@ type Props = {
 		date?: string
 		text?: string
 		image?: string
+		link?: string 
 	}>
 	classes?: string
 }
@@ -27,12 +28,19 @@ const { data, classes } = Astro.props
 							<img src={item.image} alt={item.title} width="1000" height="500" />
 						</div>
 					)}
-					<div class="feed__item-text basic-text" set:html={item.text} />
+					
+					<div class="feed__item-text basic-text" set:html={item.text} /> 
+					{item.link && (
+						<p class="feed__item-link">
+							<a href={item.link} target="_blank" rel="noopener noreferrer">Leia Mais.</a>
+						</p>
+					)}
 				</div>
 			</li>
 		))
 	}
 </ul>
+
 
 <style>
 	.feed {
@@ -55,5 +63,8 @@ const { data, classes } = Astro.props
 	}
 	.feed__item-image {
 		@apply mb-6 overflow-hidden rounded border border-neutral-100 bg-neutral-50 dark:border-neutral-800 dark:bg-neutral-900;
+	}
+	.feed__item-link {
+		@apply mt-4 text-primary-500 underline;
 	}
 </style>
