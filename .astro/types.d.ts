@@ -287,23 +287,9 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-blood.md": {
-	id: "what-does-it-mean-to-dream-about-blood.md";
-  slug: "what-does-it-mean-to-dream-about-blood";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-books.md": {
 	id: "what-does-it-mean-to-dream-about-books.md";
   slug: "what-does-it-mean-to-dream-about-books";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-broken-glass.md": {
-	id: "what-does-it-mean-to-dream-about-broken-glass.md";
-  slug: "what-does-it-mean-to-dream-about-broken-glass";
   body: string;
   collection: "blog";
   data: any
@@ -406,13 +392,6 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-dead-people.md": {
-	id: "what-does-it-mean-to-dream-about-dead-people.md";
-  slug: "what-does-it-mean-to-dream-about-dead-people";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-demons.md": {
 	id: "what-does-it-mean-to-dream-about-demons.md";
   slug: "what-does-it-mean-to-dream-about-demons";
@@ -455,13 +434,6 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-drugs.md": {
-	id: "what-does-it-mean-to-dream-about-drugs.md";
-  slug: "what-does-it-mean-to-dream-about-drugs";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-elephants.md": {
 	id: "what-does-it-mean-to-dream-about-elephants.md";
   slug: "what-does-it-mean-to-dream-about-elephants";
@@ -472,13 +444,6 @@ declare module 'astro:content' {
 "what-does-it-mean-to-dream-about-famous-people.md": {
 	id: "what-does-it-mean-to-dream-about-famous-people.md";
   slug: "what-does-it-mean-to-dream-about-famous-people";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-fire.md": {
-	id: "what-does-it-mean-to-dream-about-fire.md";
-  slug: "what-does-it-mean-to-dream-about-fire";
   body: string;
   collection: "blog";
   data: any
@@ -595,13 +560,6 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-hitting-someone.md": {
-	id: "what-does-it-mean-to-dream-about-hitting-someone.md";
-  slug: "what-does-it-mean-to-dream-about-hitting-someone";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-horses.md": {
 	id: "what-does-it-mean-to-dream-about-horses.md";
   slug: "what-does-it-mean-to-dream-about-horses";
@@ -626,13 +584,6 @@ declare module 'astro:content' {
 "what-does-it-mean-to-dream-about-jewels.md": {
 	id: "what-does-it-mean-to-dream-about-jewels.md";
   slug: "what-does-it-mean-to-dream-about-jewels";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-keys.md": {
-	id: "what-does-it-mean-to-dream-about-keys.md";
-  slug: "what-does-it-mean-to-dream-about-keys";
   body: string;
   collection: "blog";
   data: any
@@ -735,13 +686,6 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-police.md": {
-	id: "what-does-it-mean-to-dream-about-police.md";
-  slug: "what-does-it-mean-to-dream-about-police";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-rabbits.md": {
 	id: "what-does-it-mean-to-dream-about-rabbits.md";
   slug: "what-does-it-mean-to-dream-about-rabbits";
@@ -833,13 +777,6 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-someone-dying.md": {
-	id: "what-does-it-mean-to-dream-about-someone-dying.md";
-  slug: "what-does-it-mean-to-dream-about-someone-dying";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-someone-from-the-past.md": {
 	id: "what-does-it-mean-to-dream-about-someone-from-the-past.md";
   slug: "what-does-it-mean-to-dream-about-someone-from-the-past";
@@ -854,23 +791,9 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-someone-who-has-hurt-you.md": {
-	id: "what-does-it-mean-to-dream-about-someone-who-has-hurt-you.md";
-  slug: "what-does-it-mean-to-dream-about-someone-who-has-hurt-you";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-about-spiders.md": {
 	id: "what-does-it-mean-to-dream-about-spiders.md";
   slug: "what-does-it-mean-to-dream-about-spiders";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-stars.md": {
-	id: "what-does-it-mean-to-dream-about-stars.md";
-  slug: "what-does-it-mean-to-dream-about-stars";
   body: string;
   collection: "blog";
   data: any
@@ -892,27 +815,6 @@ declare module 'astro:content' {
 "what-does-it-mean-to-dream-about-the-beach.md": {
 	id: "what-does-it-mean-to-dream-about-the-beach.md";
   slug: "what-does-it-mean-to-dream-about-the-beach";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-the-dead.md": {
-	id: "what-does-it-mean-to-dream-about-the-dead.md";
-  slug: "what-does-it-mean-to-dream-about-the-dead";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-the-death-of-a-family-member.md": {
-	id: "what-does-it-mean-to-dream-about-the-death-of-a-family-member.md";
-  slug: "what-does-it-mean-to-dream-about-the-death-of-a-family-member";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-the-end-of-the-world.md": {
-	id: "what-does-it-mean-to-dream-about-the-end-of-the-world.md";
-  slug: "what-does-it-mean-to-dream-about-the-end-of-the-world";
   body: string;
   collection: "blog";
   data: any
@@ -1008,44 +910,9 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-about-zombies.md": {
-	id: "what-does-it-mean-to-dream-about-zombies.md";
-  slug: "what-does-it-mean-to-dream-about-zombies";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-that-a-dog-bites-you.md": {
 	id: "what-does-it-mean-to-dream-that-a-dog-bites-you.md";
   slug: "what-does-it-mean-to-dream-that-a-dog-bites-you";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-they-are-chasing-you.md": {
-	id: "what-does-it-mean-to-dream-that-they-are-chasing-you.md";
-  slug: "what-does-it-mean-to-dream-that-they-are-chasing-you";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-they-kill-you.md": {
-	id: "what-does-it-mean-to-dream-that-they-kill-you.md";
-  slug: "what-does-it-mean-to-dream-that-they-kill-you";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-you-are-being-robbed.md": {
-	id: "what-does-it-mean-to-dream-that-you-are-being-robbed.md";
-  slug: "what-does-it-mean-to-dream-that-you-are-being-robbed";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-you-are-being-shot.md": {
-	id: "what-does-it-mean-to-dream-that-you-are-being-shot.md";
-  slug: "what-does-it-mean-to-dream-that-you-are-being-shot";
   body: string;
   collection: "blog";
   data: any
@@ -1064,23 +931,9 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-you-die.md": {
-	id: "what-does-it-mean-to-dream-that-you-die.md";
-  slug: "what-does-it-mean-to-dream-that-you-die";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
 "what-does-it-mean-to-dream-that-you-fall-and-wake-up.md": {
 	id: "what-does-it-mean-to-dream-that-you-fall-and-wake-up.md";
   slug: "what-does-it-mean-to-dream-that-you-fall-and-wake-up";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-you-fight.md": {
-	id: "what-does-it-mean-to-dream-that-you-fight.md";
-  slug: "what-does-it-mean-to-dream-that-you-fight";
   body: string;
   collection: "blog";
   data: any
@@ -1095,13 +948,6 @@ declare module 'astro:content' {
 "what-does-it-mean-to-dream-that-you-get-back-with-your-ex.md": {
 	id: "what-does-it-mean-to-dream-that-you-get-back-with-your-ex.md";
   slug: "what-does-it-mean-to-dream-that-you-get-back-with-your-ex";
-  body: string;
-  collection: "blog";
-  data: any
-} & { render(): Render[".md"] };
-"what-does-it-mean-to-dream-that-you-kill-someone.md": {
-	id: "what-does-it-mean-to-dream-that-you-kill-someone.md";
-  slug: "what-does-it-mean-to-dream-that-you-kill-someone";
   body: string;
   collection: "blog";
   data: any

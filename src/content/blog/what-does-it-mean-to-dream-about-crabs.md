@@ -39,5 +39,6 @@ While crab dreams may involve periods of depression or distress, they also highl
 
 **Bibliography:**
 
-[Add relevant sources here if applicable]
+- Aguillaume, R. (2018). *Dream Interpretation: Between Clinic and Theory*. CPM.
+
 ---

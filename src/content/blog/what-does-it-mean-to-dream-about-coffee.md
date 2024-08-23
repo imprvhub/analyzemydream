@@ -49,5 +49,9 @@ Exploring the meaning of your coffee dreams can provide insightful reflections o
 
 **Bibliografía:**
 
-* [Add relevant bibliographical Bibliography if needed.] 
+- Daldis, A. (1999). *The Book of Dream Interpretation* (Vol. 53). AKAL Editions.
+- Freud, S. (2023). *The Interpretation of Dreams*. BoD-Books on Demand.
+- Freud, S. (1995). *Dreams*. Alianza Editorial.
+- *The Interpretation of Dreams*. RBA Books, 2016.
+
 ---

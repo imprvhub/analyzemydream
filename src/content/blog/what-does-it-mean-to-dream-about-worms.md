@@ -68,5 +68,3 @@ Dream interpretation is subjective and can vary depending on individual experien
 
 * Freud, S. (1899). *The Interpretation of Dreams*. 
 * Pérsico, L. (2013). *5,005 Dreams: Interpretation and Meaning*.
-
-**Remember:** This information is for general knowledge and should not be considered a replacement for professional advice. If you are concerned about your dreams or your mental health, consult with a qualified therapist or psychologist.
