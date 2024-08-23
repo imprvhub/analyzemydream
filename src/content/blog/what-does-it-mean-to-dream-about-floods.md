@@ -53,12 +53,3 @@ Uma casa inundada em seu sonho exige atenção para seus relacionamentos pessoai
 * Sirin, M.I. (2008). *O livro da interpretação dos sonhos*. Editorial Sirio, S.A. Espanha.
 
 ---
-
-**Alterações feitas:**
-
-* Reestruturou o conteúdo para seguir o formato padrão.
-* Adicionou subtítulos para cada cenário de sonhos de inundação.
-* Substituíu a linguagem informal por uma redação mais profissional.
-* Adicionou marcadores para melhor organização das informações.
-* Usou texto em negrito para pontos-chave e títulos.
-* Melhorou o fluxo geral e a legibilidade do conteúdo.

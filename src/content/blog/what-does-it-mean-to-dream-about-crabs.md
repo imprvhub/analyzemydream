@@ -39,5 +39,6 @@ Embora os sonhos com caranguejo possam envolver períodos de depressão ou angú
 
 **Bibliografia:**
 
-[Adicione fontes relevantes aqui, se aplicável]
+- Aguillaume, R. (2018). *A Interpretação dos Sonhos: Entre a Clínica e a Teoria*. CPM.
+
 ---

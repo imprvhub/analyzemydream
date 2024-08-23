@@ -33,6 +33,8 @@ Sonhar com coelhos grandes significa prosperidade e abundância, principalmente 
 
 **Bibliografia:**
 
-**Por favor, adicione fontes relevantes se você as tiver.**
+- Freud, S. (2013). *A Interpretação dos Sonhos* (Vol. 267). Edições Akal.
+- Linn, D. (2002). *O Significado dos Sonhos*. Barcelona: Robinbook.
+
 
 ---

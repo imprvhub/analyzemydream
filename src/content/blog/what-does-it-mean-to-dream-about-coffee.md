@@ -49,5 +49,10 @@ Explorar o significado dos seus sonhos com café pode fornecer reflexões perspi
 
 **Bibliografia:**
 
-* [Adicione referências bibliográficas relevantes, se necessário.] 
+- Daldis, A. (1999). *O Livro da Interpretação dos Sonhos* (Vol. 53). Edições AKAL.
+- Freud, S. (2023). *A Interpretação dos Sonhos*. BoD-Books on Demand.
+- Freud, S. (1995). *Os Sonhos*. Alianza Editorial.
+- *A Interpretação dos Sonhos*. RBA Livros, 2016.
+
+
 ---

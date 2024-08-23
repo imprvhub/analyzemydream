@@ -57,11 +57,3 @@ Sonhar com familiares chorando geralmente sinaliza sofrimento emocional e um des
 **Freud, S. (1900). *A interpretação dos sonhos*.**
 
 ---
-
-**Principais melhorias:**
-
-**Estrutura:** O conteúdo agora é organizado de acordo com o formato padrão, com títulos e subtítulos claros.
-**Profissionalismo:** A redação é refinada para um tom mais profissional, usando linguagem mais clara e evitando expressões casuais. 
-**Clareza:** As frases são estruturadas para melhor fluxo e compreensão.
-**Ênfase:** O uso de texto em negrito é consistente para pontos-chave e informações importantes.
-**Consistência:** A formatação em todo o artigo é padronizada.

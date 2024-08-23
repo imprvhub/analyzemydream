@@ -64,5 +64,3 @@ A interpretação dos sonhos é subjetiva e pode variar dependendo das experiên
 
 * Freud, S. (1899). *A Interpretação dos Sonhos*. 
 * Pérsico, L. (2013). *5.005 Sonhos: Interpretação e Significado*.
-
-**Lembre-se:** Estas informações são para conhecimento geral e não devem ser consideradas um substituto para aconselhamento profissional. Se você está preocupado com seus sonhos ou sua saúde mental, consulte um terapeuta ou psicólogo qualificado.
