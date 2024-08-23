@@ -40,5 +40,5 @@ Si bien los sueños con cangrejos pueden implicar períodos de depresión o angu
 
 **Bibliografía:**
 
-[Agrega fuentes relevantes aquí si corresponde]
+-Aguillaume, R. (2018). La interpretación de los sueños: entre la clínica y la teoría. CPM. 
 ---

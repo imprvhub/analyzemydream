@@ -33,6 +33,7 @@ Soñar con conejos grandes significa prosperidad y abundancia, especialmente en 
 
 **Bibliografía:**
 
-**Agrega fuentes relevantes si las tienes.**
+-Freud, S. (2013). La interpretación de los sueños (Vol. 267). Ediciones Akal.
+-Linn, D. (2002). El significado de los sueños. Barcelona: Robinbook.
 
 ---

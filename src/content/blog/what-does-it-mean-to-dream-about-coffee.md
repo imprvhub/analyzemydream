@@ -49,5 +49,9 @@ Explorar el significado de tus sueños con café puede brindarte reflexiones esc
 
 **Bibliografía:**
 
-* [Agrega referencias bibliográficas relevantes si es necesario.] 
+-De Daldis, A. (1999). El libro de la interpretación de los sueños (Vol. 53). Ediciones AKAL.
+-Freud, S. (2023). La interpretación de los sueños. BoD-Books on Demand.
+-Freud, S. (1995). Los sueños. Alianza Editorial.
+-La interpretación de los sueños. RBA Libros, 2016.
+
 ---
