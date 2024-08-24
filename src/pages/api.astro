@@ -151,6 +151,9 @@ const header = {
                   <option value="shell-wget">Shell - wget</option>
                   <option value="swift-urlsession">Swift - URLSession</option>
               </select>
+                
+                <img id="copyIconGet" class="copy-icon" src="https://analyzemydream.com/copy-green.png" alt="Copy Green Icon">
+              
               <pre id="codeExampleGet"></pre>
           </div>
 
@@ -251,6 +254,8 @@ const header = {
                     <option value="shell-wget">Shell - wget</option>
                     <option value="swift-urlsession">Swift - URLSession</option>
                 </select>
+                <img id="copyIcon" class="copy-icon" src="https://analyzemydream.com/copy-blue.png" alt="Copy Blue Fast">
+                 
                 <pre id="codeExample"></pre>
             </div>
 
@@ -359,6 +364,7 @@ const header = {
                   <option value="shell-wget">Shell - wget</option>
                   <option value="swift-urlsession">Swift - URLSession</option>
               </select>
+              <img id="copyIconAdvanced" class="copy-icon" src="https://analyzemydream.com/copy-blue.png" alt="Copy Green Advanced">
               <pre id="codeExampleAdvanced"></pre>
           </div>
 
@@ -481,1469 +487,1564 @@ const header = {
 
    const codeExamplesGet = {
     "csharp-httpclient": `var client = new HttpClient();
-    var request = new HttpRequestMessage(HttpMethod.Get, "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
-    var response = await client.SendAsync(request);
-    response.EnsureSuccessStatusCode();
-    Console.WriteLine(await response.Content.ReadAsStringAsync());
-    `,
-    "csharp-restsharp": `var options = new RestClientOptions("")
-    {
-      MaxTimeout = -1,
-    };
-    var client = new RestClient(options);
-    var request = new RestRequest("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", Method.Get);
-    RestResponse response = await client.ExecuteAsync(request);
-    Console.WriteLine(response.Content);`,
-    "curl": `curl --location 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'`,
-    "dart-dio": `var dio = Dio();
-    var response = await dio.request(
-      'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
-      options: Options(
-        method: 'GET',
-      ),
-    );
+var request = new HttpRequestMessage(HttpMethod.Get, 
+  "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());`,
 
-    if (response.statusCode == 200) {
-      print(json.encode(response.data));
+  "csharp-restsharp": `var options = new RestClientOptions("")
+{
+  MaxTimeout = -1,
+};
+var client = new RestClient(options);
+var request = new RestRequest("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", Method.Get);
+RestResponse response = await client.ExecuteAsync(request);
+Console.WriteLine(response.Content);`,
+
+  "curl": `curl --location 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'`,
+
+  "dart-dio": `var dio = Dio();
+var response = await dio.request(
+  'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
+  options: Options(
+    method: 'GET',
+  ),
+);
+
+if (response.statusCode == 200) {
+  print(json.encode(response.data));
+} else {
+  print(response.statusMessage);
+}`,
+
+  "dart-http": `var request = http.Request('GET', Uri.parse('https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'));
+
+http.StreamedResponse response = await request.send();
+
+if (response.statusCode == 200) {
+  print(await response.stream.bytesToString());
+} else {
+  print(response.reasonPhrase);
+}`,
+
+  "go-native": `package main
+
+import (
+  "fmt"
+  "net/http"
+  "io/ioutil"
+)
+
+func main() {
+  url := "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly"
+  method := "GET"
+
+  client := &http.Client{}
+  req, err := http.NewRequest(method, url, nil)
+
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  res, err := client.Do(req)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  defer res.Body.Close()
+
+  body, err := ioutil.ReadAll(res.Body)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  fmt.Println(string(body))
+}`,
+
+  "http": `GET /dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly HTTP/1.1
+Host: analyzemydream-api.vercel.app`,
+
+  "java-okhttp": `OkHttpClient client = new OkHttpClient().newBuilder()
+  .build();
+MediaType mediaType = MediaType.parse("text/plain");
+RequestBody body = RequestBody.create(mediaType, "");
+Request request = new Request.Builder()
+  .url("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
+  .method("GET", body)
+  .build();
+Response response = client.newCall(request).execute();`,
+
+  "java-unirest": `Unirest.setTimeouts(0, 0);
+HttpResponse<String> response = Unirest.get("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
+  .asString();`,
+
+  "javascript-fetch": `const requestOptions = {
+  method: "GET",
+  redirect: "follow"
+};
+
+fetch("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", requestOptions)
+  .then((response) => response.text())
+  .then((result) => console.log(result))
+  .catch((error) => console.error(error));`,
+
+  "javascript-jquery": `var settings = {
+  "url": "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly",
+  "method": "GET",
+  "timeout": 0,
+};
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});`,
+
+  "javascript-xhr": `// WARNING: For GET requests, body is set to null by browsers.
+
+var xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function() {
+  if(this.readyState === 4) {
+    console.log(this.responseText);
+  }
+});
+
+xhr.open("GET", "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
+
+xhr.send();`,
+
+  "kotlin-okhttp": `val client = OkHttpClient()
+val request = Request.Builder()
+  .url("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
+  .build()
+val response = client.newCall(request).execute()`,
+
+  "c-libcurl": `CURL *curl;
+CURLcode res;
+curl = curl_easy_init();
+if(curl) {
+  curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "GET");
+  curl_easy_setopt(curl, CURLOPT_URL, "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
+  curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
+  curl_easy_setopt(curl, CURLOPT_DEFAULT_PROTOCOL, "https");
+  struct curl_slist *headers = NULL;
+  curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+  res = curl_easy_perform(curl);
+}
+curl_easy_cleanup(curl);`,
+
+  "nodejs-axios": `const axios = require('axios');
+
+let config = {
+  method: 'get',
+  maxBodyLength: Infinity,
+  url: 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
+  headers: { }
+};
+
+axios.request(config)
+  .then((response) => {
+    console.log(JSON.stringify(response.data));
+  })
+  .catch((error) => {
+    console.log(error);
+  });`,
+
+  "nodejs-native": `var https = require('follow-redirects').https;
+var fs = require('fs');
+
+var options = {
+  'method': 'GET',
+  'hostname': 'analyzemydream-api.vercel.app',
+  'path': '/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
+  'headers': {},
+  'maxRedirects': 20
+};
+
+var req = https.request(options, function (res) {
+  var chunks = [];
+
+  res.on("data", function (chunk) {
+    chunks.push(chunk);
+  });
+
+  res.on("end", function (chunk) {
+    var body = Buffer.concat(chunks);
+    console.log(body.toString());
+  });
+
+  res.on("error", function (error) {
+    console.error(error);
+  });
+});
+
+req.end();`,
+
+  "nodejs-request": `var request = require('request');
+var options = {
+  'method': 'GET',
+  'url': 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
+  'headers': {}
+};
+request(options, function (error, response) {
+  if (error) throw new Error(error);
+  console.log(response.body);
+});`,
+
+  "nodejs-unirest": `var unirest = require('unirest');
+var req = unirest('GET', 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly')
+  .end(function (res) { 
+    if (res.error) throw new Error(res.error); 
+    console.log(res.raw_body);
+  });`,
+    "objectivec-nsurlsession": `#import <Foundation/Foundation.h>
+
+dispatch_semaphore_t sema = dispatch_semaphore_create(0);
+
+NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly"]
+    cachePolicy:NSURLRequestUseProtocolCachePolicy
+    timeoutInterval:10.0];
+
+[request setHTTPMethod:@"GET"];
+
+NSURLSession *session = [NSURLSession sharedSession];
+NSURLSessionDataTask *dataTask = [session dataTaskWithRequest:request
+    completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
+        if (error) {
+            NSLog(@"%@", error);
+            dispatch_semaphore_signal(sema);
+        } else {
+            NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
+            NSError *parseError = nil;
+            NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:&parseError];
+            NSLog(@"%@", responseDictionary);
+            dispatch_semaphore_signal(sema);
+        }
+    }];
+[dataTask resume];
+dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`,
+
+  "php-curl": `<?php
+
+$curl = curl_init();
+
+curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+));
+
+$response = curl_exec($curl);
+
+curl_close($curl);
+echo $response;
+`,
+
+  "php-guzzle": `<?php
+use GuzzleHttp\Client;
+
+$client = new Client();
+$request = new Request('GET', 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly');
+$res = $client->sendAsync($request)->wait();
+echo $res->getBody();
+`,
+
+  "php-http-request2": `<?php
+require_once 'HTTP/Request2.php';
+$request = new HTTP_Request2();
+$request->setUrl('https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly');
+$request->setMethod(HTTP_Request2::METHOD_GET);
+$request->setConfig(array(
+    'follow_redirects' => TRUE
+));
+try {
+    $response = $request->send();
+    if ($response->getStatus() == 200) {
+        echo $response->getBody();
+    } else {
+        echo 'Unexpected HTTP status: ' . $response->getStatus() . ' ' . $response->getReasonPhrase();
     }
-    else {
-      print(response.statusMessage);
-    }`,
-    "dart-http": `var request = http.Request('GET', Uri.parse('https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'));
+} catch (HTTP_Request2_Exception $e) {
+    echo 'Error: ' . $e->getMessage();
+}`,
 
+  "php-pecl-http": `<?php
+$client = new http\Client;
+$request = new http\Client\Request;
+$request->setRequestUrl('https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly');
+$request->setRequestMethod('GET');
+$request->setOptions(array());
 
-    http.StreamedResponse response = await request.send();
+$client->enqueue($request)->send();
+$response = $client->getResponse();
+echo $response->getBody();
+`,
 
-    if (response.statusCode == 200) {
-      print(await response.stream.bytesToString());
-    }
-    else {
-      print(response.reasonPhrase);
-    }
-    `,
-    "go-native": `package main
+  "powershell-restmethod": `$response = Invoke-RestMethod 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly' -Method 'GET' -Headers $headers
+$response | ConvertTo-Json`,
 
-    import (
-      "fmt"
-      "net/http"
-      "io/ioutil"
-    )
+  "python-httpclient": `import http.client
 
-    func main() {
+conn = http.client.HTTPSConnection("analyzemydream-api.vercel.app")
+payload = ''
+headers = {}
+conn.request("GET", "/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", payload, headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))`,
 
-      url := "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly"
-      method := "GET"
+  "python-requests": `import requests
 
-      client := &http.Client {
-      }
-      req, err := http.NewRequest(method, url, nil)
+url = "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly"
 
-      if err != nil {
-        fmt.Println(err)
+payload = {}
+headers = {}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+
+print(response.text)
+`,
+
+  "r-httr": `library(httr)
+
+res <- VERB("GET", url = "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
+
+cat(content(res, 'text'))`,
+
+  "r-rcurl": `library(RCurl)
+
+res <- getURL("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", .opts=list(followlocation = TRUE))
+cat(res)`,
+
+  "ruby": `require "uri"
+require "net/http"
+
+url = URI("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
+
+https = Net::HTTP.new(url.host, url.port)
+https.use_ssl = true
+
+request = Net::HTTP::Get.new(url)
+
+response = https.request(request)
+puts response.read_body
+`,
+
+  "rust-reqwest": `#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let client = reqwest::Client::builder()
+        .build()?;
+
+    let request = client.request(reqwest::Method::GET, "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
+
+    let response = request.send().await?;
+    let body = response.text().await?;
+
+    println!("{}", body);
+
+    Ok(())
+}`,
+
+  "shell-httpie": `http --follow --timeout 3600 GET 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'`,
+
+  "shell-wget": `wget --no-check-certificate --quiet \
+    --method GET \
+    --timeout=0 \
+    --header '' \
+    'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'`,
+
+  "swift-urlsession": `var request = URLRequest(url: URL(string: "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")!, timeoutInterval: Double.infinity)
+request.httpMethod = "GET"
+
+let task = URLSession.shared.dataTask(with: request) { data, response, error in 
+    guard let data = data else {
+        print(String(describing: error))
         return
-      }
-      res, err := client.Do(req)
-      if err != nil {
-        fmt.Println(err)
-        return
-      }
-      defer res.Body.Close()
-
-      body, err := ioutil.ReadAll(res.Body)
-      if err != nil {
-        fmt.Println(err)
-        return
-      }
-      fmt.Println(string(body))
-    }`,
-    "http": `GET /dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly HTTP/1.1
-    Host: analyzemydream-api.vercel.app`,
-    "java-okhttp": `OkHttpClient client = new OkHttpClient().newBuilder()
-      .build();
-    MediaType mediaType = MediaType.parse("text/plain");
-    RequestBody body = RequestBody.create(mediaType, "");
-    Request request = new Request.Builder()
-      .url("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
-      .method("GET", body)
-      .build();
-    Response response = client.newCall(request).execute();`,
-    "java-unirest": `Unirest.setTimeouts(0, 0);
-    HttpResponse<String> response = Unirest.get("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
-      .asString();
-    `,
-    "javascript-fetch": `const requestOptions = {
-      method: "GET",
-      redirect: "follow"
-    };
-
-    fetch("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", requestOptions)
-      .then((response) => response.text())
-      .then((result) => console.log(result))
-      .catch((error) => console.error(error));`,
-    "javascript-jquery": `var settings = {
-      "url": "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly",
-      "method": "GET",
-      "timeout": 0,
-    };
-
-    $.ajax(settings).done(function (response) {
-      console.log(response);
-    });`,
-    "javascript-xhr": `// WARNING: For GET requests, body is set to null by browsers.
-
-    var xhr = new XMLHttpRequest();
-    xhr.withCredentials = true;
-
-    xhr.addEventListener("readystatechange", function() {
-      if(this.readyState === 4) {
-        console.log(this.responseText);
-      }
-    });
-
-    xhr.open("GET", "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
-
-    xhr.send();`,
-    "kotlin-okhttp": `val client = OkHttpClient()
-    val request = Request.Builder()
-      .url("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
-      .build()
-    val response = client.newCall(request).execute()`,
-    "c-libcurl": `CURL *curl;
-    CURLcode res;
-    curl = curl_easy_init();
-    if(curl) {
-      curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "GET");
-      curl_easy_setopt(curl, CURLOPT_URL, "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
-      curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
-      curl_easy_setopt(curl, CURLOPT_DEFAULT_PROTOCOL, "https");
-      struct curl_slist *headers = NULL;
-      curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
-      res = curl_easy_perform(curl);
     }
-    curl_easy_cleanup(curl);
-    `,
-    "nodejs-axios": `const axios = require('axios');
+    print(String(data: data, encoding: .utf8)!)
+}
 
-    let config = {
-      method: 'get',
-      maxBodyLength: Infinity,
-      url: 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
-      headers: { }
-    };
+task.resume()
+`
+};
 
-    axios.request(config)
+
+   const codeExamples = {
+       "csharp-httpclient": `var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://analyzemydream-api.vercel.app/analyzer/{api_key}");
+var content = new StringContent("{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());`,
+
+"csharp-restsharp": `var options = new RestClientOptions("")
+{
+  MaxTimeout = -1,
+};
+var client = new RestClient(options);
+var request = new RestRequest("https://analyzemydream-api.vercel.app/analyzer/{api_key}", Method.Post);
+request.AddHeader("Content-Type", "application/json");
+var body = @"{
+  ""dream_description"": ""I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish."",
+  ""lang"": ""en""
+}";
+request.AddStringBody(body, DataFormat.Json);
+RestResponse response = await client.ExecuteAsync(request);
+Console.WriteLine(response.Content);`,
+
+"curl": `curl --location 'https://analyzemydream-api.vercel.app/analyzer/{api_key}' \
+--header 'Content-Type: application/json' \
+--data '{
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+}'`,
+
+"dart-dio": `var headers = {
+  'Content-Type': 'application/json'
+};
+var data = json.encode({
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+});
+var dio = Dio();
+var response = await dio.request(
+  'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
+  options: Options(
+    method: 'POST',
+    headers: headers,
+  ),
+  data: data,
+);
+
+if (response.statusCode == 200) {
+  print(json.encode(response.data));
+} else {
+  print(response.statusMessage);
+}`,
+
+"dart-http": `var headers = {
+  'Content-Type': 'application/json'
+};
+var request = http.Request('POST', Uri.parse('https://analyzemydream-api.vercel.app/analyzer/{api_key}'));
+request.body = json.encode({
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+});
+request.headers.addAll(headers);
+
+http.StreamedResponse response = await request.send();
+
+if (response.statusCode == 200) {
+  print(await response.stream.bytesToString());
+} else {
+  print(response.reasonPhrase);
+}`,
+
+"go-native": `package main
+
+import (
+  "fmt"
+  "strings"
+  "net/http"
+  "io/ioutil"
+)
+
+func main() {
+
+  url := "https://analyzemydream-api.vercel.app/analyzer/{api_key}"
+  method := "POST"
+
+  payload := strings.NewReader('{"dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.", "lang": "en"}')
+
+  client := &http.Client{}
+
+  req, err := http.NewRequest(method, url, payload)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  req.Header.Add("Content-Type", "application/json")
+
+  res, err := client.Do(req)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  defer res.Body.Close()
+
+  body, err := ioutil.ReadAll(res.Body)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  fmt.Println(string(body))
+}`,
+
+"java-okhttp": `OkHttpClient client = new OkHttpClient().newBuilder()
+  .build();
+MediaType mediaType = MediaType.parse("application/json");
+RequestBody body = RequestBody.create(mediaType, "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}");
+Request request = new Request.Builder()
+  .url("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
+  .method("POST", body)
+  .addHeader("Content-Type", "application/json")
+  .build();
+Response response = client.newCall(request).execute();`,
+
+"java-unirest": `Unirest.setTimeouts(0, 0);
+HttpResponse<String> response = Unirest.post("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
+  .header("Content-Type", "application/json")
+  .body("{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}")
+  .asString();`,
+
+"http": `POST /analyzer/{api_key} HTTP/1.1
+Host: analyzemydream-api.vercel.app
+Content-Type: application/json
+Content-Length: 123
+
+{
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+}`,
+
+"javascript-fetch": `const myHeaders = new Headers();
+myHeaders.append("Content-Type", "application/json");
+
+const raw = JSON.stringify({
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+});
+
+const requestOptions = {
+  method: "POST",
+  headers: myHeaders,
+  body: raw,
+  redirect: "follow"
+};
+
+fetch("https://analyzemydream-api.vercel.app/analyzer/{api_key}", requestOptions)
+  .then((response) => response.text())
+  .then((result) => console.log(result))
+  .catch((error) => console.error(error));`,
+
+"javascript-jquery": `var settings = {
+  "url": "https://analyzemydream-api.vercel.app/analyzer/{api_key}",
+  "method": "POST",
+  "timeout": 0,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "data": JSON.stringify({
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+  }),
+};
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});`,
+
+"javascript-xhr": `var data = JSON.stringify({
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+});
+
+var xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function() {
+  if(this.readyState === 4) {
+    console.log(this.responseText);
+  }
+});
+
+xhr.open("POST", "https://analyzemydream-api.vercel.app/analyzer/{api_key}");
+xhr.setRequestHeader("Content-Type", "application/json");
+
+xhr.send(data);`,
+
+"kotlin-okhttp": `val client = OkHttpClient()
+val mediaType = "application/json".toMediaType()
+val body = "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}".toRequestBody(mediaType)
+val request = Request.Builder()
+  .url("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
+  .post(body)
+  .addHeader("Content-Type", "application/json")
+  .build()
+val response = client.newCall(request).execute()`,
+
+"c-libcurl": `CURL *curl;
+CURLcode res;
+curl = curl_easy_init();
+if(curl) {
+  curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "POST");
+  curl_easy_setopt(curl, CURLOPT_URL, "https://analyzemydream-api.vercel.app/analyzer/{api_key}");
+  curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
+  curl_easy_setopt(curl, CURLOPT_DEFAULT_PROTOCOL, "https");
+  struct curl_slist *headers = NULL;
+  headers = curl_slist_append(headers, "Content-Type: application/json");
+  curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+  const char *data = "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}";
+  curl_easy_setopt(curl, CURLOPT_POSTFIELDS, data);
+  res = curl_easy_perform(curl);
+  curl_slist_free_all(headers);
+}
+curl_easy_cleanup(curl);`,
+
+"nodejs-axios": `const axios = require('axios');
+let data = JSON.stringify({
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+});
+
+let config = {
+  method: 'post',
+  maxBodyLength: Infinity,
+  url: 'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
+  headers: { 
+    'Content-Type': 'application/json'
+  },
+  data: data
+};
+
+axios.request(config)
+  .then((response) => {
+    console.log(JSON.stringify(response.data));
+  })
+  .catch((error) => {
+    console.log(error);
+  });`,
+
+"nodejs-native": `var https = require('follow-redirects').https;
+var fs = require('fs');
+
+var options = {
+  'method': 'POST',
+  'hostname': 'analyzemydream-api.vercel.app',
+  'path': '/analyzer/{api_key}',
+  'headers': {
+    'Content-Type': 'application/json'
+  },
+  'maxRedirects': 20
+};
+
+var req = https.request(options, function (res) {
+  var chunks = [];
+
+  res.on("data", function (chunk) {
+    chunks.push(chunk);
+  });
+
+  res.on("end", function (chunk) {
+    var body = Buffer.concat(chunks);
+    console.log(body.toString());
+  });
+
+  res.on("error", function (error) {
+    console.error(error);
+  });
+});
+
+var postData = JSON.stringify({
+  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  "lang": "en"
+});
+
+req.write(postData);
+req.end();`,
+
+"nodejs-request": `var request = require('request');
+var options = {
+  'method': 'POST',
+  'url': 'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
+  'headers': {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify({
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+  })
+};
+request(options, function (error, response) {
+  if (error) throw new Error(error);
+  console.log(response.body);
+});`,
+
+"nodejs-unirest": `var unirest = require('unirest');
+var req = unirest('POST', 'https://analyzemydream-api.vercel.app/analyzer/{api_key}')
+  .headers({
+    'Content-Type': 'application/json'
+  })
+  .send(JSON.stringify({
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+  }))
+  .end(function (res) { 
+    if (res.error) throw new Error(res.error); 
+    console.log(res.raw_body);
+  });`,
+
+"objectivec-nsurlsession": `#import <Foundation/Foundation.h>
+
+dispatch_semaphore_t sema = dispatch_semaphore_create(0);
+
+NSURL *url = [NSURL URLWithString:@"https://analyzemydream-api.vercel.app/analyzer/{api_key}"];
+NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:url];
+[request setHTTPMethod:@"POST"];
+[request setValue:@"application/json" forHTTPHeaderField:@"Content-Type"];
+
+NSDictionary *jsonBodyDict = @{
+  @"dream_description": @"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+  @"lang": @"en"
+};
+NSError *error;
+NSData *jsonData = [NSJSONSerialization dataWithJSONObject:jsonBodyDict options:0 error:&error];
+[request setHTTPBody:jsonData];
+
+NSURLSession *session = [NSURLSession sharedSession];
+NSURLSessionDataTask *task = [session dataTaskWithRequest:request completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
+  if (error) {
+    NSLog(@"Error: %@", error);
+  } else {
+    NSString *responseString = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
+    NSLog(@"%@", responseString);
+  }
+  dispatch_semaphore_signal(sema);
+}];
+
+[task resume];
+dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`
+,
+"objectivec-nsurlsession": `#import <Foundation/Foundation.h>
+
+dispatch_semaphore_t sema = dispatch_semaphore_create(0);
+
+NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"https://analyzemydream-api.vercel.app/analyzer/{api_key}"]
+    cachePolicy:NSURLRequestUseProtocolCachePolicy
+    timeoutInterval:10.0];
+NSDictionary *headers = @{
+    @"Content-Type": @"application/json"
+};
+
+[request setAllHTTPHeaderFields:headers];
+NSData *postData = [[NSData alloc] initWithData:[@"{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}" dataUsingEncoding:NSUTF8StringEncoding]];
+[request setHTTPBody:postData];
+
+[request setHTTPMethod:@"POST"];
+
+NSURLSession *session = [NSURLSession sharedSession];
+NSURLSessionDataTask *dataTask = [session dataTaskWithRequest:request
+    completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
+        if (error) {
+            NSLog(@"%@", error);
+            dispatch_semaphore_signal(sema);
+        } else {
+            NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
+            NSError *parseError = nil;
+            NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:&parseError];
+            NSLog(@"%@",responseDictionary);
+            dispatch_semaphore_signal(sema);
+        }
+    }];
+[dataTask resume];
+dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`,
+
+"php-curl": `<?php
+
+$curl = curl_init();
+
+curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'POST',
+    CURLOPT_POSTFIELDS => '{
+        "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+        "lang": "en"
+    }',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+));
+
+$response = curl_exec($curl);
+
+curl_close($curl);
+echo $response;`,
+
+"php-guzzle": `<?php
+$client = new Client();
+$headers = [
+    'Content-Type' => 'application/json'
+];
+$body = '{
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+}';
+$request = new Request('POST', 'https://analyzemydream-api.vercel.app/analyzer/{api_key}', $headers, $body);
+$res = $client->sendAsync($request)->wait();
+echo $res->getBody();`,
+
+"php-http-request2": `<?php
+require_once 'HTTP/Request2.php';
+$request = new HTTP_Request2();
+$request->setUrl('https://analyzemydream-api.vercel.app/analyzer/{api_key}');
+$request->setMethod(HTTP_Request2::METHOD_POST);
+$request->setConfig(array(
+    'follow_redirects' => TRUE
+));
+$request->setHeader(array(
+    'Content-Type' => 'application/json'
+));
+$request->setBody('{
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+}');
+try {
+    $response = $request->send();
+    if ($response->getStatus() == 200) {
+        echo $response->getBody();
+    } else {
+        echo 'Unexpected HTTP status: ' . $response->getStatus() . ' ' . $response->getReasonPhrase();
+    }
+} catch(HTTP_Request2_Exception $e) {
+    echo 'Error: ' . $e->getMessage();
+}`,
+
+"php-pecl-http": `<?php
+$client = new http\Client;
+$request = new http\Client\Request;
+$request->setRequestUrl('https://analyzemydream-api.vercel.app/analyzer/{api_key}');
+$request->setRequestMethod('POST');
+$body = new http\Message\Body;
+$body->append('{
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+}');
+$request->setBody($body);
+$request->setOptions(array());
+$request->setHeaders(array(
+    'Content-Type' => 'application/json'
+));
+$client->enqueue($request)->send();
+$response = $client->getResponse();
+echo $response->getBody();`,
+
+"powershell-restmethod": `$headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
+$headers.Add("Content-Type", "application/json")
+
+$body = @"
+{
+    '"dream_description'": '"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.'",
+    '"lang'": '"en'"
+}
+"@
+
+$response = Invoke-RestMethod 'https://analyzemydream-api.vercel.app/analyzer/{api_key}' -Method 'POST' -Headers $headers -Body $body
+$response | ConvertTo-Json`,
+
+"python-httpclient": `import http.client
+import json
+
+conn = http.client.HTTPSConnection("analyzemydream-api.vercel.app")
+payload = json.dumps({
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+})
+headers = {
+    'Content-Type': 'application/json'
+}
+conn.request("POST", "/analyzer/{api_key}", payload, headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))`,
+
+"python-requests": `import requests
+import json
+
+url = "https://analyzemydream-api.vercel.app/analyzer/{api_key}"
+
+payload = json.dumps({
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+})
+headers = {
+    'Content-Type': 'application/json'
+}
+
+response = requests.request("POST", url, headers=headers, data=payload)
+
+print(response.text)`,
+
+"r-httr": `library(httr)
+
+headers = c(
+    'Content-Type' = 'application/json'
+)
+
+body = '{
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+}';
+
+res <- VERB("POST", url = "https://analyzemydream-api.vercel.app/analyzer/{api_key}", body = body, add_headers(headers))
+
+cat(content(res, 'text'))`,
+
+"r-rcurl": `library(RCurl)
+headers = c(
+    "Content-Type" = "application/json"
+)
+params = "{
+    \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",
+    \"lang\": \"en\"
+}"
+res <- postForm("https://analyzemydream-api.vercel.app/analyzer/{api_key}", .opts=list(postfields = params, httpheader = headers, followlocation = TRUE), style = "httppost")
+cat(res)`,
+
+"ruby": `require "uri"
+require "json"
+require "net/http"
+
+url = URI("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
+
+https = Net::HTTP.new(url.host, url.port)
+https.use_ssl = true
+
+request = Net::HTTP::Post.new(url)
+request["Content-Type"] = "application/json"
+request.body = JSON.dump({
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+})
+
+response = https.request(request)
+puts response.read_body`,
+
+"rust-reqwest": `#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let client = reqwest::Client::builder()
+        .build()?;
+
+    let mut headers = reqwest::header::HeaderMap::new();
+    headers.insert("Content-Type", "application/json".parse()?);
+
+    let data = r#"{
+        "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+        "lang": "en"
+    }"#;
+
+    let json: serde_json::Value = serde_json::from_str(&data)?;
+
+    let request = client.request(reqwest::Method::POST, "https://analyzemydream-api.vercel.app/analyzer/{api_key}")
+        .headers(headers)
+        .json(&json);
+
+    let response = request.send().await?;
+    let body = response.text().await?;
+
+    println!("{}", body);
+
+    Ok(())
+}`,
+
+"shell-httpie": `printf '{
+    "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+    "lang": "en"
+}' | http --follow --timeout 3600 POST 'https://analyzemydream-api.vercel.app/analyzer/{api_key}' \
+    Content-Type:'application/json'`,
+ "shell-wget": `wget --no-check-certificate --quiet \
+    --method POST \
+    --timeout=0 \
+    --header 'Content-Type: application/json' \
+    --body-data '{
+        "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
+        "lang": "en"
+    }' \
+    'https://analyzemydream-api.vercel.app/analyzer/{api_key}'`,
+
+"swift-urlsession": `let parameters = "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}"
+let postData = parameters.data(using: .utf8)
+
+var request = URLRequest(url: URL(string: "https://analyzemydream-api.vercel.app/analyzer/{api_key}")!, timeoutInterval: Double.infinity)
+request.addValue("application/json", forHTTPHeaderField: "Content-Type")
+
+request.httpMethod = "POST"
+request.httpBody = postData
+
+let task = URLSession.shared.dataTask(with: request) { data, response, error in 
+    guard let data = data else {
+        print(String(describing: error))
+        return
+    }
+    print(String(data: data, encoding: .utf8)!)
+}
+
+task.resume()
+`
+}
+
+const codeExamplesAdvanced = {
+"csharp-httpclient": `var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}");
+var content = new StringContent("{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());`,
+
+"csharp-restsharp": `var options = new RestClientOptions("")
+{
+  MaxTimeout = -1,
+};
+var client = new RestClient(options);
+var request = new RestRequest("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", Method.Post);
+request.AddHeader("Content-Type", "application/json");
+var body = @"{" + "\n" +
+@"  ""dream_description"": ""I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.""," + "\n" +
+@"  ""lang"": ""en""," + "\n" +
+@"  ""dream_type"": ""Lucid""," + "\n" +
+@"  ""dream_importance"": ""Very Important""," + "\n" +
+@"  ""main_emotions"": ""N/A""," + "\n" +
+@"  ""dream_context"": ""Unknown""," + "\n" +
+@"  ""dream_state"": ""Refreshed""," + "\n" +
+@"  ""dream_frequency"": ""Always""," + "\n" +
+@"  ""dream_expectations"": ""Personal Insight""" + "\n" +
+@"}" + "\n" +
+@"";
+request.AddStringBody(body, DataFormat.Json);
+RestResponse response = await client.ExecuteAsync(request);
+Console.WriteLine(response.Content);`,
+
+"curl": `curl --location 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}' \
+--header 'Content-Type: application/json' \
+--data '{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}'`,
+
+"dart-dio": `var headers = {
+  'Content-Type': 'application/json'
+};
+var data = json.encode({
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+});
+var dio = Dio();
+var response = await dio.request(
+  'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
+  options: Options(
+    method: 'POST',
+    headers: headers,
+  ),
+  data: data,
+);
+
+if (response.statusCode == 200) {
+  print(json.encode(response.data));
+}
+else {
+  print(response.statusMessage);
+}`,
+
+"dart-http": `var headers = {
+  'Content-Type': 'application/json'
+};
+var request = http.Request('POST', Uri.parse('https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}'));
+request.body = json.encode({
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+});
+request.headers.addAll(headers);
+
+http.StreamedResponse response = await request.send();
+
+if (response.statusCode == 200) {
+  print(await response.stream.bytesToString());
+}
+else {
+  print(response.reasonPhrase);
+}`,
+
+"go-native": `package main
+
+import (
+  "fmt"
+  "strings"
+  "net/http"
+  "io/ioutil"
+)
+
+func main() {
+
+  url := "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}"
+  method := "POST"
+
+  payload := strings.NewReader(` + "`" + `{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}' + "'")
+
+  client := &http.Client{}
+  req, err := http.NewRequest(method, url, payload)
+
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  req.Header.Add("Content-Type", "application/json")
+
+  res, err := client.Do(req)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  defer res.Body.Close()
+
+  body, err := ioutil.ReadAll(res.Body)
+  if err != nil {
+    fmt.Println(err)
+    return
+  }
+  fmt.Println(string(body))
+}',
+
+"http": 'POST /advanced-analyzer/{api_key} HTTP/1.1
+Host: analyzemydream-api.vercel.app
+Content-Type: application/json
+Content-Length: 789
+
+{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}`,
+"java-okhttp": `OkHttpClient client = new OkHttpClient().newBuilder()
+    .build();
+  MediaType mediaType = MediaType.parse("application/json");
+  RequestBody body = RequestBody.create(mediaType, "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n");
+  Request request = new Request.Builder()
+    .url("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
+    .method("POST", body)
+    .addHeader("Content-Type", "application/json")
+    .build();
+  Response response = client.newCall(request).execute();`,
+  
+  "java-unirest": `Unirest.setTimeouts(0, 0);
+  HttpResponse<String> response = Unirest.post("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
+    .header("Content-Type", "application/json")
+    .body("{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n")
+    .asString();`,
+  
+  "javascript-fetch": `const myHeaders = new Headers();
+  myHeaders.append("Content-Type", "application/json");
+
+  const raw = JSON.stringify({
+    "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+    "lang": "en",
+    "dream_type": "Lucid",
+    "dream_importance": "Very Important",
+    "main_emotions": "N/A",
+    "dream_context": "Unknown",
+    "dream_state": "Refreshed",
+    "dream_frequency": "Always",
+    "dream_expectations": "Personal Insight"
+  });
+
+  const requestOptions = {
+    method: "POST",
+    headers: myHeaders,
+    body: raw,
+    redirect: "follow"
+  };
+
+  fetch("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", requestOptions)
+    .then((response) => response.text())
+    .then((result) => console.log(result))
+    .catch((error) => console.error(error));`,
+  
+  "javascript-jquery": `var settings = {
+    "url": "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}",
+    "method": "POST",
+    "timeout": 0,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "data": JSON.stringify({
+      "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+      "lang": "en",
+      "dream_type": "Lucid",
+      "dream_importance": "Very Important",
+      "main_emotions": "N/A",
+      "dream_context": "Unknown",
+      "dream_state": "Refreshed",
+      "dream_frequency": "Always",
+      "dream_expectations": "Personal Insight"
+    })
+  };
+
+  $.ajax(settings).done(function (response) {
+    console.log(response);
+  });`,
+  
+  "javascript-xhr": `// WARNING: For POST requests, body is set to null by browsers.
+  var data = JSON.stringify({
+    "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+    "lang": "en",
+    "dream_type": "Lucid",
+    "dream_importance": "Very Important",
+    "main_emotions": "N/A",
+    "dream_context": "Unknown",
+    "dream_state": "Refreshed",
+    "dream_frequency": "Always",
+    "dream_expectations": "Personal Insight"
+  });
+
+  var xhr = new XMLHttpRequest();
+  xhr.withCredentials = true;
+
+  xhr.addEventListener("readystatechange", function() {
+    if(this.readyState === 4) {
+      console.log(this.responseText);
+    }
+  });
+
+  xhr.open("POST", "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}");
+  xhr.setRequestHeader("Content-Type", "application/json");
+
+  xhr.send(data);`,
+  
+  "kotlin-okhttp": `val client = OkHttpClient()
+  val mediaType = "application/json".toMediaType()
+  val body = "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n".toRequestBody(mediaType)
+  val request = Request.Builder()
+    .url("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
+    .post(body)
+    .addHeader("Content-Type", "application/json")
+    .build()
+  val response = client.newCall(request).execute()`,
+ "c-libcurl": `CURL *curl;
+  CURLcode res;
+  curl = curl_easy_init();
+  if(curl) {
+    curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "POST");
+    curl_easy_setopt(curl, CURLOPT_URL, "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}");
+    curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
+    curl_easy_setopt(curl, CURLOPT_DEFAULT_PROTOCOL, "https");
+    struct curl_slist *headers = NULL;
+    headers = curl_slist_append(headers, "Content-Type: application/json");
+    curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+    const char *data = "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n";
+    curl_easy_setopt(curl, CURLOPT_POSTFIELDS, data);
+    res = curl_easy_perform(curl);
+    curl_slist_free_all(headers);
+  }
+  curl_easy_cleanup(curl);`,
+  
+  "nodejs-axios": `const axios = require('axios');
+  let data = JSON.stringify({
+    "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+    "lang": "en",
+    "dream_type": "Lucid",
+    "dream_importance": "Very Important",
+    "main_emotions": "N/A",
+    "dream_context": "Unknown",
+    "dream_state": "Refreshed",
+    "dream_frequency": "Always",
+    "dream_expectations": "Personal Insight"
+  });
+
+  let config = {
+    method: 'post',
+    maxBodyLength: Infinity,
+    url: 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
+    headers: { 
+      'Content-Type': 'application/json'
+    },
+    data: data
+  };
+
+  axios.request(config)
     .then((response) => {
       console.log(JSON.stringify(response.data));
     })
     .catch((error) => {
       console.log(error);
-    });
-    `,
-    "nodejs-native": `var https = require('follow-redirects').https;
-      var fs = require('fs');
+    });`,
 
-      var options = {
-        'method': 'GET',
-        'hostname': 'analyzemydream-api.vercel.app',
-        'path': '/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
-        'headers': {
-        },
-        'maxRedirects': 20
-      };
+  "nodejs-native": `var https = require('follow-redirects').https;
+  var fs = require('fs');
 
-      var req = https.request(options, function (res) {
-        var chunks = [];
-
-        res.on("data", function (chunk) {
-          chunks.push(chunk);
-        });
-
-        res.on("end", function (chunk) {
-          var body = Buffer.concat(chunks);
-          console.log(body.toString());
-        });
-
-        res.on("error", function (error) {
-          console.error(error);
-        });
-      });
-
-      req.end();`,
-    "nodejs-request": `var request = require('request');
-      var options = {
-        'method': 'GET',
-        'url': 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
-        'headers': {
-        }
-      };
-      request(options, function (error, response) {
-        if (error) throw new Error(error);
-        console.log(response.body);
-      });
-      `,
-    "nodejs-unirest": `var unirest = require('unirest');
-    var req = unirest('GET', 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly')
-      .end(function (res) { 
-        if (res.error) throw new Error(res.error); 
-        console.log(res.raw_body);
-      });
-    `,
-    "objectivec-nsurlsession": `#import <Foundation/Foundation.h>
-
-    dispatch_semaphore_t sema = dispatch_semaphore_create(0);
-
-    NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly"]
-      cachePolicy:NSURLRequestUseProtocolCachePolicy
-      timeoutInterval:10.0];
-
-    [request setHTTPMethod:@"GET"];
-
-    NSURLSession *session = [NSURLSession sharedSession];
-    NSURLSessionDataTask *dataTask = [session dataTaskWithRequest:request
-    completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
-      if (error) {
-        NSLog(@"%@", error);
-        dispatch_semaphore_signal(sema);
-      } else {
-        NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
-        NSError *parseError = nil;
-        NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:&parseError];
-        NSLog(@"%@",responseDictionary);
-        dispatch_semaphore_signal(sema);
-      }
-    }];
-    [dataTask resume];
-    dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`,
-    
-    "php-curl": `<?php
-
-    $curl = curl_init();
-
-    curl_setopt_array($curl, array(
-      CURLOPT_URL => 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly',
-      CURLOPT_RETURNTRANSFER => true,
-      CURLOPT_ENCODING => '',
-      CURLOPT_MAXREDIRS => 10,
-      CURLOPT_TIMEOUT => 0,
-      CURLOPT_FOLLOWLOCATION => true,
-      CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-      CURLOPT_CUSTOMREQUEST => 'GET',
-    ));
-
-    $response = curl_exec($curl);
-
-    curl_close($curl);
-    echo $response;
-    `,
-    "php-guzzle": `<?php
-    $client = new Client();
-    $request = new Request('GET', 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly');
-    $res = $client->sendAsync($request)->wait();
-    echo $res->getBody();
-    `,
-    "php-http-request2": `<?php
-    require_once 'HTTP/Request2.php';
-    $request = new HTTP_Request2();
-    $request->setUrl('https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly');
-    $request->setMethod(HTTP_Request2::METHOD_GET);
-    $request->setConfig(array(
-      'follow_redirects' => TRUE
-    ));
-    try {
-      $response = $request->send();
-      if ($response->getStatus() == 200) {
-        echo $response->getBody();
-      }
-      else {
-        echo 'Unexpected HTTP status: ' . $response->getStatus() . ' ' .
-        $response->getReasonPhrase();
-      }
-    }
-    catch(HTTP_Request2_Exception $e) {
-      echo 'Error: ' . $e->getMessage();
-    }`,
-    "php-pecl-http": `<?php
-    $client = new http\Client;
-    $request = new http\Client\Request;
-    $request->setRequestUrl('https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly');
-    $request->setRequestMethod('GET');
-    $request->setOptions(array());
-
-    $client->enqueue($request)->send();
-    $response = $client->getResponse();
-    echo $response->getBody();
-    `,
-    "powershell-restmethod": `$response = Invoke-RestMethod 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly' -Method 'GET' -Headers $headers
-    $response | ConvertTo-Json`,
-    "python-httpclient": `import http.client
-
-    conn = http.client.HTTPSConnection("analyzemydream-api.vercel.app")
-    payload = ''
-    headers = {}
-    conn.request("GET", "/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", payload, headers)
-    res = conn.getresponse()
-    data = res.read()
-    print(data.decode("utf-8"))`,
-    "python-requests": `import requests
-
-    url = "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly"
-
-    payload = {}
-    headers = {}
-
-    response = requests.request("GET", url, headers=headers, data=payload)
-
-    print(response.text)
-    `,
-    "r-httr": `library(httr)
-
-      res <- VERB("GET", url = "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
-
-      cat(content(res, 'text'))`,
-    "r-rcurl": `library(RCurl)
-      res <- getURL("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly", .opts=list(followlocation = TRUE))
-      cat(res)`,
-    "ruby": `require "uri"
-      require "net/http"
-
-      url = URI("https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")
-
-      https = Net::HTTP.new(url.host, url.port)
-      https.use_ssl = true
-
-      request = Net::HTTP::Get.new(url)
-
-      response = https.request(request)
-      puts response.read_body
-      `,
-    "rust-reqwest": `#[tokio::main]
-    async fn main() -> Result<(), Box<dyn std::error::Error>> {
-        let client = reqwest::Client::builder()
-            .build()?;
-
-        let request = client.request(reqwest::Method::GET, "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly");
-
-        let response = request.send().await?;
-        let body = response.text().await?;
-
-        println!("{}", body);
-
-        Ok(())
-    }`,
-    "shell-httpie": `http --follow --timeout 3600 GET 'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'`,
-    "shell-wget": `wget --no-check-certificate --quiet \
-      --method GET \
-      --timeout=0 \
-      --header '' \
-      'https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly'`,
-    "swift-urlsession": `var request = URLRequest(url: URL(string: "https://analyzemydream-api.vercel.app/dream/{api_key}/english/activities/what-does-it-mean-to-dream-that-you-fly")!,timeoutInterval: Double.infinity)
-    request.httpMethod = "GET"
-
-    let task = URLSession.shared.dataTask(with: request) { data, response, error in 
-      guard let data = data else {
-        print(String(describing: error))
-        return
-      }
-      print(String(data: data, encoding: .utf8)!)
-    }
-
-    task.resume()
-    `,
+  var options = {
+    'method': 'POST',
+    'hostname': 'analyzemydream-api.vercel.app',
+    'path': '/advanced-analyzer/{api_key}',
+    'headers': {
+      'Content-Type': 'application/json'
+    },
+    'maxRedirects': 20
   };
 
-
-   const codeExamples = {
-       "csharp-httpclient": `var client = new HttpClient();
-   var request = new HttpRequestMessage(HttpMethod.Post, "https://analyzemydream-api.vercel.app/analyzer/{api_key}");
-   var content = new StringContent("{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}", null, "application/json");
-   request.Content = content;
-   var response = await client.SendAsync(request);
-   response.EnsureSuccessStatusCode();
-   Console.WriteLine(await response.Content.ReadAsStringAsync());`,
-               "csharp-restsharp": `var options = new RestClientOptions("")
-   {
-     MaxTimeout = -1,
-   };
-   var client = new RestClient(options);
-   var request = new RestRequest("https://analyzemydream-api.vercel.app/analyzer/{api_key}", Method.Post);
-   request.AddHeader("Content-Type", "application/json");
-   var body = @"{" + "\n" +
-   @"  ""dream_description"": ""I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.""," + "\n" +
-   @"  ""lang"": ""en""" + "\n" +
-   @"}";
-   request.AddStringBody(body, DataFormat.Json);
-   RestResponse response = await client.ExecuteAsync(request);
-   Console.WriteLine(response.Content);`,
-               "curl": `curl --location 'https://analyzemydream-api.vercel.app/analyzer/{api_key}' \
-   --header 'Content-Type: application/json' \
-   --data '{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }'`,
-               "dart-dio": `var headers = {
-     'Content-Type': 'application/json'
-   };
-   var data = json.encode({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   });
-   var dio = Dio();
-   var response = await dio.request(
-     'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
-     options: Options(
-       method: 'POST',
-       headers: headers,
-     ),
-     data: data,
-   );
-
-   if (response.statusCode == 200) {
-     print(json.encode(response.data));
-   }
-   else {
-     print(response.statusMessage);
-   }`,
-               "dart-http": `var headers = {
-     'Content-Type': 'application/json'
-   };
-   var request = http.Request('POST', Uri.parse('https://analyzemydream-api.vercel.app/analyzer/{api_key}'));
-   request.body = json.encode({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   });
-   request.headers.addAll(headers);
-
-   http.StreamedResponse response = await request.send();
-
-   if (response.statusCode == 200) {
-     print(await response.stream.bytesToString());
-   }
-   else {
-     print(response.reasonPhrase);
-   }`,
-
-     "go-native": "package main\n\nimport (\n  \"fmt\"\n  \"strings\"\n  \"net/http\"\n  \"io/ioutil\"\n)\n\nfunc main() {\n\n  url := \"https://analyzemydream-api.vercel.app/analyzer/{api_key}\"\n  method := \"POST\"\n\n  payload := strings.NewReader(`{\"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\", \"lang\": \"en\"}`)\n\n  client := &http.Client{}\n\n  req, err := http.NewRequest(method, url, payload)\n  if err != nil {\n    fmt.Println(err)\n    return\n  }\n  req.Header.Add(\"Content-Type\", \"application/json\")\n\n  res, err := client.Do(req)\n  if err != nil {\n    fmt.Println(err)\n    return\n  }\n  defer res.Body.Close()\n\n  body, err := ioutil.ReadAll(res.Body)\n  if err != nil {\n    fmt.Println(err)\n    return\n  }\n  fmt.Println(string(body))\n}\n"
-   ,
-   "java-okhttp": `OkHttpClient client = new OkHttpClient().newBuilder()
-     .build();
-   MediaType mediaType = MediaType.parse("application/json");
-   RequestBody body = RequestBody.create(mediaType, "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}");
-   Request request = new Request.Builder()
-     .url("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
-     .method("POST", body)
-     .addHeader("Content-Type", "application/json")
-     .build();
-   Response response = client.newCall(request).execute();`,
-               "java-unirest": `Unirest.setTimeouts(0, 0);
-   HttpResponse<String> response = Unirest.post("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
-     .header("Content-Type", "application/json")
-     .body("{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}")
-     .asString();
-   `,
-   "http": `POST /analyzer/{api_key} HTTP/1.1
-   Host: analyzemydream-api.vercel.app
-   Content-Type: application/json
-   Content-Length: 123
-
-   {
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }`,
-   "javascript-fetch": `const myHeaders = new Headers();
-   myHeaders.append("Content-Type", "application/json");
-
-   const raw = JSON.stringify({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   });
-
-   const requestOptions = {
-     method: "POST",
-     headers: myHeaders,
-     body: raw,
-     redirect: "follow"
-   };
-
-   fetch("https://analyzemydream-api.vercel.app/analyzer/{api_key}", requestOptions)
-     .then((response) => response.text())
-     .then((result) => console.log(result))
-     .catch((error) => console.error(error));`,
-     "javascript-jquery": `var settings = {
-     "url": "https://analyzemydream-api.vercel.app/analyzer/{api_key}",
-     "method": "POST",
-     "timeout": 0,
-     "headers": {
-       "Content-Type": "application/json"
-     },
-     "data": JSON.stringify({
-       "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-       "lang": "en"
-     }),
-   };
-
-   $.ajax(settings).done(function (response) {
-     console.log(response);
-   });`,
-               "javascript-xhr": `var data = JSON.stringify({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   });
-
-   var xhr = new XMLHttpRequest();
-   xhr.withCredentials = true;
-
-   xhr.addEventListener("readystatechange", function() {
-     if(this.readyState === 4) {
-       console.log(this.responseText);
-     }
-   });
-
-   xhr.open("POST", "https://analyzemydream-api.vercel.app/analyzer/{api_key}");
-   xhr.setRequestHeader("Content-Type", "application/json");
-
-   xhr.send(data);`,
-               "kotlin-okhttp": `val client = OkHttpClient()
-   val mediaType = "application/json".toMediaType()
-   val body = "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}".toRequestBody(mediaType)
-   val request = Request.Builder()
-     .url("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
-     .post(body)
-     .addHeader("Content-Type", "application/json")
-     .build()
-   val response = client.newCall(request).execute()`,
-               "c-libcurl": `CURL *curl;
-   CURLcode res;
-   curl = curl_easy_init();
-   if(curl) {
-     curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "POST");
-     curl_easy_setopt(curl, CURLOPT_URL, "https://analyzemydream-api.vercel.app/analyzer/{api_key}");
-     curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
-     curl_easy_setopt(curl, CURLOPT_DEFAULT_PROTOCOL, "https");
-     struct curl_slist *headers = NULL;
-     headers = curl_slist_append(headers, "Content-Type: application/json");
-     curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
-     const char *data = "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}";
-     curl_easy_setopt(curl, CURLOPT_POSTFIELDS, data);
-     res = curl_easy_perform(curl);
-     curl_slist_free_all(headers);
-   }
-   curl_easy_cleanup(curl);
-   `,
-               "nodejs-axios": `const axios = require('axios');
-   let data = JSON.stringify({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   });
-
-   let config = {
-     method: 'post',
-     maxBodyLength: Infinity,
-     url: 'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
-     headers: { 
-       'Content-Type': 'application/json'
-     },
-     data : data
-   };
-
-   axios.request(config)
-   .then((response) => {
-     console.log(JSON.stringify(response.data));
-   })
-   .catch((error) => {
-     console.log(error);
-   });
-   `,
-   "nodejs-native": `var https = require('follow-redirects').https;
-   var fs = require('fs');
-
-   var options = {
-     'method': 'POST',
-     'hostname': 'analyzemydream-api.vercel.app',
-     'path': '/analyzer/{api_key}',
-     'headers': {
-       'Content-Type': 'application/json'
-     },
-     'maxRedirects': 20
-   };
-
-   var req = https.request(options, function (res) {
-     var chunks = [];
-
-     res.on("data", function (chunk) {
-       chunks.push(chunk);
-     });
-
-     res.on("end", function (chunk) {
-       var body = Buffer.concat(chunks);
-       console.log(body.toString());
-     });
-
-     res.on("error", function (error) {
-       console.error(error);
-     });
-   });
-
-   var postData = JSON.stringify({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   });
-
-   req.write(postData);
-
-   req.end();
-   `,
-               "nodejs-request": `var request = require('request');
-   var options = {
-     'method': 'POST',
-     'url': 'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
-     'headers': {
-       'Content-Type': 'application/json'
-     },
-     body: JSON.stringify({
-       "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-       "lang": "en"
-     })
-
-   };
-   request(options, function (error, response) {
-     if (error) throw new Error(error);
-     console.log(response.body);
-   });
-   `,
-               "nodejs-unirest": `var unirest = require('unirest');
-   var req = unirest('POST', 'https://analyzemydream-api.vercel.app/analyzer/{api_key}')
-     .headers({
-       'Content-Type': 'application/json'
-     })
-     .send(JSON.stringify({
-       "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-       "lang": "en"
-     }))
-     .end(function (res) { 
-       if (res.error) throw new Error(res.error); 
-       console.log(res.raw_body);
-     });
-   `,
-               "objectivec-nsurlsession": `#import <Foundation/Foundation.h>
-
-   dispatch_semaphore_t sema = dispatch_semaphore_create(0);
-
-   NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"https://analyzemydream-api.vercel.app/analyzer/{api_key}"]
-     cachePolicy:NSURLRequestUseProtocolCachePolicy
-     timeoutInterval:10.0];
-   NSDictionary *headers = @{
-     @"Content-Type": @"application/json"
-   };
-
-   [request setAllHTTPHeaderFields:headers];
-   NSData *postData = [[NSData alloc] initWithData:[@"{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}" dataUsingEncoding:NSUTF8StringEncoding]];
-   [request setHTTPBody:postData];
-
-   [request setHTTPMethod:@"POST"];
-
-   NSURLSession *session = [NSURLSession sharedSession];
-   NSURLSessionDataTask *dataTask = [session dataTaskWithRequest:request
-   completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
-     if (error) {
-       NSLog(@"%@", error);
-       dispatch_semaphore_signal(sema);
-     } else {
-       NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
-       NSError *parseError = nil;
-       NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:&parseError];
-       NSLog(@"%@",responseDictionary);
-       dispatch_semaphore_signal(sema);
-     }
-   }];
-   [dataTask resume];
-   dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`,
-              
-               "php-curl": `<?php
-
-   $curl = curl_init();
-
-   curl_setopt_array($curl, array(
-     CURLOPT_URL => 'https://analyzemydream-api.vercel.app/analyzer/{api_key}',
-     CURLOPT_RETURNTRANSFER => true,
-     CURLOPT_ENCODING => '',
-     CURLOPT_MAXREDIRS => 10,
-     CURLOPT_TIMEOUT => 0,
-     CURLOPT_FOLLOWLOCATION => true,
-     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-     CURLOPT_CUSTOMREQUEST => 'POST',
-     CURLOPT_POSTFIELDS =>'{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }',
-     CURLOPT_HTTPHEADER => array(
-       'Content-Type: application/json'
-     ),
-   ));
-
-   $response = curl_exec($curl);
-
-   curl_close($curl);
-   echo $response;
-   `,
-               "php-guzzle": `<?php
-   $client = new Client();
-   $headers = [
-     'Content-Type' => 'application/json'
-   ];
-   $body = '{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }';
-   $request = new Request('POST', 'https://analyzemydream-api.vercel.app/analyzer/{api_key}', $headers, $body);
-   $res = $client->sendAsync($request)->wait();
-   echo $res->getBody();
-   `,
-               "php-http-request2": `<?php
-   require_once 'HTTP/Request2.php';
-   $request = new HTTP_Request2();
-   $request->setUrl('https://analyzemydream-api.vercel.app/analyzer/{api_key}');
-   $request->setMethod(HTTP_Request2::METHOD_POST);
-   $request->setConfig(array(
-     'follow_redirects' => TRUE
-   ));
-   $request->setHeader(array(
-     'Content-Type' => 'application/json'
-   ));
-   $request->setBody('{\n  "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",\n  "lang": "en"\n}');
-   try {
-     $response = $request->send();
-     if ($response->getStatus() == 200) {
-       echo $response->getBody();
-     }
-     else {
-       echo 'Unexpected HTTP status: ' . $response->getStatus() . ' ' .
-       $response->getReasonPhrase();
-     }
-   }
-   catch(HTTP_Request2_Exception $e) {
-     echo 'Error: ' . $e->getMessage();
-   }`,
-               "php-pecl-http": `<?php
-   $client = new http\Client;
-   $request = new http\Client\Request;
-   $request->setRequestUrl('https://analyzemydream-api.vercel.app/analyzer/{api_key}');
-   $request->setRequestMethod('POST');
-   $body = new http\Message\Body;
-   $body->append('{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }');
-   $request->setBody($body);
-   $request->setOptions(array());
-   $request->setHeaders(array(
-     'Content-Type' => 'application/json'
-   ));
-   $client->enqueue($request)->send();
-   $response = $client->getResponse();
-   echo $response->getBody();
-   `,
-               "powershell-restmethod": `$headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
-   $headers.Add("Content-Type", "application/json")
-
-   $body = @"
-   {
-     '"dream_description'": '"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.'",
-     '"lang'": '"en'"
-   }
-   "@
-
-   $response = Invoke-RestMethod 'https://analyzemydream-api.vercel.app/analyzer/{api_key}' -Method 'POST' -Headers $headers -Body $body
-   $response | ConvertTo-Json`,
-               "python-httpclient": `import http.client
-   import json
-
-   conn = http.client.HTTPSConnection("analyzemydream-api.vercel.app")
-   payload = json.dumps({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   })
-   headers = {
-     'Content-Type': 'application/json'
-   }
-   conn.request("POST", "/analyzer/{api_key}", payload, headers)
-   res = conn.getresponse()
-   data = res.read()
-   print(data.decode("utf-8"))`,
-   "python-requests": `import requests
-   import json
-
-   url = "https://analyzemydream-api.vercel.app/analyzer/{api_key}"
-
-   payload = json.dumps({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   })
-   headers = {
-     'Content-Type': 'application/json'
-   }
-
-   response = requests.request("POST", url, headers=headers, data=payload)
-
-   print(response.text)
-   `,
-               "r-httr": `library(httr)
-
-   headers = c(
-     'Content-Type' = 'application/json'
-   )
-
-   body = '{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }';
-
-   res <- VERB("POST", url = "https://analyzemydream-api.vercel.app/analyzer/{api_key}", body = body, add_headers(headers))
-
-   cat(content(res, 'text'))`,
-               "r-rcurl": `library(RCurl)
-   headers = c(
-     "Content-Type" = "application/json"
-   )
-   params = "{
-     \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",
-     \"lang\": \"en\"
-   }"
-   res <- postForm("https://analyzemydream-api.vercel.app/analyzer/{api_key}", .opts=list(postfields = params, httpheader = headers, followlocation = TRUE), style = "httppost")
-   cat(res)`,
-   "ruby": `require "uri"
-   require "json"
-   require "net/http"
-
-   url = URI("https://analyzemydream-api.vercel.app/analyzer/{api_key}")
-
-   https = Net::HTTP.new(url.host, url.port)
-   https.use_ssl = true
-
-   request = Net::HTTP::Post.new(url)
-   request["Content-Type"] = "application/json"
-   request.body = JSON.dump({
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   })
-
-   response = https.request(request)
-   puts response.read_body
-   `,
-               "rust-reqwest": `#[tokio::main]
-   async fn main() -> Result<(), Box<dyn std::error::Error>> {
-       let client = reqwest::Client::builder()
-           .build()?;
-
-       let mut headers = reqwest::header::HeaderMap::new();
-       headers.insert("Content-Type", "application/json".parse()?);
-
-       let data = r#"{
-       "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-       "lang": "en"
-   }"#;
-
-       let json: serde_json::Value = serde_json::from_str(&data)?;
-
-       let request = client.request(reqwest::Method::POST, "https://analyzemydream-api.vercel.app/analyzer/{api_key}")
-           .headers(headers)
-           .json(&json);
-
-       let response = request.send().await?;
-       let body = response.text().await?;
-
-       println!("{}", body);
-
-       Ok(())
-   }`,
-               "shell-httpie": `printf '{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }'| http  --follow --timeout 3600 POST 'https://analyzemydream-api.vercel.app/analyzer/{api_key}' \
-   Content-Type:'application/json'`,
-               "shell-wget": `wget --no-check-certificate --quiet \
-     --method POST \
-     --timeout=0 \
-     --header 'Content-Type: application/json' \
-     --body-data '{
-     "dream_description": "I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.",
-     "lang": "en"
-   }' \
-     'https://analyzemydream-api.vercel.app/analyzer/{api_key}'`,
-               "swift-urlsession": `let parameters = "{\n  \"dream_description\": \"I was swimming in a crystal-clear ocean, surrounded by vibrant, colorful fish.\",\n  \"lang\": \"en\"\n}"
-   let postData = parameters.data(using: .utf8)
-
-   var request = URLRequest(url: URL(string: "https://analyzemydream-api.vercel.app/analyzer/{api_key}")!,timeoutInterval: Double.infinity)
-   request.addValue("application/json", forHTTPHeaderField: "Content-Type")
-
-   request.httpMethod = "POST"
-   request.httpBody = postData
-
-   let task = URLSession.shared.dataTask(with: request) { data, response, error in 
-     guard let data = data else {
-       print(String(describing: error))
-       return
-     }
-     print(String(data: data, encoding: .utf8)!)
-   }
-
-   task.resume()
-`
-   }
-
-   const codeExamplesAdvanced = {
-      "csharp-httpclient": `var client = new HttpClient();
-      var request = new HttpRequestMessage(HttpMethod.Post, "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}");
-      var content = new StringContent("{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n", null, "application/json");
-      request.Content = content;
-      var response = await client.SendAsync(request);
-      response.EnsureSuccessStatusCode();
-      Console.WriteLine(await response.Content.ReadAsStringAsync());
-      `,
-      "csharp-restsharp": `var options = new RestClientOptions("")
-      {
-        MaxTimeout = -1,
-      };
-      var client = new RestClient(options);
-      var request = new RestRequest("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", Method.Post);
-      request.AddHeader("Content-Type", "application/json");
-      var body = @"{" + "\n" +
-      @"  ""dream_description"": ""I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.""," + "\n" +
-      @"  ""lang"": ""en""," + "\n" +
-      @"  ""dream_type"": ""Lucid""," + "\n" +
-      @"  ""dream_importance"": ""Very Important""," + "\n" +
-      @"  ""main_emotions"": ""N/A""," + "\n" +
-      @"  ""dream_context"": ""Unknown""," + "\n" +
-      @"  ""dream_state"": ""Refreshed""," + "\n" +
-      @"  ""dream_frequency"": ""Always""," + "\n" +
-      @"  ""dream_expectations"": ""Personal Insight""" + "\n" +
-      @"}" + "\n" +
-      @"";
-      request.AddStringBody(body, DataFormat.Json);
-      RestResponse response = await client.ExecuteAsync(request);
-      Console.WriteLine(response.Content);`,
-      "curl": `curl --location 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}' \
-      --header 'Content-Type: application/json' \
-      --data '{
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      }
-      '`,
-      "dart-dio": `var headers = {
-        'Content-Type': 'application/json'
-      };
-      var data = json.encode({
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      });
-      var dio = Dio();
-      var response = await dio.request(
-        'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
-        options: Options(
-          method: 'POST',
-          headers: headers,
-        ),
-        data: data,
-      );
-
-      if (response.statusCode == 200) {
-        print(json.encode(response.data));
-      }
-      else {
-        print(response.statusMessage);
-      }`,
-      "dart-http": `var headers = {
-        'Content-Type': 'application/json'
-      };
-      var request = http.Request('POST', Uri.parse('https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}'));
-      request.body = json.encode({
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      });
-      request.headers.addAll(headers);
-
-      http.StreamedResponse response = await request.send();
-
-      if (response.statusCode == 200) {
-        print(await response.stream.bytesToString());
-      }
-      else {
-        print(response.reasonPhrase);
-      }
-      `,
-      "go-native": `package main
-
-      import (
-        "fmt"
-        "strings"
-        "net/http"
-        "io/ioutil"
-      )
-
-      func main() {
-
-        url := "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}"
-        method := "POST"
-
-        payload := strings.NewReader('{
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      }
-      '')
-
-        client := &http.Client {
-        }
-        req, err := http.NewRequest(method, url, payload)
-
-        if err != nil {
-          fmt.Println(err)
-          return
-        }
-        req.Header.Add("Content-Type", "application/json")
-
-        res, err := client.Do(req)
-        if err != nil {
-          fmt.Println(err)
-          return
-        }
-        defer res.Body.Close()
-
-        body, err := ioutil.ReadAll(res.Body)
-        if err != nil {
-          fmt.Println(err)
-          return
-        }
-        fmt.Println(string(body))
-      }`,
-      "http": `POST /advanced-analyzer/{api_key} HTTP/1.1
-      Host: analyzemydream-api.vercel.app
-      Content-Type: application/json
-      Content-Length: 789
-
-      {
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      }`,
-      "java-okhttp": `OkHttpClient client = new OkHttpClient().newBuilder()
-              .build();
-            MediaType mediaType = MediaType.parse("application/json");
-            RequestBody body = RequestBody.create(mediaType, "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n");
-            Request request = new Request.Builder()
-              .url("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
-              .method("POST", body)
-              .addHeader("Content-Type", "application/json")
-              .build();
-            Response response = client.newCall(request).execute();`,
-            "java-unirest": `Unirest.setTimeouts(0, 0);
-      HttpResponse<String> response = Unirest.post("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
-        .header("Content-Type", "application/json")
-        .body("{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n")
-        .asString();
-      `,
-      "javascript-fetch": `const myHeaders = new Headers();
-      myHeaders.append("Content-Type", "application/json");
-
-      const raw = JSON.stringify({
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      });
-
-      const requestOptions = {
-        method: "POST",
-        headers: myHeaders,
-        body: raw,
-        redirect: "follow"
-      };
-
-      fetch("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", requestOptions)
-        .then((response) => response.text())
-        .then((result) => console.log(result))
-        .catch((error) => console.error(error));`,
-      "javascript-jquery": `var settings = {
-        "url": "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}",
-        "method": "POST",
-        "timeout": 0,
-        "headers": {
-          "Content-Type": "application/json"
-        },
-        "data": JSON.stringify({
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-        }),
-      };
-
-      $.ajax(settings).done(function (response) {
-        console.log(response);
-      });`,
-      "javascript-xhr": `// WARNING: For POST requests, body is set to null by browsers.
-        var data = JSON.stringify({
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-        });
-
-        var xhr = new XMLHttpRequest();
-        xhr.withCredentials = true;
-
-        xhr.addEventListener("readystatechange", function() {
-          if(this.readyState === 4) {
-            console.log(this.responseText);
-          }
-        });
-
-        xhr.open("POST", "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}");
-        xhr.setRequestHeader("Content-Type", "application/json");
-
-        xhr.send(data);`,
-      "kotlin-okhttp": `val client = OkHttpClient()
-        val mediaType = "application/json".toMediaType()
-        val body = "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n".toRequestBody(mediaType)
-        val request = Request.Builder()
-          .url("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
-          .post(body)
-          .addHeader("Content-Type", "application/json")
-          .build()
-        val response = client.newCall(request).execute()`,
-      "c-libcurl": `CURL *curl;
-        CURLcode res;
-        curl = curl_easy_init();
-        if(curl) {
-          curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "POST");
-          curl_easy_setopt(curl, CURLOPT_URL, "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}");
-          curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
-          curl_easy_setopt(curl, CURLOPT_DEFAULT_PROTOCOL, "https");
-          struct curl_slist *headers = NULL;
-          headers = curl_slist_append(headers, "Content-Type: application/json");
-          curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
-          const char *data = "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n";
-          curl_easy_setopt(curl, CURLOPT_POSTFIELDS, data);
-          res = curl_easy_perform(curl);
-          curl_slist_free_all(headers);
-        }
-        curl_easy_cleanup(curl);
-        `,
-      "nodejs-axios": `const axios = require('axios');
-        let data = JSON.stringify({
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-        });
-
-        let config = {
-          method: 'post',
-          maxBodyLength: Infinity,
-          url: 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
-          headers: { 
-            'Content-Type': 'application/json'
-          },
-          data : data
-        };
-
-        axios.request(config)
-        .then((response) => {
-          console.log(JSON.stringify(response.data));
-        })
-        .catch((error) => {
-          console.log(error);
-        });
-        `,
-      "nodejs-native": `var https = require('follow-redirects').https;
-        var fs = require('fs');
-
-        var options = {
-          'method': 'POST',
-          'hostname': 'analyzemydream-api.vercel.app',
-          'path': '/advanced-analyzer/{api_key}',
-          'headers': {
-            'Content-Type': 'application/json'
-          },
-          'maxRedirects': 20
-        };
-
-        var req = https.request(options, function (res) {
-          var chunks = [];
-
-          res.on("data", function (chunk) {
-            chunks.push(chunk);
-          });
-
-          res.on("end", function (chunk) {
-            var body = Buffer.concat(chunks);
-            console.log(body.toString());
-          });
-
-          res.on("error", function (error) {
-            console.error(error);
-          });
-        });
-
-        var postData = JSON.stringify({
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-        });
-
-        req.write(postData);
-
-        req.end();`,
-      "nodejs-request": `var request = require('request');
-        var options = {
-          'method': 'POST',
-          'url': 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
-          'headers': {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-            "lang": "en",
-            "dream_type": "Lucid",
-            "dream_importance": "Very Important",
-            "main_emotions": "N/A",
-            "dream_context": "Unknown",
-            "dream_state": "Refreshed",
-            "dream_frequency": "Always",
-            "dream_expectations": "Personal Insight"
-          })
-
-        };
-        request(options, function (error, response) {
-          if (error) throw new Error(error);
-          console.log(response.body);
-        });
-        `,
-      "nodejs-unirest": `var unirest = require('unirest');
-      var req = unirest('POST', 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}')
-        .headers({
-          'Content-Type': 'application/json'
-        })
-        .send(JSON.stringify({
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-        }))
-        .end(function (res) { 
-          if (res.error) throw new Error(res.error); 
-          console.log(res.raw_body);
-        });
-      `,
-      "objectivec-nsurlsession": `#import <Foundation/Foundation.h>
-
-      dispatch_semaphore_t sema = dispatch_semaphore_create(0);
-
-      NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}"]
-        cachePolicy:NSURLRequestUseProtocolCachePolicy
-        timeoutInterval:10.0];
-      NSDictionary *headers = @{
-        @"Content-Type": @"application/json"
-      };
-
-      [request setAllHTTPHeaderFields:headers];
-      NSData *postData = [[NSData alloc] initWithData:[@"{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n" dataUsingEncoding:NSUTF8StringEncoding]];
-      [request setHTTPBody:postData];
-
-      [request setHTTPMethod:@"POST"];
-
-      NSURLSession *session = [NSURLSession sharedSession];
-      NSURLSessionDataTask *dataTask = [session dataTaskWithRequest:request
-      completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
-        if (error) {
-          NSLog(@"%@", error);
-          dispatch_semaphore_signal(sema);
-        } else {
-          NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
-          NSError *parseError = nil;
-          NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:&parseError];
-          NSLog(@"%@",responseDictionary);
-          dispatch_semaphore_signal(sema);
-        }
-      }];
-      [dataTask resume];
-      dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`,
-      "php-curl": `<?php
-
-        $curl = curl_init();
-
-        curl_setopt_array($curl, array(
-          CURLOPT_URL => 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
-          CURLOPT_RETURNTRANSFER => true,
-          CURLOPT_ENCODING => '',
-          CURLOPT_MAXREDIRS => 10,
-          CURLOPT_TIMEOUT => 0,
-          CURLOPT_FOLLOWLOCATION => true,
-          CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-          CURLOPT_CUSTOMREQUEST => 'POST',
-          CURLOPT_POSTFIELDS =>'{
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-        }
-        ',
-          CURLOPT_HTTPHEADER => array(
-            'Content-Type: application/json'
-          ),
-        ));
-
-        $response = curl_exec($curl);
-
-        curl_close($curl);
-        echo $response;
-        `,
-      "php-guzzle": `<?php
-      $client = new Client();
-      $headers = [
-        'Content-Type' => 'application/json'
-      ];
-      $body = '{
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      }';
-      $request = new Request('POST', 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}', $headers, $body);
-      $res = $client->sendAsync($request)->wait();
-      echo $res->getBody();
-      `,
-      "php-http-request2": `<?php
-        require_once 'HTTP/Request2.php';
-        $request = new HTTP_Request2();
-        $request->setUrl('https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}');
-        $request->setMethod(HTTP_Request2::METHOD_POST);
-        $request->setConfig(array(
-          'follow_redirects' => TRUE
-        ));
-        $request->setHeader(array(
-          'Content-Type' => 'application/json'
-        ));
-        $request->setBody('{\n  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",\n  "lang": "en",\n  "dream_type": "Lucid",\n  "dream_importance": "Very Important",\n  "main_emotions": "N/A",\n  "dream_context": "Unknown",\n  "dream_state": "Refreshed",\n  "dream_frequency": "Always",\n  "dream_expectations": "Personal Insight"\n}\n');
-        try {
-          $response = $request->send();
-          if ($response->getStatus() == 200) {
-            echo $response->getBody();
-          }
-          else {
-            echo 'Unexpected HTTP status: ' . $response->getStatus() . ' ' .
-            $response->getReasonPhrase();
-          }
-        }
-        catch(HTTP_Request2_Exception $e) {
-          echo 'Error: ' . $e->getMessage();
-        }`,
-      "php-pecl-http": `<?php
-      $client = new http\Client;
-      $request = new http\Client\Request;
-      $request->setRequestUrl('https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}');
-      $request->setRequestMethod('POST');
-      $body = new http\Message\Body;
-      $body->append('{
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      }
-      ');
-      $request->setBody($body);
-      $request->setOptions(array());
-      $request->setHeaders(array(
-        'Content-Type' => 'application/json'
-      ));
-      $client->enqueue($request)->send();
-      $response = $client->getResponse();
-      echo $response->getBody();
-      `,
-      "powershell-restmethod": `$headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
-$headers.Add("Content-Type", "application/json")
-
-$body = @"
-{
-  "dream_description": '"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  var req = https.request(options, function (res) {
+    var chunks = [];
+
+    res.on("data", function (chunk) {
+      chunks.push(chunk);
+    });
+
+    res.on("end", function (chunk) {
+      var body = Buffer.concat(chunks);
+      console.log(body.toString());
+    });
+
+    res.on("error", function (error) {
+      console.error(error);
+    });
+  });
+
+  var postData = JSON.stringify({
+    "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+    "lang": "en",
+    "dream_type": "Lucid",
+    "dream_importance": "Very Important",
+    "main_emotions": "N/A",
+    "dream_context": "Unknown",
+    "dream_state": "Refreshed",
+    "dream_frequency": "Always",
+    "dream_expectations": "Personal Insight"
+  });
+
+  req.write(postData);
+  req.end();`,
+
+  "nodejs-request": `var request = require('request');
+  var options = {
+    'method': 'POST',
+    'url': 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
+    'headers': {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+      "lang": "en",
+      "dream_type": "Lucid",
+      "dream_importance": "Very Important",
+      "main_emotions": "N/A",
+      "dream_context": "Unknown",
+      "dream_state": "Refreshed",
+      "dream_frequency": "Always",
+      "dream_expectations": "Personal Insight"
+    })
+  };
+  request(options, function (error, response) {
+    if (error) throw new Error(error);
+    console.log(response.body);
+  });`,
+
+  "nodejs-unirest": `var unirest = require('unirest');
+  var req = unirest('POST', 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}')
+    .headers({
+      'Content-Type': 'application/json'
+    })
+    .send(JSON.stringify({
+      "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+      "lang": "en",
+      "dream_type": "Lucid",
+      "dream_importance": "Very Important",
+      "main_emotions": "N/A",
+      "dream_context": "Unknown",
+      "dream_state": "Refreshed",
+      "dream_frequency": "Always",
+      "dream_expectations": "Personal Insight"
+    }))
+    .end(function (res) { 
+      if (res.error) throw new Error(res.error); 
+      console.log(res.raw_body);
+    });`,
+"objectivec-nsurlsession": `#import <Foundation/Foundation.h>
+
+dispatch_semaphore_t sema = dispatch_semaphore_create(0);
+
+NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}"]
+  cachePolicy:NSURLRequestUseProtocolCachePolicy
+  timeoutInterval:10.0];
+NSDictionary *headers = @{
+  @"Content-Type": @"application/json"
+};
+
+[request setAllHTTPHeaderFields:headers];
+NSData *postData = [[NSData alloc] initWithData:[@"{
+  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",
+  \"lang\": \"en\",
+  \"dream_type\": \"Lucid\",
+  \"dream_importance\": \"Very Important\",
+  \"main_emotions\": \"N/A\",
+  \"dream_context\": \"Unknown\",
+  \"dream_state\": \"Refreshed\",
+  \"dream_frequency\": \"Always\",
+  \"dream_expectations\": \"Personal Insight\"
+}\n" dataUsingEncoding:NSUTF8StringEncoding]];
+[request setHTTPBody:postData];
+
+[request setHTTPMethod:@"POST"];
+
+NSURLSession *session = [NSURLSession sharedSession];
+NSURLSessionDataTask *dataTask = [session dataTaskWithRequest:request
+  completionHandler:^(NSData *data, NSURLResponse *response, NSError *error) {
+    if (error) {
+      NSLog(@"%@", error);
+      dispatch_semaphore_signal(sema);
+    } else {
+      NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *) response;
+      NSError *parseError = nil;
+      NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:&parseError];
+      NSLog(@"%@", responseDictionary);
+      dispatch_semaphore_signal(sema);
+    }
+  }];
+[dataTask resume];
+dispatch_semaphore_wait(sema, DISPATCH_TIME_FOREVER);`,
+"php-curl": `<?php
+
+$curl = curl_init();
+
+curl_setopt_array($curl, array(
+  CURLOPT_URL => 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}',
+  CURLOPT_RETURNTRANSFER => true,
+  CURLOPT_ENCODING => '',
+  CURLOPT_MAXREDIRS => 10,
+  CURLOPT_TIMEOUT => 0,
+  CURLOPT_FOLLOWLOCATION => true,
+  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+  CURLOPT_CUSTOMREQUEST => 'POST',
+  CURLOPT_POSTFIELDS => '{
+    "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+    "lang": "en",
+    "dream_type": "Lucid",
+    "dream_importance": "Very Important",
+    "main_emotions": "N/A",
+    "dream_context": "Unknown",
+    "dream_state": "Refreshed",
+    "dream_frequency": "Always",
+    "dream_expectations": "Personal Insight"
+  }',
+  CURLOPT_HTTPHEADER => array(
+    'Content-Type: application/json'
+  ),
+));
+
+$response = curl_exec($curl);
+
+curl_close($curl);
+echo $response;
+`,
+"php-guzzle": `<?php
+$client = new Client();
+$headers = [
+  'Content-Type' => 'application/json'
+];
+$body = '{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}';
+$request = new Request('POST', 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}', $headers, $body);
+$res = $client->sendAsync($request)->wait();
+echo $res->getBody();
+`,
+"php-http-request2": `<?php
+require_once 'HTTP/Request2.php';
+$request = new HTTP_Request2();
+$request->setUrl('https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}');
+$request->setMethod(HTTP_Request2::METHOD_POST);
+$request->setConfig(array(
+  'follow_redirects' => TRUE
+));
+$request->setHeader(array(
+  'Content-Type' => 'application/json'
+));
+$request->setBody('{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}');
+try {
+  $response = $request->send();
+  if ($response->getStatus() == 200) {
+    echo $response->getBody();
+  } else {
+    echo 'Unexpected HTTP status: ' . $response->getStatus() . ' ' .
+    $response->getReasonPhrase();
+  }
+} catch (HTTP_Request2_Exception $e) {
+  echo 'Error: ' . $e->getMessage();
+}
+`,
+"php-pecl-http": `<?php
+$client = new http\Client;
+$request = new http\Client\Request;
+$request->setRequestUrl('https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}');
+$request->setRequestMethod('POST');
+$body = new http\Message\Body;
+$body->append('{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
   "lang": "en",
   "dream_type": "Lucid",
   "dream_importance": "Very Important",
@@ -1953,155 +2054,153 @@ $body = @"
   "dream_frequency": "Always",
   "dream_expectations": "Personal Insight"
 }
+');
+$request->setBody($body);
+$request->setOptions(array());
+$request->setHeaders(array(
+  'Content-Type' => 'application/json'
+));
+$client->enqueue($request)->send();
+$response = $client->getResponse();
+echo $response->getBody();
+`,
 
+"powershell-restmethod": `$headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
+$headers.Add("Content-Type", "application/json")
+
+$body = @"
+{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}
 "@
 
 $response = Invoke-RestMethod 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}' -Method 'POST' -Headers $headers -Body $body
 $response | ConvertTo-Json`,
-      "python-httpclient": `import http.client
-      import json
+  "python-httpclient": `import http.client
+import json
 
-      conn = http.client.HTTPSConnection("analyzemydream-api.vercel.app")
-      payload = json.dumps({
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      })
-      headers = {
-        'Content-Type': 'application/json'
-      }
-      conn.request("POST", "/advanced-analyzer/{api_key}", payload, headers)
-      res = conn.getresponse()
-      data = res.read()
-      print(data.decode("utf-8"))`,
-      "python-requests": `import requests
-      import json
+conn = http.client.HTTPSConnection("analyzemydream-api.vercel.app")
+payload = json.dumps({
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+})
+headers = {
+  'Content-Type': 'application/json'
+}
+conn.request("POST", "/advanced-analyzer/{api_key}", payload, headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))`,
+  "python-requests": `import requests
+import json
 
-      url = "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}"
+url = "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}"
 
-      payload = json.dumps({
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      })
-      headers = {
-        'Content-Type': 'application/json'
-      }
+payload = json.dumps({
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+})
+headers = {
+  'Content-Type': 'application/json'
+}
 
-      response = requests.request("POST", url, headers=headers, data=payload)
+response = requests.request("POST", url, headers=headers, data=payload)
 
-      print(response.text)
-      `,
-      "r-httr": `library(httr)
+print(response.text)`,
+  "r-httr": `library(httr)
 
-      headers = c(
-        'Content-Type' = 'application/json'
-      )
+headers = c(
+  'Content-Type' = 'application/json'
+)
 
-      body = '{
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      }';
+body = '{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+}'
 
-      res <- VERB("POST", url = "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", body = body, add_headers(headers))
+res <- VERB("POST", url = "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", body = body, add_headers(headers))
 
-      cat(content(res, 'text'))`,
-      "r-rcurl": `library(RCurl)
-      headers = c(
-        "Content-Type" = "application/json"
-      )
-      params = "{
-        \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",
-        \"lang\": \"en\",
-        \"dream_type\": \"Lucid\",
-        \"dream_importance\": \"Very Important\",
-        \"main_emotions\": \"N/A\",
-        \"dream_context\": \"Unknown\",
-        \"dream_state\": \"Refreshed\",
-        \"dream_frequency\": \"Always\",
-        \"dream_expectations\": \"Personal Insight\"
-      }"
-      res <- postForm("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", .opts=list(postfields = params, httpheader = headers, followlocation = TRUE), style = "httppost")
-      cat(res)`,
-      "ruby": `require "uri"
-      require "json"
-      require "net/http"
+cat(content(res, 'text'))`,
+  "r-rcurl": `library(RCurl)
+headers = c(
+  "Content-Type" = "application/json"
+)
+params = "{
+  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",
+  \"lang\": \"en\",
+  \"dream_type\": \"Lucid\",
+  \"dream_importance\": \"Very Important\",
+  \"main_emotions\": \"N/A\",
+  \"dream_context\": \"Unknown\",
+  \"dream_state\": \"Refreshed\",
+  \"dream_frequency\": \"Always\",
+  \"dream_expectations\": \"Personal Insight\"
+}"
+res <- postForm("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}", .opts=list(postfields = params, httpheader = headers, followlocation = TRUE), style = "httppost")
+cat(res)`,
+  "ruby": `require "uri"
+require "json"
+require "net/http"
 
-      url = URI("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
+url = URI("https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
 
-      https = Net::HTTP.new(url.host, url.port)
-      https.use_ssl = true
+https = Net::HTTP.new(url.host, url.port)
+https.use_ssl = true
 
-      request = Net::HTTP::Post.new(url)
-      request["Content-Type"] = "application/json"
-      request.body = JSON.dump({
-        "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-        "lang": "en",
-        "dream_type": "Lucid",
-        "dream_importance": "Very Important",
-        "main_emotions": "N/A",
-        "dream_context": "Unknown",
-        "dream_state": "Refreshed",
-        "dream_frequency": "Always",
-        "dream_expectations": "Personal Insight"
-      })
+request = Net::HTTP::Post.new(url)
+request["Content-Type"] = "application/json"
+request.body = JSON.dump({
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+})
 
-      response = https.request(request)
-      puts response.read_body
-      `,
-      "rust-reqwest": `#[tokio::main]
-      async fn main() -> Result<(), Box<dyn std::error::Error>> {
-          let client = reqwest::Client::builder()
-              .build()?;
+response = https.request(request)
+puts response.read_body`,
+  "rust-reqwest": `#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let client = reqwest::Client::builder()
+        .build()?;
 
-          let mut headers = reqwest::header::HeaderMap::new();
-          headers.insert("Content-Type", "application/json".parse()?);
+    let mut headers = reqwest::header::HeaderMap::new();
+    headers.insert("Content-Type", "application/json".parse()?);
 
-          let data = r#"{
-          "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-          "lang": "en",
-          "dream_type": "Lucid",
-          "dream_importance": "Very Important",
-          "main_emotions": "N/A",
-          "dream_context": "Unknown",
-          "dream_state": "Refreshed",
-          "dream_frequency": "Always",
-          "dream_expectations": "Personal Insight"
-      }"#;
-
-          let json: serde_json::Value = serde_json::from_str(&data)?;
-
-          let request = client.request(reqwest::Method::POST, "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
-              .headers(headers)
-              .json(&json);
-
-          let response = request.send().await?;
-          let body = response.text().await?;
-
-          println!("{}", body);
-
-          Ok(())
-      }`,
-      "shell-httpie": `printf '{
+    let data = r#"{
       "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
       "lang": "en",
       "dream_type": "Lucid",
@@ -2111,86 +2210,199 @@ $response | ConvertTo-Json`,
       "dream_state": "Refreshed",
       "dream_frequency": "Always",
       "dream_expectations": "Personal Insight"
+    }"#;
+
+    let json: serde_json::Value = serde_json::from_str(&data)?;
+
+    let request = client.request(reqwest::Method::POST, "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")
+        .headers(headers)
+        .json(&json);
+
+    let response = request.send().await?;
+    let body = response.text().await?;
+
+    println!("{}", body);
+
+    Ok(())
+}`,
+"shell-httpie": `printf '{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+} 
+' | http --follow --timeout 3600 POST 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}' \
+Content-Type:'application/json'`,
+"shell-wget": `wget --no-check-certificate --quiet \
+--method POST \
+--timeout=0 \
+--header 'Content-Type: application/json' \
+--body-data '{
+  "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
+  "lang": "en",
+  "dream_type": "Lucid",
+  "dream_importance": "Very Important",
+  "main_emotions": "N/A",
+  "dream_context": "Unknown",
+  "dream_state": "Refreshed",
+  "dream_frequency": "Always",
+  "dream_expectations": "Personal Insight"
+} 
+' \
+'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}'`,
+"swift-urlsession": `let parameters = "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n"
+let postData = parameters.data(using: .utf8)
+
+var request = URLRequest(url: URL(string: "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")!, timeoutInterval: Double.infinity)
+request.addValue("application/json", forHTTPHeaderField: "Content-Type")
+
+request.httpMethod = "POST"
+request.httpBody = postData
+
+let task = URLSession.shared.dataTask(with: request) { data, response, error in
+  guard let data = data else {
+    print(String(describing: error))
+    return
+  }
+  print(String(data: data, encoding: .utf8)!)
+}
+
+task.resume()
+`,
+}
+
+   function pulseElement(element) {
+      element.classList.add('pulse');
+      setTimeout(function() {
+        element.classList.remove('pulse');
+      }, 500); 
     }
-    '| http  --follow --timeout 3600 POST 'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}' \
-    Content-Type:'application/json'`,
-      "shell-wget": `wget --no-check-certificate --quiet \
-      --method POST \
-      --timeout=0 \
-      --header 'Content-Type: application/json' \
-      --body-data '{
-      "dream_description": "I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.",
-      "lang": "en",
-      "dream_type": "Lucid",
-      "dream_importance": "Very Important",
-      "main_emotions": "N/A",
-      "dream_context": "Unknown",
-      "dream_state": "Refreshed",
-      "dream_frequency": "Always",
-      "dream_expectations": "Personal Insight"
+
+    function showCopiedMessage(element) {
+      var message = document.createElement("span");
+      message.textContent = "Copied!";
+      message.style.position = "absolute";
+      message.style.right = "77px";
+      message.style.top = "7.6rem";
+      message.style.transform = "translateY(-50%)";
+      message.style.fontSize = "13px"; 
+      message.style.color = "#3398DC";
+      message.style.fontWeight = "900"; 
+      message.style.backgroundColor = "#0F172A"; 
+      message.style.padding = "2px 5px"; 
+      message.style.borderRadius = "3px"; 
+      message.style.zIndex = "1";
+      var container = element.parentElement;
+      container.style.position = "relative"; 
+      container.appendChild(message);
+      setTimeout(function() {
+        container.removeChild(message);
+      }, 2000);
     }
-    ' \
-      'https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}'`,
-      "swift-urlsession": `let parameters = "{\n  \"dream_description\": \"I found myself in a bustling office environment, surrounded by colleagues engaged in various tasks. The space was filled with the hum of activity and the clatter of keyboards. I was working on an important project, collaborating with a team to meet tight deadlines. Despite the stress, I felt a sense of accomplishment and purpose as I tackled challenges and contributed to the project’s success. The dream left me with a feeling of determination and a greater appreciation for teamwork and professional achievements.\",\n  \"lang\": \"en\",\n  \"dream_type\": \"Lucid\",\n  \"dream_importance\": \"Very Important\",\n  \"main_emotions\": \"N/A\",\n  \"dream_context\": \"Unknown\",\n  \"dream_state\": \"Refreshed\",\n  \"dream_frequency\": \"Always\",\n  \"dream_expectations\": \"Personal Insight\"\n}\n"
-      let postData = parameters.data(using: .utf8)
 
-      var request = URLRequest(url: URL(string: "https://analyzemydream-api.vercel.app/advanced-analyzer/{api_key}")!,timeoutInterval: Double.infinity)
-      request.addValue("application/json", forHTTPHeaderField: "Content-Type")
+    function showCopiedMessageGreen(element) {
+      var message = document.createElement("span");
+      message.textContent = "Copied!";
+      message.style.position = "absolute";
+      message.style.right = "77px";
+      message.style.top = "7.6rem";
+      message.style.transform = "translateY(-50%)";
+      message.style.fontSize = "13px"; 
+      message.style.color = "#69D0B9";
+      message.style.fontWeight = "900"; 
+      message.style.backgroundColor = "#0F172A"; 
+      message.style.padding = "2px 5px"; 
+      message.style.borderRadius = "3px"; 
+      message.style.zIndex = "1";
+      var container = element.parentElement;
+      container.style.position = "relative"; 
+      container.appendChild(message);
+      setTimeout(function() {
+        container.removeChild(message);
+      }, 2000);
+    }
 
-      request.httpMethod = "POST"
-      request.httpBody = postData
+    document.getElementById("copyIconGet").addEventListener("click", function() {
+      var codeContent = document.getElementById("codeExampleGet").innerText;
+      var tempTextArea = document.createElement("textarea");
+      tempTextArea.value = codeContent;
+      document.body.appendChild(tempTextArea);
+      tempTextArea.select();
+      document.execCommand("copy");
+      document.body.removeChild(tempTextArea);
+      pulseElement(this); 
+      showCopiedMessageGreen(this);
+    });
 
-      let task = URLSession.shared.dataTask(with: request) { data, response, error in 
-        guard let data = data else {
-          print(String(describing: error))
-          return
-        }
-        print(String(data: data, encoding: .utf8)!)
-      }
+    document.getElementById("copyIcon").addEventListener("click", function() {
+      var codeContent = document.getElementById("codeExample").innerText;
+      var tempTextArea = document.createElement("textarea");
+      tempTextArea.value = codeContent;
+      document.body.appendChild(tempTextArea);
+      tempTextArea.select();
+      document.execCommand("copy");
+      document.body.removeChild(tempTextArea);
+      pulseElement(this); 
+      showCopiedMessage(this);
+    });
 
-      task.resume()
-      `,
-   }
-
-//    document.getElementById("jsonResponse").textContent = JSON.stringify(jsonResponse, null, 2);
-  document.getElementById("jsonBodyGet").textContent = JSON.stringify(jsonBodyGet, null, 2);
-   document.getElementById("jsonBodyFast").textContent = JSON.stringify(jsonBodyFast, null, 2);
-   document.getElementById("jsonBodyAdvanced").textContent = JSON.stringify(jsonBodyAdvanced, null, 2);
-
-   function updateCodeExampleGet() {
-       const selectedLanguage = document.getElementById('languageGet').value;
-       const codeExampleGet = codeExamplesGet[selectedLanguage] || 'No code example available for this language.';
-       document.getElementById('codeExampleGet').textContent = codeExampleGet;
-   }
-
-   document.getElementById('languageGet').addEventListener('change', updateCodeExampleGet);
-   updateCodeExampleGet();
-
-   document.getElementById("codeExampleGet").textContent = codeExamplesGet["csharp-httpclient"];
-
-
-   function updateCodeExample() {
-       const selectedLanguage = document.getElementById('language').value;
-       const codeExample = codeExamples[selectedLanguage] || 'No code example available for this language.';
-       document.getElementById('codeExample').textContent = codeExample;
-   }
-
-   document.getElementById('language').addEventListener('change', updateCodeExample);
-   updateCodeExample();
-
-   document.getElementById("codeExample").textContent = codeExamples["csharp-httpclient"];
+    document.getElementById("copyIconAdvanced").addEventListener("click", function() {
+      var codeContent = document.getElementById("codeExampleAdvanced").innerText;
+      var tempTextArea = document.createElement("textarea");
+      tempTextArea.value = codeContent;
+      document.body.appendChild(tempTextArea);
+      tempTextArea.select();
+      document.execCommand("copy");
+      document.body.removeChild(tempTextArea);
+      pulseElement(this); 
+      showCopiedMessage(this);
+    });
 
 
-   function updateCodeExampleAdvanced() {
-       const selectedLanguage = document.getElementById('languageAdvanced').value;
-       const codeExampleAdvanced = codeExamplesAdvanced[selectedLanguage] || 'No code example available for this language.';
-       document.getElementById('codeExampleAdvanced').textContent = codeExampleAdvanced;
-   }
 
-   document.getElementById('languageAdvanced').addEventListener('change', updateCodeExampleAdvanced);
-   updateCodeExampleAdvanced();
+    document.getElementById("jsonBodyGet").textContent = JSON.stringify(jsonBodyGet, null, 2);
+    document.getElementById("jsonBodyFast").textContent = JSON.stringify(jsonBodyFast, null, 2);
+    document.getElementById("jsonBodyAdvanced").textContent = JSON.stringify(jsonBodyAdvanced, null, 2);
 
-   document.getElementById("codeExampleAdvanced").textContent = codeExamplesAdvanced["csharp-httpclient"];
+    function updateCodeExampleGet() {
+        const selectedLanguage = document.getElementById('languageGet').value;
+        const codeExampleGet = codeExamplesGet[selectedLanguage] || 'No code example available for this language.';
+        document.getElementById('codeExampleGet').textContent = codeExampleGet;
+    }
+
+    document.getElementById('languageGet').addEventListener('change', updateCodeExampleGet);
+    updateCodeExampleGet();
+
+    document.getElementById("codeExampleGet").textContent = codeExamplesGet["csharp-httpclient"];
+
+
+    function updateCodeExample() {
+        const selectedLanguage = document.getElementById('language').value;
+        const codeExample = codeExamples[selectedLanguage] || 'No code example available for this language.';
+        document.getElementById('codeExample').textContent = codeExample;
+    }
+
+    document.getElementById('language').addEventListener('change', updateCodeExample);
+    updateCodeExample();
+
+    document.getElementById("codeExample").textContent = codeExamples["csharp-httpclient"];
+
+
+    function updateCodeExampleAdvanced() {
+        const selectedLanguage = document.getElementById('languageAdvanced').value;
+        const codeExampleAdvanced = codeExamplesAdvanced[selectedLanguage] || 'No code example available for this language.';
+        document.getElementById('codeExampleAdvanced').textContent = codeExampleAdvanced;
+    }
+
+    document.getElementById('languageAdvanced').addEventListener('change', updateCodeExampleAdvanced);
+    updateCodeExampleAdvanced();
+
+    document.getElementById("codeExampleAdvanced").textContent = codeExamplesAdvanced["csharp-httpclient"];
 </script>
 
 <style>
@@ -2220,8 +2432,51 @@ $response | ConvertTo-Json`,
         margin-bottom: 20px;
     }
 
+    .icon-container {
+      background-color: #0F172A;
+
+      top: 10px;
+      position: sticky;
+      padding: 15px;
+      border-radius: 5px;
+      font-size: 13px;
+      overflow-x: auto;
+      
+    }
+
+    .copy-icon {
+      width: 20px;
+      height: 20px;
+      position: relative;
+      float: right;
+      right: 12.5%;
+      top: 10px;
+      cursor: pointer;
+    }
+
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+        opacity: 1;
+      }
+      50% {
+        transform: scale(1.1);
+        opacity: 0.8;
+      }
+      100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+
+    .pulse {
+      animation: pulse 0.5s;
+    }
+
+
+
     select {
-        width: 100%;
+        width: 98%;
         padding: 5px;
         margin-bottom: 10px;
         background: #0f172a;
@@ -2237,6 +2492,7 @@ $response | ConvertTo-Json`,
         padding: 15px;
         border-radius: 5px;
         font-size: 13px;
+        padding-top: 40px;
         overflow-x: auto;         
     }
 
@@ -2505,5 +2761,11 @@ $response | ConvertTo-Json`,
     .container {
         margin-top: 3rem;
     }
+}
+
+@media screen and (min-width: 600px) {
+  .copy-icon {
+    right: 5%;
+  }
 }
 </style>
