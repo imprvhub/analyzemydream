@@ -59,7 +59,7 @@ export const navigationBarData: NavData = {
 			submenu: [
 			  { name: 'All', link: '//tags/all' },
 			  { name: 'Animals', link: '/blog/tags/Animals' },
-			  { name: 'Objects-Places', link: '/blog/tags/Objects-places' },
+			  { name: 'Objects-Places', link: '/blog/tags/Objects-Places' },
 			  { name: 'People', link: '/blog/tags/People' },
 			  { name: 'Activities', link: '/blog/tags/Activities' },
 			  { name: 'Nature', link: '/blog/tags/Nature' },
