@@ -41,5 +41,3 @@ Embora essas interpretações gerais possam ser úteis, é vital considerar suas
 * Jiménez-Castillo, M. (2018). *Dream Dictionary*. Woodbury, MN: Llewellyn Publications.
 
 ---
-
-Esta versão reestruturada do conteúdo agora adere ao formato boilerplate, garantindo uma estrutura consistente e profissional para seu artigo. A redação foi aprimorada para um tom mais claro e profissional.

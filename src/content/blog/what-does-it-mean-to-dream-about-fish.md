@@ -46,11 +46,3 @@ Sonhar com pescar peixes é um reflexo metafórico de seus níveis de energia at
 * Significado dos sonhos, (08/01/2019). *O que significa sonhar com peixes*. Recuperado de [misignificadodelossuenos.com](https://misignificadodelossuenos.com/sonar-con-peces/)
 
 ---
-
-Esta versão revisada:
-
-1. **Segue a estrutura padrão:** Utiliza cabeçalhos, subtítulos e marcadores para organizar o conteúdo de forma eficaz.
-2. **Aumenta o profissionalismo:** A redação é refinada para maior clareza e impacto.
-3. **Mantém a consistência no formato:** Usa negrito e itálico quando apropriado.
-4. **Preserva o cabeçalho e a imagem originais:** O cabeçalho e a imagem permanecem inalterados, aderindo ao boilerplate.
-5. **Fornece uma estrutura clara e concisa:** O conteúdo é dividido em seções lógicas, melhorando a legibilidade e a compreensão.

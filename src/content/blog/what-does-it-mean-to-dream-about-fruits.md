@@ -47,5 +47,3 @@ Sonhos com frutas vermelhas sugerem que você está bem posicionado para atingir
 Linn, D. *O significado dos sonhos*. Barcelona: Robinbook, 2002.
 
 ---
-
-O conteúdo agora adere à estrutura do boilerplate, com uma redação mais concisa e profissional. Ele também apresenta uma organização mais lógica de ideias e melhor fluxo ao longo do texto. A remoção da seção de índice torna o artigo mais compacto e fácil de ler.
