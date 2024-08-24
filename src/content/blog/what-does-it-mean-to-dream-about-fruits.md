@@ -48,5 +48,3 @@ Los sueños con frutas rojas sugieren que estás bien posicionado para alcanzar 
 Linn, D. *El significado de los sueños*. Barcelona: Robinbook, 2002.
 
 ---
-
-El contenido se ajusta ahora a la estructura del texto estándar, con una redacción más concisa y profesional. También presenta una organización más lógica de las ideas y una mejor fluidez a lo largo del texto. La eliminación de la sección de índice hace que el artículo sea más compacto y fácil de leer.

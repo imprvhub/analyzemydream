@@ -41,5 +41,3 @@ Si bien estas interpretaciones generales pueden resultar útiles, es vital consi
 * Jiménez-Castillo, M. (2018). *Diccionario de sueños*. Woodbury, MN: Publicaciones Llewellyn.
 
 ---
-
-Esta versión reestructurada del contenido ahora se adhiere al formato estándar, lo que garantiza una estructura coherente y profesional para su artículo. La redacción se ha mejorado para darle un tono más claro y profesional.
