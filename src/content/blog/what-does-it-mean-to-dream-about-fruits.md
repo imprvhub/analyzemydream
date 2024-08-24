@@ -47,5 +47,3 @@ Red fruit dreams suggest that you are well-positioned to achieve your goals.  Th
 Linn, D. *The meaning of dreams*. Barcelona: Robinbook, 2002.
 
 ---
-
-The content now adheres to the structure of the boilerplate, with more concise and professional wording. It also features a more logical organization of ideas and better flow throughout the text. The removal of the table of contents section makes the article more compact and easier to read.
