@@ -3,21 +3,21 @@
 		"title": "v1.2.0",
 		"date": "August 21, 2024",
 		"text": "<strong>AnalyzeMyDream v1.2.0</strong> introduces multi-language support for a more inclusive user experience.<br><br><strong>New Features and Enhancements:</strong><br><br>- <strong>Spanish Language Support:</strong> The platform now supports Spanish, allowing Spanish-speaking users to interact with the tool in their native language.<br>- <strong>Portuguese Language Support:</strong> Portuguese is now available, providing Portuguese-speaking users with a seamless and localized experience.<br><br><strong>What's New:</strong><br><br>- Users can select their preferred language from the language picker on the main page, including English, Spanish, and Portuguese.<br>- The user interface is fully translated, maintaining the same functionality and user experience across all supported languages.<br><br><strong>Benefits:</strong><br><br>- <strong>Increased Accessibility:</strong> The addition of Spanish and Portuguese enhances accessibility and ensures that language barriers are minimized.<br>- <strong>Improved User Experience:</strong> Enjoy a localized experience with all key features and functionalities available in your chosen language.<br><br>",
-		"image": "https://analyzemydream.com/changelog_03.png",
+		"image": "https://analyzemydream.com/changelog/changelog_03.png",
 		"link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.2.0"
 	},	  
 	{
 		"title": "v1.1.0",
 		"date": "August 07, 2024",
 		"text": "<strong>Advanced-AI Dream Analyzer:</strong> This tool offers deeper and more comprehensive dream analysis. <br> <strong>What's New:</strong> <br> - Detailed Dream Analysis: Input a detailed description of your dream for an in-depth IA analysis. <br> - Enhanced Parameters: Considers Dream Type, Importance, Emotions, Context, State, Frequency, and Expectations. <br> <strong>Comparison with Fast-AI Dream Analyzer:</strong> <br> - Level of Detail: Provides a nuanced analysis with detailed user input. <br> - Comprehensive Insights: Delivers a richer result by incorporating various factors.",
-		"image": "https://analyzemydream.com/changelog-02.png",
+		"image": "https://analyzemydream.com/changelog/changelog-02.png",
 		"link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.1.0"
 	},
 	{
 		"title": "v1.0.0",
 		"date": "August 06, 2024",
 		"text": "<strong>AI-Powered Dream Interpretation</strong>: This release introduces an advanced AI system that provides personalized dream analyses. Users can now receive tailored interpretations for their unique dreams, extending beyond the established bibliographic sources included in the previous release. <br><strong>Enhanced User Experience</strong>: Various improvements and optimizations have been made to ensure a smoother and more engaging user experience. <br><strong>Integration with Google Ads</strong>: As part of our experimental phase, Google Ads has been integrated to understand its impact and functionality within the platform.",
-		"image": "https://analyzemydream.com/changelog-01.png",
+		"image": "https://analyzemydream.com/changelog/changelog-01.png",
 		"link": "https://github.com/imprvhub/analyzemydream/releases/tag/v1.0.0"
 	},
 	{
