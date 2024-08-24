@@ -1,7 +1,7 @@
 ## Welcome to AnalyzeMyDream.com Repository:
 
 > [!NOTE]  
-> The release of **AnalyzeMyDream v1.0.0** is now **available**!. Release Date: **06.08.2024** - This release includes several new features such as AI integration, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v1.0.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.0.0). 
+> The release of **AnalyzeMyDream v1.2.0** is now **available**!. Release Date: **22.08.2024** - This release includes several new features such as Spanish and Portuguese Support, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v1.2.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.2.0). 
 
 
 ### Table of Contents
