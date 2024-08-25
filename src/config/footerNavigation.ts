@@ -45,25 +45,16 @@ export const footerNavigationData: FooterData = {
 			{
 				category: 'Resources',
 				subCategories: [
-					// {
-					// 	subCategory: 'Features',
-					// 	subCategoryLink: '/features'
-					// },
-					// {
-					// 	subCategory: 'API',
-					// 	subCategoryLink: '/api'
-					// },
-					// {
-					// 	subCategory: 'Pricing',
-					// 	subCategoryLink: '/pricing'
-					// },
 					{
 						subCategory: 'Changelog',
 						subCategoryLink: '/changelog'
 					},
+					// {
+					// 	subCategory: 'API Reference',
+					// 	subCategoryLink: '/api'
+					// },
 				]
 			},
-
 
 		{
 			category: 'Info & Support',

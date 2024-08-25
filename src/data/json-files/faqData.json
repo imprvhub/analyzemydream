@@ -1,7 +1,7 @@
 [
     {
         "question": "What is the Fast-AI Dream Analyzer tool at AnalyzeMyDream.com?",
-        "reply": "Our Fast-AI Dream Analyzer uses the Gemini-1.5-Flash model to provide additional dream interpretations when the specific analyses you're looking for are not in our glossary. The tool aims to complement existing content with AI-generated insights, but results may not always be precise or consistent. It is important not to rely solely on this tool for personal understanding.",
+        "reply": "Our Fast-AI Dream Analyzer uses the Gemini-1.5-Flash model to provide additional dream interpretations when the specific analyses you're looking for are not in our Explore section. The tool aims to complement existing content with AI-generated insights, but results may not always be precise or consistent. It is important not to rely solely on this tool for personal understanding.",
         "category": "dream-analysis",
         "open": true
     },
@@ -52,5 +52,24 @@
         "reply": "Yes, our articles are regularly updated to include new research and relevant texts. We maintain an updated list of references to ensure that the information we provide is accurate and current.",
         "category": "references",
         "open": false
+    },
+    {
+        "question": "What functionalities does the AnalyzeMyDream API offer?",
+        "reply": "AnalyzeMyDream API provides a range of functionalities, including advanced AI-driven dream analysis and access to academic content related to dream interpretation. You can use the API to submit dreams for interpretation using sophisticated AI models, as well as retrieve articles and analysis supported by academic literature. This allows you to integrate both AI-generated insights and research-backed content into your applications.",
+        "category": "api",
+        "open": false
+    },
+    {
+        "question": "How can I obtain an API key to use AnalyzeMyDream?",
+        "reply": "To generate your API key, please go to the 'API' section in the top navigation bar where you can follow the instructions to create and manage your API key.",
+        "category": "api",
+        "open": false
+    },
+    {
+        "question": "What are the usage limits for the AnalyzeMyDream API?",
+        "reply": "The AnalyzeMyDream API is currently in beta phase and is available for free. However, we plan to introduce usage limits and pricing plans in the near future. For now, you can use the API without restrictions, but please be aware that usage policies may change as we move towards a full release.",
+        "category": "api",
+        "open": false
     }
+    
 ]
