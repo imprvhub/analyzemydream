@@ -60,12 +60,17 @@ const header = {
         </aside>
     </div>
     <br>
-    <div class="postman-run-button" style="margin: 0 auto; position: relative; display: flex;"
-      data-postman-action="collection/fork"
-      data-postman-visibility="public"
-      data-postman-var-1="34121786-f44857be-4132-47ce-834d-06bc2d077f17"
-      data-postman-collection-url="entityId=34121786-f44857be-4132-47ce-834d-06bc2d077f17&entityType=collection&workspaceId=2a3ee577-5fb4-45ed-83ca-adecda2c5a26">
+
+
+    <div class="custom-button-container">
+      <a class="custom-button" href="https://www.postman.com/ivanluna-dev/workspace/analyzemydream-api/collection/34121786-f44857be-4132-47ce-834d-06bc2d077f17?action=share&creator=34121786&active-environment=34121786-75f8525e-4139-430e-899d-10cc32b0efcb" target="_blank">
+        Run in Postman
+      </a>
+      <a class="custom-button" href="https://insomnia.rest/run/?label=AnalyzeMyDream%20API&uri=https%3A%2F%2Fanalyzemydream.com%2Fjson%2Finsomnia-analyzemydream.json" target="_blank">
+        Run in Insomnia
+      </a>
     </div>
+    <br>
     <br>
     <!-- API Key Request Form -->
     <article id="api-key-form" class="api-endpoint">
@@ -422,14 +427,6 @@ const header = {
     </div>
 </Layout>
 <script type="module">
-(function (p,o,s,t,m,a,n) {
-    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
-    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
-      (n = o.createElement("script")),
-      (n.id = s+t), (n.async = 1), (n.src = m), n
-    ));
-  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
-
     document.getElementById('apiForm').addEventListener('submit', async (event) => {
         event.preventDefault();
 
@@ -2445,6 +2442,38 @@ task.resume()
         position: relative;
         margin-top: 20px;
         margin-bottom: 20px;
+    }
+
+    .centered-buttons {
+      display: flex;
+      justify-content: center; 
+      gap: 10px; 
+    }
+    
+    .postman-run-button, .insomnia-button {
+      display: flex;
+      align-items: center; 
+    }
+
+    .custom-button-container {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+    
+    .custom-button {
+      display: flex;
+      align-items: center;
+      background-color: #7BC7C7;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-align: center;
+      border: none;
+      cursor: pointer;
+      text-decoration: none;
+      color: white;
+      font-weight: 700;
+      font-size: 0.875rem;
     }
 
     .icon-container {
