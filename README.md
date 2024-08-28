@@ -1,68 +1,65 @@
-## Welcome to AnalyzeMyDream.com Repository:
+## Bienvenido al Repositorio de AnalyzeMyDream.com:
 
 > [!NOTE]  
-> The release of **AnalyzeMyDream v1.0.0** is now **available**!. Release Date: **06.08.2024** - This release includes several new features such as AI integration, bug fixes, and enhancements to improve the overall user experience. For further details, please refer to the [v1.0.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.0.0). 
+> La versión **AnalyzeMyDream v1.2.0** ya está **disponible**!. Fecha de lanzamiento: **22.08.2024** - Esta actualización incluye varias nuevas características, como soporte en español y portugués, corrección de errores y mejoras para optimizar la experiencia del usuario. Para más detalles, revisa las [Notas de la versión v1.2.0](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.2.0). 
 
+### Tabla de Contenidos
 
-### Table of Contents
+- [Descripción del Proyecto](#descripcion-del-proyecto)
+- [Características](#caracteristicas)
+- [Instalación](#instalacion)
+- [Uso](#uso)
+- [Comentarios](#comentarios)
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Feedback](#feedback)
+### Descripción del Proyecto
 
-### Project Overview
+AnalyzeMyDream.com es un proyecto exploratorio destinado a mejorar la autocomprensión a través de la interpretación de sueños. En esta versión (v1.0.0), nos enfocamos en ofrecer interpretaciones detalladas y basadas en investigación, fundamentadas en fuentes bibliográficas confiables e integración con IA. Este lanzamiento sirve como una herramienta esencial para explorar los significados de los sueños, buscando enriquecer el crecimiento personal y la comprensión de uno mismo.
 
-AnalyzeMyDream.com is an exploratory project designed to enhance self-understanding through the interpretation of dreams. In this specific version (v1.0.0), the focus is on providing insightful and research-backed interpretations of dreams, grounded in established bibliographic sources and AI integration. This version serves as a foundational tool for people to explore the meanings behind their dreams, with the aim of enriching their personal growth and self-understanding.
+### Características
 
-### Features
+- **Soporte Multilingüe**: El sitio web ahora admite varios idiomas para alcanzar una audiencia más amplia.
+- **Interpretaciones de Sueños**: Interpretaciones detalladas de diversos símbolos y escenarios de sueños.
+- **Diseño Adaptativo**: Optimizado para una visualización cómoda en dispositivos de escritorio y móviles.
+- **Optimización para SEO**: Implementación de las mejores prácticas de SEO para mejorar la visibilidad en los motores de búsqueda.
+- **Integración de Análisis**: Seguimiento del compromiso del usuario y del rendimiento del sitio.
+- **Interpretación de Sueños con IA**: La última versión (v1.0.0) introduce un sistema avanzado de IA que ofrece análisis personalizados de sueños. Ahora, los usuarios pueden recibir interpretaciones adaptadas a sus sueños únicos, superando las fuentes bibliográficas de la versión anterior. Ten en cuenta que esta funcionalidad de IA está diseñada para proporcionar orientación y no debe considerarse una fuente definitiva.
 
-- **Multilingual Support**: The website will support multiple languages to reach a broader audience.
-- **Dream Interpretations**: Detailed interpretations of various dream symbols and scenarios.
-- **Responsive Design**: Optimized for both desktop and mobile views.
-- **SEO Optimized**: Implemented best practices for SEO to enhance visibility on search engines.
-- **Analytics Integration**: Track user engagement and site performance.
-- **AI-Powered Dream Interpretation**: The latest version (v1.0.0) introduces an advanced AI system that provides personalized dream analyses. Users can now receive tailored interpretations for their unique dreams, extending beyond the established bibliographic sources included in the previous release. Please note that this AI functionality is intended to offer guidance and insights and should be used as an informative tool rather than a definitive source.
+### Instalación
 
-### Installation
+Para comenzar, sigue estos pasos:
 
-To get started, follow these steps:
-
-1. **Clone the Repository**
+1. **Clona el Repositorio**
 
    ```bash
    git clone https://github.com/imprvhub/AnalyzeMyDream.git
    ```
 
-2. **Navigate to the Project Directory**
+2. **Accede al Directorio del Proyecto**
 
    ```bash
    cd AnalyzeMyDream
    ```
 
-3. **Install Dependencies**
+3. **Instala las Dependencias**
 
    ```bash
    npm install
    ```
 
-#### Usage
+#### Uso
 
-1. **Start Development Server**
+1. **Inicia el Servidor de Desarrollo**
 
    ```bash
    npm run dev
    ```
 
-2. **Build for Production**
+2. **Genera la Versión para Producción**
 
    ```bash
    npm run build
    ```
 
+### Comentarios:
 
-### Feedback:
-
-Your feedback is valuable! If you encounter any issues or have suggestions for improvements, please create a new issue in the [GitHub repository](https://github.com/imprvhub/AnalyzeMyDream/issues/new).
-
+¡Tu opinión es importante! Si encuentras algún problema o tienes sugerencias para mejorar, por favor crea un nuevo problema en el [repositorio de GitHub](https://github.com/imprvhub/AnalyzeMyDream/issues/new).
