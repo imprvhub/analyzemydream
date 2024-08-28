@@ -12,6 +12,7 @@ import faqData from '../data/json-files/faqData.json'
 // - FAQ Categories
 const faqDreamAnalysis = faqData.filter((faq) => faq.category === 'dream-analysis')
 const faqReferences = faqData.filter((faq) => faq.category === 'references')
+const faqApi = faqData.filter((faq) => faq.category === 'api')
 
 // - SEO
 const SEO = {
@@ -21,7 +22,7 @@ const SEO = {
 }
 // - Page Header
 const header = {
-    title: 'Obtenha Respostas no <strong>AnalyzeMyDream.com</strong>',
+    title: '<strong>Perguntas</strong>  Frequentes',
     text: 'Encontre respostas para perguntas comuns sobre nossa plataforma.'
 }
 ---
@@ -37,6 +38,11 @@ const header = {
         title="Fontes Bibliográficas e Referências"
         text="Descubra as fontes e referências que formam a base dos nossos artigos sobre análise de sonhos. Saiba mais sobre os livros e estudos que usamos para garantir interpretações precisas e confiáveis."
         data={faqReferences}
+    />
+    <FAQ
+        title="AnalyzeMyDream API: Informações Principais"
+        text="Explore os principais aspectos da nossa API, incluindo suas funcionalidades, como obter uma chave API e detalhes sobre os limites de uso. Esta seção fornece informações essenciais para integrar e utilizar nossa API de forma eficaz."
+        data={faqApi}
     />
     <CTA />
 </Layout>

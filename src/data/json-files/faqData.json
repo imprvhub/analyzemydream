@@ -52,5 +52,23 @@
         "reply": "Sim, nossos artigos são regularmente atualizados para incluir novas pesquisas e textos relevantes. Mantemos uma lista atualizada de referências para garantir que as informações que fornecemos sejam precisas e atuais.",
         "category": "references",
         "open": false
+    },
+    {
+        "question": "Quais funcionalidades a API do AnalyzeMyDream oferece?",
+        "reply": "A API do AnalyzeMyDream oferece diversas funcionalidades, incluindo análise de sonhos com IA avançada e acesso a conteúdo acadêmico sobre interpretação de sonhos. Você pode usar a API para enviar sonhos e receber interpretações usando modelos de IA sofisticados, além de acessar artigos e análises com base em literatura acadêmica. Isso permite integrar tanto insights gerados por IA quanto conteúdo baseado em pesquisa em suas aplicações.",
+        "category": "api",
+        "open": false
+    },
+    {
+        "question": "Como posso obter uma chave de API para usar o AnalyzeMyDream?",
+        "reply": "Para obter sua chave de API, acesse a seção 'API' na barra de navegação superior. Lá, você encontrará as instruções para criar e gerenciar sua chave de API.",
+        "category": "api",
+        "open": false
+    },
+    {
+        "question": "Quais são os limites de uso da API do AnalyzeMyDream?",
+        "reply": "No momento, a API do AnalyzeMyDream está em fase beta e é gratuita. No entanto, planejamos introduzir limites de uso e planos de preços em breve. Por enquanto, você pode usar a API sem restrições, mas esteja ciente de que as políticas de uso podem mudar à medida que avançamos para um lançamento completo.",
+        "category": "api",
+        "open": false
     }
 ]
