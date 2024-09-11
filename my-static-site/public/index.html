@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AnalyzeMyDream.com - Checkout</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/minstyle.io@2.0.1/dist/css/minstyle.io.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap">
+    
+    <style>
+        html {
+            background-color: white;
+            height: 100%;
+            margin: 0; 
+            font-family: 'Roboto', sans-serif; 
+        }
+
+        body {
+            background-color: white;
+            margin: 0; 
+            padding: 0; 
+        }
+
+        .logo {
+            width: 60px;
+        }
+
+        .hide {
+            display: none !important;
+        }
+
+        .ms-alert.ms-action2 {
+            background-color: #2D2E2F;
+            border-color: transparent;
+            color: #fff;
+        }
+
+        .ms-alert.ms-small {
+            margin-bottom: 2rem;
+            padding: 1rem;
+        }
+
+        .main-title {
+            font-size: 20px;
+            margin: 0 auto;
+            position: relative;
+            text-align: center;
+        }
+
+        .ms-card.ms-fill {
+            background-color: transparent;
+            border-radius: var(--default-border-radius);
+        }
+
+        .ms-label.ms-light.ms-action2 {
+            background-color: #0F172A;
+            border-radius: 4px;
+        }
+
+        #billing-frequency {
+            color: black;
+            background-color: white; 
+            text-align: center;
+        }
+
+
+        .ms-select {
+            color: black;
+            text-align: center;
+        }
+
+        .price-billing-container {
+            display: flex;
+            justify-content: center;
+            align-items: baseline;
+            gap: 10px;
+        }
+
+        .ms-label.ms-large.ms-action2.ms-light {
+            font-size: 1.5rem;
+            padding: 0.5rem 1rem;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis; 
+            max-width: 100%; 
+        }
+
+        @media (max-width: 768px) {
+            .ms-label.ms-large.ms-action2.ms-light {
+                font-size: 1.25rem;
+                padding: 0.4rem 0.8rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .ms-label.ms-large.ms-action2.ms-light {
+                font-size: 1rem;
+                padding: 0.3rem 0.6rem;
+            }
+        }
+
+        .sub-header {
+            font-size: 14px;
+            margin-top: 0;
+            color: #94A3B8;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+        }
+
+        .form-card {
+            background-color: #FFF;
+            border: 1px solid #E5E7EB;
+            color: black;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .ms-text-center {
+            text-align: center;
+        }
+
+        .form-fields {
+            margin: 20px 0;
+        }
+
+        .field-group {
+            margin-bottom: 15px;
+        }
+
+        .field-group label {
+            display: block;
+            font-size: 14px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .field-group .required {
+            color: #7BC7C7;
+            margin-left: 5px;
+        }
+
+        .field-group input {
+            width: 100%;
+            padding: 8px;
+            font-size: 14px;
+            background-color: transparent;
+            color: black;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .total-due-container {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .total-due-label {
+            font-size: 16px;
+            color: #000000;
+            font-weight: 400;
+            padding-bottom: 1rem;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm"></div>
+            <div class="col-sm">
+                <div class="form-card">
+                    <h3 class="ms-text-center">
+                        <img class="logo" src="https://analyzemydream.com/favicon-192.png" alt="AnalyzeMyDream Logo">
+                        <br>
+                        <h3 class="main-title">AnalyzeMyDream</h3> 
+                        <div class="main-title" id="plan-title" style="margin: 0 auto; position: relative; text-align:center;">basic Plan</div>
+                    </h3>
+                </div>
+
+                <div id="alerts" class="ms-text-center"></div>
+                
+                <div class="form-card">
+                    <div class="ms-card ms-fill">
+                        <div class="ms-text-center">
+                            <select id="plan-selector" class="ms-select">
+                                <option value="basic" data-monthly="2.99" data-annually="19.99">Basic Plan</option>
+                                <option value="standard" data-monthly="4.00" data-annually="35.99">Standard Plan</option>
+                                <option value="premium" data-monthly="19.99" data-annually="99.99">Premium Plan</option>
+                            </select>
+                            
+                        </div>
+                    </div>
+                    <div>
+                        <label for="billing-frequency">Billing Frequency:</label>
+                        <select id="billing-frequency">
+                            <option value="monthly">Monthly</option>
+                            <option value="annually">Annually</option>
+                        </select>
+                    </div>
+                    <div class="form-fields">
+                        <div class="field-group">
+                            <label for="name">Name<span class="required">*</span></label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="field-group">
+                            <label for="email">Email Address<span class="required">*</span></label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                    </div>
+                    <div class="total-due-container">
+                        <div class="total-due-label">
+                            Total Due: <span id="total-due">$4.00 USD</span>
+                        </div>
+                    </div>
+                    <div id="paypal-button-container"></div>
+                </div>
+            </div>
+            <div class="col-sm"></div>
+        </div>
+    </div>
+    <script src="https://www.paypal.com/sdk/js?client-id=BAAthEpPOu_RsqCvPJHsYzvlT2Ju24o7LhBs0XHguulUHi5-H5tXNtdNSWgmiWEZSfIjWv8G7pHuEyIBTo&components=hosted-buttons&disable-funding=venmo&currency=USD"></script>
+
+    <script>
+        const plans = {
+            basic: { monthly: "2.99", annually: "19.99", buttonIds: { monthly: "ZQRQW9RHVZ5EE", annually: "439MMAK6QE3LW" } },
+            standard: { monthly: "4.00", annually: "35.99", buttonIds: { monthly: "2NEP4G7M9FZQC", annually: "7QUYF7GHCV8V2" } },
+            premium: { monthly: "19.99", annually: "99.99", buttonIds: { monthly: "S9PK5SB3GPU9A", annually: "H2BTRL34AE65C" } }
+        };
+
+        function updatePlanLabels() {
+            const billingFrequency = document.getElementById("billing-frequency").value;
+            const planSelector = document.getElementById("plan-selector");
+
+            for (let i = 0; i < planSelector.options.length; i++) {
+                const option = planSelector.options[i];
+                const plan = option.value;
+                const planAmount = option.getAttribute(`data-${billingFrequency}`);
+                const planText = `${plan.charAt(0).toUpperCase() + plan.slice(1)} Plan - $${planAmount} USD ${billingFrequency.charAt(0).toUpperCase() + billingFrequency.slice(1)}`;
+                option.text = planText;
+            }
+        }
+
+        function updatePlan() {
+            const planTitle = document.getElementById("plan-title");
+            const totalDue = document.getElementById("total-due");
+            const selectedPlanElement = document.getElementById("plan-selector");
+            const selectedPlan = selectedPlanElement.value;
+            const billingFrequency = document.getElementById("billing-frequency").value;
+
+            const planAmount = plans[selectedPlan] ? plans[selectedPlan][billingFrequency] : "0.00";
+            const buttonId = plans[selectedPlan] ? plans[selectedPlan].buttonIds[billingFrequency] : null;
+            updatePlanLabels();
+
+            planTitle.textContent = `${selectedPlan.charAt(0).toUpperCase() + selectedPlan.slice(1)} Plan`;
+            totalDue.textContent = `$${planAmount} USD`;
+
+            const paypalButtonContainer = document.getElementById("paypal-button-container");
+            paypalButtonContainer.innerHTML = '';
+
+            if (buttonId) {
+                paypal.HostedButtons({
+                    hostedButtonId: buttonId
+                }).render("#paypal-button-container");
+            }
+        }
+        document.getElementById("plan-selector").addEventListener("change", updatePlan);
+        document.getElementById("billing-frequency").addEventListener("change", updatePlan);
+        updatePlan();
+    </script>
+</body>
+</html>
