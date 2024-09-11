@@ -1,25 +1,167 @@
+# Node modules
 node_modules/
+
+# Build output
 dist/
-*.tsbuildinfo
-.DS_Store
-scripts/smoke/*-main/
-scripts/memory/project/src/pages/
-benchmark/projects/
-benchmark/results/
-test-results/
+build/
+out/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# IDE and Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 *.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# Yarn and npm lock files
+yarn.lock
 package-lock.json
-.turbo/
-.eslintcache
-.pnpm-store
 
-/.vscode/settings.json
+# Coverage reports
+coverage/
+*.lcov
 
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.pid
+
+# Documentation files
+*.pdf
+
+# Webpack files
+*.bundle.js
+*.map
+
+# Mac OS X Finder files
+*.DS_Store
+
+# Windows system files
+*.cab
+*.msi
+*.lnk
+
+# Custom OS and IDE files
+*.project
+*.classpath
+
+# Vagrant
+.vagrant/
+
+# Jekyll
+_site/
+
+# Nuxt.js
+.nuxt/
+static/
+
+# Next.js
+.next/
+
+# Gatsby
+.cache/
+public/
+
+# Angular
+.angular/
+dist/
+node_modules/
+
+# React Native
+*.apk
+*.aab
+*.keystore
+
+# Laravel
+/vendor/
 *.env
+Homestead.yaml
+Homestead.json
 
-packages/**/test/**/fixtures/**/.astro/
-packages/**/test/**/fixtures/**/env.d.ts
-packages/**/e2e/**/fixtures/**/.astro/
-packages/**/e2e/**/fixtures/**/env.d.ts
-examples/**/.astro/
-examples/**/env.d.ts
+# Ruby
+*.gem
+*.rbc
+.bundle/
+config.ru
+coverage/
+capybara-*.html
+.ruby-version
+.ruby-gemset
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs/
+*.tox/
+*.nox/
+*.coverage
+*.py[co]
+*.pyo
+*.pyd
+*.db
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+.env
+*.env
+media
+staticfiles
+
+# C++
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.lo
+*.la
+
+# C#
+*.exe
+*.dll
+*.pdb
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Other files
+Icon?
+*.pem
+*.p12
+*.crt
+*.key
+*.jks
