@@ -179,7 +179,7 @@
                         <img class="logo" src="https://analyzemydream.com/favicon-192.png" alt="AnalyzeMyDream Logo">
                         <br>
                         <h3 class="main-title">AnalyzeMyDream</h3> 
-                        <div class="main-title" id="plan-title" style="margin: 0 auto; position: relative; text-align:center;">basic Plan</div>
+                        <div class="main-title" id="plan-title" style="margin: 0 auto; position: relative; text-align:center;">Premium Plan</div>
                     </h3>
                 </div>
 
@@ -191,15 +191,14 @@
                             <select id="plan-selector" class="ms-select">
                                 <option value="basic" data-monthly="2.99" data-annually="19.99">Basic Plan</option>
                                 <option value="standard" data-monthly="4.00" data-annually="35.99">Standard Plan</option>
-                                <option value="premium" data-monthly="19.99" data-annually="99.99">Premium Plan</option>
+                                <option value="premium" data-monthly="19.99" data-annually="99.99" selected>Premium Plan</option>
                             </select>
-                            
                         </div>
                     </div>
                     <div>
                         <label for="billing-frequency">Billing Frequency:</label>
                         <select id="billing-frequency">
-                            <option value="monthly">Monthly</option>
+                            <option value="monthly" selected>Monthly</option>
                             <option value="annually">Annually</option>
                         </select>
                     </div>
@@ -215,7 +214,7 @@
                     </div>
                     <div class="total-due-container">
                         <div class="total-due-label">
-                            Total Due: <span id="total-due">$4.00 USD</span>
+                            Total Due: <span id="total-due">$19.99 USD</span>
                         </div>
                     </div>
                     <div id="paypal-button-container"></div>
