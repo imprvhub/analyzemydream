@@ -9,7 +9,6 @@ tags: ['Miscelánea']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-having-your-hair-cut.jpeg)
 
-## ¿Qué significa soñar con cortarse el pelo o cortarse el pelo?
 
 Los sueños suelen proporcionar información valiosa sobre nuestras emociones, miedos y deseos. Los sueños sobre el pelo, en particular, pueden tener un significado importante, ya que el pelo suele estar asociado con el poder personal, la identidad y la vitalidad.
 

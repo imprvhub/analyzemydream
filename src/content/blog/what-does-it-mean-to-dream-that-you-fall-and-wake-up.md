@@ -9,7 +9,6 @@ tags: ['Miscelánea']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-fall-and-wake-up.jpeg)
 
-## ¿Qué significa soñar que te caes y despiertas?
 
 Los sueños de caídas son una experiencia común que, a menudo, nos deja una sensación de inquietud. Estos sueños se pueden interpretar desde una perspectiva tanto psicológica como biológica y ofrecen información sobre nuestra vida de vigilia y nuestros ciclos de sueño. 
 

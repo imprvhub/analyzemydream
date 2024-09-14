@@ -9,7 +9,6 @@ tags: ['Surrealismo']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-ghosts.jpeg)
 
-## ¿Qué significa soñar con fantasmas?
 
 Los sueños con fantasmas pueden ser inquietantes, pero su significado no siempre es negativo. En el psicoanálisis, estos sueños suelen reflejar emociones y sentimientos reprimidos que surgen de la mente inconsciente. Cada detalle del sueño juega un papel vital para comprender su mensaje más profundo.
 

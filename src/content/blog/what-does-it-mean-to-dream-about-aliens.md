@@ -9,7 +9,6 @@ tags: ['Surrealismo']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-aliens.jpeg)
 
-## ¿Qué significa soñar con extraterrestres?
 
 Los sueños con extraterrestres pueden ser cautivadores y enigmáticos. A menudo evocan sentimientos de asombro, miedo o incluso una sensación de lo desconocido. El simbolismo de estos sueños puede ofrecer información valiosa sobre nuestro yo interior y los desafíos que enfrentamos en nuestra vida de vigilia. 
 

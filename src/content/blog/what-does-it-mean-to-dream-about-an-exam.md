@@ -9,7 +9,6 @@ tags: ['Miscelánea']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-exam.jpeg)
 
-## ¿Qué significa soñar con un examen?
 
 Los sueños sobre exámenes pueden ser una fuente de estrés, ya que reflejan nuestras ansiedades y preocupaciones en la vida real. Estos sueños a menudo surgen de la presión que sentimos para actuar o demostrar nuestro valor. Profundicemos en las interpretaciones más comunes de los sueños sobre exámenes y cómo pueden reflejar tu subconsciente. 
 

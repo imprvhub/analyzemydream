@@ -9,7 +9,6 @@ tags: ['Salud']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-illness.jpeg)
 
-## ¿Qué significa soñar con una enfermedad?
 
 Los sueños sobre enfermedades pueden ser inquietantes y reflejar nuestra ansiedad por nuestra salud y el bienestar de quienes amamos. Sin embargo, los detalles específicos de su sueño pueden ofrecer información valiosa sobre su estado emocional actual y los desafíos potenciales.
 
