@@ -9,7 +9,6 @@ tags: ['Animais']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-frogs.jpeg)
 
-## O que significa sonhar com sapos?
 
 Sonhar com sapos pode ser intrigante, às vezes até perturbador. No entanto, essas visões geralmente são simbólicas e podem oferecer valiosos insights sobre a sua mente subconsciente.
 

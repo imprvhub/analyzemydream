@@ -9,7 +9,6 @@ tags: ['Diversos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-fall-and-wake-up.jpeg)
 
-## O que significa sonhar que você cai e acorda?
 
 Sonhos de queda são uma experiência comum, muitas vezes nos deixando inquietos. Esses sonhos podem ser interpretados de uma perspectiva psicológica e biológica, oferecendo insights sobre nossas vidas despertas e ciclos de sono. 
 

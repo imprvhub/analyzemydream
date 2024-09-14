@@ -9,7 +9,6 @@ tags: ['Insetos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-lice.jpeg)
 
-## O que significa sonhar com piolhos?
 
 Sonhar com piolhos pode ser perturbador, evocando imagens de coceira e desconforto. No entanto, o significado por trás desses sonhos nem sempre é negativo. Explorar o simbolismo dos piolhos nos sonhos pode revelar insights importantes sobre nossos pensamentos e sentimentos subconscientes.
 

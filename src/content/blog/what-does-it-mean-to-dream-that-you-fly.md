@@ -9,7 +9,6 @@ tags: ['Atividades']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-fly.jpeg)
 
-## O que significa sonhar que você está voando?
 
 Você já acordou de um sonho sentindo uma sensação de euforia, como se tivesse acabado de experimentar a emoção de voar? Sonhos de voar são incrivelmente comuns e muitas vezes nos deixam com uma sensação persistente de admiração e alegria. Mas o que esses sonhos realmente significam?
 

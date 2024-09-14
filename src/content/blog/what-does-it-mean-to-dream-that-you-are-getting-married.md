@@ -9,7 +9,6 @@ tags: ['Aspiracoes']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-you-are-getting-married.jpeg)
 
-## O que significa sonhar em se casar?
 
 Sonhos sobre casamentos são comuns e muitas vezes têm um significado profundo, refletindo tanto desejos conscientes quanto ansiedades inconscientes. Embora a imagem de um casamento muitas vezes evoque felicidade, esses sonhos também podem desencadear sentimentos de mal-estar ou ansiedade, dependendo dos detalhes específicos e das experiências pessoais do sonhador. 
 

@@ -9,7 +9,6 @@ tags: ['Atividades']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-running.jpeg)
 
-## O que significa sonhar em correr?
 
 A corrida, atividade comum para a manutenção do bem-estar físico e mental, também pode aparecer em nossos sonhos, carregando um simbolismo significativo. Embora os sonhos de corrida muitas vezes signifiquem aspectos positivos, como novos começos e aspirações, sua interpretação específica depende do contexto.
 

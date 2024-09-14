@@ -9,7 +9,6 @@ tags: ['Atividades']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-music.jpeg)
 
-## O que significa sonhar com música?
 
 A música é uma força poderosa em nossas vidas, entrelaçando-se no tecido de nossas experiências. De passeios de carro a festas, a música nos acompanha, moldando nossos humores e emoções. Mas o que acontece quando a música entra no reino dos nossos sonhos? 
 

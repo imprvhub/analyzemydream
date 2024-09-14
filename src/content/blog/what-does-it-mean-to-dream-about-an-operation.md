@@ -9,7 +9,6 @@ tags: ['Saude']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-operation.jpeg)
 
-## O que significa sonhar com uma operação?
 
 Os sonhos fascinam pesquisadores e psicólogos há muito tempo, oferecendo um vislumbre de nossas mentes subconscientes. Sonhos sobre cirurgia, em particular, podem ser perturbadores e evocar sentimentos de ansiedade. Esses sonhos geralmente simbolizam ansiedades e lutas subjacentes que podemos estar enfrentando em nossas vidas despertas. 
 

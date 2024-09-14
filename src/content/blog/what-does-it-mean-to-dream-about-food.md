@@ -9,7 +9,6 @@ tags: ['Comida']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-food.jpeg)
 
-## O que significa sonhar com comida?
 
 A comida desempenha um papel vital em nossas vidas, nutrindo nossos corpos e nos conectando com entes queridos. Não é de se surpreender, então, que a comida frequentemente apareça em nossos sonhos, carregando um significado simbólico que pode revelar insights sobre nosso estado emocional e desejos subconscientes. 
 

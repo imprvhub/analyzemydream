@@ -9,7 +9,6 @@ tags: ['Insetos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-worms.jpeg)
 
-## O que significa sonhar com minhocas?
 
 Sonhos com minhocas podem ser perturbadores, mas geralmente carregam significados simbólicos relacionados à transformação, crescimento e mudança pessoal. Este guia explora várias interpretações com base no contexto do sonho, incluindo tipo de minhoca, cor e sentimentos associados. 
 

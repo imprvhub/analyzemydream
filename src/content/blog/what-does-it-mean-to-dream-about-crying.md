@@ -9,7 +9,6 @@ tags: ['Sentimentos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-crying.jpeg)
 
-## O que significa sonhar com choro?
 
 O choro é uma linguagem universal que reflete uma ampla gama de emoções humanas. Embora frequentemente o associemos à tristeza, o choro também pode expressar alegria, frustração e até diversão. Nos sonhos, o choro geralmente serve como um símbolo poderoso, refletindo nossos sentimentos e ansiedades mais profundos. 
 

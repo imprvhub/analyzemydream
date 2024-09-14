@@ -9,7 +9,6 @@ tags: ['Surrealismo']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-witches.jpeg)
 
-## O que significa sonhar com bruxas?
 
 As bruxas, com sua associação duradoura com magia, natureza e poder espiritual, têm uma presença cativante em muitas culturas. Sua aparição em sonhos pode despertar curiosidade e nos levar a mergulhar em seu significado mais profundo. Muitas vezes, esses sonhos refletem aspectos ocultos de nossas personalidades, ansiedades ou até mesmo uma conexão com o reino espiritual. 
 

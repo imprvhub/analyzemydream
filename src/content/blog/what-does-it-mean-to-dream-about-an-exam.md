@@ -9,7 +9,6 @@ tags: ['Diversos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-exam.jpeg)
 
-## O que significa sonhar com uma prova?
 
 Sonhos sobre provas podem ser uma fonte de estresse, refletindo nossas ansiedades e preocupações na vida real. Esses sonhos geralmente surgem da pressão que sentimos para ter um bom desempenho ou provar nosso valor. Vamos nos aprofundar nas interpretações mais comuns dos sonhos com provas e como elas podem refletir seu subconsciente. 
 

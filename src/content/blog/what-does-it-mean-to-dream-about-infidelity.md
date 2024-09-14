@@ -9,7 +9,6 @@ tags: ['Pessoas', 'Sentimentos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg)
 
-## O que significa sonhar com infidelidade?
 
 Os sonhos podem ser desconcertantes, especialmente quando envolvem tópicos delicados como infidelidade. Embora a ideia de traição na vida real seja desconcertante, sonhar com isso pode ser igualmente inquietante. Se você sonhou com infidelidade, é natural se perguntar o que isso significa. Este guia explorará os vários significados por trás de diferentes sonhos de infidelidade, ajudando você a entender o que seu subconsciente pode estar tentando lhe dizer.
 

@@ -9,7 +9,6 @@ tags: ['Atividades']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-work.jpeg)
 
-## O que significa sonhar com trabalho?
 
 Sonhos sobre trabalho são um fenômeno comum, muitas vezes refletindo nossas ansiedades, aspirações e pensamentos subconscientes sobre nossas vidas profissionais. Embora nem sempre ofereçam previsões literais, esses sonhos podem fornecer insights valiosos sobre nossas emoções e motivações. 
 

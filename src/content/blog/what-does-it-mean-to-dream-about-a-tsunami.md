@@ -9,7 +9,6 @@ tags: ['Natureza']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-a-tsunami.jpeg)
 
-## O que significa sonhar com um tsunami?
 
 Os sonhos geralmente fornecem uma janela para o nosso subconsciente, revelando ansiedades e desejos que podemos não reconhecer prontamente. Um tsunami, no contexto de um sonho, pode ser uma imagem impressionante e perturbadora que contém um significado significativo. 
 

@@ -9,7 +9,6 @@ tags: ['Animais']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-mice.jpeg)
 
-## O que significa sonhar com ratos?
 
 Você já acordou de um sonho com ratos, com o coração batendo forte no peito? Embora os sonhos com essas pequenas criaturas não sejam normalmente associados a experiências positivas, eles geralmente refletem as ansiedades e os desafios que enfrentamos em nossas vidas diárias.
 

@@ -9,7 +9,6 @@ tags: ['Animais']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-crabs.jpeg)
 
-## O que significa sonhar com caranguejos?
 
 Sonhar com caranguejos pode ser mais do que apenas uma experiência noturna passageira. Muitas vezes pode refletir emoções e preocupações profundas que espreitam em nosso subconsciente. O significado de um sonho com caranguejo pode variar dependendo de detalhes específicos, como tamanho, estado e ações do caranguejo. Vamos explorar as possíveis interpretações dos diferentes sonhos com caranguejos:
 

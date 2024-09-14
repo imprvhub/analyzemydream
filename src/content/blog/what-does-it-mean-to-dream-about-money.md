@@ -9,7 +9,6 @@ tags: ['Fortuna']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-money.jpeg)
 
-## O que significa sonhar com dinheiro?
 
 Sonhos sobre dinheiro geralmente têm um significado mais profundo do que seu valor superficial. Como Sigmund Freud, o pioneiro da psicanálise, afirmou, os sonhos oferecem uma janela para nossa mente inconsciente, revelando desejos, ansiedades e aspirações ocultos. 
 

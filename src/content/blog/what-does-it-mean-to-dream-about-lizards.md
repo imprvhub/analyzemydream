@@ -9,7 +9,6 @@ tags: ['Animais']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-lizards.jpeg)
 
-## O que significa sonhar com lagartos?
 
 Sonhar com lagartos pode ser uma experiência intrigante e às vezes perturbadora. Essas criaturas geralmente simbolizam uma interação complexa de emoções e ansiedades dentro de nossas mentes subconscientes, com seus movimentos furtivos e natureza reptiliana adicionando camadas de mistério. 
 

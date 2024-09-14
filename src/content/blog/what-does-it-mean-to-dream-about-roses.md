@@ -9,7 +9,6 @@ tags: ['Natureza']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-roses.jpeg)
 
-## O que significa sonhar com rosas?
 
 Sonhos com rosas geralmente evocam sentimentos de amor, paixão e beleza. A interpretação exata, no entanto, pode variar dependendo dos detalhes do sonho. Sigmund Freud, o pai da psicanálise, associou rosas com alegria, amor e sensualidade. Seu formato delicado, aroma agradável e beleza geral também simbolizam harmonia e paz familiar.
 

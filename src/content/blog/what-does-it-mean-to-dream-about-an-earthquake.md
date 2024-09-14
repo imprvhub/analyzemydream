@@ -9,7 +9,6 @@ tags: ['Natureza']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-an-earthquake.jpeg)
 
-## O que significa sonhar com um terremoto?
 
 Os sonhos geralmente servem como uma janela para o nosso subconsciente, revelando nossos medos, ansiedades e desejos mais profundos em forma simbólica. Sonhar com um terremoto, um desastre natural poderoso e inquietante, pode ser particularmente intrigante e impactante. Muitas vezes simboliza sentimentos de instabilidade, incerteza e perda de controle em sua vida desperta. 
 

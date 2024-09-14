@@ -9,7 +9,6 @@ tags: ['Diversos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-having-your-hair-cut.jpeg)
 
-## O que significa sonhar em cortar o cabelo ou cortar o cabelo?
 
 Os sonhos geralmente fornecem insights valiosos sobre nossas emoções, medos e desejos. Sonhos sobre cabelo, em particular, podem ter um significado significativo, pois o cabelo é frequentemente associado ao poder pessoal, identidade e vitalidade.
 

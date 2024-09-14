@@ -9,7 +9,6 @@ tags: ['Pessoas', 'Sentimentos']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-your-ex.jpeg)
 
-## O que significa sonhar com seu ex?
 
 Sonhos sobre ex-parceiros são uma experiência comum, muitas vezes deixando as pessoas confusas e buscando respostas. Este guia explora os significados potenciais por trás desses sonhos e oferece etapas práticas para navegar em seu impacto. 
 

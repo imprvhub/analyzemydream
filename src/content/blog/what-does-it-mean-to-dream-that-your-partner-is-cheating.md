@@ -9,7 +9,6 @@ tags: ['Pessoas']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-that-your-partner-is-cheating.jpeg)
 
-## O que significa sonhar que seu parceiro está traindo?
 
 Sonhar com seu parceiro sendo infiel pode ser uma experiência angustiante, deixando você confuso e ansioso. Embora esses sonhos nem sempre tenham um significado literal, eles geralmente refletem suas preocupações e emoções internas que podem ter passado despercebidas durante o dia. 
 

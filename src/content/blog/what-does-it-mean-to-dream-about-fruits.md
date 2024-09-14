@@ -9,7 +9,6 @@ tags: ['Comida']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-fruits.jpeg)
 
-## O que significa sonhar com frutas?
 
 Os sonhos geralmente apresentam objetos inesperados, e as frutas não são exceção. Embora possam parecer mundanas na vida desperta, sua presença nos sonhos pode ter um significado significativo. 
 

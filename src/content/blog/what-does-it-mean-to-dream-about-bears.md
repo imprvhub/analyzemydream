@@ -9,7 +9,6 @@ tags: ['Animais']
 
 ![AnalyzeMyDream.com](/blog/what-does-it-mean-to-dream-about-bears.jpeg)
 
-## O que significa sonhar com ursos?
 
 Os sonhos podem ser enigmáticos, cheios de simbolismo que pode ser fascinante e desconcertante. O aparecimento de ursos em sonhos, criaturas raramente encontradas na vida cotidiana, pode ser particularmente intrigante. 
 
