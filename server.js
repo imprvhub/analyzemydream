@@ -41,12 +41,11 @@ app.post('/paypal-webhook', async (req, res) => {
   if (event.event_type === 'BILLING.SUBSCRIPTION.CREATED') {
     const subscriptionId = event.resource.id;
     const eventTime = event.create_time;
-    const email = event.resource.subscriber?.email_address || null;  // Captura el email si está disponible
+    const email = event.resource.subscriber?.email_address || null; 
 
     console.log('New Subscription ID:', subscriptionId);
 
     try {
-      // Insertar el evento en la base de datos
       const insertQuery = `
         INSERT INTO webhooks (subscription_id, event_type, event_time, email, full_event)
         VALUES ($1, $2, $3, $4, $5)

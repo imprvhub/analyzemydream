@@ -246,9 +246,197 @@
                 width: 100%;
             }
         }
+        /* Estilos del modal */
+        .modal {
+            position: fixed;
+            left: 0;
+            top: 0;
+            z-index: 30;
+            display: flex;
+            height: 0;
+            width: 100%;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background-color: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(4px);
+        }
+
+        .modal.open {
+            height: 100%;
+        }
+
+        .modal__popup {
+            margin: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            max-width: 500px;
+            transform: translateY(1.5rem);
+            overflow: hidden;
+            border-radius: 0.5rem;
+            border: 1px solid #e5e7eb;
+            background-color: white;
+            color: #6b7280;
+            opacity: 0;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            transition: all 0.5s ease;
+        }
+
+        .modal.open .modal__popup {
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .modal__header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 0.5rem 1.5rem;
+            font-size: 1.25rem;
+            font-weight: 500;
+            position: relative; 
+        }
+
+        .modal__close {
+            position: absolute;
+            right: 10px; 
+            top: 50%; 
+            transform: translateY(-50%);
+            padding: 0.625rem;
+            font-size: 20px;
+            width: 40px;
+            background-color: #dcd9d9;
+        }
+
+        .modal__title {
+            margin-bottom: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-size: 1.25rem;
+            text-align: center; 
+            flex-grow: 1; 
+        }
+
+        .modal__body {
+            padding: 1.5rem;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 1rem;
+        }
+
+        .btn {
+            margin: 0 0.5rem;
+            padding: 0.5rem 1rem;
+            background-color: #7bc7c7;
+            color: white;
+            border: none;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #5b9797;
+        }
+
+
+        .close-btn:hover {
+            background-color: #e0e0e0;
+        }
+
+
+        @media (max-width: 600px) {
+            .modal__popup {
+                width: 95%;
+            }
+        }
+
+        .modal-content {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 90%;
+            max-width: 500px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        button {
+            margin: 0 10px;
+            padding: 10px 20px;
+            background-color: #7bc7c7;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #5b9797;
+        }
+
+        @media (max-width: 600px) {
+            .modal-content {
+                width: 95%;
+                padding: 15px;
+            }
+
+            .close {
+                font-size: 20px; 
+            }
+
+            button {
+                padding: 8px 15px;
+            }
+        }
+
     </style>
 </head>
 <body>
+    <!-- Modal HTML -->
+    <div id="subscriptionModal" class="modal hide">  
+        <div class="modal__popup">
+            <div class="modal__header">
+                <h2 class="modal__title">Thank you for subscribing!</h2>
+            </div>
+            <div class="modal__body">
+                <p style="text-align:center;">Your subscription has been successfully created.</p>
+                <p id="subscriptionId" style="text-align:center;"></p> 
+                <div class="button-container">
+                    <button onclick="window.location.href='https://analyzemydream.com/dashboard'" class="btn">Go To Dashboard</button>
+                    <button onclick="window.location.href='https://paypal.com/billing/subscriptions'" class="btn">Manage Subscriptions</button>
+                </div>
+            </div>
+        </div>
+      </div>
     <div class="container">
         <div class="row">
             <div class="col-sm"></div>
@@ -334,7 +522,16 @@
             }
         };
 
+        function openModal(subscriptionId) {
+            document.getElementById("subscriptionId").textContent = subscriptionId; 
+            const modal = document.getElementById("subscriptionModal");
+            modal.className = "modal open"; 
+        }
 
+
+        function closeModal() {
+            document.getElementById("subscriptionModal").style.display = "none"; // Oculta el modal
+        }
         function updatePlanLabels() {
             const billingFrequency = document.getElementById("billing-frequency").value;
             const planSelector = document.getElementById("plan-selector");
@@ -379,7 +576,7 @@
                         });
                     },
                     onApprove: function(data, actions) {
-                        alert("Subscription ID: " + data.subscriptionID);
+                        openModal(data.subscriptionID); 
                     }
                 }).render('#paypal-button-container');
             }
