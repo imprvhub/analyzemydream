@@ -30,30 +30,28 @@ export interface NavData {
 
 export const navigationBarData: NavData = {
 	logo: {
-		src: '/logo.png',
+		src: '/logo.webp',
 		alt: 'Exploring dream meanings and enhancing self-understanding.',
 		text: 'AnalyzeMyDream.com'
 	},
 	navItems: [
 		{ name: 'Inicio', link: '/' },
-		
-		// { name: 'Explorar', link: '/blog' },
-		// { name: 'Features', link: '/features' },
-		// {
-		// 	name: 'Resources',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Changelog', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
-		// 	]
-		// },
+		{
+			name: 'Analizar',
+			link: '#', 
+			submenu: [
+				{ name: 'Fast-AI Dream Analyzer', link: '/fast-analyzer' },
+				{ name: 'Advanced-AI Dream Analyzer', link: '/advanced-analyzer' },
+				{ name: 'Custom-AI Dream Analyzer', link: '/custom-analyzer' },
+				{ name: 'Comparative-AI Dream Analyzer', link: '/comparative-analyzer' },
+				{ name: 'Batch-AI Dream Analyzer', link: '/batch-analyzer' }
+			]
+		},
 		{
 			name: 'Explorar',
 			link: '#',
 			submenu: [
-				{ name: 'Todos', link: '/blog/'},
+				{ name: 'Todos los significados', link: '/blog/'},
 				{ name: 'Animales', link: '/blog/tags/Animales' },
 				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
 				{ name: 'Personas', link: '/blog/tags/Personas' },
@@ -70,9 +68,8 @@ export const navigationBarData: NavData = {
 				{ name: 'Miscelánea', link: '/blog/tags/Miscelánea' },	
 			]
 		  },	
-		{ name: 'Analizar', link: '/analyze' },
-		// { name: 'API', link: '/api' },
-		{ name: 'Contacto', link: '/contact' },
+		  { name: 'API', link: '/api' },
+		  { name: 'Planes', link: '/pricing' },
 		{
 			name: 'ES',
 			link: '#',

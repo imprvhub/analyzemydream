@@ -226,5 +226,12 @@
 		"icon": "key",
 		"description": "Integrate multiple payment gateways to offer diverse payment options. Ensure secure transactions and smooth payment processing for users.",
 		"category": "Integrations"
+	},
+	{
+		"title": "Dedicated Customer Support",
+		"icon": "trophy",
+		"description": "Receive exceptional customer support whenever you need it. Our dedicated team is here 24/7 to assist you with any questions or issues.",
+		"category": "Support"
 	}
+	
 ]

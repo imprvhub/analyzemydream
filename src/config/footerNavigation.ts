@@ -34,10 +34,10 @@ export const footerNavigationData: FooterData = {
 	footerAbout: {
 		title: 'AnalyzeMyDream',
 		aboutText:
-			'Descubre el significado de tus sueños.',
+			'Explorando el significado de los sueños y mejorando la auto-comprensión.',
 		logo: {
-			src: '/logo.png',
-			alt: 'Descubre el significado de tus sueños',
+			src: '/logo.webp',
+			alt: 'Explorando el significado de los sueños y mejorando la auto-comprensión.',
 			text: 'AnalyzeMyDream.com'
 		}
 	},
@@ -45,30 +45,22 @@ export const footerNavigationData: FooterData = {
 		{
 			category: 'Recursos',
 			subCategories: [
-				// {
-				// 	subCategory: 'Características',
-				// 	subCategoryLink: '/features'
-				// },
-				// {
-				// 	subCategory: 'API',
-				// 	subCategoryLink: '/api'
-				// },
-				// {
-				// 	subCategory: 'Precios',
-				// 	subCategoryLink: '/pricing'
-				// },
 				{
-					subCategory: 'Changelog',
+					subCategory: 'Registro de cambios',
 					subCategoryLink: '/changelog'
+				},
+				{
+					subCategory: 'Referencia de API',
+					subCategoryLink: '/api'
 				},
 			]
 		},
-	
+
 		{
-			category: 'Información & Soporte',
+			category: 'Información y Soporte',
 			subCategories: [
 				{
-					subCategory: 'FAQ',
+					subCategory: 'Preguntas frecuentes',
 					subCategoryLink: '/faq'
 				},
 				{
@@ -76,17 +68,15 @@ export const footerNavigationData: FooterData = {
 					subCategoryLink: '/contact'
 				},
 				{
-					subCategory: 'Política de Privacidad',
+					subCategory: 'Política de privacidad',
 					subCategoryLink: '/privacy'
 				},
 				{
-					subCategory: 'Términos',
+					subCategory: 'Términos de uso',
 					subCategoryLink: '/terms'
 				},
 			]
 		},
-	
-		
 	],
 	subFooter: {
 		copywriteText: '© AnalyzeMyDream 2024.'

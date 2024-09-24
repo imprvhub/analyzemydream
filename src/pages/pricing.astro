@@ -14,14 +14,13 @@ import CTA from '../components/blocks/CTA/BasicDark.astro'
 // Content
 // - SEO
 const SEO = {
-	title: 'AnalyzeMyDream | ',
-	description:
-		''
+    title: 'AnalyzeMyDream | Planes de Suscripción',
+    description: 'Explora los diferentes planes de subscripción de AnalyzeMyDream: Básico, Estándar y Premium. Cada plan está diseñado para ajustarse a tus necesidades, con información detallada sobre sus características, beneficios y descuentos exclusivos.'
 }
-// - Page Header
+
 const header = {
-	title: '',
-	text: ''
+    title: 'Planes de <strong>Suscripción</strong>',
+    text: 'Compara nuestros planes de suscripción: Básico, Estándar y Premium, y elige el que mejor se adapte a tus necesidades. Explora todas las funcionalidades, precios y ofertas disponibles, incluidos los descuentos para suscripciones anuales.'
 }
 // - Testimonial data
 // import testimonialBackground from '../assets/testimonial-bg-02.webp'
@@ -36,8 +35,6 @@ const testimonialData = {
 <Layout title={SEO.title} description={SEO.description}>
 	<Hero title={header.title} text={header.text} />
 	<Price />
-	<SocialProof />
-	<Feature />
 	<FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
 	<CTA />
 </Layout>

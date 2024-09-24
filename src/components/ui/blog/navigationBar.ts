@@ -36,19 +36,7 @@ export const navigationBarData: NavData = {
 	},
 	navItems: [
 		{ name: 'Inicio', link: '/' },
-		
-		//  { name: 'Explorar', link: '/blog' },
-		// { name: 'Features', link: '/features' },
-		// {
-		// 	name: 'Resources',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Changelog', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
-		// 	]
-		// },
+
 		{
 			name: 'Explorar',
 			link: '#',

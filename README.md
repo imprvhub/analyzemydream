@@ -1,65 +1,76 @@
-## Bienvenido al Repositorio de AnalyzeMyDream.com:
+## Welcome to AnalyzeMyDream.com Repository:
 
 > [!NOTE]  
-> La versión **AnalyzeMyDream v1.2.0** ya está **disponible**!. Fecha de lanzamiento: **22.08.2024** - Esta actualización incluye varias nuevas características, como soporte en español y portugués, corrección de errores y mejoras para optimizar la experiencia del usuario. Para más detalles, revisa las [Notas de la versión v1.2.0](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.2.0). 
+> The release of **AnalyzeMyDream v1.3.0** is now **available**! Release Date: **23.09.2024**. This release introduces significant enhancements including new subscription plans, advanced dream analyzers, improved payment management through PayPal, and a restructured user interface for a better experience. For further details, please refer to the [v1.3.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.3.0).
 
-### Tabla de Contenidos
+### Table of Contents
 
-- [Descripción del Proyecto](#descripcion-del-proyecto)
-- [Características](#caracteristicas)
-- [Instalación](#instalacion)
-- [Uso](#uso)
-- [Comentarios](#comentarios)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Feedback](#feedback)
 
-### Descripción del Proyecto
+### Project Overview
 
-AnalyzeMyDream.com es un proyecto exploratorio destinado a mejorar la autocomprensión a través de la interpretación de sueños. En esta versión (v1.0.0), nos enfocamos en ofrecer interpretaciones detalladas y basadas en investigación, fundamentadas en fuentes bibliográficas confiables e integración con IA. Este lanzamiento sirve como una herramienta esencial para explorar los significados de los sueños, buscando enriquecer el crecimiento personal y la comprensión de uno mismo.
+AnalyzeMyDream.com is an exploratory project designed to enhance self-understanding through the interpretation of dreams. In this specific version (v1.3.0), the focus is on providing insightful and research-backed interpretations of dreams, grounded in established bibliographic sources and AI integration. This version serves as a foundational tool for people to explore the meanings behind their dreams, with the aim of enriching their personal growth and self-understanding.
 
-### Características
+### Features
 
-- **Soporte Multilingüe**: El sitio web ahora admite varios idiomas para alcanzar una audiencia más amplia.
-- **Interpretaciones de Sueños**: Interpretaciones detalladas de diversos símbolos y escenarios de sueños.
-- **Diseño Adaptativo**: Optimizado para una visualización cómoda en dispositivos de escritorio y móviles.
-- **Optimización para SEO**: Implementación de las mejores prácticas de SEO para mejorar la visibilidad en los motores de búsqueda.
-- **Integración de Análisis**: Seguimiento del compromiso del usuario y del rendimiento del sitio.
-- **Interpretación de Sueños con IA**: La última versión (v1.0.0) introduce un sistema avanzado de IA que ofrece análisis personalizados de sueños. Ahora, los usuarios pueden recibir interpretaciones adaptadas a sus sueños únicos, superando las fuentes bibliográficas de la versión anterior. Ten en cuenta que esta funcionalidad de IA está diseñada para proporcionar orientación y no debe considerarse una fuente definitiva.
+- **New Subscription Plans**: Introducing three subscription tiers: 'Basic Plan', 'Standard Plan', and 'Premium Plan', including a 7-day trial for the Basic Plan to explore all features.
+- **Advanced Dream Analyzers**: Added new analyzers including:
+  - 'Custom-AI Dream Analyzer'
+  - 'Comparative-AI Dream Analyzer'
+  - 'Batch-AI Dream Analyzer'
+  These require a subscription for access.
+- **Payment Management via PayPal**: Users can manage their subscription plans securely through PayPal, ensuring confidentiality and security.
+- **Passwordless Authentication**: Enhanced security with passwordless login options using Google and GitHub accounts.
+- **User Dashboard**: New 'dashboard.astro' and 'settings.astro' pages for users to manage API keys, subscription details, and account information securely.
+- **Multilingual Support**: The website supports multiple languages to reach a broader audience.
+- **Dream Interpretations**: Detailed interpretations of various dream symbols and scenarios.
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **SEO Optimized**: Implemented best practices for SEO to enhance visibility on search engines.
+- **Analytics Integration**: Track user engagement and site performance.
+- **AI-Powered Dream Interpretation**: The latest version introduces an advanced AI system that provides personalized dream analyses. Users can now receive tailored interpretations for their unique dreams, extending beyond the established bibliographic sources included in previous releases. Please note that this AI functionality is intended to offer guidance and insights and should be used as an informative tool rather than a definitive source.
 
-### Instalación
+### Installation
 
-Para comenzar, sigue estos pasos:
+To get started, follow these steps:
 
-1. **Clona el Repositorio**
+1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/imprvhub/AnalyzeMyDream.git
    ```
 
-2. **Accede al Directorio del Proyecto**
+2. **Navigate to the Project Directory**
 
    ```bash
    cd AnalyzeMyDream
    ```
 
-3. **Instala las Dependencias**
+3. **Install Dependencies**
 
    ```bash
    npm install
    ```
 
-#### Uso
+#### Usage
 
-1. **Inicia el Servidor de Desarrollo**
+1. **Start Development Server**
 
    ```bash
    npm run dev
    ```
 
-2. **Genera la Versión para Producción**
+2. **Build for Production**
 
    ```bash
    npm run build
    ```
 
-### Comentarios:
 
-¡Tu opinión es importante! Si encuentras algún problema o tienes sugerencias para mejorar, por favor crea un nuevo problema en el [repositorio de GitHub](https://github.com/imprvhub/AnalyzeMyDream/issues/new).
+### Feedback:
+
+Your feedback is valuable! If you encounter any issues or have suggestions for improvements, please create a new issue in the [GitHub repository](https://github.com/imprvhub/AnalyzeMyDream/issues/new).
+

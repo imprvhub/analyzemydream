@@ -1,0 +1,109 @@
+---
+import Section from '../../ui/Section.astro'
+import Row from '../../ui/Row.astro'
+import Col from '../../ui/Col.astro'
+// - UI
+import Accordion from '../../ui/Accordion.astro'
+import Card from '../../ui/cards/partials/Card.astro'
+
+// Props
+type Props = {
+	classes?: string
+}
+const { classes } = Astro.props
+---
+
+<Section id="FAQ" classes={classes}>
+	<Row>
+		<Col span="12" align="center" classes="mb-12 max-w-4xl mx-auto">
+			<h3 class="text-pretty">
+			 <strong>Preguntas Frecuentes</strong> sobre subscripciones
+			</h3>
+			<p class="text-lg leading-relaxed">
+				La gestión de los planes activos es a través del panel de control de Paypal. Allí podrás realizar las configuraciones que precises. A continuación las dudas más frecuentes sobre éste tópico:
+			</p>
+		</Col>
+		<Col span="2" />
+		<Col span="8">
+			<Card classes="divide-y divide-neutral-100 dark:divide-neutral-800">
+				<Accordion
+					title="¿Qué incluye la prueba gratuita?"
+					text="Con nuestra prueba gratuita obtienes acceso completo a todas las funciones de la plataforma por 7 días. Esto te permite evaluar cómo nuestras herramientas se adaptan a las necesidades de tu negocio, sin ningún costo."
+				/>
+				<Accordion
+					title="¿Puedo cancelar mi suscripción en cualquier momento?"
+					text="¡Por supuesto! Tienes la flexibilidad de cancelar tu suscripción cuando lo desees. Solo necesitas iniciar sesión en tu cuenta de PayPal para gestionar la configuración de tu suscripción."
+				/>
+				<Accordion
+					title="¿Cuál es la política de reembolso?"
+					text="Si no estás satisfecho con nuestro servicio, ofrecemos reembolsos dentro de los 30 días posteriores al inicio de la suscripción. Contacta a nuestro equipo de soporte para iniciar el proceso."
+				/>
+				<Accordion
+					title="¿Puedo cambiar mi plan más adelante?"
+					text="No es posible cambiar de plan a uno superior o inferior. Sin embargo, puedes cancelar tu suscripción actual y, si aplica, solicitar un reembolso. Para cambiar de plan, necesitarás suscribirte nuevamente a otro plan."
+				/>
+				<Accordion
+					title="¿Dónde puedo encontrar los términos y condiciones?"
+					text="Nuestros términos y condiciones están disponibles en la sección 'Términos de uso' de nuestra página web. Te recomendamos revisarlos para obtener más información al respecto."
+				/>
+				<Accordion
+					title="¿Cómo puedo ver los detalles de mi suscripción?"
+					text="Puedes consultar todos los detalles de tu suscripción en el panel de control. Si deseas hacer modificaciones, accede a tu cuenta de PayPal para gestionar las subscripciones."
+				/>
+			</Card>
+		</Col>
+		<Col span="2" />
+	</Row>
+	<br />
+	<div id="subscribeButtonContainer" style="display: none;">
+		<div class="subscribe-container">
+			<a href="/pricing" class="subscribe-link">
+				<button class="subscribe-btn">Explorar Planes</button>
+			</a>
+		</div>
+		<br />
+	</div>
+	<div id="manageSubscriptionsButtonContainer" style="display: none;">
+		<div class="subscribe-container">
+			<a href="https://paypal.com/billing/subscriptions" class="subscribe-link">
+				<button class="subscribe-btn">Gestionar Suscripciones</button>
+			</a>
+		</div>
+		<br />
+	</div>
+</Section>
+
+<style>
+	.page-header {
+		@apply mx-auto max-w-3xl;
+	}
+	.page-header__text {
+		@apply text-lg leading-relaxed;
+	}
+	.subscribe-link {
+		text-decoration: none;
+	}
+
+	.subscribe-container {
+		display: flex;
+		justify-content: center;
+		margin-top: 20px;
+	}
+
+	.subscribe-btn {
+		background-color: #7bc7c7;
+		color: white;
+		border: none;
+		padding: 12px 24px;
+		font-size: 16px;
+		border-radius: 5px;
+		cursor: pointer;
+		transition: background-color 0.3s ease, transform 0.2s ease;
+		font-family: Arial, sans-serif;
+	}
+
+	.subscribe-btn:hover {
+		background-color: #6aa7a7;
+		transform: scale(1.05);
+	}
+</style>
