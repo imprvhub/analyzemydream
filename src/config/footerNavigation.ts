@@ -36,7 +36,7 @@ export const footerNavigationData: FooterData = {
 		aboutText:
 			'Exploring dream meanings and enhancing self-understanding.',
 		logo: {
-			src: '/logo.png',
+			src: '/logo.webp',
 			alt: 'Exploring dream meanings and enhancing self-understanding.',
 			text: 'AnalyzeMyDream.com'
 		}
@@ -49,10 +49,10 @@ export const footerNavigationData: FooterData = {
 						subCategory: 'Changelog',
 						subCategoryLink: '/changelog'
 					},
-					// {
-					// 	subCategory: 'API Reference',
-					// 	subCategoryLink: '/api'
-					// },
+					{
+						subCategory: 'API Reference',
+						subCategoryLink: '/api'
+					},
 				]
 			},
 

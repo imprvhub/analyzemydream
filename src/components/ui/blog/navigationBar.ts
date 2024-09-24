@@ -33,26 +33,14 @@ export interface NavData {
 
 export const navigationBarData: NavData = {
 	logo: {
-		src: '/logo.png',
+		src: '/logo.webp',
 		alt: 'Exploring dream meanings and enhancing self-understanding.',
 		text: 'AnalyzeMyDream'
 	},
 	navItems: [
 		{ name: 'Home', link: '/' },
-		// { name: 'Pricing', link: '/pricing' },
 		{ name: 'Analyze', link: '/analyze' },
-		
-		// { name: 'Features', link: '/features' },
-		// {
-		// 	name: 'Resources',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Changelog', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
-		// 	]
-		// },
+
 		{
 			name: 'Explore',
 			link: '#',

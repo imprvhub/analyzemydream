@@ -1,0 +1,99 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Hero from '../components/blocks/hero/PageHeader.astro';
+import { Icon } from 'astro-icon/components'
+
+const userIsLoggedIn = !!Astro.locals.userId;
+
+const SEO = {
+    title: 'AnalyzeMyDream | Sign in',
+    description: 'Log in to your AnalyzeMyDream account and unlock a full range of features. Take advantage of powerful analyzers and advanced capabilities of our API for a rich and personalized experience.'
+}
+
+const header = {
+    title: 'Sign <strong>in</strong>',
+    text: 'Access your AnalyzeMyDream account to unlock exclusive tools, including advanced analyzers and the full API. Enhance your experience and gain deeper insights into your dreams.'
+}
+
+
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+  <Hero title={header.title} text={header.text} />
+  <div class="flex items-center justify-center flex-col">
+    <br>
+    <div class="flex w-full flex-col items-center justify-center">
+      <button class="auth-btn google-btn">
+        <a href="/api/auth/google" class="auth-link">
+          <Icon name="google-logo" class="h-6 w-6 mr-2" />
+            Sign in with Google
+        </a>
+      </button>
+
+      <div class="my-2 text-center text-gray-500">or</div>
+      <button class="auth-btn github-btn">
+        <a href="/api/auth/github" class="auth-link">
+            <img src="/assets/github-mark.svg" class="auth-icon" alt="GitHub Logo" />
+            Sign in with GitHub
+        </a>
+      </button>
+    </div>
+    <p class="text-center my-5 text-gray-500">
+      Don't have an account? <a href="/signup" class="text-primary underline">Sign up</a>
+    </p>
+  </div>
+  <br>
+</Layout>
+
+<style>
+  .auth-btn {
+      display: block;
+      width: 100%;
+      background-color: #ffffff;
+      color: #6b7280;
+      border: 1px solid #e5e7eb;
+      padding: 0.75rem;
+      width: 220px;
+      margin-bottom: 1rem;
+      text-align: center;
+      border-radius: 0.375rem;
+      font-weight: 600;
+      transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  }
+
+  .auth-btn:hover {
+      background-color: #f9fafb;
+      border-color: #d1d5db;
+  }
+
+  .auth-btn.google-btn {
+      background: #ffffff;
+  }
+
+  .auth-btn.github-btn {
+      background: #ffffff;
+  }
+
+  .auth-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      color: inherit;
+      font-weight: bold;
+  }
+
+  .auth-icon {
+      height: 1.5rem;
+      width: 1.5rem;
+      margin-right: 0.5rem;
+  }
+
+  .text-primary {
+      color: #7BC7C7;
+  }
+
+  .text-gray-500 {
+      color: #6b7280;
+  }
+</style>

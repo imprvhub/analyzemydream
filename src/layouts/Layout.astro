@@ -46,7 +46,8 @@ const { title, description, ogImage, noindex } = Astro.props
      <link rel="apple-touch-icon" sizes="144x144" href="/favicon-144-precomposed.png" />
      <link rel="apple-touch-icon" sizes="152x152" href="/favicon-152-precomposed.png" />
      <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180-precomposed.png" />
-     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.webp" />
+	 <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.1/dist/flowbite.min.css" rel="stylesheet" />
 	<Header title={title} description={description} ogImage={ogImage} noindex={noindex} />
 	<body
 		class:list={[
@@ -63,4 +64,5 @@ const { title, description, ogImage, noindex } = Astro.props
 		<Modal />
 		<Scriprs />
 	</body>
+	<script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.1/dist/flowbite.min.js"></script>
 </html>

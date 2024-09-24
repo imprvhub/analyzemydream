@@ -1,0 +1,75 @@
+---
+const { id = '', classes = '', size = 'base', style = 'primary', href = '', modal = '', children } = Astro.props;
+---
+
+<button
+  id={id}
+  class={`modal-button ${classes} ${size} ${style}`}
+  data-href={href}
+  data-modal={modal}
+>
+  {children}
+</button>
+
+<script type="module">
+  document.addEventListener('DOMContentLoaded', function () {
+    const buttons = document.querySelectorAll('button[data-href], button[data-modal]');
+
+    buttons.forEach(button => {
+      button.addEventListener('click', (event) => {
+        const modalId = button.getAttribute('data-modal');
+        const href = button.getAttribute('data-href');
+
+        if (modalId) {
+          event.preventDefault();
+          const modalElement = document.getElementById(modalId);
+          if (modalElement) {
+            modalElement.classList.add('open');
+          }
+        } else if (href) {
+          window.location.href = href;
+        }
+      });
+    });
+  });
+</script>
+
+<style>
+  .modal-button {
+  @apply inline-flex items-center justify-center rounded font-bold tracking-wide transition duration-300 cursor-pointer;
+  @apply whitespace-nowrap;
+  display: inline-flex;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.modal-button.base {
+  @apply h-10 px-5 text-sm; 
+}
+
+.modal-button.lg {
+  @apply h-12 px-6 text-sm; 
+}
+
+.modal-button.sm {
+  @apply h-8 px-4 text-xs; 
+}
+
+.modal-button.primary {
+  @apply bg-primary-500 text-white hover:bg-primary-700 focus:bg-primary-700;
+}
+
+.modal-button.secondary {
+  @apply bg-primary-50 text-primary-500 hover:bg-primary-100 hover:text-primary-600;
+}
+
+.modal-button.neutral {
+  @apply bg-neutral-700 text-white hover:bg-neutral-800 focus:bg-neutral-900;
+}
+
+.modal-button:hover {
+  @apply opacity-90;
+}
+
+</style>

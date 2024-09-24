@@ -1,0 +1,428 @@
+---
+import Hero from '../components/blocks/hero/PageHeader.astro';
+import Layout from '../layouts/Layout.astro';
+import { eq, desc, and, gte } from "drizzle-orm";
+import { db } from "../db";
+import { loginLogs, sessions } from "../db/schema";
+
+const authToken = Astro.cookies.get("app_auth_token")?.value;
+const sessionToken = Astro.cookies.get("app_auth_token")?.value;
+
+if (!sessionToken) {
+  return Astro.redirect("/");
+}
+
+if (!authToken) {
+  return Astro.redirect("/login");
+}
+
+const userInfo = await db.query.sessions.findFirst({
+  where: eq(sessions.id, sessionToken as string),
+  with: {
+    user: {
+      with: {
+        oauthTokens: {
+          columns: {
+            strategy: true,
+          },
+        },
+        loginLogs: {
+          orderBy: desc(loginLogs.loggedInAt),
+        },
+      },
+    },
+  },
+});
+
+const additionalUserInfo = await db.query.sessions.findFirst({
+  where: and(
+    eq(sessions.id, authToken as string),
+    gte(sessions.expiresAt, new Date().getTime())
+  ),
+  with: {
+    user: true,
+  },
+});
+
+
+const logs = userInfo?.user?.loginLogs.sort((a, b) =>
+  a.sessionId === sessionToken ? -1 : 1
+);
+
+function capitalizeFirstWord(text: string) {
+  return text.charAt(0).toUpperCase() + text.slice(1);
+}
+
+const userIsLoggedIn = !!Astro.locals.userId;
+
+const SEO = {
+    title: 'AnalyzeMyDream | Account Settings',
+    description: 'Manage your account settings, view your personal information, and configure your preferences. Access all the tools needed to customize your AnalyzeMyDream experience.'
+}
+
+const header = {
+    title: '<strong>Account</strong> Settings',
+    text: 'Manage your account settings, including personal details, connected accounts, and session information. Customize your experience and review your recent activity.'
+}
+
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+  <Hero title={header.title} text={header.text} />
+    <main title="Account Page" class="main-content">
+      <div class="email-section">
+        <span class="user-indicator">Email:</span>
+        <input
+          type="text"
+          class="email-input"
+          name="email"
+          placeholder="Email"
+          value={userInfo?.user?.email}
+          id="email"
+          readonly
+        />
+        <span class="user-indicator">Your Name:</span>
+        <input
+          type="text"
+          class="email-input"
+          name="fullName"
+          placeholder="Your Full Name"
+          value={userInfo?.user?.fullName}
+          id="fullName"
+          readonly
+        />
+        <span class="user-indicator">User Name:</span>
+        <input
+          type="text"
+          class="email-input"
+          name="userName"
+          id="userName"
+          value={userInfo?.user?.userName}
+          placeholder="Username"
+          readonly
+        />
+      </div>
+
+      {
+        userInfo?.user?.oauthTokens && userInfo?.user?.oauthTokens.length > 0 && (
+          <div class="connected-accounts">
+            <h4 class="sub-title">Connected Accounts</h4>
+            <div class="accounts-list">
+              {userInfo?.user?.oauthTokens.map((provider) => (
+                <div class="account-item">
+                  {provider.strategy === "github" ? (
+                    <img src="/assets/github-mark.svg" class="auth-icon" alt="GitHub Logo" />
+                  ) : (
+                    <img src="/assets/google.svg" class="google-icon" alt="Google Logo" width="30px" />
+                  )}
+                  {capitalizeFirstWord(provider.strategy)}
+                </div>
+              ))}
+            </div>
+          </div>
+        )
+      }
+
+    <div class="login-logs">
+      <h4 class="sub-title">Sessions</h4>
+      <div class="logs-list">
+        {
+          logs?.map((log) => (
+            <div class="log-item">
+              <div class="log-info">
+                {sessionToken === log.sessionId && (
+                  <div class="this-device-badge">
+                    This Device
+                  </div>
+                )}
+                {capitalizeFirstWord(log.os)}
+                {capitalizeFirstWord(log.device)}
+                {capitalizeFirstWord(log.browser)}
+              </div>
+              <div class="log-details">
+                <div>
+                  Logged in at:
+                  {new Intl.DateTimeFormat("en-US").format(
+                    new Date(log.loggedInAt!)
+                  )}
+                </div>
+                {sessionToken !== log.sessionId && (
+                  <button
+                    data-sid={log.sessionId}
+                    class="revoke-access"
+                  >
+                    Revoke Access
+                  </button>
+                )}
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+    <!-- <div class="logout-container">
+      <a href="/logout" class="logout-button">
+        Logout
+      </a>
+    </div> -->
+    
+    
+  </main>
+</Layout>
+
+<script>
+  const revokeAccessBtns = document.querySelectorAll(".revoke-access");
+
+  revokeAccessBtns.forEach((btn) => {
+    btn.addEventListener("click", async (e) => {
+      await fetch("/api/auth/revoke-access", {
+        method: "POST",
+        body: JSON.stringify({ sessionId: btn.getAttribute("data-sid") }),
+      });
+      window.location.reload();
+    });
+  });
+</script>
+<style>
+  .header {
+  @apply sticky top-0 z-20 w-full animate-fadeInShadowLight [animation-range:0%_20rem] [animation-timeline:scroll()];
+  @apply flex items-center justify-between px-12 py-5;
+}
+
+.header:before {
+  @apply block h-full w-full bg-white/90 lg:backdrop-blur-sm dark:bg-neutral-900/90;
+}
+
+.header__logo {
+  @apply flex items-center gap-2 whitespace-nowrap py-3 font-headings text-2xl font-black tracking-wider focus:outline-none;
+  position: relative;
+  top: -2px;
+  left: 2.5%;;
+}
+
+#logo-text {
+  font-size: 17px;
+  color: #334156;
+  position: relative;
+}
+
+.header__nav {
+  @apply flex items-center;
+}
+
+.header__menu {
+  @apply flex gap-5 items-center;
+}
+
+.header___menu-item {
+  @apply relative flex cursor-pointer flex-col items-stretch;
+}
+
+.header__menu-link {
+  @apply relative flex items-center gap-1 py-1 transition-colors duration-300 hover:text-primary-500 focus:text-primary-600 focus:outline-none lg:px-6;
+}
+
+.main-content {
+  @apply px-8 py-6 max-w-lg mx-auto;
+}
+
+.title {
+  @apply text-3xl font-bold text-center mb-8;
+}
+
+
+.p {
+  @apply text-xl font-semibold w-full md:w-1/4;
+}
+
+.email-input {
+  @apply border-2 border-gray-300 rounded-md px-2 py-2 w-full md:w-3/4 bg-gray-100 cursor-not-allowed;
+}
+
+.button-tur {
+  @apply border-2 border-[#7BC7C7] mt-5 block w-fit rounded-[5px] px-5 py-2 text-[#7BC7C7] bg-white hover:bg-gray-100 text-center inline-block;
+}
+
+.connected-accounts {
+  @apply my-5;
+}
+
+.sub-title {
+  font-size: 14px;
+  color: #8898ad;
+}
+
+.accounts-list {
+  @apply flex flex-wrap gap-4 items-center;
+}
+
+.account-item {
+    display: flex;
+    align-items: center;
+    border-width: 2px;
+    width: 120px;
+    --tw-border-opacity: 1;
+    height: 40px;
+    margin: 0 auto;
+    align-items: center;
+    border-color: rgb(209 213 219 / var(--tw-border-opacity));
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 5px;
+    gap: 0.3rem;
+}
+
+.account-item img.github-icon {
+  width: 20px;
+  height: 20px;
+  top: -1px;
+  position: relative;
+}
+
+.account-item img.google-icon {
+  width: 30px;
+  height: 28px;
+
+}
+
+.login-logs {
+  @apply my-5;
+}
+
+.logs-list {
+  @apply flex flex-col gap-4;
+}
+
+.log-item {
+  @apply flex flex-col lg:flex-row justify-between items-center shadow-md rounded-md px-4 py-3;
+  background-color: transparent;
+}
+
+:where(.dark, .dark *) .log-item {
+  @apply shadow-md rounded-md;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5); 
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.shadow-md-dark {
+  box-shadow: 0 4px 6px rgba(255, 255, 255, 0.2); 
+}
+
+
+.log-info {
+  @apply flex text-center flex-wrap justify-center items-center gap-2;
+}
+
+.this-device-badge {
+  @apply rounded-[5px] text-white px-2 py-1 text-sm;
+  background-color: #7BC7C7;
+}
+
+.log-details {
+  @apply flex gap-4 w-full lg:w-auto mt-2 flex-col md:flex-row flex-wrap;
+}
+
+.revoke-access {
+  @apply text-red-500;
+}
+
+.main-content {
+    padding: 2rem;
+  }
+
+  .p {
+    font-weight: bold;
+    display: block;
+  }
+
+  .email-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.375rem;
+  }
+
+  .connected-accounts {
+    margin-top: 2rem;
+  }
+
+  .accounts-list {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .account-item {
+    display: flex;
+    align-items: center;
+    background-color: #FFFFF9;
+    /* gap: 0.5rem; */
+    text-align: center;
+  }
+
+  .auth-icon, .google-icon {
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+
+  .email-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; 
+    margin-bottom: 2rem;
+    max-width: 600px; 
+    margin: 0 auto; 
+  }
+
+  .user-indicator {
+    display: block;
+    color: #8898ad;
+  }
+
+  .email-input {
+    border: 2px solid #d1d5db;
+    border-radius: 0.375rem;
+    padding: 0.75rem 1rem;
+    width: 100%;
+    background-color: transparent;
+    cursor: not-allowed;
+  }
+
+  .logout-container {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .logout-button {
+    display: inline-block;
+    background-color: #7bc7c7;
+    color: white;
+    padding: 0.75rem 1.25rem;
+    border: none;
+    border-radius: 0.375rem;
+    font-weight: bold;
+    text-decoration: none; 
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .logout-button:hover {
+    background-color: #66b2b2;
+  }
+
+
+  @media (min-width: 768px) {
+    .email-section {
+      align-items: center;
+    }
+
+    .email-input {
+      flex: 1;
+    }
+  }
+</style>

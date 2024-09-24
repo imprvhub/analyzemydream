@@ -5,23 +5,20 @@ import Layout from '../layouts/Layout.astro'
 // - UI
 import Hero from '../components/blocks/hero/PageHeader.astro'
 import Price from '../components/blocks/pricing/PricingColumns.astro'
-import SocialProof from '../components/blocks/socialproof/Basic.astro'
 import FAQ from '../components/blocks/FAQ/Basic.astro'
-import Testimonial from '../components/blocks/testimonials/BasicDark.astro'
-import Feature from '../components/blocks/features/FeatureList.astro'
 import CTA from '../components/blocks/CTA/BasicDark.astro'
 
 // Content
 // - SEO
 const SEO = {
-	title: 'AnalyzeMyDream | ',
-	description:
-		''
+    title: 'AnalyzeMyDream | Pricing',
+    description: "Discover the pricing plans for AnalyzeMyDream, including Basic, Standard, and Premium options. Find the perfect plan to suit your needs with detailed features and discounts."
 }
+
 // - Page Header
 const header = {
-	title: '',
-	text: ''
+    title: '<strong>Pricing</strong> Plans',
+    text: 'Compare our Basic, Standard, and Premium plans to find the best option for your dream analysis needs. Explore features, pricing, and annual discounts.'
 }
 // - Testimonial data
 // import testimonialBackground from '../assets/testimonial-bg-02.webp'
@@ -36,8 +33,6 @@ const testimonialData = {
 <Layout title={SEO.title} description={SEO.description}>
 	<Hero title={header.title} text={header.text} />
 	<Price />
-	<SocialProof />
-	<Feature />
 	<FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
 	<CTA />
 </Layout>

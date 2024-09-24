@@ -1,5 +1,4 @@
 ---
-
 import { Icon } from 'astro-icon/components'
 import Button from './Button.astro'
 import Switcher from './ModeSwitcher.astro'
@@ -14,6 +13,8 @@ function isActivePath(currentPath: string): boolean {
 	return path === currentPath || path === `${currentPath}/`
 }
 
+const userIsLoggedIn = !!Astro.locals.userId;
+const authToken = Astro.cookies.get("app_auth_token")?.value;
 // Type assertion for navActions to ensure type safety
 const savedNavActions = navActions.map((action) => ({
 	...action,
@@ -82,12 +83,41 @@ const savedNavActions = navActions.map((action) => ({
 			</li>
 		  ))}
 		</ul>
-  
+		
 		<!-- Theme Switcher -->
 		<Switcher />
+		
+		<!-- User Profile or Login -->
+		<div class="header___menu-item">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 cursor-pointer" id="profile-icon">
+			<path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
+			</svg>
+			
+			<!-- Submenu based on login status -->
+			{userIsLoggedIn ? (
+				<div class="header___submenu" id="profile-submenu">
+					<div class="header___submenu-item">
+						<a href="/dashboard" class="header__submenu-link">Dashboard</a>
+					</div>
+					<div class="header___submenu-item">
+						<a href="/settings" class="header__submenu-link">Settings</a>
+					</div>
+					<div class="header___submenu-item">
+						<a href="/api/auth/logout" class="header__submenu-link">Logout</a>
+					</div>
+				</div>
+			) : (
+				<div class="header___submenu" id="login-submenu">
+					<div class="header___submenu-item">
+						<a href="/login" class="header__submenu-link" style="padding-left: 3rem; padding-top: 3rem; padding-bottom: 3rem;">Login</a>
+					</div>
+				</div>
+			)}
+		</div>
 	  </nav>
 	</div>
   </header>
+
   
   <script>
 	function handleResize() {
@@ -104,23 +134,10 @@ const savedNavActions = navActions.map((action) => ({
 	window.addEventListener('resize', handleResize);
   </script>
 
-<script>
-	document.addEventListener('DOMContentLoaded', function () {
-	  const menuItems = document.querySelectorAll('.header__menu-item > .header__menu-link');
-	  
-	  menuItems.forEach((item) => {
-		if (item instanceof HTMLElement) {
-		  const textContent = item.textContent?.trim();
-		  if (textContent === 'EN' || textContent === 'Home') {
-			item.style.color = '#7BC7C7'; 
-		  }
-		}
-	  });
-	});
-  </script>
+
   
   <style>
-	.header {
+.header {
 	  @apply sticky top-0 z-20 w-full animate-fadeInShadowLight [animation-range:0%_20rem] [animation-timeline:scroll()] before:absolute after:absolute after:left-0 after:top-full after:z-10 after:block after:h-px after:w-full lg:after:hidden dark:animate-fadeInShadowDark dark:[animation-range:0%_20rem] dark:[animation-timeline:scroll()];
 	}
 	.header:before {
@@ -143,6 +160,7 @@ const savedNavActions = navActions.map((action) => ({
 	}
 	.header__menu-item {
 	  @apply relative flex cursor-pointer flex-col items-stretch lg:flex-row;
+	  /* left: 5rem; */
 	}
 	.header__menu-link {
 	  @apply relative flex items-center gap-1 py-1 transition-colors duration-300 hover:text-primary-500 focus:text-primary-600 focus:outline-none focus-visible:outline-none lg:px-6 [&.active]:text-primary-500;
@@ -185,5 +203,86 @@ const savedNavActions = navActions.map((action) => ({
 	.header__actions {
 	  @apply fixed bottom-0 left-0 hidden w-full items-center justify-between gap-4 border-t border-neutral-100 bg-white px-6 py-4 lg:relative lg:ml-auto lg:flex lg:w-auto lg:border-none lg:bg-transparent lg:px-0 lg:py-0 dark:border-neutral-800 dark:bg-neutral-950 lg:dark:bg-transparent [.header\_\_menu--open~&]:flex;
 	}
+
+	.header___menu-item {
+		position: relative;
+		display: flex;
+		left: 5rem;
+		cursor: pointer;
+		flex-direction: row !important;
+		align-items: center;
+		justify-content: flex-end;
+		flex-wrap: wrap;
+	}
+
+	.header___submenu {
+		display: none;
+		position: absolute;
+		top: 100%; 
+		left: -3rem;
+		z-index: 10;
+		background-color: rgba(255, 255, 255, 0.9);
+		box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+		min-width: 150px;
+		border-radius: 4px;
+		transition: background-color 0.3s ease, color 0.3s ease;
+	}
+
+	:where(.dark, .dark *) .header___submenu {
+		background-color: rgb(15 23 42 / 93%)
+	}
+
+	.header___submenu-link {
+		color: #333; 
+	}
+
+	:where(.dark, .dark *) .header___submenu-link {
+		color: #fff; 
+	}
+
+
+	.header___submenu--open {
+		display: block;
+	}
+
+	.header___submenu-item {
+		display: block;
+		padding-top: 0.3rem;
+    	padding-bottom: 0.3rem;
+	}
+
+	.header___submenu-link {
+		padding: 8px 12px;
+		display: block;
+		color: #333;
+		text-decoration: none;
+		font-size: 14px;
+	}
+
+	.header___submenu-link:hover {
+		background-color: #f0f0f0;
+		color: #0073e6;
+	}
+
+
+	.header___submenu-item {
+	display: block; 
+	}
+
+	.header___submenu {
+	display: none; 
+	}
+
+	.header___submenu--open {
+	display: block; 
+	}
+
+	
+
+	/* @media (min-width: 1024px) {
+		.header__menu {
+			margin-right: 60px;
+		}
+	}  */
   </style>
   
