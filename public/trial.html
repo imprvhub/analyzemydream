@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AnalyzeMyDream.com - Checkout (Trial Mode)</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/minstyle.io@2.0.1/dist/css/minstyle.io.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap">
+    <!-- Favicon Links -->
+    <link rel="icon" href="https://analyzemydream.com/favicon-32.png" sizes="32x32">
+    <style>
+        html, body {
+            background-color: white;
+            height: 100%;
+            margin: 0; 
+            font-family: 'Roboto', sans-serif; 
+        }
+
+        .logo {
+            width: 60px;
+        }
+
+        .main-title {
+            font-size: 20px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .form-card-header, .form-card {
+            background-image: url(./background-mosaic.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            border: 1px solid #E5E7EB;
+            color: black;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .form-fields {
+            margin: 20px 0;
+        }
+
+        .field-group {
+            margin-bottom: 15px;
+        }
+
+        .field-group label {
+            display: block;
+            font-size: 14px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .field-group input {
+            width: 100%;
+            padding: 8px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            text-align: center;
+            background-color: transparent;;
+            color: black;
+            border-radius: 4px;
+        }
+
+        .total-due-label {
+            font-size: 16px;
+            color: #000000;
+            font-weight: 700;
+            padding-bottom: 1rem;
+            text-align: center;
+        }
+
+        .container {
+            width: 40%;
+            margin: 0 auto;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .container {
+                width: 70%;
+            }
+        }
+        /* Estilos del modal */
+        .modal {
+            position: fixed;
+            left: 0;
+            top: 0;
+            z-index: 30;
+            display: flex;
+            height: 0;
+            width: 100%;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background-color: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(4px);
+        }
+
+        .modal.open {
+            height: 100%;
+        }
+
+        .modal__popup {
+            margin: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            max-width: 500px;
+            transform: translateY(1.5rem);
+            overflow: hidden;
+            border-radius: 0.5rem;
+            border: 1px solid #e5e7eb;
+            background-color: white;
+            color: #6b7280;
+            opacity: 0;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            transition: all 0.5s ease;
+        }
+
+        .modal.open .modal__popup {
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .modal__header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 0.5rem 1.5rem;
+            font-size: 1.25rem;
+            font-weight: 500;
+            position: relative; 
+        }
+
+        .modal__close {
+            position: absolute;
+            right: 10px; 
+            top: 50%; 
+            transform: translateY(-50%);
+            padding: 0.625rem;
+            font-size: 20px;
+            width: 40px;
+            background-color: #dcd9d9;
+        }
+
+        .required {
+            color: #7bc7c7;
+            margin-left: 5px;
+        }
+
+        .modal__title {
+            margin-bottom: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-size: 1.25rem;
+            text-align: center; 
+            flex-grow: 1; 
+        }
+
+        .modal__body {
+            padding: 1.5rem;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 1rem;
+        }
+
+        .btn {
+            margin: 0 0.5rem;
+            padding: 0.5rem 1rem;
+            background-color: #7bc7c7;
+            color: white;
+            border: none;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #5b9797;
+        }
+
+
+        .close-btn:hover {
+            background-color: #e0e0e0;
+        }
+
+
+        @media (max-width: 600px) {
+            .modal__popup {
+                width: 95%;
+            }
+        }
+
+        .modal-content {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 90%;
+            max-width: 500px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        button {
+            margin: 0 10px;
+            padding: 10px 20px;
+            background-color: #7bc7c7;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .small-text {
+            color: #0070bb;
+            font-size: 12px;
+            font-weight: 400;
+            margin-top: 5px;
+            text-align: right; 
+        }
+
+
+        button:hover {
+            background-color: #5b9797;
+        }
+
+        @media (max-width: 600px) {
+            .modal-content {
+                width: 95%;
+                padding: 15px;
+            }
+
+            .close {
+                font-size: 20px; 
+            }
+
+            button {
+                padding: 8px 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Modal HTML -->
+    <div id="subscriptionModal" class="modal hide">  
+        <div class="modal__popup">
+            <div class="modal__header">
+                <h2 class="modal__title">Thank you for subscribing!</h2>
+            </div>
+            <div class="modal__body">
+                <p style="text-align:center;">Your subscription has been successfully created.</p>
+                <p id="subscriptionId" style="text-align:center;"></p> 
+                <div class="button-container">
+                    <button onclick="window.location.href='https://analyzemydream.com/dashboard'" class="btn">Go To Dashboard</button>
+                    <button onclick="window.location.href='https://paypal.com/billing/subscriptions'" class="btn">Manage Subscriptions</button>
+                </div>
+            </div>
+        </div>
+      </div>
+    <div class="container">
+        <div class="form-card-header">
+            <h3 class="ms-text-center">
+                <img class="logo" src="https://analyzemydream.com/favicon-192.png" alt="AnalyzeMyDream Logo">
+                <br>
+                <h3 class="main-title">AnalyzeMyDream</h3> 
+                <div class="main-title" id="plan-title" style="margin: 0 auto; position: relative; text-align:center;">Basic Monthly Plan - Trial Mode</div>
+            </h3>
+        </div>
+
+        <div class="form-card">
+            <div class="form-fields">
+                <div class="field-group">
+                    <label for="name">Name<span class="required">*</span></label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="field-group">
+                    <label for="email">Email Address<span class="required">*</span></label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                
+            </div>
+            <div class="total-due-container">
+                <div class="total-due-label">
+                    Total Due: <span id="total-due">$0.00 USD</span> (7 Days Free Trial)
+                </div>
+                <div style="text-align:center;" class="small-text">
+                    *Then $2.99 USD/month (Basic Monthly Plan - Cancel anytime.)
+                </div>
+            </div>
+            <br>
+            <div id="paypal-button-container"></div>
+        </div>
+    </div>
+
+    <script src="https://www.paypal.com/sdk/js?client-id=AQCbgR1k0Ynm4BWaW9xAEFMCY0puOb4Cf9jDCLiwvjYT-wHvgrD4Dboj0CnWF98qSGJKDX4LgZbTeCen&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+
+    <script>
+        const planId = "P-85X182827V344322RM3RH4RQ"; // Replace with actual trial plan ID
+
+        function openModal(subscriptionId) {
+            document.getElementById("subscriptionId").textContent = subscriptionId; 
+            const modal = document.getElementById("subscriptionModal");
+            modal.className = "modal open"; 
+        }
+
+
+        function closeModal() {
+            document.getElementById("subscriptionModal").style.display = "none"; // Oculta el modal
+        }
+
+        paypal.Buttons({
+            style: {
+                shape: 'rect',
+                color: 'blue',
+                layout: 'vertical',
+                label: 'subscribe'
+            },
+            createSubscription: function(data, actions) {
+                return actions.subscription.create({
+                    plan_id: planId
+                });
+            },
+            onApprove: function(data, actions) {
+                        openModal(data.subscriptionID); 
+                    }
+        }).render('#paypal-button-container');
+    </script>
+</body>
+</html>
