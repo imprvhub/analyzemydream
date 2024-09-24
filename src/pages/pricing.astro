@@ -5,6 +5,7 @@ import Layout from '../layouts/Layout.astro'
 // - UI
 import Hero from '../components/blocks/hero/PageHeader.astro'
 import Price from '../components/blocks/pricing/PricingColumns.astro'
+import Button from '../components/ui/Button.astro';
 import FAQ from '../components/blocks/FAQ/Basic.astro'
 import CTA from '../components/blocks/CTA/BasicDark.astro'
 
@@ -33,6 +34,27 @@ const testimonialData = {
 <Layout title={SEO.title} description={SEO.description}>
 	<Hero title={header.title} text={header.text} />
 	<Price />
+
+	<div class="trial-container">
+		Enjoy a <strong>7-day free trial</strong> of the Basic Monthly Plan and explore all its features risk-free. You can cancel your subscription at any time, even after the trial period.
+		<br><br>
+	</div>
+	<div style="text-align:center;">
+		<Button size="lg" link="https://checkout.analyzemydream.com/trial">Start 7-Days Free Trial</Button>
+	</div>
+	
+	<br><br>
+	<br><br>
 	<FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
 	<CTA />
 </Layout>
+<style>
+	.trial-container {
+		padding-right: 1.5rem;
+		padding-left: 1.5rem;
+		text-align: center;
+		margin: 0 auto;
+		position: relative;
+		font-weight: 600;
+	}
+</style>
