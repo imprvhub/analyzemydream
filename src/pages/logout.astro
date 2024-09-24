@@ -1,0 +1,14 @@
+---
+export async function getStaticProps() {
+  return {
+    props: {},
+    headers: {
+      'Location': '/api/auth/logout',
+    },
+    status: 302,
+  };
+}
+---
+
+<html>
+</html>

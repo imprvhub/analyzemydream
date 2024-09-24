@@ -62,20 +62,7 @@ export const navigationBarData: NavData = {
 			]
 		  },
 		{ name: 'Analyze', link: '/analyze' },
-		// { name: 'Explore', link: '/blog' },
-		// { name: 'Features', link: '/features' },
-		// {
-		// 	name: 'Resources',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Changelog', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Terms', link: '/terms' }
-		// 	]
-		// },
-		
-		// { name: 'API', link: '/api'},
+
 		{ name: 'Contact', link: '/contact' }
 	],
 	navActions: [{ name: 'Try it now', link: '/', style: 'primary', size: 'lg' }]

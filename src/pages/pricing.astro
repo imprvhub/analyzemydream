@@ -14,15 +14,16 @@ import CTA from '../components/blocks/CTA/BasicDark.astro'
 // Content
 // - SEO
 const SEO = {
-	title: 'AnalyzeMyDream | ',
-	description:
-		''
+    title: 'AnalyzeMyDream | Planos de Subscrição',
+    description: "Explore os diferentes planos de assinatura do AnalyzeMyDream: Básico, Padrão e Premium. Cada plano é projetado para atender às suas necessidades, com informações detalhadas sobre suas características, benefícios e descontos exclusivos."
 }
-// - Page Header
+
+// - Página Header
 const header = {
-	title: '',
-	text: ''
+    title: '<strong>Planos</strong> de Subscrição',
+    text: 'Compare nossos planos de assinatura: Básico, Padrão e Premium, e escolha o que melhor se adapta às suas necessidades. Explore todas as funcionalidades, preços e ofertas disponíveis, incluindo os descontos para assinaturas anuais.'
 }
+
 // - Testimonial data
 // import testimonialBackground from '../assets/testimonial-bg-02.webp'
 const testimonialData = {
@@ -36,8 +37,6 @@ const testimonialData = {
 <Layout title={SEO.title} description={SEO.description}>
 	<Hero title={header.title} text={header.text} />
 	<Price />
-	<SocialProof />
-	<Feature />
 	<FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
 	<CTA />
 </Layout>

@@ -2,7 +2,7 @@
 
 ---
 
-<div id="theme-selector">
+<div id="theme-selector" style="position: relative;left:-5%;">
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
 		fill="none"
@@ -25,7 +25,7 @@
 		stroke-width="1.5"
 		stroke="currentColor"
 		class="size-6 dark:hidden"
-		style="position: relative;left:60%;"
+		style="position: relative;left:40%;"
 	>
 		<path
 			stroke-linecap="round"
@@ -37,6 +37,22 @@
 
 <style>
 	#theme-selector {
-		@apply order-3 flex h-full w-12 cursor-pointer items-center justify-center;
+		@apply order-3 flex h-full w-6 cursor-pointer items-center justify-center;
 	}
+
+	@media (max-width: 768px) {
+    #theme-selector {
+        margin-right: 2rem;
+    }
+}
+
+/* @media (max-width: 768px) {
+    #profile-icon {
+        margin-left: 2rem;
+        /* position: relative; 
+    }
+}
+}*/
+
+
 </style>

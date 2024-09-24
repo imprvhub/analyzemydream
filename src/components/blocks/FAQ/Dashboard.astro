@@ -1,0 +1,109 @@
+---
+import Section from '../../ui/Section.astro'
+import Row from '../../ui/Row.astro'
+import Col from '../../ui/Col.astro'
+// - UI
+import Accordion from '../../ui/Accordion.astro'
+import Card from '../../ui/cards/partials/Card.astro'
+
+// Props
+type Props = {
+	classes?: string
+}
+const { classes } = Astro.props
+---
+
+<Section id="FAQ" classes={classes}>
+	<Row>
+		<Col span="12" align="center" classes="mb-12 max-w-4xl mx-auto">
+			<h3 class="text-pretty">
+				<strong>Perguntas Frequentes</strong> sobre assinaturas
+			</h3>
+			<p class="text-lg leading-relaxed">
+				A gestão dos planos ativos é feita através do painel de controle do PayPal. Lá, você poderá fazer as configurações necessárias. A seguir, as dúvidas mais frequentes sobre este tópico:
+			</p>
+		</Col>
+		<Col span="2" />
+		<Col span="8">
+			<Card classes="divide-y divide-neutral-100 dark:divide-neutral-800">
+				<Accordion
+					title="O que está incluído no teste gratuito?"
+					text="Nosso teste gratuito dá acesso total a todos os recursos da nossa plataforma por 7 dias. Você pode explorar e usar todas as funcionalidades para ver como elas atendem às suas necessidades empresariais, sem nenhum custo."
+				/>
+				<Accordion
+					title="Posso cancelar minha assinatura a qualquer momento?"
+					text="Sim! Você tem a flexibilidade de cancelar sua assinatura quando quiser. Basta fazer login na sua conta do PayPal para gerenciar diretamente as configurações de assinatura."
+				/>
+				<Accordion
+					title="Qual é a sua política de reembolso?"
+					text="Se você não estiver satisfeito com o serviço, oferecemos um reembolso dentro de 30 dias a partir da data de início da assinatura. Por favor, entre em contato com nossa equipe de suporte para iniciar o processo."
+				/>
+				<Accordion
+					title="Posso mudar meu plano mais tarde?"
+					text="Não é possível fazer upgrade ou downgrade do plano, pois cada assinatura está vinculada a um plano específico. No entanto, você pode cancelar seu plano atual a qualquer momento e solicitar reembolso, se aplicável. Para selecionar um plano diferente, será necessário iniciar uma nova assinatura."
+				/>
+				<Accordion
+					title="Onde posso encontrar seus termos e condições?"
+					text="Nossos termos e condições podem ser encontrados em nosso site na seção 'Termos de Serviço'. Recomendamos que você os leia para entender seus direitos e responsabilidades."
+				/>
+				<Accordion
+					title="Como posso visualizar os detalhes da minha assinatura?"
+					text="Você pode visualizar todos os detalhes da sua assinatura diretamente no seu painel aqui. Para fazer modificações, faça login na sua conta do PayPal para acessar todas as opções de gerenciamento."
+				/>
+			</Card>
+		</Col>
+		<Col span="2" />
+	</Row>
+	<br>
+	<div id="subscribeButtonContainer" style="display: none;">
+		<div class="subscribe-container">
+		  <a href="/pricing" class="subscribe-link">
+			<button class="subscribe-btn">Explorar Planos</button>
+		  </a>
+		</div>
+		<br>
+	</div>
+	<div id="manageSubscriptionsButtonContainer" style="display: none;">
+		<div class="subscribe-container">
+		  <a href="https://paypal.com/billing/subscriptions" class="subscribe-link">
+			<button class="subscribe-btn">Gerenciar Assinaturas</button>
+		  </a>
+		</div>
+		<br>
+	</div>
+</Section>
+
+<style>
+	.page-header {
+		@apply mx-auto max-w-3xl;
+	}
+	.page-header__text {
+		@apply text-lg leading-relaxed;
+	}
+	.subscribe-link {
+		text-decoration: none;
+	}
+
+	.subscribe-container {
+		display: flex;
+		justify-content: center;
+		margin-top: 20px;
+	}
+
+	.subscribe-btn {
+		background-color: #7bc7c7;
+		color: white;
+		border: none;
+		padding: 12px 24px;
+		font-size: 16px;
+		border-radius: 5px;
+		cursor: pointer;
+		transition: background-color 0.3s ease, transform 0.2s ease;
+		font-family: Arial, sans-serif;
+	}
+
+	.subscribe-btn:hover {
+		background-color: #6aa7a7;
+		transform: scale(1.05);
+	}
+</style>

@@ -24,9 +24,9 @@ export const configData: Config = {
 	siteTitle: 'Exploring dream meanings and enhancing self-understanding.',
 	siteDescription:
 		'AnalyzeMyDream is a comprehensive dream interpretations and insights platform.',
-	ogImage: '/logo.png',
+	ogImage: '/logo.webp',
 	logo: {
-		src: '/logo.png',
+		src: '/logo.webp',
 		alt: 'AnalyzeMyDream logo'
 	},
 	canonical: true,

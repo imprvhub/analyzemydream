@@ -16,6 +16,8 @@ package-lock.json
 /.vscode/settings.json
 
 *.env
+.netlify/
+
 
 packages/**/test/**/fixtures/**/.astro/
 packages/**/test/**/fixtures/**/env.d.ts

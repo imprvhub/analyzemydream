@@ -1,0 +1,29 @@
+---
+type Props = {
+  span?: string
+  align?: string
+  classes?: string
+}
+const { span, align, classes } = Astro.props
+const hasContent = Astro.slots.default
+---
+
+<div
+  class:list={[
+    'col',
+    { ['lg:col-span-' + `${span}`]: span }, 
+    { ['text-' + `${align}`]: align },
+    { [`${classes}`]: classes } 
+  ]}
+>
+  {hasContent ? <slot /> : <div class="col__placeholder" />}
+</div>
+
+<style>
+  .col {
+    @apply has-[.col\_\_placeholder]:hidden lg:has-[.col\_\_placeholder]:block;
+  }
+  .col__placeholder {
+    @apply hidden;
+  }
+</style>

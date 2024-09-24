@@ -36,7 +36,7 @@ export const footerNavigationData: FooterData = {
 		aboutText:
 			'Explorando significados dos sonhos e aprimorando a auto-compreensão.',
 		logo: {
-			src: '/logo.png',
+			src: '/logo.webp',
 			alt: 'Explorando significados dos sonhos e aprimorando a auto-compreensão.',
 			text: 'AnalyzeMyDream.com'
 		}
@@ -45,25 +45,17 @@ export const footerNavigationData: FooterData = {
 		{
 			category: 'Recursos',
 			subCategories: [
-				// {
-				// 	subCategory: 'Características',
-				// 	subCategoryLink: '/features'
-				// },
-				// {
-				// 	subCategory: 'API',
-				// 	subCategoryLink: '/api'
-				// },
-				// {
-				// 	subCategory: 'Preços',
-				// 	subCategoryLink: '/pricing'
-				// },
 				{
-					subCategory: 'Changelog',
+					subCategory: 'Notas de versão',
 					subCategoryLink: '/changelog'
+				},
+				{
+					subCategory: 'Referência da API',
+					subCategoryLink: '/api'
 				},
 			]
 		},
-	
+
 		{
 			category: 'Informações & Suporte',
 			subCategories: [
@@ -85,7 +77,6 @@ export const footerNavigationData: FooterData = {
 				},
 			]
 		},
-	
 	],
 	subFooter: {
 		copywriteText: '© AnalyzeMyDream 2024.'

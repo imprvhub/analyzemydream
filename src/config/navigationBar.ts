@@ -30,18 +30,28 @@ export interface NavData {
 
 export const navigationBarData: NavData = {
 	logo: {
-		src: '/logo.png',
+		src: '/logo.webp',
 		alt: 'Explorando significados dos sonhos e aprimorando o autoconhecimento.',
 		text: 'AnalyzeMyDream.com'
 	},
 	navItems: [
 		{ name: 'Início', link: '/' },
-		
+		{
+			name: 'Analisar',
+			link: '#',
+			submenu: [
+				{ name: 'Fast-AI Dream Analyzer', link: '/fast-analyzer' },
+				{ name: 'Advanced-AI Dream Analyzer', link: '/advanced-analyzer' },
+				{ name: 'Custom-AI Dream Analyzer', link: '/custom-analyzer' },
+				{ name: 'Comparative-AI Dream Analyzer', link: '/comparative-analyzer' },
+				{ name: 'Batch-AI Dream Analyzer', link: '/batch-analyzer' }
+			]
+		},
 		{
 			name: 'Explorar',
 			link: '#',
 			submenu: [
-				{ name: 'Todos', link: '/blog'},
+				{ name: 'Todos os significados', link: '/blog'},
 				{ name: 'Animais', link: '/blog/tags/Animais' },
 				{ name: 'Objetos-Lugares', link: '/blog/tags/Objetos-Lugares' },
 				{ name: 'Pessoas', link: '/blog/tags/Pessoas' },
@@ -59,21 +69,8 @@ export const navigationBarData: NavData = {
 			  ]
 			  
 		},
-		{ name: 'Analisar', link: '/analyze' },
-		//  { name: 'Explorar', link: '/blog' },
-		// { name: 'Recursos', link: '/features' },
-		// {
-		// 	name: 'Recursos',
-		// 	link: '#',
-		// 	submenu: [
-						
-		// 		{ name: 'Registro de Alterações', link: '/changelog' },
-		// 		{ name: 'FAQ', link: '/faq' },
-		// 		{ name: 'Termos', link: '/terms' }
-		// 	]
-		// },
-		// { name: 'API', link: '/api'},
-		{ name: 'Contato', link: '/contact' },
+		{ name: 'API', link: '/api' },
+		{ name: 'Preços', link: '/pricing' },
 		{
 			name: 'PT',
 			link: '#',

@@ -1,26 +1,16 @@
 ---
-// Página de Índice do Blog
-// ------------
-// Descrição: A página de índice do blog.
-
-// Componentes
-// - Layout
 import Layout from '../../layouts/Layout.astro'
-// - UI
 import Hero from '../../components/blocks/hero/PageHeader.astro'
 import BlogPosts from '../../components/blocks/blog/BlogPosts.astro'
 
-// Dados
 import { getCollection } from 'astro:content'
 
-// Conteúdo
-// - SEO
 const SEO = {
 	title: 'AnalyzeMyDream | Explore todos os sonhos.',
 	description:
 		"Desvende o Significado dos Seus Sonhos. Descubra as últimas interpretações e entenda o que seus sonhos revelam."
 }
-// - Cabeçalho da Página
+
 const header = {
 	title: 'Explore todos os <strong>significados</strong> dos <strong>sonhos</strong>.',
 	text: 'Desvende o Significado dos Seus Sonhos. Descubra as últimas interpretações e entenda o que seus sonhos revelam.'

@@ -1,78 +1,97 @@
 [
-	{
-		"header": {
-			"title": "",
-			"subtitle": "",
-			"currency": "",
-			"price": "",
-			"priceLabel": "",
-			"priceMontly": "",
-			"priceLabelMontly": "",
-			"buttonName": "",
-			"buttonLink": ""
-		},
-		"body": {
-			"listItems": [
-				{ "listItem": "" },
-				{ "listItem": "" },
-				{ "listItem": "" }
-			]
-		},
-		"footer": {
-			"buttonName": "",
-			"buttonLink": ""
-		},
-		"type": ""
-	},
-	{
-		"header": {
-			"title": "",
-			"subtitle": "",
-			"currency": "",
-			"price": "",
-			"priceLabel": "",
-			"priceMontly": "",
-			"priceLabelMontly": "",
-			"buttonName": "",
-			"buttonLink": ""
-		},
-		"body": {
-			"listItems": [
-				{ "listItem": "" },
-				{ "listItem": "" },
-				{ "listItem": "" },
-				{ "listItem": "" }
-			]
-		},
-		"footer": {
-			"buttonName": "",
-			"buttonLink": ""
-		},
-		"type": ""
-	},
-	{
-		"header": {
-			"title": "",
-			"subtitle": "",
-			"currency": "",
-			"price": "",
-			"priceLabel": "",
-			"priceMontly": "",
-			"priceLabelMontly": "",
-			"buttonName": "",
-			"buttonLink": ""
-		},
-		"body": {
-			"listItems": [
-				{ "listItem": "" },
-				{ "listItem": "" },
-				{ "listItem": "" }
-			]
-		},
-		"footer": {
-			"buttonName": "",
-			"buttonLink": ""
-		},
-		"type": ""
-	}
+    {
+        "header": {
+            "title": "Plano Básico",
+            "subtitle": "Para uso casual.",
+            "currency": "$",
+            "price": "19.99",
+            "priceLabel": " anual",
+            "priceMontly": "2.99",
+            "priceLabelMontly": "mês",
+            "buttonName": "Escolher Básico",
+            "buttonLink": "https://checkout.analyzemydream.com/basic-annually/"
+        },
+        "body": {
+            "listItems": [
+                { "listItem": "150 solicitações por mês" },
+                { "listItem": "Acesso ao Analisador de Sonhos Rápido-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Avançado-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Personalizado-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Comparativo-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos por Lotes-AI" },
+                { "listItem": "Explorar todas as categorias de sonhos" },
+                { "listItem": "Descobrir significados dos sonhos" },
+                { "listItem": "Suporte por e-mail prioritário (tempo de resposta de 24 horas)" }
+            ]
+        },
+        "footer": {
+            "buttonName": "Escolher Básico",
+            "buttonLink": "https://checkout.analyzemydream.com/basic-annually/"
+        },
+        "type": "basic"
+    },
+    
+    {
+        "header": {
+            "title": "Plano Padrão",
+            "subtitle": "Para uso profissional.",
+            "currency": "$",
+            "price": "35.99",
+            "priceLabel": " anual.",
+            "priceMontly": "4",
+            "priceLabelMontly": "mês",
+            "buttonName": "Escolher Padrão",
+            "buttonLink": "https://checkout.analyzemydream.com/standard-annually/"
+        },
+        "body": {
+            "listItems": [
+                { "listItem": "5.000 solicitações por mês" },
+                { "listItem": "Acesso ao Analisador de Sonhos Rápido-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Avançado-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Personalizado-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Comparativo-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos por Lotes-AI" },
+                { "listItem": "Explorar todas as categorias de sonhos" },
+                { "listItem": "Descobrir significados dos sonhos" },
+                { "listItem": "Suporte por e-mail prioritário (tempo de resposta de 12 horas)" }
+            ]
+        },
+        "footer": {
+            "buttonName": "Escolher Padrão",
+            "buttonLink": "https://checkout.analyzemydream.com/standard-annually/"
+        },
+        "type": "standard"
+    },
+    
+    {
+        "header": {
+            "title": "Plano Premium",
+            "subtitle": "Para o mais alto nível de necessidades.",
+            "currency": "$",
+            "price": "99.99",
+            "priceLabel": " anual",
+            "priceMontly": "19.99",
+            "priceLabelMontly": "mês",
+            "buttonName": "Escolher Premium",
+            "buttonLink": "https://checkout.analyzemydream.com/premium-annually/"
+        },
+        "body": {
+            "listItems": [
+                { "listItem": "20.000 solicitações por mês" },
+                { "listItem": "Acesso ao Analisador de Sonhos Rápido-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Avançado-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Personalizado-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos Comparativo-AI" },
+                { "listItem": "Acesso ao Analisador de Sonhos por Lotes-AI" },
+                { "listItem": "Explorar todas as categorias de sonhos" },
+                { "listItem": "Descobrir significados dos sonhos" },
+                { "listItem": "Suporte premium com tempo de resposta de 6 horas e consultoria personalizada" }
+            ]
+        },
+        "footer": {
+            "buttonName": "Escolher Premium",
+            "buttonLink": "https://checkout.analyzemydream.com/premium-annually/"
+        },
+        "type": "premium"
+    }
 ]

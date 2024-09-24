@@ -1,6 +1,16 @@
 <!-- Scripts for UI components -->
 <script async defer>
 	document.addEventListener('astro:page-load', () => {
+		const profileIcon = document.getElementById('profile-icon');
+		const profileSubmenu = document.getElementById('profile-submenu') || document.getElementById('login-submenu');
+		
+		if (profileIcon && profileSubmenu) {
+			profileIcon.addEventListener('click', function () {
+				profileSubmenu.classList.toggle('header___submenu--open');
+			});
+		}
+	});
+	document.addEventListener('astro:page-load', () => {
 		// Menu Dropdown
 		const menuItems = document.querySelectorAll('.header__menu-item')
 		menuItems.forEach((menuItem) => {
@@ -64,11 +74,11 @@
 					closeModal(modal)
 				}
 			})
-			const close = modal.querySelector('.modal__close')
-			close.addEventListener('click', function (event) {
-				event.stopPropagation()
-				closeModal(modal)
-			})
+			// const close = modal.querySelector('.modal__close')
+			// close.addEventListener('click', function (event) {
+			// 	event.stopPropagation()
+			// 	closeModal(modal)
+			// })
 		})
 	})
 </script>

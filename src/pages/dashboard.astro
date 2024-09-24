@@ -1,0 +1,1017 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/blocks/hero/PageHeader.astro';
+import CTA from '../components/blocks/CTA/BasicDark.astro';
+import FAQ from '../components/blocks/FAQ/Dashboard.astro'
+import Chart from '../components/ui/Chart.astro'
+import { eq, desc } from "drizzle-orm";
+import { db } from "../db";
+import { loginLogs, sessions } from "../db/schema";
+
+const userIsLoggedIn = !!Astro.locals.userId;
+const sessionToken = Astro.cookies.get("app_auth_token")?.value;
+
+
+if (!sessionToken) {
+  return Astro.redirect("/");
+}
+
+const userInfo = await db.query.sessions.findFirst({
+  where: eq(sessions.id, sessionToken),
+  with: {
+    user: {
+      with: {
+        oauthTokens: {
+          columns: {
+            strategy: true,
+          },
+        },
+        loginLogs: {
+          orderBy: desc(loginLogs.loggedInAt),
+        },
+      },
+    },
+  },
+});
+
+const SEO = {
+    title: 'AnalyzeMyDream | Painel de Controle',
+    description: 'Gerencie suas chaves de API, consulte os detalhes do seu plano de assinatura e acompanhe o uso da sua API. Seu centro de controle para monitorar e administrar atividades relacionadas à API e detalhes da assinatura.'
+}
+
+const header = {
+    title: 'Painel de <strong>Controle</strong>',
+    text: 'Bem-vindo ao seu painel de controle. A partir daqui, você pode gerenciar suas chaves de API, revisar seu plano de assinatura atual e monitorar o uso da API. Mantenha-se informado sobre os limites do seu plano e supervisione de maneira eficiente todas as atividades relacionadas à API.'
+}
+
+
+
+const apiData = [
+    { api_key: 'API_KEY_1', requests_made: 750, requests_limit: 1000, renewal_date: '2023-06-30' },
+    { api_key: 'API_KEY_2', requests_made: 300, requests_limit: 500, renewal_date: '2023-07-15' },
+    { api_key: 'API_KEY_3', requests_made: 1800, requests_limit: 2000, renewal_date: '2023-06-25' }
+];
+
+---
+
+<Layout title={SEO.title} description={SEO.description}>
+  
+  <Hero title={header.title} text={header.text} />
+  <main>
+    <div class="email-section">
+      <label class="label">Email:</label>
+      <input
+        type="text"
+        class="email-input"
+        name="email"
+        placeholder="Email"
+        value={userInfo?.user?.email}
+        id="email"
+        readonly
+      />
+    </div>
+    
+     <!-- Modal de Exclusão Não Permitida -->
+<div id="NotAllowedDeletionModal" class="modal">
+    <div class="modal__popup">
+      <div class="modal__header">
+        <p class="modal___title" style="color: #000000">Exclusão de Chave de API Não Permitida</p>
+      </div>
+      <div class="modal__body">
+        <p>Uma ou mais chaves de API na sua seleção estão associadas a um plano que não é Básico. Por favor, verifique o saldo da sua conta ou o painel de assinatura para gerenciar essas chaves.</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- NÃO SELECIONASTE CHAVE DE API -->
+  <div id="noApiKeyModal" class="modal">
+    <div class="modal__popup">
+      <div class="modal__header">
+        <p class="modal___title" style="color: #000000">Nenhuma Chave de API Selecionada</p>
+      </div>
+      <div class="modal__body">
+        <p>Certifique-se de selecionar pelo menos 1 (uma) chave de API para realizar esta ação.</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal de Copia -->
+  <div id="copySuccessModal" class="modal">
+    <div class="modal__popup">
+      <div class="modal__header">
+        <p class="modal___title" style="color: #000000">Chave(s) de API Copiada(s) com Sucesso</p>
+      </div>
+      <div class="modal__body">
+        <p>A(s) chave(s) de API selecionada(s) foram copiadas para a área de transferência.</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal -->
+  <div id="apiKeyModal" class="modal">
+    <div class="modal__popup">
+      <div class="modal__header">
+        <p class="modal___title" style="color: #000000">Solicitar uma Nova Chave de API</p>
+        <button id="closeModal" class="modal__close">×</button>
+      </div>
+      <div class="modal__body">
+        <label for="apiKeyName">Digite um nome para sua nova chave de API:</label>
+        <input type="text" id="apiKeyName" class="input-field" placeholder="Nome da Chave de API" />
+        <button id="submitApiKeyButton" class="request-api-key-button">Solicitar Chave de API</button>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal de Confirmação -->
+  <div id="confirmDeleteModal" class="modal">
+    <div class="modal__popup">
+      <div class="modal__header">
+        <p class="modal___title" style="color: #000000">Confirmar Exclusão</p>
+        <button id="closeConfirmModal" class="modal__close">×</button>
+      </div>
+      <div class="modal__body">
+        <p>Você tem certeza de que deseja excluir a(s) chave(s) de API selecionada(s)? Esta ação é irreversível.</p>
+        <br>
+        <button id="confirmDeleteButton" class="modal__confirm-button">Confirmar</button>
+        <button id="cancelDeleteButton" class="modal__cancel-button">Cancelar</button>
+      </div>
+    </div>
+  </div>
+  <br>
+  
+    <article id="api-key-form" class="api-endpoint">
+        <h2 class="endpoint-title" style="text-align: center;">Gerenciamento de Chaves de API</h2>
+        <p style="text-align: center;">Gerencie facilmente suas chaves de API e acompanhe seu uso. Esta seção fornece todas as ferramentas necessárias para supervisionar seu acesso à API, os limites do plano e os reinícios de cota.</p>
+        
+          
+      <div class="api-keys-container" >
+        
+        <div class="api-management-container"  style="border-top-right-radius: 10px; border-top-left-radius: 10px;">
+          <!-- <button id="requestApiKeyButton" style="background: none; border: none; padding: 0; cursor: pointer;">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 25px; height: 20px;">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+            </svg>
+        </button> -->
+        <p class="inline-container-api-keys">
+            Toque ou clique no botão
+          <button id="reloadApiKeysButton" style="background: none; border: none; padding: 0; cursor: pointer;">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 20px; height: 10px;">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
+              </svg>
+          </button>
+          para atualizar chaves de API.
+      </p>
+        <button id="reloadApiKeysButton" style="background: none; border: none; padding: 0; cursor: pointer;">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 25px; height: 20px;">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
+            </svg>
+        </button>
+          <button id="copyButton" style="margin: 10px; background: none; border: none; padding: 0; cursor: pointer;">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6" style="width: 20px; height: 20px;">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 0 0 2.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 0 0-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75 2.25 2.25 0 0 0-.1-.664m-5.8 0A2.251 2.251 0 0 1 13.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25ZM6.75 12h.008v.008H6.75V12Zm0 3h.008v.008H6.75V15Zm0 3h.008v.008H6.75V18Z" />
+            </svg>
+          </button>
+          <!-- <button id="deleteSelectedApiKeysButton" style=" font-size: 13px; background: none; border: none; padding: 0; cursor: pointer;">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6" style="width: 20px; height: 20px;">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0" />
+            </svg>
+          </button> -->
+          
+        </div>
+        <div id="table-container" style="border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;;">
+        <table id="apiKeysTable" class="api-keys-table" style="background-color: transparent;">
+            <thead>
+                <tr>
+                    <th style="background-color: transparent;">
+                        <input type="checkbox" id="selectAll" style="cursor: pointer;" title="Selecionar Tudo">
+                    </th>
+                    <th style="background-color: transparent;">ID da Assinatura</th>
+                    <th style="background-color: transparent;">Chave de API</th>
+                    <th style="background-color: transparent;">Plano</th> 
+                    <th style="background-color: transparent;">Solicitações</th> 
+                    <th style="background-color: transparent;">Reinício de Cota</th>
+                    <th style="background-color: transparent;">Ações</th> 
+                </tr>
+            </thead>
+            <tbody id="apiKeysList" style="font-size: 13px; text-align: center; top: 0.2rem; position: relative;">
+            </tbody>
+            </table>
+            <div class="half-space"></div>
+            <br>
+            </div>
+            
+            <br>
+
+            </article>
+            </main>
+            <CTA />
+            
+            <br>
+            <article id="api-key-form" class="api-endpoint">
+                <h2 class="endpoint-title" style="text-align: center;">Gerenciamento de Assinaturas</h2>
+                <p style="text-align: center;">Monitore os detalhes da sua assinatura, informações do plano e status, garantindo que você fique atualizado com os ciclos de faturamento.</p>
+                
+                <div class="subscriptions-table-container">
+                    <div id="table-container" style="border-radius: 10px;">
+                        <table id="subscriptionsTable" class="api-keys-table" style="background-color: transparent;">
+                            <thead>
+                                <tr>
+                                    <th>ID da Assinatura</th>
+                                    <th>Email</th>
+                                    <th>Status</th>
+                                    <th>Último Valor Pago</th>
+                                    <th>Último Tempo de Pagamento</th>
+                                    <th>Próximo Tempo de Faturamento</th>
+                                </tr>
+                            </thead>
+                            <tbody style="font-size: 11px; text-align: center; position: relative; top: 0.2rem;">
+                                <!-- As linhas serão adicionadas aqui via JavaScript -->
+                            </tbody>
+                        </table>
+                        <div class="half-space"></div>
+                    </div>
+                </div>
+                <br>
+            </article>
+            <br>
+  <FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
+</Layout>
+            
+            
+
+<script async defer>
+   document.addEventListener('astro:page-load', () => {
+        fetchApiKeys();
+        initializePage();
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchApiKeys();
+        initializePage();
+    });
+
+    document.addEventListener('astro:after-swap', () => {
+        fetchApiKeys();
+        initializePage();
+    });
+
+    function toggleApiKeyVisibility(button) {
+    const apiKey = button.getAttribute('data-key');
+    const apiKeyCell = button.closest('tr').querySelector('.api-key-value');
+    if (button.textContent === 'Mostrar') {
+      apiKeyCell.textContent = apiKey;
+      button.textContent = 'Disfarce';
+    } else {
+      apiKeyCell.textContent = `${apiKey.slice(0, 4)}${'*'.repeat(apiKey.length - 4)}`;
+      button.textContent = 'Mostrar';
+    }
+  }
+    
+  async function fetchApiKeys() {
+      const emailElement = document.getElementById('email');
+      if (!emailElement) {
+        console.warn('Email input not found.');
+        return;
+      }
+
+      const email = emailElement.value;
+      if (!email) {
+        console.warn('Email is required to fetch API keys.');
+        return;
+      }
+
+      try {
+        const response = await fetch(`https://analyzemydream-api-key.vercel.app/api_keys?email=${encodeURIComponent(email)}`);
+        const result = await response.json();
+   
+        if (response.ok) {
+          const apiKeysList = document.getElementById('apiKeysList');      
+          const manageSubscriptionsButtonContainer = document.getElementById('manageSubscriptionsButtonContainer');
+          manageSubscriptionsButtonContainer.style.display = 'block'; 
+          
+          apiKeysList.innerHTML = '';
+          
+          if (result.api_keys.length > 0) {
+            result.api_keys.forEach((apiKey, index) => {
+              let formattedRenewalDate = 'N/A';
+              if (apiKey.renewal_date) {
+                const renewalDateObj = new Date(apiKey.renewal_date);
+                formattedRenewalDate = renewalDateObj.toUTCString();
+              }
+
+              const requestsInfo = apiKey.requests.split(' / ');
+              const requests_made = parseInt(requestsInfo[0]);
+              const requests_limit = parseInt(requestsInfo[1]);
+              const usagePercentage = (requests_made / requests_limit) * 100;
+
+              const apiKeyRow = document.createElement('tr');
+              apiKeyRow.innerHTML = `
+                <td><input type="checkbox" style="cursor: pointer;"></td>
+                <td>${apiKey.subscription_id || 'N/A'}</td>
+                <td class="api-key-value" data-key="${apiKey.api_key}">${apiKey.api_key.slice(0, 4)}${'*'.repeat(apiKey.api_key.length - 4)}</td>
+                <td>${apiKey.plan || 'N/A'}</td>
+                <td>${apiKey.requests || 'N/A'}</td>
+                <td>${formattedRenewalDate}</td>
+                <td><button class="toggle-visibility" data-key="${apiKey.api_key}">Mostrar</button></td>
+              `;
+              apiKeysList.appendChild(apiKeyRow);
+            });
+            document.querySelectorAll('.toggle-visibility').forEach((button) => {
+              button.addEventListener('click', function() {
+                toggleApiKeyVisibility(button);
+              });
+            });
+            fetchSubscriptions()
+          } else {
+            apiKeysList.innerHTML = '<tr><td colspan="7">Não há chaves API. Selecione um plano para obter uma.</td></tr>';
+          }
+        } else {
+        
+          apiKeysList.innerHTML = '<tr><td colspan="7">Não há chaves API. Selecione um plano para obter uma.</td></tr>';
+
+
+        const subscribeButtonContainer = document.getElementById('subscribeButtonContainer');
+        subscribeButtonContainer.style.display = 'block'; 
+        fetchSubscriptions();
+    }
+      } catch (error) {
+        console.error('An error occurred. Please try again.', error);
+      }
+    }
+
+async function fetchSubscriptions() {
+  const emailElement = document.getElementById('email');
+  if (!emailElement) {
+    return;  
+  }
+
+  const email = emailElement.value;
+  if (!email) {
+    return; 
+  }
+
+  try {
+    const response = await fetch(`https://analyzemydream-api-key.vercel.app/subscriptions?email=${encodeURIComponent(email)}`);
+    const result = await response.json();
+
+    if (response.ok) {
+      const subscriptionsTable = document.getElementById('subscriptionsTable');
+      if (!subscriptionsTable) {
+        return; 
+      }
+
+      const subscriptionsTableBody = subscriptionsTable.querySelector('tbody');
+      subscriptionsTableBody.innerHTML = '';
+
+      const rows = result.data || [];
+
+      if (rows.length > 0) {
+        rows.forEach((subscription) => {
+          const subscriptionRow = document.createElement('tr');
+          subscriptionRow.innerHTML = `
+            <td>${subscription.subscription_id || 'N/A'}</td>
+            <td>${subscription.subscriber_email_address || 'N/A'}</td>
+            <td>${subscription.status || 'N/A'}</td>
+            <td>${subscription.billing_info_last_payment_amount_currency_code || ''} ${subscription.billing_info_last_payment_amount_value || 'Trial Mode'}</td>
+            <td>${subscription.billing_info_last_payment_time || 'Trial Mode'}</td>
+            <td>${subscription.billing_info_next_billing_time || 'N/A'}</td>
+          `;
+          subscriptionsTableBody.appendChild(subscriptionRow);
+        });
+      } else {
+        subscriptionsTableBody.innerHTML = '<tr><td colspan="9">Não há subscrições disponíveis para este e-mail.</td></tr>';
+      }
+
+    } else if (response.status === 404) {
+      const subscriptionsTableBody = document.querySelector('#subscriptionsTable tbody');
+      if (subscriptionsTableBody) {
+        subscriptionsTableBody.innerHTML = '<tr><td colspan="9">Não há subscrições ativas disponíveis. Por favor, selecione um plano para obter uma chave API.</td></tr>';
+      }
+    } else {
+      const subscriptionsTableBody = document.querySelector('#subscriptionsTable tbody');
+      if (subscriptionsTableBody) {
+        subscriptionsTableBody.innerHTML = '<tr><td colspan="9">Ocorreu um erro ao buscar subscrições. Por favor, tente novamente.</td></tr>';
+      }
+    }
+  } catch (error) {
+    const subscriptionsTableBody = document.querySelector('#subscriptionsTable tbody');
+    if (subscriptionsTableBody) {
+      subscriptionsTableBody.innerHTML = '<tr><td colspan="9">Erro ao buscar subscrições. Por favor, tente novamente.</td></tr>';
+    }
+  }
+}
+
+  function initializePage() {
+    const reloadButton = document.getElementById('reloadApiKeysButton');
+    if (reloadButton) {
+      reloadButton.addEventListener('click', () => {
+        rotateIcon(reloadButton);
+      });
+    }
+    
+    setupSelectAllCheckbox();
+    setupApiKeysList();
+    setupCopyButton();
+    setupModalCloseButtons();
+  }
+  
+  function rotateIcon(button) {
+    button.classList.add('spin-animation');
+    setTimeout(() => {
+      button.classList.remove('spin-animation');
+    }, 2000);
+  }
+  
+  function setupSelectAllCheckbox() {
+    const selectAllCheckbox = document.getElementById('selectAll');
+    if (selectAllCheckbox) {
+      selectAllCheckbox.addEventListener('change', () => {
+        const isChecked = selectAllCheckbox.checked;
+        document.querySelectorAll('#apiKeysList input[type="checkbox"]').forEach(checkbox => {
+          checkbox.checked = isChecked;
+        });
+      });
+    }
+  }
+  
+  function setupApiKeysList() {
+    const apiKeysList = document.getElementById('apiKeysList');
+    if (apiKeysList) {
+      apiKeysList.addEventListener('change', event => {
+        if (event.target.type === 'checkbox') {
+          const allChecked = Array.from(document.querySelectorAll('#apiKeysList input[type="checkbox"]'))
+            .every(checkbox => checkbox.checked);
+          document.getElementById('selectAll').checked = allChecked;
+        }
+      });
+  
+      apiKeysList.addEventListener('click', event => {
+        if (event.target.classList.contains('toggle-visibility')) {
+          toggleApiKeyVisibility(event.target);
+        }
+      });
+    }
+  }
+  
+  function setupCopyButton() {
+    const copyButton = document.getElementById('copyButton');
+    if (copyButton) {
+      copyButton.addEventListener('click', copySelectedApiKeys);
+    }
+  }
+  
+  function setupRequestApiKeyButton() {
+    const requestApiKeyButton = document.getElementById('requestApiKeyButton');
+    if (requestApiKeyButton) {
+      requestApiKeyButton.addEventListener('click', () => {
+        document.getElementById('apiKeyModal').classList.add('open');
+      });
+  
+      const submitApiKeyButton = document.getElementById('submitApiKeyButton');
+      if (submitApiKeyButton) {
+        submitApiKeyButton.addEventListener('click', async () => {
+          const apiNameInput = document.getElementById('apiKeyName');
+          const apiName = apiNameInput.value.trim();
+  
+          if (!apiName) {
+            console.error('API name is required.');
+            return;
+          }
+  
+          const apiKeysList = document.getElementById('apiKeysList');
+          const email = document.getElementById('email').value;
+  
+          try {
+            const response = await fetch('https://analyzemydream-api-key.vercel.app/', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({ email: email, name: apiName }),
+            });
+  
+            const result = await response.json();
+  
+            if (response.ok) {
+              const newApiKey = result.api_key;
+              const apiKeyName = result.api_key_name;
+              const apiKeyRow = document.createElement('tr');
+  
+              const visiblePart = newApiKey.slice(0, 4);
+              const hiddenPart = '*'.repeat(newApiKey.length - 4);
+              apiKeyRow.innerHTML = `
+                <td><input type="checkbox" style="cursor: pointer;"></td>
+                <td>${apiKeyName}</td>
+                <td class="api-key-value" data-key="${newApiKey}">${visiblePart}${hiddenPart}</td>
+                <td><button class="toggle-visibility" data-key="${newApiKey}">Mostrar</button></td>
+              `;
+  
+              apiKeysList.appendChild(apiKeyRow);
+              fetchApiKeys();
+              apiNameInput.value = ''; 
+              document.getElementById('apiKeyModal').classList.remove('open');
+            } else {
+              console.warn(result.error || 'An error occurred. Please try again.');
+            }
+          } catch (error) {
+            console.warn('An error occurred. Please try again.', error);
+          }
+        });
+      }
+    }
+  }
+  
+  function setupDeleteApiKeysButton() {
+    const deleteSelectedApiKeysButton = document.getElementById('deleteSelectedApiKeysButton');
+    if (deleteSelectedApiKeysButton) {
+      deleteSelectedApiKeysButton.addEventListener('click', () => {
+        document.getElementById('confirmDeleteModal').classList.add('open');
+      });
+    }
+  }
+  
+  function setupConfirmDeleteButtons() {
+    const confirmDeleteButton = document.getElementById('confirmDeleteButton');
+    if (confirmDeleteButton) {
+      confirmDeleteButton.addEventListener('click', async () => {
+        document.getElementById('confirmDeleteModal').classList.remove('open');
+        await deleteSelectedApiKeys();
+      });
+    }
+  
+    const cancelDeleteButton = document.getElementById('cancelDeleteButton');
+    if (cancelDeleteButton) {
+      cancelDeleteButton.addEventListener('click', () => {
+        document.getElementById('confirmDeleteModal').classList.remove('open');
+      });
+    }
+  }
+  
+  function setupModalCloseButtons() {
+    const closeModalButton = document.getElementById('closeModal');
+    if (closeModalButton) {
+      closeModalButton.addEventListener('click', () => {
+        document.getElementById('apiKeyModal').classList.remove('open');
+      });
+    }
+  
+    const closeConfirmModalButton = document.getElementById('closeConfirmModal');
+    if (closeConfirmModalButton) {
+      closeConfirmModalButton.addEventListener('click', () => {
+        document.getElementById('confirmDeleteModal').classList.remove('open');
+      });
+    }
+  }
+  
+  async function deleteSelectedApiKeys() {
+    const selectedApiKeys = Array.from(document.querySelectorAll('#apiKeysList input[type="checkbox"]:checked'))
+      .map(checkbox => checkbox.closest('tr').querySelector('.api-key-value').getAttribute('data-key'));
+  
+    if (selectedApiKeys.length === 0) {
+      showModal('noApiKeyModal');
+      return;
+    }
+  
+    try {
+      const response = await fetch('https://analyzemydream-api-key.vercel.app/delete_api_keys', {
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ api_keys: selectedApiKeys }),
+      });
+  
+      if (response.ok) {
+        fetchApiKeys();
+      } else {
+        const result = await response.json();
+        if (result.error.includes('API key with this plan cannot be deleted')) {
+          showModal('NotAllowedDeletionModal');
+        } else {
+          console.error(result.error || 'An error occurred. Please try again.');
+        }
+      }
+    } catch (error) {
+      console.error('An error occurred. Please try again.', error);
+    }
+  }
+  
+  function copySelectedApiKeys() {
+    const selectedApiKeys = Array.from(document.querySelectorAll('#apiKeysList input[type="checkbox"]:checked'))
+      .map(checkbox => {
+        const apiKeyCell = checkbox.closest('tr').querySelector('.api-key-value');
+        return apiKeyCell.getAttribute('data-key');
+      });
+  
+    if (selectedApiKeys.length > 0) {
+      navigator.clipboard.writeText(selectedApiKeys.join('\n'))
+        .then(() => {
+          showModal('copySuccessModal');
+        })
+        .catch(err => {
+          console.error('Failed to copy: ', err);
+        });
+    } else {
+      showModal('noApiKeyModal');
+    }
+  }
+  
+  function showModal(modalId) {
+    const modal = document.getElementById(modalId);
+    if (modal) {
+      modal.classList.add('open');
+      setTimeout(() => {
+        modal.classList.remove('open');
+      }, 1400);
+    }
+  }
+</script>
+  
+  
+
+<style>
+  .chart {
+      background-color: #f7f7f7;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+  }
+
+  .chart-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+  }
+
+  .api-key {
+      font-weight: bold;
+      color: #2c3e50;
+  }
+
+  .renewal-date {
+      color: #7f8c8d;
+      font-size: 0.9em;
+  }
+
+  .progress-bar {
+      background-color: #ecf0f1;
+      border-radius: 4px;
+      height: 20px;
+      overflow: hidden;
+  }
+
+  .progress {
+      background-color: #3498db;
+      height: 100%;
+      transition: width 0.5s ease-in-out;
+  }
+
+  .usage-info {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 5px;
+      font-size: 0.9em;
+  }
+
+  .header {
+    @apply sticky top-0 z-20 w-full animate-fadeInShadowLight [animation-range:0%_20rem] [animation-timeline:scroll()];
+    @apply flex items-center justify-between px-12 py-5;
+  }
+
+  .header:before {
+    @apply block h-full w-full bg-white/90 lg:backdrop-blur-sm dark:bg-neutral-900/90;
+  }
+
+  .header__logo {
+    @apply flex items-center gap-2 whitespace-nowrap py-3 font-headings text-2xl font-black tracking-wider focus:outline-none;
+    position: relative;
+    top: -2px;
+    left: 2.5%;
+  }
+
+  #logo-text {
+    font-size: 17px;
+    color: #334156;
+    position: relative;
+  }
+
+  .header__nav {
+    @apply flex items-center;
+  }
+
+  .header__menu {
+    @apply flex gap-5 items-center;
+  }
+
+  .header___menu-item {
+    @apply relative flex cursor-pointer flex-col items-stretch;
+  }
+
+  .header__menu-link {
+    @apply relative flex items-center gap-1 py-1 transition-colors duration-300 hover:text-primary-500 focus:text-primary-600 focus:outline-none lg:px-6;
+  }
+
+  .main-content {
+    @apply px-8 py-6 max-w-lg mx-auto;
+  }
+
+  .title {
+    @apply text-3xl font-bold text-center mb-8;
+  }
+
+  #table-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.subscriptions-table-container {
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 0.3rem;
+  width: 90%;
+  margin: auto;
+}
+
+.api-keys-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.api-keys-table th, .api-keys-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+
+#apiKeysTable {
+  width: 100%;
+  border-collapse: collapse;
+  
+  font-family: 'Lato', sans-serif; 
+}
+
+#apiKeysList tr {
+  font-size: 13px;
+  text-align: center;
+  margin-top: 30px; 
+  
+}
+
+#apiKeysList td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+#apiKeysTable th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-weight: bold;
+}
+
+  .api-endpoint {
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 0.3rem;
+    width: 90%;
+    margin: auto;
+  }
+
+.api-management-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border: 1px solid #ccc;
+  flex-direction: row;
+  padding-right: 1rem;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin-animation {
+  animation: spin 1s linear 3;
+}
+
+
+.endpoint-title {
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  border-bottom: 2px solid #7BC7C7;
+  color: #94A3B8;
+}
+
+
+.api-keys-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.api-keys-table th,
+.api-keys-table td {
+  padding: 0.75rem;
+  text-align: center;
+  font-size: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.api-keys-table th {
+  background-color: transparent;
+}
+
+.inline-container-api-keys {
+    position: relative;
+    margin: 0 auto;
+    left: 50px;
+    font-size: 11px;
+  }
+  .inline-container-api-keys img {
+    width: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 15px;
+    cursor: pointer;
+  }
+
+.inline-container {
+  display: flex;
+    align-items: center;
+    font-size: 11px;
+    justify-content: center;
+  }
+  .inline-container img {
+    width: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 15px;
+    cursor: pointer;
+  }
+.half-space {
+    height: 0.5em;
+    display: block;
+    visibility: hidden; 
+  }
+
+.api-key-value {
+  font-family: monospace;
+}
+
+.toggle-visibility {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.request-api-key-button,
+.reload-api-keys-button {
+  background-color: #7BC7C7;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-right: 1rem;
+  font-size: 1rem;
+}
+
+  .email-section {
+    text-align: center;
+    padding: 20px;
+    display: none;
+  }
+
+  .request-api-key-button {
+    background-color: #7BC7C7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    margin-right: 1rem;
+    font-size: 1rem;
+  }
+
+  .modal__confirm-button {
+    background-color: #7BC7C7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    margin-right: 1rem;
+    font-size: 1rem;
+  }
+
+  .modal__cancel-button {
+    background-color: #7BC7C7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    margin-right: 1rem;
+    font-size: 1rem;
+  }
+
+  .reload-api-keys-button {
+    background-color: #7BC7C7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  /* Modal Styles */
+  .modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 30;
+    display: flex;
+    height: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(8px);
+    transition: height 0.3s ease;
+  }
+
+  .modal.open {
+    height: 100%;
+  }
+
+  .modal__popup {
+    margin: 1.5rem;
+    width: 80%;
+    max-width: 500px;
+    transform: translateY(1.5rem);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    border: 1px solid #e1e1e1;
+    background-color: #fff;
+    color: #6b6b6b;
+    opacity: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  .modal.open .modal__popup {
+    transform: translateY(0);
+    opacity: 1;
+  }
+
+  .modal__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    border-bottom: 1px solid #e1e1e1;
+    background-color: #f9f9f9;
+    font-size: 1.125rem;
+    font-weight: 500;
+  }
+
+  .modal__close {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #6b6b6b;
+  }
+
+  .modal___title {
+    margin: 0 auto;
+    position: relative;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .modal__body {
+    padding: 1.5rem;
+  }
+
+  .input-field {
+    width: 100%;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+  }
+
+</style>

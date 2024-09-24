@@ -46,7 +46,7 @@ const { title, description, ogImage, noindex } = Astro.props
      <link rel="apple-touch-icon" sizes="144x144" href="/favicon-144-precomposed.png" />
      <link rel="apple-touch-icon" sizes="152x152" href="/favicon-152-precomposed.png" />
      <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180-precomposed.png" />
-     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.webp" />
 	<Header title={title} description={description} ogImage={ogImage} noindex={noindex} />
 	<body
 		class:list={[
@@ -54,9 +54,6 @@ const { title, description, ogImage, noindex } = Astro.props
 			{ ['scroll-animation']: configData.scrollAnimations }
 		]}
 	>
-		<!-- AMP Auto Ads Code -->
-		<amp-auto-ads type="adsense" data-ad-client="ca-pub-7042432268247226"></amp-auto-ads>
-
 		<GoogleTagManagerBody />
 		<NavigationBar />
 		<Main>

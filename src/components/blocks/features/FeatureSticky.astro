@@ -29,7 +29,6 @@ const { title, text, data, classes } = Astro.props
 
 	<Row>
 		{
-			// Map through the filtered features and render them
 			data.map((feature: FeatureData) => (
 				<Col span="4">
 					<Feature title={feature.title} icon={feature.icon} align="left" classes="mb-12">
