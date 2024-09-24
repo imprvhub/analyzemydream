@@ -5,10 +5,8 @@ import Layout from '../layouts/Layout.astro'
 // - UI
 import Hero from '../components/blocks/hero/PageHeader.astro'
 import Price from '../components/blocks/pricing/PricingColumns.astro'
-import SocialProof from '../components/blocks/socialproof/Basic.astro'
+import Button from '../components/ui/Button.astro';
 import FAQ from '../components/blocks/FAQ/Basic.astro'
-import Testimonial from '../components/blocks/testimonials/BasicDark.astro'
-import Feature from '../components/blocks/features/FeatureList.astro'
 import CTA from '../components/blocks/CTA/BasicDark.astro'
 
 // Content
@@ -37,6 +35,27 @@ const testimonialData = {
 <Layout title={SEO.title} description={SEO.description}>
 	<Hero title={header.title} text={header.text} />
 	<Price />
+	<div class="trial-container">
+		Aproveite uma <strong>teste gratuito de 7 dias</strong> do Plano Mensal Básico e explore todas as suas funcionalidades sem compromisso. Você pode cancelar sua assinatura a qualquer momento, mesmo após o período de teste.
+		<br><br>
+	</div>
+	<div style="text-align:center;">
+		<Button size="lg" link="https://checkout.analyzemydream.com/trial">Começar teste gratuito de 7 dias</Button>
+	</div>
+	
+	<br><br>
+	<br><br>
+
 	<FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
 	<CTA />
 </Layout>
+<style>
+	.trial-container {
+		padding-right: 1.5rem;
+		padding-left: 1.5rem;
+		text-align: center;
+		margin: 0 auto;
+		position: relative;
+		font-weight: 600;
+	}
+</style>
