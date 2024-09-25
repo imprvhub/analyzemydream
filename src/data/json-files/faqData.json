@@ -1,73 +1,55 @@
 [
     {
-        "question": "O que é a ferramenta Fast-AI Dream Analyzer no AnalyzeMyDream.com?",
-        "reply": "Nosso Fast-AI Dream Analyzer usa o modelo Gemini-1.5-Flash para fornecer interpretações adicionais de sonhos quando as análises específicas que você procura não estão em nosso glossário. A ferramenta visa complementar o conteúdo existente com insights gerados por IA, mas os resultados podem não ser sempre precisos ou consistentes. É importante não depender exclusivamente desta ferramenta para o entendimento pessoal.",
-        "category": "dream-analysis",
-        "open": true
-    },
-    {
-        "question": "O que faz o Advanced AI-Dream Analyzer?",
-        "reply": "O Advanced AI-Dream Analyzer oferece uma análise mais profunda e detalhada dos seus sonhos usando a tecnologia de IA mais avançada. Ele fornece insights baseados em um modelo sofisticado, oferecendo uma compreensão mais abrangente e detalhada dos seus sonhos. Ao contrário da ferramenta básica, esta opção pode oferecer insights adicionais e mais específicos.",
-        "category": "dream-analysis",
-        "open": false
-    },
-    {
-        "question": "Como o modelo Gemini-1.5-Flash funciona na análise de sonhos?",
-        "reply": "O modelo Gemini-1.5-Flash é uma IA que gera interpretações de sonhos com base em dados e padrões preexistentes. Embora este modelo possa fornecer insights valiosos, a precisão das interpretações pode variar, e não garantimos que sejam sempre precisas. A ferramenta é destinada a aprimorar sua compreensão geral, mas você deve considerar múltiplas fontes e abordagens para interpretar seus sonhos.",
-        "category": "dream-analysis",
-        "open": false
-    },
-    {
-        "question": "Qual idade eu devo ter para usar a ferramenta de análise de sonhos?",
-        "reply": "Você deve ter pelo menos 18 anos para usar nossa ferramenta de análise de sonhos. Esta restrição existe para garantir que os usuários possam processar e interpretar as informações geradas pela IA de forma responsável.",
-        "category": "dream-analysis",
-        "open": false
-    },
-    {
         "question": "Como vocês garantem a precisão dos resultados gerados pela IA?",
-        "reply": "Embora nosso modelo de IA seja avançado, não podemos garantir a precisão absoluta dos resultados. A ferramenta é projetada para fornecer perspectivas adicionais, mas as interpretações devem ser consideradas como orientação geral e não como respostas definitivas.",
+        "reply": "Embora nosso modelo de IA seja avançado, não podemos garantir precisão absoluta dos resultados. A ferramenta é projetada para fornecer perspectivas adicionais, mas as interpretações devem ser consideradas como orientações gerais, e não como respostas definitivas.",
+        "category": "dream-analysis",
+        "open": false
+    },
+    {
+        "question": "Como funciona o modelo Gemini-1.5-Flash na análise de sonhos?",
+        "reply": "O modelo Gemini-1.5-Flash é uma IA que gera interpretações de sonhos com base em dados e padrões preexistentes. Embora esse modelo possa oferecer insights valiosos, a precisão das interpretações pode variar, e não garantimos que elas sejam sempre precisas. A ferramenta destina-se a aprimorar sua compreensão geral, mas é recomendável considerar várias fontes e abordagens ao interpretar seus sonhos.",
         "category": "dream-analysis",
         "open": false
     },
     {
         "question": "O que devo fazer se encontrar problemas com a ferramenta de IA ou não estiver satisfeito?",
-        "reply": "Se você não estiver satisfeito com a ferramenta ou encontrar qualquer problema, você pode entrar em contato com nossa equipe de suporte para assistência. Nós forneceremos uma solução imediata para suas dúvidas.",
+        "reply": "Se você não estiver satisfeito com a ferramenta ou encontrar algum problema, entre em contato com nossa equipe de suporte para obter assistência. Nós forneceremos uma solução imediata para suas dúvidas.",
         "category": "dream-analysis",
         "open": false
     },
     {
-        "question": "Quais são as principais fontes bibliográficas usadas para os artigos no AnalyzeMyDream.com?",
-        "reply": "Nossos artigos são baseados em uma ampla gama de livros e estudos sobre interpretação de sonhos. Algumas das fontes mais revisadas incluem:\n\n- Freud, S. (2013). A Interpretação dos Sonhos. Ediciones Akal.\n- Clarke, M. (2015). O Grande Dicionário dos Sonhos. Skyhorse Publishing.\n- Cheung, T. (2019). O Dicionário dos Sonhos de A a Z. Thorsons.\n- Jung, C. G., Jaffé, A., & Borrás, M. R. (1989). Memórias, Sonhos, Reflexões. Seix Barral.\n- Pérsico, L. (2013). 5.005 Sonhos: Interpretação e Significado. LIBSA.\n\nEstes textos formam a base das nossas interpretações e são complementados por insights de estudos contemporâneos e tradicionais.",
+        "question": "Quais são as principais fontes bibliográficas usadas nos artigos do AnalyzeMyDream.com?",
+        "reply": "Nossos artigos são baseados em uma ampla gama de livros e estudos sobre interpretação de sonhos. Algumas das fontes mais consultadas incluem:\n\n- Freud, S. (2013). A Interpretação dos Sonhos. Ediciones Akal.\n- Clarke, M. (2015). O Grande Dicionário dos Sonhos. Skyhorse Publishing.\n- Cheung, T. (2019). O Dicionário dos Sonhos de A a Z. Thorsons.\n- Jung, C. G., Jaffé, A., & Borrás, M. R. (1989). Memórias, Sonhos, Reflexões. Seix Barral.\n- Pérsico, L. (2013). 5,005 Sonhos: Interpretação e Significado. LIBSA.\n\nEsses textos formam a base de nossas interpretações, complementados por estudos contemporâneos e tradicionais.",
         "category": "references",
         "open": false
     },
     {
         "question": "Onde posso encontrar mais informações sobre os livros usados nos artigos?",
-        "reply": "Para mais detalhes sobre as fontes e referências, você pode revisar a bibliografia citada em nossos artigos. Estamos comprometidos em fornecer informações respaldadas pela literatura acadêmica e textos reconhecidos no campo da interpretação de sonhos.",
+        "reply": "Para obter mais detalhes sobre as fontes e referências, você pode revisar a bibliografia citada em nossos artigos. Estamos comprometidos em fornecer informações respaldadas por literatura acadêmica e textos reconhecidos no campo da interpretação de sonhos.",
         "category": "references",
         "open": false
     },
     {
         "question": "Os artigos sobre sonhos são atualizados com novas fontes?",
-        "reply": "Sim, nossos artigos são regularmente atualizados para incluir novas pesquisas e textos relevantes. Mantemos uma lista atualizada de referências para garantir que as informações que fornecemos sejam precisas e atuais.",
+        "reply": "Sim, nossos artigos são atualizados regularmente para incluir novas pesquisas e textos relevantes. Mantemos uma lista de referências atualizada para garantir que as informações fornecidas sejam precisas e atuais.",
         "category": "references",
         "open": false
     },
     {
         "question": "Quais funcionalidades a API do AnalyzeMyDream oferece?",
-        "reply": "A API do AnalyzeMyDream oferece diversas funcionalidades, incluindo análise de sonhos com IA avançada e acesso a conteúdo acadêmico sobre interpretação de sonhos. Você pode usar a API para enviar sonhos e receber interpretações usando modelos de IA sofisticados, além de acessar artigos e análises com base em literatura acadêmica. Isso permite integrar tanto insights gerados por IA quanto conteúdo baseado em pesquisa em suas aplicações.",
+        "reply": "A API do AnalyzeMyDream oferece uma variedade de funcionalidades, incluindo análise de sonhos avançada baseada em IA e acesso a conteúdo acadêmico relacionado à interpretação de sonhos. Você pode usar a API para enviar sonhos para interpretação utilizando modelos sofisticados de IA, bem como recuperar artigos e análises baseadas em literatura acadêmica. Isso permite que você integre tanto os insights gerados por IA quanto o conteúdo respaldado por pesquisas em suas aplicações.",
         "category": "api",
         "open": false
     },
     {
         "question": "Como posso obter uma chave de API para usar o AnalyzeMyDream?",
-        "reply": "Para obter sua chave de API, acesse a seção 'API' na barra de navegação superior. Lá, você encontrará as instruções para criar e gerenciar sua chave de API.",
+        "reply": "Para obter sua chave de API, faça login na sua conta e navegue até o painel de controle. Se você tiver um plano de assinatura ativo que ofereça acesso à API, uma chave de API será gerada automaticamente para você.",
         "category": "api",
         "open": false
     },
     {
-        "question": "Quais são os limites de uso da API do AnalyzeMyDream?",
-        "reply": "No momento, a API do AnalyzeMyDream está em fase beta e é gratuita. No entanto, planejamos introduzir limites de uso e planos de preços em breve. Por enquanto, você pode usar a API sem restrições, mas esteja ciente de que as políticas de uso podem mudar à medida que avançamos para um lançamento completo.",
+        "question": "Quais são os limites de uso para a API do AnalyzeMyDream?",
+        "reply": "A API do AnalyzeMyDream oferece três planos de assinatura: Básico, Standard e Premium. O plano Básico inclui 150 solicitações, o plano Standard oferece 5.000 solicitações e o plano Premium fornece 20.000 solicitações. Cada plano está disponível nas opções mensal e anual. Você pode economizar até 58% optando pelo plano anual em vez do mensal. Além disso, o plano mensal Básico inclui um teste gratuito de 7 dias ao selecionar o 'Modo de teste'.",
         "category": "api",
         "open": false
     }
