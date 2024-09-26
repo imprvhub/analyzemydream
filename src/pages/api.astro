@@ -904,6 +904,17 @@ const header = {
       </div>
   </article>
     <br>
+      <div class="main-button-container">
+        <div class="button-container-docs">
+            <button class="main-button-docs">Veja a documentação completa</button>
+            <div class="sub-buttons-docs">
+                <a href="https://analyzemydream-api.vercel.app/redoc" target="_blank" class="sub-button">ReDoc</a>
+                <a href="https://analyzemydream-api.vercel.app/docs" target="_blank" class="sub-button">Swagger</a>
+            </div>
+        </div>
+    </div>
+    <br>
+  
     </main>
     <br>
     <br>
@@ -5286,6 +5297,21 @@ task.resume()
             }
         });
 
+        const buttonContainerDocs = document.querySelector('.button-container-docs');
+        const mainButtonDocs = document.querySelector('.main-button-docs');
+        const subButtonsDocs = document.querySelector('.sub-buttons-docs');
+
+        mainButtonDocs.addEventListener('click', (e) => {
+            e.stopPropagation();
+            buttonContainerDocs.classList.toggle('open');
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!buttonContainerDocs.contains(e.target)) {
+                buttonContainerDocs.classList.remove('open');
+            }
+        });
+
         function handleResize() {
             if (window.innerWidth <= 768) {
                 buttonContainer.classList.add('open');
@@ -5293,8 +5319,18 @@ task.resume()
                 buttonContainer.classList.remove('open');
             }
         }
+
+        function handleResizeDocs() {
+            if (window.innerWidth <= 768) {
+                buttonContainerDocs.classList.add('open');
+            } else {
+                buttonContainerDocs.classList.remove('open');
+            }
+        }
         window.addEventListener('load', handleResize);
         window.addEventListener('resize', handleResize);
+        window.addEventListener('load', handleResizeDocs);
+        window.addEventListener('resize', handleResizeDocs);
 </script>
 
 <style>
@@ -5342,7 +5378,14 @@ task.resume()
             overflow: hidden;
             transition: all 0.3s ease;
         }
-        .main-button, .sub-button {
+        .button-container-docs {
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .main-button, .main-button-docs, .sub-button {
             background-color: #7BC7C7;
             border: none;
             color: white;
@@ -5357,16 +5400,21 @@ task.resume()
             border-radius: 5px;
             white-space: nowrap;
         }
-        .main-button:hover, .sub-button:hover {
+        .main-button:hover, .main-button-docs:hover, .sub-button:hover {
             background-color: #6AB6B6;
         }
-        .sub-buttons {
+        .sub-buttons, .sub-buttons-docs {
             display: flex;
             max-width: 0;
             overflow: hidden;
             transition: max-width 0.3s ease;
         }
+        
         .button-container.open .sub-buttons {
+            max-width: 600px;
+        }
+
+        .button-container-docs.open .sub-buttons-docs {
             max-width: 600px;
         }
 
@@ -5374,7 +5422,16 @@ task.resume()
             .main-button {
                 display: none;
             }
+
+            .main-button-docs {
+                display: none;
+            }
             .sub-buttons {
+                max-width: none;
+                flex-direction: column;
+            }
+
+            .sub-buttons-docs {
                 max-width: none;
                 flex-direction: column;
             }
