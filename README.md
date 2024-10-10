@@ -3,6 +3,10 @@
 > [!NOTE]  
 > The release of **AnalyzeMyDream v1.3.0** is now **available**! Release Date: **23.09.2024**. This release introduces significant enhancements including new subscription plans, advanced dream analyzers, improved payment management through PayPal, and a restructured user interface for a better experience. For further details, please refer to the [v1.3.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.3.0).
 
+### Preview
+
+![Preview](public/preview.png "Preview")
+
 ### Table of Contents
 
 - [Project Overview](#project-overview)
