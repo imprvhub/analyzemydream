@@ -71,6 +71,15 @@ import heroImage from '../../../assets/hero-01.png'
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
 </script>
 <script type="module">
+    const style = document.createElement('style');
+    style.textContent = `
+        .button-inactive {
+            background-color: gray !important;
+            cursor: not-allowed !important;
+        }
+    `;
+    document.head.appendChild(style);
+
     document.getElementById('dreamForm').addEventListener('submit', async (event) => {
         event.preventDefault();
 
@@ -86,7 +95,7 @@ import heroImage from '../../../assets/hero-01.png'
         }
 
         buttonText.textContent = 'Analyzing...';
-        analyzeButton.disabled = true;
+        setButtonState(analyzeButton, true);
 
         try {
             const response = await fetch('https://amd-api-anon-limited.vercel.app/analyzer', {
@@ -104,27 +113,39 @@ import heroImage from '../../../assets/hero-01.png'
                 const result = await response.json();
                 analysisResult.textContent = result.analysis;
                 buttonText.textContent = 'Try Again';
+                setButtonState(analyzeButton, false);
             } else if (response.status === 429) {
                 analysisResult.textContent = 'You have reached the limit of 5 dream analyses per day. Please try again tomorrow.';
                 buttonText.textContent = 'Limit Reached';
-                analyzeButton.disabled = true;
+                setButtonState(analyzeButton, true);
             } else if (response.status === 503) {
                 analysisResult.textContent = 'Too many dreamers! Please wait a moment and try again.';
                 buttonText.textContent = 'Analyze Your Dream';
+                setButtonState(analyzeButton, false);
             } else {
                 const errorData = await response.json();
                 analysisResult.textContent = errorData.detail || 'An unexpected error occurred. Please try again.';
                 buttonText.textContent = 'Analyze Your Dream';
+                setButtonState(analyzeButton, false);
             }
         } catch (error) {
             console.error('Error:', error);
             analysisResult.textContent = 'We\'re having trouble connecting to our dream analysis service. Please check your internet connection and try again.';
             buttonText.textContent = 'Analyze Your Dream';
+            setButtonState(analyzeButton, false);
         } finally {
-            analyzeButton.disabled = false;
             comprehensiveAnalysisLabel.classList.remove('hidden'); 
         }
     });
+
+    function setButtonState(button, isInactive) {
+        button.disabled = isInactive;
+        if (isInactive) {
+            button.classList.add('button-inactive');
+        } else {
+            button.classList.remove('button-inactive');
+        }
+    }
 
     function handleClearInput() {
         dreamDescription.value = '';
@@ -133,6 +154,7 @@ import heroImage from '../../../assets/hero-01.png'
         comprehensiveAnalysisLabel.classList.add('hidden'); 
         analyzeButton.removeEventListener('click', handleClearInput);
         analyzeButton.addEventListener('click', handleFormSubmit);
+        setButtonState(analyzeButton, false);
     }
 
     function handleFormSubmit() {
