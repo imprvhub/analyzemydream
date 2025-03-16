@@ -79,6 +79,6 @@ export const footerNavigationData: FooterData = {
 		},
 	],
 	subFooter: {
-		copywriteText: '© AnalyzeMyDream 2024.'
+		copywriteText: '© AnalyzeMyDream. Todos os direitos reservados.'
 	}
 }
